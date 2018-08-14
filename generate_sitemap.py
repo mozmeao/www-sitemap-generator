@@ -1,39 +1,46 @@
 #!/usr/bin/env python
 
-# import asyncio
 import json
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
-# from aiohttp import ClientSession
 
 
 CANONICAL_DOMAIN = 'https://www.mozilla.org'
 SITEMAP_JSON_URL = CANONICAL_DOMAIN + '/sitemap.json'
-OUTPUT_FILE = Path('./etags.json')
+SITEMAP_FILE = Path('./sitemap.json')
+ETAGS_FILE = Path('./etags.json')
 REQUEST_HEADERS = {
     'user-agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10.13 rv: 62.0) Gecko/20100101 Firefox/62.0'
 }
 
 
 def load_current_etags():
-    with OUTPUT_FILE.open() as fh:
+    with ETAGS_FILE.open() as fh:
         etags = json.load(fh)
 
     return etags
 
 
 def write_new_etags(etags):
-    with OUTPUT_FILE.open('w') as fh:
+    with ETAGS_FILE.open('w') as fh:
         json.dump(etags, fh, sort_keys=True, indent=2)
+
+
+def write_sitemap_json(sitemap):
+    with SITEMAP_FILE.open('w') as fh:
+        json.dump(sitemap, fh, sort_keys=True, indent=2)
 
 
 def get_sitemap_data():
     resp = requests.get(SITEMAP_JSON_URL)
     resp.raise_for_status()
-    return resp.json()
+    sitemap = resp.json()
+    # write that data to the local repo
+    write_sitemap_json(sitemap)
+    return sitemap
 
 
 def generate_all_urls(data):
@@ -81,7 +88,11 @@ def get_etags(urls):
 
 def main():
     try:
-        urls = generate_all_urls(get_sitemap_data())
+        # get JSON sitemap from the site
+        sitemap = get_sitemap_data()
+        # mash-up the JSON data into a full list of URLs
+        urls = generate_all_urls(sitemap)
+        # get the updated etags (or None if nothing updated) and error URLs
         etags, errors = get_etags(urls)
     except Exception as e:
         return str(e)
