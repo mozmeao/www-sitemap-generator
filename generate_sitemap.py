@@ -18,14 +18,14 @@ REQUEST_HEADERS = {
 }
 
 
-def get_current_etags():
+def load_current_etags():
     with OUTPUT_FILE.open() as fh:
         etags = json.load(fh)
 
     return etags
 
 
-def write_new_etags():
+def write_new_etags(etags):
     with OUTPUT_FILE.open('w') as fh:
         json.dump(etags, fh, sort_keys=True, indent=2)
 
@@ -49,43 +49,49 @@ def generate_all_urls(data):
 
 
 def get_etags(urls):
-    current_etags = get_current_etags()
-    etags = {}
+    etags = load_current_etags()
+    errors = []
+    updated = False
     for url in urls:
         headers = REQUEST_HEADERS.copy()
-        curr_etag = current_etags.get(url)
+        curr_etag = etags.get(url)
         if curr_etag:
             headers['if-none-match'] = curr_etag['etag']
         resp = requests.head(url, headers=headers)
         etag = resp.headers.get('etag')
         if etag and resp.status_code == 200:
+            updated = True
             etags[url] = {
                 'etag': resp.headers['etag'],
                 'date': datetime.now(timezone.utc).isoformat(),
             }
             print('.', end='', flush=True, file=sys.stderr)
         else:
-            if curr_etag:
-                etags[url] = curr_etag
-
             if resp.status_code == 304:
                 print('-', end='', flush=True, file=sys.stderr)
             else:
-                # print(url, resp.headers, file=sys.stderr)
+                errors.append(url)
                 print('x', end='', flush=True, file=sys.stderr)
 
-    if etags == current_etags:
-        return None
+    if not updated:
+        etags = None
 
-    return etags
+    return etags, errors
 
 
 def main():
-    urls = generate_all_urls(get_sitemap_data())
-    etags = get_etags(urls)
+    try:
+        urls = generate_all_urls(get_sitemap_data())
+        etags, errors = get_etags(urls)
+    except Exception as e:
+        return str(e)
+
     if etags:
         write_new_etags(etags)
 
+    if errors:
+        return 'The following urls returned errors:\n' + '\n'.join(errors)
+
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())
