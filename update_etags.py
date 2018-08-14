@@ -3,25 +3,21 @@
 import json
 import sys
 from datetime import datetime, timezone
-from pathlib import Path
 
 import requests
 
+from sitemap_utils import (
+    CANONICAL_DOMAIN,
+    SITEMAP_FILE,
+    ETAGS_FILE,
+    load_current_etags,
+)
 
-CANONICAL_DOMAIN = 'https://www.mozilla.org'
+
 SITEMAP_JSON_URL = CANONICAL_DOMAIN + '/sitemap.json'
-SITEMAP_FILE = Path('./sitemap.json')
-ETAGS_FILE = Path('./etags.json')
 REQUEST_HEADERS = {
     'user-agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10.13 rv: 62.0) Gecko/20100101 Firefox/62.0'
 }
-
-
-def load_current_etags():
-    with ETAGS_FILE.open() as fh:
-        etags = json.load(fh)
-
-    return etags
 
 
 def write_new_etags(etags):
