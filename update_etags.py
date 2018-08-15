@@ -86,8 +86,7 @@ def main():
         sitemap = get_sitemap_data()
         # mash-up the JSON data into a full list of URLs
         urls = generate_all_urls(sitemap)
-        # get the updated etags (or None if nothing updated) and error URLs
-        # etags, errors = get_etags(urls)
+        # populate UPDATED_ETAGS and ERRORS
         pool = ThreadPool(4)
         pool.map(update_url_etag, urls)
         pool.close()

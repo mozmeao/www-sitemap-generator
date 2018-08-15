@@ -1,9 +1,15 @@
 #!/bin/bash
 
-set -exo pipefail
+set -x
 
-IMAGE_NAME="mozmeao/generate-sitemap:latest"
+docker-compose pull bedrock
+docker-compose build --pull generator
+docker-compose run generator
 
-docker build -t "$IMAGE_NAME" --pull .
-docker run --rm -v "$PWD:/app" "$IMAGE_NAME" python update_etags.py
-docker run --rm -v "$PWD:/app" "$IMAGE_NAME" python generate_sitemaps.py
+# store return code from this command so we can use it after we clean up
+RETCODE="$?"
+
+docker-compose kill
+docker-compose rm -sf
+
+exit $RETCODE
