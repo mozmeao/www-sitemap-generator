@@ -63,15 +63,19 @@ def get_etags(urls):
         resp = requests.head(url, headers=headers)
         etag = resp.headers.get('etag')
         if etag and resp.status_code == 200:
-            updated = True
-            etags[url] = {
-                'etag': resp.headers['etag'],
-                'date': datetime.now(timezone.utc).isoformat(),
-            }
-            print('.', end='', flush=True, file=sys.stderr)
+            # sometimes the server responds with a 200 and the same etag
+            if curr_etag and etag == curr_etag['etag']:
+                print('.', end='', flush=True, file=sys.stderr)
+            else:
+                etags[url] = {
+                    'etag': etag,
+                    'date': datetime.now(timezone.utc).isoformat(),
+                }
+                updated = True
+                print('*', end='', flush=True, file=sys.stderr)
         else:
             if resp.status_code == 304:
-                print('-', end='', flush=True, file=sys.stderr)
+                print('.', end='', flush=True, file=sys.stderr)
             else:
                 errors.append(url)
                 print('x', end='', flush=True, file=sys.stderr)
