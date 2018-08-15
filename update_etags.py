@@ -16,9 +16,6 @@ from sitemap_utils import (
 
 LOCAL_SERVER = 'http://bedrock:8000'
 SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
-REQUEST_HEADERS = {
-    'user-agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10.13 rv: 62.0) Gecko/20100101 Firefox/62.0'
-}
 
 
 def write_new_etags(etags):
@@ -63,7 +60,7 @@ def get_etags(urls):
             print('')
         canonical_url = CANONICAL_DOMAIN + url
         local_url = LOCAL_SERVER + url
-        headers = REQUEST_HEADERS.copy()
+        headers = {}
         curr_etag = etags.get(canonical_url)
         if curr_etag:
             headers['if-none-match'] = curr_etag['etag']
