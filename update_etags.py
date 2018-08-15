@@ -3,6 +3,7 @@
 import json
 import sys
 from datetime import datetime, timezone
+from multiprocessing.dummy import Pool as ThreadPool
 
 import requests
 
@@ -16,6 +17,9 @@ from sitemap_utils import (
 
 LOCAL_SERVER = 'http://bedrock:8000'
 SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
+CURRENT_ETAGS = load_current_etags()
+UPDATED_ETAGS = {}
+ERRORS = []
 
 
 def write_new_etags(etags):
@@ -49,45 +53,31 @@ def generate_all_urls(data):
     return all_urls
 
 
-def get_etags(urls):
-    etags = load_current_etags()
-    errors = []
-    updated = False
-    count = 0
-    for url in urls:
-        count += 1
-        if not count % 100:
-            print('')
-        canonical_url = CANONICAL_DOMAIN + url
-        local_url = LOCAL_SERVER + url
-        headers = {}
-        curr_etag = etags.get(canonical_url)
-        if curr_etag:
-            headers['if-none-match'] = curr_etag['etag']
-        resp = requests.head(local_url, headers=headers)
-        etag = resp.headers.get('etag')
-        if etag and resp.status_code == 200:
-            # sometimes the server responds with a 200 and the same etag
-            if curr_etag and etag == curr_etag['etag']:
-                print('.', end='', flush=True)
-            else:
-                etags[canonical_url] = {
-                    'etag': etag,
-                    'date': datetime.now(timezone.utc).isoformat(),
-                }
-                updated = True
-                print('*', end='', flush=True)
+def update_url_etag(url):
+    canonical_url = CANONICAL_DOMAIN + url
+    local_url = LOCAL_SERVER + url
+    headers = {}
+    curr_etag = CURRENT_ETAGS.get(canonical_url)
+    if curr_etag:
+        headers['if-none-match'] = curr_etag['etag']
+    resp = requests.head(local_url, headers=headers)
+    etag = resp.headers.get('etag')
+    if etag and resp.status_code == 200:
+        # sometimes the server responds with a 200 and the same etag
+        if curr_etag and etag == curr_etag['etag']:
+            print('.', end='', flush=True)
         else:
-            if resp.status_code == 304:
-                print('.', end='', flush=True)
-            else:
-                errors.append(url)
-                print('x', end='', flush=True)
-
-    if not updated:
-        etags = None
-
-    return etags, errors
+            UPDATED_ETAGS[canonical_url] = {
+                'etag': etag,
+                'date': datetime.now(timezone.utc).isoformat(),
+            }
+            print('*', end='', flush=True)
+    else:
+        if resp.status_code == 304:
+            print('.', end='', flush=True)
+        else:
+            ERRORS.append(url)
+            print('x', end='', flush=True)
 
 
 def main():
@@ -97,16 +87,22 @@ def main():
         # mash-up the JSON data into a full list of URLs
         urls = generate_all_urls(sitemap)
         # get the updated etags (or None if nothing updated) and error URLs
-        etags, errors = get_etags(urls)
+        # etags, errors = get_etags(urls)
+        pool = ThreadPool(4)
+        pool.map(update_url_etag, urls)
+        pool.close()
+        pool.join()
     except Exception as e:
         return str(e)
 
-    if etags:
+    if UPDATED_ETAGS:
+        etags = CURRENT_ETAGS.copy()
+        etags.update(UPDATED_ETAGS)
         write_new_etags(etags)
         print('\nWrote new etags.json file containing {} URLs'.format(len(etags)))
 
-    if errors:
-        return '\nThe following urls returned errors:\n' + '\n'.join(errors)
+    if ERRORS:
+        return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)
 
 
 if __name__ == '__main__':
