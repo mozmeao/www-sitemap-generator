@@ -4,7 +4,7 @@ set -x
 
 docker-compose pull bedrock
 docker-compose build --pull generator
-docker-compose run --rm generator
+docker-compose run --rm -u "$(id -u)" generator
 
 # store return code from this command so we can use it after we clean up
 RETCODE="$?"
