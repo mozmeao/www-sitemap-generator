@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from multiprocessing.dummy import Pool as ThreadPool
@@ -23,10 +24,16 @@ UPDATED_ETAGS = {}
 ERRORS = []
 # urls to skip etag check
 IGNORE = [
-    '/press/speakerrequest/',
-    '/press/press-inquiry/',
-    '/about/legal/fraud-report/',
+    '/press/speakerrequest/$',
+    '/press/press-inquiry/$',
+    '/about/legal/fraud-report/$',
+    '/contribute/'
 ]
+IGNORE = [re.compile(s) for s in IGNORE]
+
+
+def ignore_url(url):
+    return any(i.search(url) for i in IGNORE)
 
 
 def write_new_etags(etags):
@@ -66,12 +73,12 @@ def update_url_etag(url):
     headers = {}
     curr_etag = CURRENT_ETAGS.get(canonical_url)
     # skip some URLs that we don't want to have lastmod dates
-    if any(url.endswith(i) for i in IGNORE):
+    if ignore_url(url):
         # remove the etag and date if one already exists
         if curr_etag:
             UPDATED_ETAGS[canonical_url] = {}
 
-        print('.', end='', flush=True)
+        print('i', end='', flush=True)
         return
 
     if curr_etag:
@@ -81,7 +88,7 @@ def update_url_etag(url):
         resp = SESSION.head(local_url, headers=headers)
     except requests.RequestException:
         ERRORS.append(url)
-        print('x', end='', flush=True)
+        print('X', end='', flush=True)
         return
 
     etag = resp.headers.get('etag')
@@ -100,7 +107,7 @@ def update_url_etag(url):
             print('.', end='', flush=True)
         else:
             ERRORS.append(url)
-            print('x', end='', flush=True)
+            print(resp.status_code, end='', flush=True)
 
 
 def main():
