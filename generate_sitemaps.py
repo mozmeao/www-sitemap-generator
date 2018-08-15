@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 
 import sys
-from pathlib import Path
 from operator import itemgetter
+from pathlib import Path
+from shutil import rmtree
 
 from jinja2 import Environment, FileSystemLoader
 
@@ -58,12 +59,18 @@ def get_urls_by_locale(sitemap, etags):
     return urls_by_locale
 
 
+def clean_sitemaps_dir():
+    rmtree(str(SITEMAPS_PATH))
+    SITEMAPS_PATH.mkdir()
+
+
 def main():
     etags = load_current_etags()
     sitemap = load_current_sitemap()
     urls_by_locale = get_urls_by_locale(sitemap, etags)
-    print(urls_by_locale)
+    clean_sitemaps_dir()
     write_sitemaps(urls_by_locale)
+    print('\nDone writing sitemap.xml files')
 
 
 if __name__ == '__main__':

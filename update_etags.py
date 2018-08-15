@@ -99,9 +99,10 @@ def main():
 
     if etags:
         write_new_etags(etags)
+        print('\nWrote new etags.json file containing {} URLs'.format(len(etags)))
 
     if errors:
-        return 'The following urls returned errors:\n' + '\n'.join(errors)
+        return '\nThe following urls returned errors:\n' + '\n'.join(errors)
 
 
 if __name__ == '__main__':
