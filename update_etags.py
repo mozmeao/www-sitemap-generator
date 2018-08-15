@@ -14,7 +14,8 @@ from sitemap_utils import (
 )
 
 
-SITEMAP_JSON_URL = CANONICAL_DOMAIN + '/sitemap.json'
+LOCAL_SERVER = 'http://bedrock:8000'
+SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
 REQUEST_HEADERS = {
     'user-agent': 'Mozilla/5.0 (Macintosh Intel Mac OS X 10.13 rv: 62.0) Gecko/20100101 Firefox/62.0'
 }
@@ -44,9 +45,9 @@ def generate_all_urls(data):
     for url, locales in data.items():
         if locales:
             for locale in locales:
-                all_urls.append('{}/{}{}'.format(CANONICAL_DOMAIN, locale, url))
+                all_urls.append('/{}{}'.format(locale, url))
         else:
-            all_urls.append('{}{}'.format(CANONICAL_DOMAIN, url))
+            all_urls.append(url)
 
     return all_urls
 
@@ -55,30 +56,36 @@ def get_etags(urls):
     etags = load_current_etags()
     errors = []
     updated = False
+    count = 0
     for url in urls:
+        count += 1
+        if not count % 100:
+            print('')
+        canonical_url = CANONICAL_DOMAIN + url
+        local_url = LOCAL_SERVER + url
         headers = REQUEST_HEADERS.copy()
-        curr_etag = etags.get(url)
+        curr_etag = etags.get(canonical_url)
         if curr_etag:
             headers['if-none-match'] = curr_etag['etag']
-        resp = requests.head(url, headers=headers)
+        resp = requests.head(local_url, headers=headers)
         etag = resp.headers.get('etag')
         if etag and resp.status_code == 200:
             # sometimes the server responds with a 200 and the same etag
             if curr_etag and etag == curr_etag['etag']:
-                print('.', end='', flush=True, file=sys.stderr)
+                print('.', end='', flush=True)
             else:
-                etags[url] = {
+                etags[canonical_url] = {
                     'etag': etag,
                     'date': datetime.now(timezone.utc).isoformat(),
                 }
                 updated = True
-                print('*', end='', flush=True, file=sys.stderr)
+                print('*', end='', flush=True)
         else:
             if resp.status_code == 304:
-                print('.', end='', flush=True, file=sys.stderr)
+                print('.', end='', flush=True)
             else:
                 errors.append(url)
-                print('x', end='', flush=True, file=sys.stderr)
+                print('x', end='', flush=True)
 
     if not updated:
         etags = None

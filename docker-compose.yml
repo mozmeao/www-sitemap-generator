@@ -1,0 +1,19 @@
+version: '3.4'
+services:
+  bedrock:
+    image: mozorg/bedrock:latest
+    env_file: .bedrock.env
+    command: sh -c "bin/run-db-download.py && ./manage.py l10n_update && ./manage.py update_sitemaps && bin/run-prod.sh"
+    ports:
+      - "8000:8000"
+
+  generator:
+    image: mozmeao/generate-sitemap:latest
+    build:
+      context: .
+    command: sh -c "urlwait http://bedrock:8000/ 30 && python update_etags.py && python generate_sitemaps.py"
+    volumes:
+      - .:/app:delegated
+    depends_on:
+      - bedrock
+
