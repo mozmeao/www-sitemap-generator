@@ -17,9 +17,16 @@ from sitemap_utils import (
 
 LOCAL_SERVER = 'http://bedrock:8000'
 SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
+SESSION = requests.Session()
 CURRENT_ETAGS = load_current_etags()
 UPDATED_ETAGS = {}
 ERRORS = []
+# urls to skip etag check
+IGNORE = [
+    '/press/speakerrequest/',
+    '/press/press-inquiry/',
+    '/about/legal/fraud-report/',
+]
 
 
 def write_new_etags(etags):
@@ -33,7 +40,7 @@ def write_sitemap_json(sitemap):
 
 
 def get_sitemap_data():
-    resp = requests.get(SITEMAP_JSON_URL)
+    resp = SESSION.get(SITEMAP_JSON_URL)
     resp.raise_for_status()
     sitemap = resp.json()
     # write that data to the local repo
@@ -58,9 +65,25 @@ def update_url_etag(url):
     local_url = LOCAL_SERVER + url
     headers = {}
     curr_etag = CURRENT_ETAGS.get(canonical_url)
+    # skip some URLs that we don't want to have lastmod dates
+    if any(url.endswith(i) for i in IGNORE):
+        # remove the etag and date if one already exists
+        if curr_etag:
+            UPDATED_ETAGS[canonical_url] = {}
+
+        print('.', end='', flush=True)
+        return
+
     if curr_etag:
         headers['if-none-match'] = curr_etag['etag']
-    resp = requests.head(local_url, headers=headers)
+
+    try:
+        resp = SESSION.head(local_url, headers=headers)
+    except requests.RequestException:
+        ERRORS.append(url)
+        print('x', end='', flush=True)
+        return
+
     etag = resp.headers.get('etag')
     if etag and resp.status_code == 200:
         # sometimes the server responds with a 200 and the same etag
