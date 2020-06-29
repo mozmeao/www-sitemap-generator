@@ -27,7 +27,8 @@ IGNORE = [
     '/press/speakerrequest/$',
     '/press/press-inquiry/$',
     '/about/legal/fraud-report/$',
-    '/contribute/'
+    '/contribute/',
+    '/prometheus/',
 ]
 IGNORE = [re.compile(s) for s in IGNORE]
 
@@ -42,8 +43,9 @@ def write_new_etags(etags):
 
 
 def write_sitemap_json(sitemap):
+    sorted_sitemap = {url: sorted(locales) for url, locales in sitemap.items()}
     with SITEMAP_FILE.open('w') as fh:
-        json.dump(sitemap, fh, sort_keys=True, indent=2)
+        json.dump(sorted_sitemap, fh, sort_keys=True, indent=2)
 
 
 def get_sitemap_data():
@@ -128,7 +130,7 @@ def main():
         etags = CURRENT_ETAGS.copy()
         etags.update(UPDATED_ETAGS)
         write_new_etags(etags)
-        print('\nWrote new etags.json file containing {} URLs'.format(len(etags)))
+        print(f'\nWrote new etags.json file containing {len(etags)} URLs')
 
     if ERRORS:
         return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)
