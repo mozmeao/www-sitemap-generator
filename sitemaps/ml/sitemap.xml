@@ -2,118 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/ml/</loc>
-    <lastmod>2018-08-15T03:30:18.063142+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:10.403246+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/about/</loc>
-    <lastmod>2018-08-15T03:30:06.390299+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/about/legal/terms/firefox-lite/</loc>
+    <lastmod>2020-06-29T19:01:17.780385+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/about/history/</loc>
-    <lastmod>2018-08-15T03:28:37.186674+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ml/about/history/details/</loc>
-    <lastmod>2018-08-15T03:31:03.868243+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/about/legal/terms/firefox-lite/reward/</loc>
+    <lastmod>2020-06-29T19:01:17.549498+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/about/manifesto/</loc>
-    <lastmod>2018-08-15T03:29:26.719479+00:00</lastmod>
+    <lastmod>2020-06-29T18:56:16.609550+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/about/manifesto/details/</loc>
-    <lastmod>2018-08-15T03:30:59.428797+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ml/firefox/</loc>
-    <lastmod>2018-08-15T03:31:56.866880+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ml/firefox/accounts/</loc>
-    <lastmod>2018-08-15T03:29:59.904513+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ml/firefox/all/</loc>
-    <lastmod>2018-08-15T03:29:06.412667+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:19.500057+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/channel/android/</loc>
-    <lastmod>2018-08-15T03:29:54.446838+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:23.487954+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/channel/desktop/</loc>
-    <lastmod>2018-08-15T03:29:44.750308+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:02.998762+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/channel/ios/</loc>
-    <lastmod>2018-08-15T03:31:21.650003+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:47.488938+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/developer/</loc>
-    <lastmod>2018-08-15T03:29:36.689465+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:13.784286+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ml/firefox/facebookcontainer/</loc>
+    <lastmod>2020-06-29T18:59:23.662178+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/</loc>
-    <lastmod>2018-08-15T03:30:35.755401+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:09.212902+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/bookmarks/</loc>
-    <lastmod>2018-08-15T03:32:19.053513+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:48.943489+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/fast/</loc>
-    <lastmod>2018-08-15T03:30:39.759311+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:28.007340+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/independent/</loc>
-    <lastmod>2018-08-15T03:31:51.962417+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:07.289479+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/memory/</loc>
-    <lastmod>2018-08-15T03:31:45.748960+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:52.856715+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/password-manager/</loc>
-    <lastmod>2018-08-15T03:28:30.537129+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:32.617402+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/firefox/features/private-browsing/</loc>
-    <lastmod>2018-08-15T03:31:06.650062+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:18.172116+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/firefox/features/send-tabs/</loc>
-    <lastmod>2018-08-15T03:30:26.643538+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/firefox/linux/</loc>
+    <lastmod>2020-06-29T18:58:17.734570+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/firefox/features/sync/</loc>
-    <lastmod>2018-08-15T03:32:01.480531+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/firefox/mac/</loc>
+    <lastmod>2020-06-29T18:58:47.769972+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/firefox/installer-help/</loc>
-    <lastmod>2018-08-15T03:31:18.747373+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/firefox/switch/</loc>
+    <lastmod>2020-06-29T18:56:18.116345+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/firefox/mobile/</loc>
-    <lastmod>2018-08-15T03:32:08.295403+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/firefox/whatsnew/india/</loc>
+    <lastmod>2020-06-29T18:56:43.704600+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/firefox/new/</loc>
-    <lastmod>2018-08-15T03:29:31.926594+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/firefox/windows/</loc>
+    <lastmod>2020-06-29T18:56:09.832675+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/mission/</loc>
-    <lastmod>2018-08-15T03:31:12.340822+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:36.278100+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ml/plugincheck/</loc>
-    <lastmod>2018-08-15T03:28:55.662570+00:00</lastmod>
+    <loc>https://www.mozilla.org/ml/privacy/firefox-lite/</loc>
+    <lastmod>2020-06-29T18:59:27.253812+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ml/privacy/principles/</loc>
-    <lastmod>2018-08-15T03:30:45.137658+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ml/technology/</loc>
-    <lastmod>2018-08-15T18:00:21.949918+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:43.052242+00:00</lastmod>
   </url>
 </urlset>

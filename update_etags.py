@@ -85,7 +85,7 @@ def update_url_etag(url):
         headers['if-none-match'] = curr_etag['etag']
 
     try:
-        resp = SESSION.head(local_url, headers=headers)
+        resp = SESSION.get(local_url, headers=headers)
     except requests.RequestException:
         ERRORS.append(url)
         print('X', end='', flush=True)

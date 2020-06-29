@@ -2,14 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/2004/em-rdf</loc>
-    <lastmod>2018-08-14T16:41:45.026087+00:00</lastmod>
+    <lastmod>2020-06-29T18:56:01.634722+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/2005/app-update</loc>
+    <lastmod>2020-06-29T18:56:01.628783+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/2006/addons-blocklist</loc>
+    <lastmod>2020-06-29T18:56:01.623435+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/2006/browser/search/</loc>
+    <lastmod>2020-06-29T18:56:01.617904+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/credits/</loc>
-    <lastmod>2018-08-14T16:41:45.022656+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:02.847492+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/credits/faq/</loc>
-    <lastmod>2018-08-15T03:29:57.980747+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:02.819111+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul</loc>
+    <lastmod>2020-06-29T18:56:01.611770+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/locales/</loc>
+    <lastmod>2020-06-29T18:56:01.592133+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/microsummaries/0.1</loc>
+    <lastmod>2020-06-29T18:56:01.605789+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/prometheus/metrics</loc>
+    <lastmod>2020-06-29T19:05:17.132872+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/xbl</loc>
+    <lastmod>2020-06-29T18:56:01.600771+00:00</lastmod>
   </url>
 </urlset>

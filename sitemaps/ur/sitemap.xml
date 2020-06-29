@@ -1,39 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.mozilla.org/ur/about/</loc>
-    <lastmod>2018-08-15T03:30:06.475390+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ur/about/history/</loc>
-    <lastmod>2018-08-15T03:28:37.270077+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ur/about/history/details/</loc>
-    <lastmod>2018-08-15T03:31:03.973235+00:00</lastmod>
+    <loc>https://www.mozilla.org/ur/firefox/</loc>
+    <lastmod>2020-06-29T18:59:58.880996+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ur/firefox/accounts/</loc>
-    <lastmod>2018-08-15T03:29:59.933743+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:42.419965+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/firefox/browsers/</loc>
+    <lastmod>2020-06-29T18:59:27.003758+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/firefox/campaign/</loc>
+    <lastmod>2020-06-29T18:59:03.976987+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ur/firefox/channel/android/</loc>
-    <lastmod>2018-08-15T03:29:56.371883+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:27.304687+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ur/firefox/channel/desktop/</loc>
-    <lastmod>2018-08-15T03:29:47.181687+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:06.358134+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ur/firefox/channel/ios/</loc>
-    <lastmod>2018-08-15T03:31:23.635026+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:51.623076+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ur/firefox/installer-help/</loc>
-    <lastmod>2018-08-15T03:31:18.852681+00:00</lastmod>
+    <loc>https://www.mozilla.org/ur/firefox/facebookcontainer/</loc>
+    <lastmod>2020-06-29T18:58:43.925045+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ur/firefox/mobile/</loc>
-    <lastmod>2018-08-15T03:32:08.341442+00:00</lastmod>
+    <loc>https://www.mozilla.org/ur/firefox/features/</loc>
+    <lastmod>2020-06-29T18:59:10.905825+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/firefox/features/private-browsing/</loc>
+    <lastmod>2020-06-29T18:57:20.028705+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/firefox/products/</loc>
+    <lastmod>2020-06-29T18:59:14.855555+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/firefox/whatsnew/india/</loc>
+    <lastmod>2020-06-29T18:56:44.680742+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ur/mission/</loc>
+    <lastmod>2020-06-29T18:58:39.404233+00:00</lastmod>
   </url>
 </urlset>

@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.mozilla.org/ne-NP/firefox/accounts/</loc>
-    <lastmod>2018-08-15T03:29:58.424921+00:00</lastmod>
-  </url>
-  <url>
     <loc>https://www.mozilla.org/ne-NP/firefox/channel/android/</loc>
-    <lastmod>2018-08-15T03:29:55.511385+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:23.808801+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ne-NP/firefox/channel/desktop/</loc>
-    <lastmod>2018-08-15T03:29:46.109142+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:03.234912+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ne-NP/firefox/channel/ios/</loc>
-    <lastmod>2018-08-15T03:31:22.785133+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ne-NP/firefox/installer-help/</loc>
-    <lastmod>2018-08-15T03:31:15.977600+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:48.257335+00:00</lastmod>
   </url>
 </urlset>

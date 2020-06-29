@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.mozilla.org/ff/about/</loc>
-    <lastmod>2018-08-15T03:30:07.526442+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ff/about/history/</loc>
-    <lastmod>2018-08-15T03:28:38.257281+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ff/about/history/details/</loc>
-    <lastmod>2018-08-15T03:31:05.220202+00:00</lastmod>
+    <loc>https://www.mozilla.org/ff/firefox/</loc>
+    <lastmod>2020-06-29T18:59:48.562466+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/firefox/accounts/</loc>
-    <lastmod>2018-08-15T03:30:00.612590+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:31.734494+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/firefox/features/</loc>
-    <lastmod>2018-08-15T03:30:38.022621+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:58.325972+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/firefox/features/password-manager/</loc>
-    <lastmod>2018-08-15T03:28:32.657242+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:27.892537+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/firefox/features/private-browsing/</loc>
-    <lastmod>2018-08-15T03:31:08.789094+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:09.794612+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ff/firefox/features/send-tabs/</loc>
-    <lastmod>2018-08-15T03:30:26.393668+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ff/firefox/installer-help/</loc>
-    <lastmod>2018-08-15T03:31:20.284531+00:00</lastmod>
+    <loc>https://www.mozilla.org/ff/firefox/whatsnew/india/</loc>
+    <lastmod>2020-06-29T18:56:39.125134+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/mission/</loc>
-    <lastmod>2018-08-15T03:31:13.374236+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ff/plugincheck/</loc>
-    <lastmod>2018-08-15T03:28:57.374639+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:16.797819+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ff/privacy/principles/</loc>
-    <lastmod>2018-08-15T03:30:44.998038+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:19.401106+00:00</lastmod>
   </url>
 </urlset>

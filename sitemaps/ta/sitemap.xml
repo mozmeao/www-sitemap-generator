@@ -2,200 +2,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/ta/</loc>
-    <lastmod>2018-08-15T03:30:17.369724+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/about/</loc>
-    <lastmod>2018-08-15T03:30:04.511963+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/about/history/</loc>
-    <lastmod>2018-08-15T03:28:34.616515+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/about/history/details/</loc>
-    <lastmod>2018-08-15T03:31:01.574494+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:26.222785+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/legal/</loc>
-    <lastmod>2018-08-15T03:30:49.289413+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:32.360663+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/legal/acceptable-use/</loc>
-    <lastmod>2018-08-15T03:32:05.432018+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:15.525397+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ta/about/legal/terms/firefox-lite/</loc>
+    <lastmod>2020-06-29T19:01:17.803419+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ta/about/legal/terms/firefox-lite/reward/</loc>
+    <lastmod>2020-06-29T19:01:17.574016+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/legal/terms/mozilla/</loc>
-    <lastmod>2018-08-15T03:29:49.367280+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:26.414272+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/legal/terms/services/</loc>
-    <lastmod>2018-08-15T03:29:21.864379+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:16.767770+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/manifesto/</loc>
-    <lastmod>2018-08-15T03:29:25.650476+00:00</lastmod>
+    <lastmod>2020-06-29T18:56:13.643913+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/about/manifesto/details/</loc>
-    <lastmod>2018-08-15T03:30:58.827074+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/events/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/signup/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/stories/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/stories/faye/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/stories/michael/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/stories/ruben/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/stories/shreyas/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/devtools-challenger/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/encryption/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/firefox-mobile/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/follow-mozilla/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/joy-of-coding/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/contribute/task/stumbler/</loc>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/</loc>
-    <lastmod>2018-08-15T03:31:56.113014+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/accounts/</loc>
-    <lastmod>2018-08-15T03:29:58.623776+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/all/</loc>
-    <lastmod>2018-08-15T03:29:11.356503+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:14.688961+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/channel/android/</loc>
-    <lastmod>2018-08-15T03:29:55.669988+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:18.137976+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/channel/desktop/</loc>
-    <lastmod>2018-08-15T03:29:46.305547+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:57.597746+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/channel/ios/</loc>
-    <lastmod>2018-08-15T03:31:22.939934+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:42.227962+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/developer/</loc>
-    <lastmod>2018-08-15T03:29:35.787791+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:24.381001+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/facebookcontainer/</loc>
-    <lastmod>2018-08-15T03:29:01.954213+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:47.562015+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/</loc>
-    <lastmod>2018-08-15T03:30:37.333703+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:06.093418+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/bookmarks/</loc>
-    <lastmod>2018-08-15T03:32:20.628428+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:45.618800+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/fast/</loc>
-    <lastmod>2018-08-15T03:30:41.109538+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:25.392402+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/independent/</loc>
-    <lastmod>2018-08-15T03:31:51.050284+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:15.409424+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/memory/</loc>
-    <lastmod>2018-08-15T03:31:47.317297+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:50.464939+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/password-manager/</loc>
-    <lastmod>2018-08-15T03:28:32.016567+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:40.824780+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/features/private-browsing/</loc>
-    <lastmod>2018-08-15T03:31:08.170210+00:00</lastmod>
+    <lastmod>2020-06-29T18:57:15.432653+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ta/firefox/features/send-tabs/</loc>
-    <lastmod>2018-08-15T03:30:25.716950+00:00</lastmod>
+    <loc>https://www.mozilla.org/ta/firefox/linux/</loc>
+    <lastmod>2020-06-29T18:58:30.436498+00:00</lastmod>
   </url>
   <url>
-    <loc>https://www.mozilla.org/ta/firefox/features/sync/</loc>
-    <lastmod>2018-08-15T03:32:02.837396+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/installer-help/</loc>
-    <lastmod>2018-08-15T03:31:16.360755+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/mobile/</loc>
-    <lastmod>2018-08-15T03:32:06.552489+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/firefox/new/</loc>
-    <lastmod>2018-08-15T03:29:31.201572+00:00</lastmod>
+    <loc>https://www.mozilla.org/ta/firefox/mac/</loc>
+    <lastmod>2020-06-29T18:56:00.693068+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/firefox/switch/</loc>
-    <lastmod>2018-08-15T03:28:45.800759+00:00</lastmod>
+    <lastmod>2020-06-29T18:56:24.987230+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ta/firefox/whatsnew/india/</loc>
+    <lastmod>2020-06-29T18:56:42.433037+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ta/firefox/windows/</loc>
+    <lastmod>2020-06-29T18:56:11.454633+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/mission/</loc>
-    <lastmod>2018-08-15T03:31:10.535269+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/plugincheck/</loc>
-    <lastmod>2018-08-15T03:28:56.864676+00:00</lastmod>
+    <lastmod>2020-06-29T18:58:30.213790+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/privacy/</loc>
-    <lastmod>2018-08-15T03:29:42.263617+00:00</lastmod>
+    <lastmod>2020-06-29T19:01:11.308991+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ta/privacy/firefox-lite/</loc>
+    <lastmod>2020-06-29T18:59:27.528842+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/privacy/firefox-os/</loc>
-    <lastmod>2018-08-15T03:30:19.998024+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:42.280556+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/privacy/firefox/</loc>
-    <lastmod>2018-08-15T03:31:27.589835+00:00</lastmod>
+    <lastmod>2020-06-29T18:59:54.338635+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/privacy/principles/</loc>
-    <lastmod>2018-08-15T03:30:44.636936+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:36.944615+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ta/privacy/websites/</loc>
-    <lastmod>2018-08-15T03:28:39.411743+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/ta/technology/</loc>
-    <lastmod>2018-08-15T18:00:20.983834+00:00</lastmod>
+    <lastmod>2020-06-29T19:00:09.158320+00:00</lastmod>
   </url>
 </urlset>
