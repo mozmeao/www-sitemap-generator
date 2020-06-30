@@ -2576,6 +2576,12 @@
   "/firefox/68.1.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/68.10.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/68.10.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/68.2.0/releasenotes/": [
     "en-US"
   ],
@@ -2864,6 +2870,12 @@
   "/firefox/77.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/78.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2876,10 +2888,22 @@
   "/firefox/78.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.0esr/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.0esr/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0a1/releasenotes/": [
     "en-US"
   ],
   "/firefox/79.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/79.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/79.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/accounts/": [
@@ -3928,6 +3952,12 @@
     "en-US"
   ],
   "/firefox/android/68.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/68.10.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/68.10.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/68.2.0/releasenotes/": [
@@ -5974,6 +6004,7 @@
     "es-CL",
     "es-ES",
     "fr",
+    "gn",
     "hsb",
     "hu",
     "ia",
@@ -6000,6 +6031,7 @@
     "es-CL",
     "es-ES",
     "fr",
+    "gn",
     "hsb",
     "hu",
     "ia",
@@ -7326,7 +7358,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/prometheus/metrics": [],
   "/security/": [
     "en-US"
   ],
