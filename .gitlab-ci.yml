@@ -1,0 +1,9 @@
+update:
+  only:
+    - schedules
+  tags:
+    - mozmeao
+    - aws
+  script:
+    - ./generate_sitemap_docker.sh commit
+  retry: 2
