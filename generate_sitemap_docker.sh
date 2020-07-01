@@ -2,14 +2,21 @@
 
 set -exo pipefail
 
-docker-compose down
-docker-compose pull bedrock
-docker-compose build --pull generator
-docker-compose run --rm -u "$(id -u):$(id -g)" generator
+if [[ "$1" == "commit" ]]; then
+    # get latest from github
+    git fetch https://github.com/mozmeao/www-sitemap-generator.git master
+    git checkout -f FETCH_HEAD
+fi
+
+docker build --pull -t sitemap-generator .
+docker run -it --rm \
+           --env-file .bedrock.env \
+           -v "$PWD/data:/app/sitemap-data" \
+           sitemap-generator ./run-generator.sh
 
 if [[ "$1" == "commit" ]]; then
     if git status --porcelain | grep -E "\.(json|xml)\$"; then
-        git add sitemap.json etags.json sitemaps
+        git add data
         git commit -m "Update sitemaps data"
         git push git@github.com:mozmeao/www-sitemap-generator.git HEAD:master
         echo "Sitemap data update committed"

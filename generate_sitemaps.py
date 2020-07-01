@@ -14,7 +14,7 @@ from sitemap_utils import (
 )
 
 
-SITEMAPS_PATH = Path('./sitemaps')
+SITEMAPS_PATH = Path('./sitemap-data/sitemaps')
 env = Environment(loader=FileSystemLoader('./templates'))
 
 

@@ -1,11 +1,7 @@
-FROM python:3.8-slim-buster
-
-# Extra python env
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
-ENV PIP_DISABLE_PIP_VERSION_CHECK=1
-
-WORKDIR /app
-
-COPY ./requirements.txt ./
-RUN pip install --require-hashes --no-cache-dir -r requirements.txt
+FROM mozmeao/bedrock:prod-latest
+USER root
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+COPY templates ./templates
+COPY local_settings.py bedrock/settings/local.py
+COPY generate_sitemaps.py update_etags.py sitemap_utils.py bin/run-generator.sh ./

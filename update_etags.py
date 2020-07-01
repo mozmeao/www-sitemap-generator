@@ -13,10 +13,11 @@ from sitemap_utils import (
     SITEMAP_FILE,
     ETAGS_FILE,
     load_current_etags,
+    load_current_sitemap,
 )
 
 
-LOCAL_SERVER = 'http://bedrock:8000'
+LOCAL_SERVER = 'http://localhost:8000'
 SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
 SESSION = requests.Session()
 CURRENT_ETAGS = load_current_etags()
@@ -40,21 +41,6 @@ def ignore_url(url):
 def write_new_etags(etags):
     with ETAGS_FILE.open('w') as fh:
         json.dump(etags, fh, sort_keys=True, indent=2)
-
-
-def write_sitemap_json(sitemap):
-    sorted_sitemap = {url: sorted(locales) for url, locales in sitemap.items()}
-    with SITEMAP_FILE.open('w') as fh:
-        json.dump(sorted_sitemap, fh, sort_keys=True, indent=2)
-
-
-def get_sitemap_data():
-    resp = SESSION.get(SITEMAP_JSON_URL)
-    resp.raise_for_status()
-    sitemap = resp.json()
-    # write that data to the local repo
-    write_sitemap_json(sitemap)
-    return sitemap
 
 
 def generate_all_urls(data):
@@ -114,23 +100,28 @@ def update_url_etag(url):
 
 def main():
     try:
-        # get JSON sitemap from the site
-        sitemap = get_sitemap_data()
         # mash-up the JSON data into a full list of URLs
-        urls = generate_all_urls(sitemap)
+        urls = generate_all_urls(load_current_sitemap())
         # populate UPDATED_ETAGS and ERRORS
-        pool = ThreadPool(4)
+        pool = ThreadPool(6)
         pool.map(update_url_etag, urls)
         pool.close()
         pool.join()
     except Exception as e:
         return str(e)
+    except KeyboardInterrupt:
+        if ERRORS:
+            return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)
+
+        return
 
     if UPDATED_ETAGS:
         etags = CURRENT_ETAGS.copy()
         etags.update(UPDATED_ETAGS)
         write_new_etags(etags)
         print(f'\nWrote new etags.json file containing {len(etags)} URLs')
+    else:
+        print('\nNo updated URLs')
 
     if ERRORS:
         return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)

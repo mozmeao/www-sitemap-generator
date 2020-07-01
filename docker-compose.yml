@@ -1,18 +1,11 @@
 version: '3.4'
 services:
-  bedrock:
-    image: mozmeao/bedrock:prod-latest
-    env_file: .bedrock.env
-    command: sh -c "bin/run-db-download.py && ./manage.py l10n_update && ./manage.py update_sitemaps && bin/run-prod.sh"
-    ports:
-      - "8000:8000"
-
   generator:
     image: mozmeao/generate-sitemap:latest
+    env_file:
+      - .bedrock.env
     build:
       context: .
-    command: bin/run-generator.sh
+    command: ./run-generator.sh
     volumes:
-      - .:/app:delegated
-    depends_on:
-      - bedrock
+      - ./data:/app/sitemap-data:delegated
