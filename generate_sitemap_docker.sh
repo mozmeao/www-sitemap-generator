@@ -9,7 +9,7 @@ if [[ "$1" == "commit" ]]; then
 fi
 
 docker build --pull -t sitemap-generator .
-docker run -it --rm \
+docker run --rm \
            --env-file .bedrock.env \
            -v "$PWD/data:/app/sitemap-data" \
            sitemap-generator ./run-generator.sh

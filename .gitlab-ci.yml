@@ -6,6 +6,4 @@ update:
     - aws
   script:
     - ./generate_sitemap_docker.sh commit
-  after_script:
-    - docker-compose down
   retry: 2
