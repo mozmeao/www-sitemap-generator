@@ -2,6 +2,7 @@
 
 set -exo pipefail
 
+docker-compose down
 docker-compose pull bedrock
 docker-compose build --pull generator
 docker-compose run --rm -u "$(id -u):$(id -g)" generator
