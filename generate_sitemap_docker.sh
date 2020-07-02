@@ -8,7 +8,11 @@ if [[ "$1" == "commit" ]]; then
     git checkout -f FETCH_HEAD
 fi
 
-docker build --pull -t sitemap-generator .
+docker build --pull \
+             -t sitemap-generator \
+             --build-arg "USER_ID=$(id -u):$(id -g)" \
+             .
+
 docker run --rm \
            --env-file .bedrock.env \
            -v "$PWD/data:/app/sitemap-data" \

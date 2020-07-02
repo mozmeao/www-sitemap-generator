@@ -5,3 +5,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY templates ./templates
 COPY settings_local.py bedrock/settings/local.py
 COPY generate_sitemaps.py update_etags.py sitemap_utils.py bin/run-generator.sh ./
+ARG USER_ID=1000:1000
+ENV USER_ID=${USER_ID}
+RUN chown -R "${USER_ID}" /app
+USER ${USER_ID}
