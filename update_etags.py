@@ -74,8 +74,8 @@ def update_url_etag(url):
 
     try:
         resp = SESSION.get(local_url, headers=headers)
-    except requests.RequestException:
-        ERRORS.append(url)
+    except requests.RequestException as e:
+        ERRORS.append(f'{url} - {e}')
         print('X', end='', flush=True)
         return
 
@@ -103,7 +103,7 @@ def main():
         # mash-up the JSON data into a full list of URLs
         urls = generate_all_urls(load_current_sitemap())
         # populate UPDATED_ETAGS and ERRORS
-        pool = ThreadPool(6)
+        pool = ThreadPool(4)
         pool.map(update_url_etag, urls)
         pool.close()
         pool.join()
