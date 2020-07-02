@@ -7775,16 +7775,16 @@
     "etag": "\"69109869b19d4b0e7eefdc7b1f624947\""
   },
   "https://www.mozilla.org/en-US/firefox/78.0.1/system-requirements/": {
-    "date": "2020-07-01T21:10:12.334744+00:00",
-    "etag": "\"46873ffd7106d9a8bfdb4bf42e4ea2fc\""
+    "date": "2020-07-02T14:10:19.064645+00:00",
+    "etag": "\"470bab1d2634413221e45bbad699ee66\""
   },
   "https://www.mozilla.org/en-US/firefox/78.0.1esr/releasenotes/": {
     "date": "2020-07-01T21:10:12.387599+00:00",
     "etag": "\"43674d2be0cb5a4917d56763e76e175e\""
   },
   "https://www.mozilla.org/en-US/firefox/78.0.1esr/system-requirements/": {
-    "date": "2020-07-01T21:10:12.433304+00:00",
-    "etag": "\"11bb307ee70f97e20e596954dd2b80ff\""
+    "date": "2020-07-02T14:10:19.170761+00:00",
+    "etag": "\"9930b5d744332c301c1bf3d0b497e58a\""
   },
   "https://www.mozilla.org/en-US/firefox/78.0/releasenotes/": {
     "date": "2020-07-01T21:10:12.965532+00:00",
@@ -7819,8 +7819,8 @@
     "etag": "\"d8c557d18bdc7639266e6154eaaf0965\""
   },
   "https://www.mozilla.org/en-US/firefox/79.0a1/releasenotes/": {
-    "date": "2020-07-01T21:10:13.705001+00:00",
-    "etag": "\"dee1fa00def3a982e6f719713bd56a07\""
+    "date": "2020-07-02T14:10:20.521745+00:00",
+    "etag": "\"50bd202bc18f790d7e2ecccbf20d4240\""
   },
   "https://www.mozilla.org/en-US/firefox/79.0a1/system-requirements/": {
     "date": "2020-07-01T21:10:13.738606+00:00",
@@ -7833,6 +7833,14 @@
   "https://www.mozilla.org/en-US/firefox/79.0beta/system-requirements/": {
     "date": "2020-07-01T21:10:12.741571+00:00",
     "etag": "\"51b438ced2e4b56244dbb323730439ec\""
+  },
+  "https://www.mozilla.org/en-US/firefox/80.0a1/releasenotes/": {
+    "date": "2020-07-02T14:10:19.846736+00:00",
+    "etag": "\"1b6787ee292d9d12b40489b47279f857\""
+  },
+  "https://www.mozilla.org/en-US/firefox/80.0a1/system-requirements/": {
+    "date": "2020-07-02T14:10:19.880280+00:00",
+    "etag": "\"b4f9a6b0fc7a19fcb847a8494f2834c8\""
   },
   "https://www.mozilla.org/en-US/firefox/accounts/": {
     "date": "2020-07-01T21:09:22.471678+00:00",
@@ -18015,8 +18023,8 @@
     "etag": "\"9c33f311f91e7cfa8f431b49f7a6079d\""
   },
   "https://www.mozilla.org/gn/mission/": {
-    "date": "2020-07-01T21:07:39.705420+00:00",
-    "etag": "\"483937b8633ac3c83a36b7fd777f4a6f\""
+    "date": "2020-07-02T14:06:04.125126+00:00",
+    "etag": "\"de18390e246253788f268aea4cb419df\""
   },
   "https://www.mozilla.org/gn/plugincheck/": {
     "date": "2018-08-15T03:28:55.787127+00:00",
@@ -23001,8 +23009,8 @@
   "https://www.mozilla.org/nn-NO/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/nn-NO/contribute/task/stumbler/": {},
   "https://www.mozilla.org/nn-NO/firefox/": {
-    "date": "2020-07-01T21:09:39.531026+00:00",
-    "etag": "\"2cc6514ace105150c0700c3dc6ee048d\""
+    "date": "2020-07-02T14:09:27.708450+00:00",
+    "etag": "\"c8ce3a669b81bbc96880c9247f1f1f41\""
   },
   "https://www.mozilla.org/nn-NO/firefox/accounts/": {
     "date": "2020-07-01T21:09:15.091398+00:00",
@@ -23013,8 +23021,8 @@
     "etag": "\"e9a433b6f4b3284b782a568ea9b3c1b5\""
   },
   "https://www.mozilla.org/nn-NO/firefox/browsers/": {
-    "date": "2020-07-01T21:08:56.543331+00:00",
-    "etag": "\"6e32005ea909ba3f5bbcac1518a16049\""
+    "date": "2020-07-02T14:08:32.976454+00:00",
+    "etag": "\"c16b81e5c23b41a4ba2f1ba3a0489ec5\""
   },
   "https://www.mozilla.org/nn-NO/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-01T21:08:30.273836+00:00",
@@ -23109,8 +23117,8 @@
     "etag": "\"3d2c037f6a2a741bf822903d53d01fb1\""
   },
   "https://www.mozilla.org/nn-NO/firefox/new/": {
-    "date": "2020-07-01T21:07:57.336323+00:00",
-    "etag": "\"2e89dd5509739e0da5a83496fd220d31\""
+    "date": "2020-07-02T14:06:49.891807+00:00",
+    "etag": "\"b2a8c573b8fd74dc0206de0fbf97aab8\""
   },
   "https://www.mozilla.org/nn-NO/firefox/privacy/": {
     "date": "2020-07-01T21:08:05.826454+00:00",
@@ -23121,8 +23129,8 @@
     "etag": "\"6387bb9bab4a0c7eda3eeed4871fefc3\""
   },
   "https://www.mozilla.org/nn-NO/firefox/products/": {
-    "date": "2020-07-01T21:09:43.944735+00:00",
-    "etag": "\"d7fb070f1ef6d3d72032eb634626757f\""
+    "date": "2020-07-02T14:08:09.925110+00:00",
+    "etag": "\"12a320fe86a9e8b40de030eb54e33a96\""
   },
   "https://www.mozilla.org/nn-NO/firefox/set-as-default/": {
     "date": "2020-07-01T21:07:35.066033+00:00",
