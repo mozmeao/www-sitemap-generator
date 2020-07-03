@@ -2408,16 +2408,16 @@
     "etag": "\"3904505b107b9c3d1018a9e6c43dcf1e\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/chrome/": {
-    "date": "2020-07-01T21:08:26.121494+00:00",
-    "etag": "\"532e05fc6847f03e228938d31f439ad9\""
+    "date": "2020-07-03T00:07:45.429671+00:00",
+    "etag": "\"0b64a6805912e15121eb578c46d39502\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/edge/": {
-    "date": "2020-07-01T21:08:06.035783+00:00",
-    "etag": "\"167cd49fe9e843d2ce035b207462b65d\""
+    "date": "2020-07-03T00:07:28.632352+00:00",
+    "etag": "\"01fdf6ba556f2f6a4a8b41ca1a4b3477\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/ie/": {
-    "date": "2020-07-01T21:07:48.828587+00:00",
-    "etag": "\"2f922676d628b5a3a83dc9ae61db1a93\""
+    "date": "2020-07-03T00:07:12.195835+00:00",
+    "etag": "\"9ad4b82a26f0b153d04f53403293ea9a\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/opera/": {
     "date": "2020-07-01T21:07:35.989731+00:00",
@@ -10333,8 +10333,8 @@
     "etag": "\"2fec1eb61284d5927d35d8521490efe5\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2020-07-01T21:10:04.569516+00:00",
-    "etag": "\"ee1842f0e503f2b7e3d231baa008aa43\""
+    "date": "2020-07-03T00:11:07.041185+00:00",
+    "etag": "\"4f640fdab56ea3d4d283ec96b68a58e8\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2020-07-01T21:10:49.822824+00:00",
@@ -14605,8 +14605,8 @@
     "etag": "\"296d3e5b083af7f8f222f86b9b696bb6\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2020-07-01T21:10:25.878048+00:00",
-    "etag": "\"a821c37a7e54e4efaf5e7d50bc2b8e91\""
+    "date": "2020-07-03T00:11:45.190939+00:00",
+    "etag": "\"31cb924f0f72dae5cb5a7bfe50a51d06\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2020-07-01T21:10:25.842354+00:00",
@@ -14908,6 +14908,10 @@
     "date": "2020-07-01T21:10:22.108938+00:00",
     "etag": "\"d5957bb80ac860a83f881b82b534eb46\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-26/": {
+    "date": "2020-07-03T00:11:42.753722+00:00",
+    "etag": "\"047a9e7f75a75a31496feabc8c010fee\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2020-07-01T21:10:05.122655+00:00",
     "etag": "\"e5afc677704c024dc3b15a8aafe1ac52\""
@@ -15025,8 +15029,8 @@
     "etag": "\"d78b9593fddad6b90f39cfe5cda83449\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2020-07-01T21:10:48.435822+00:00",
-    "etag": "\"5d1e76bbe0eeb9a03acc6c747204a2f4\""
+    "date": "2020-07-03T00:11:41.043829+00:00",
+    "etag": "\"1ebbd6e966f5d58715cf1ff4c5662973\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2020-07-01T21:10:05.009888+00:00",
