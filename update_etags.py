@@ -10,7 +10,6 @@ import requests
 
 from sitemap_utils import (
     CANONICAL_DOMAIN,
-    SITEMAP_FILE,
     ETAGS_FILE,
     load_current_etags,
     load_current_sitemap,
