@@ -2,9 +2,9 @@ import json
 from pathlib import Path
 
 
-CANONICAL_DOMAIN = 'https://www.mozilla.org'
-SITEMAP_FILE = Path('./root_files/sitemap.json')
-ETAGS_FILE = Path('./sitemap-data/etags.json')
+CANONICAL_DOMAIN = "https://www.mozilla.org"
+SITEMAP_FILE = Path("./root_files/sitemap.json")
+ETAGS_FILE = Path("./sitemap-data/etags.json")
 
 
 def load_current_etags():
@@ -26,8 +26,8 @@ def generate_all_urls(data):
     for url, locales in data.items():
         if locales:
             for locale in locales:
-                all_urls.append('{}/{}{}'.format(CANONICAL_DOMAIN, locale, url))
+                all_urls.append("{}/{}{}".format(CANONICAL_DOMAIN, locale, url))
         else:
-            all_urls.append('{}{}'.format(CANONICAL_DOMAIN, url))
+            all_urls.append("{}{}".format(CANONICAL_DOMAIN, url))
 
     return all_urls

@@ -16,19 +16,19 @@ from sitemap_utils import (
 )
 
 
-LOCAL_SERVER = 'http://localhost:8000'
-SITEMAP_JSON_URL = LOCAL_SERVER + '/sitemap.json'
+LOCAL_SERVER = "http://localhost:8000"
+SITEMAP_JSON_URL = LOCAL_SERVER + "/sitemap.json"
 SESSION = requests.Session()
 CURRENT_ETAGS = load_current_etags()
 UPDATED_ETAGS = {}
 ERRORS = []
 # urls to skip etag check
 IGNORE = [
-    '/press/speakerrequest/$',
-    '/press/press-inquiry/$',
-    '/about/legal/fraud-report/$',
-    '/contribute/',
-    '/prometheus/',
+    "/press/speakerrequest/$",
+    "/press/press-inquiry/$",
+    "/about/legal/fraud-report/$",
+    "/contribute/",
+    "/prometheus/",
 ]
 IGNORE = [re.compile(s) for s in IGNORE]
 
@@ -38,7 +38,7 @@ def ignore_url(url):
 
 
 def write_new_etags(etags):
-    with ETAGS_FILE.open('w') as fh:
+    with ETAGS_FILE.open("w") as fh:
         json.dump(etags, fh, sort_keys=True, indent=2)
 
 
@@ -47,7 +47,7 @@ def generate_all_urls(data):
     for url, locales in data.items():
         if locales:
             for locale in locales:
-                all_urls.append('/{}{}'.format(locale, url))
+                all_urls.append("/{}{}".format(locale, url))
         else:
             all_urls.append(url)
 
@@ -65,36 +65,36 @@ def update_url_etag(url):
         if curr_etag:
             UPDATED_ETAGS[canonical_url] = {}
 
-        print('i', end='', flush=True)
+        print("i", end="", flush=True)
         return
 
     if curr_etag:
-        headers['if-none-match'] = curr_etag['etag']
+        headers["if-none-match"] = curr_etag["etag"]
 
     try:
         resp = SESSION.get(local_url, headers=headers)
     except requests.RequestException as e:
-        ERRORS.append(f'{url} - {e}')
-        print('X', end='', flush=True)
+        ERRORS.append(f"{url} - {e}")
+        print("X", end="", flush=True)
         return
 
-    etag = resp.headers.get('etag')
+    etag = resp.headers.get("etag")
     if etag and resp.status_code == 200:
         # sometimes the server responds with a 200 and the same etag
-        if curr_etag and etag == curr_etag['etag']:
-            print('.', end='', flush=True)
+        if curr_etag and etag == curr_etag["etag"]:
+            print(".", end="", flush=True)
         else:
             UPDATED_ETAGS[canonical_url] = {
-                'etag': etag,
-                'date': datetime.now(timezone.utc).isoformat(),
+                "etag": etag,
+                "date": datetime.now(timezone.utc).isoformat(),
             }
-            print('*', end='', flush=True)
+            print("*", end="", flush=True)
     else:
         if resp.status_code == 304:
-            print('.', end='', flush=True)
+            print(".", end="", flush=True)
         else:
             ERRORS.append(url)
-            print(resp.status_code, end='', flush=True)
+            print(resp.status_code, end="", flush=True)
 
 
 def main():
@@ -110,7 +110,7 @@ def main():
         return str(e)
     except KeyboardInterrupt:
         if ERRORS:
-            return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)
+            return "\nThe following urls returned errors:\n" + "\n".join(ERRORS)
 
         return
 
@@ -118,13 +118,13 @@ def main():
         etags = CURRENT_ETAGS.copy()
         etags.update(UPDATED_ETAGS)
         write_new_etags(etags)
-        print(f'\nWrote new etags.json file containing {len(etags)} URLs')
+        print(f"\nWrote new etags.json file containing {len(etags)} URLs")
     else:
-        print('\nNo updated URLs')
+        print("\nNo updated URLs")
 
     if ERRORS:
-        return '\nThe following urls returned errors:\n' + '\n'.join(ERRORS)
+        return "\nThe following urls returned errors:\n" + "\n".join(ERRORS)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     sys.exit(main())
