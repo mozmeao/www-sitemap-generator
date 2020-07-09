@@ -5,12 +5,12 @@ import re
 import sys
 from datetime import datetime, timezone
 from multiprocessing.dummy import Pool as ThreadPool
-from pathlib import Path
 
 import requests
 
 from sitemap_utils import (
     CANONICAL_DOMAIN,
+    DATA_PATH,
     ETAGS_FILE,
     load_current_etags,
     load_current_sitemap,
@@ -18,7 +18,7 @@ from sitemap_utils import (
 
 
 LOCAL_SERVER = "http://localhost:8000"
-SITEMAP_FILE = Path("./sitemap-data/sitemap.json")
+SITEMAP_OUT_FILE = DATA_PATH.joinpath("sitemap.json")
 SESSION = requests.Session()
 CURRENT_ETAGS = load_current_etags()
 UPDATED_ETAGS = {}
@@ -46,7 +46,7 @@ def write_new_etags(etags):
 def write_sitemap_json(sitemap):
     """Write the sorted sitemap.json file to the repo for use in bedrock"""
     sorted_sitemap = {url: sorted(locales) for url, locales in sitemap.items()}
-    with SITEMAP_FILE.open("w") as fh:
+    with SITEMAP_OUT_FILE.open("w") as fh:
         json.dump(sorted_sitemap, fh, sort_keys=True, indent=2)
 
 

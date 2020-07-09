@@ -2,19 +2,19 @@
 
 import sys
 from operator import itemgetter
-from pathlib import Path
 from shutil import rmtree
 
 from jinja2 import Environment, FileSystemLoader
 
 from sitemap_utils import (
     CANONICAL_DOMAIN,
+    DATA_PATH,
     load_current_etags,
     load_current_sitemap,
 )
 
 
-SITEMAPS_PATH = Path("./sitemap-data/sitemaps")
+SITEMAPS_PATH = DATA_PATH.joinpath("sitemaps")
 env = Environment(loader=FileSystemLoader("./templates"))
 
 

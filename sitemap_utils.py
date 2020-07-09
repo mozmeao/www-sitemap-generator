@@ -4,7 +4,8 @@ from pathlib import Path
 
 CANONICAL_DOMAIN = "https://www.mozilla.org"
 SITEMAP_FILE = Path("./root_files/sitemap.json")
-ETAGS_FILE = Path("./sitemap-data/etags.json")
+DATA_PATH = Path("./sitemap-data")
+ETAGS_FILE = DATA_PATH.joinpath("etags.json")
 
 
 def load_current_etags():
