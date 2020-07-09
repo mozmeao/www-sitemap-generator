@@ -5,6 +5,7 @@ import re
 import sys
 from datetime import datetime, timezone
 from multiprocessing.dummy import Pool as ThreadPool
+from pathlib import Path
 
 import requests
 
@@ -17,7 +18,7 @@ from sitemap_utils import (
 
 
 LOCAL_SERVER = "http://localhost:8000"
-SITEMAP_JSON_URL = LOCAL_SERVER + "/sitemap.json"
+SITEMAP_FILE = Path("./sitemap-data/sitemap.json")
 SESSION = requests.Session()
 CURRENT_ETAGS = load_current_etags()
 UPDATED_ETAGS = {}
@@ -40,6 +41,13 @@ def ignore_url(url):
 def write_new_etags(etags):
     with ETAGS_FILE.open("w") as fh:
         json.dump(etags, fh, sort_keys=True, indent=2)
+
+
+def write_sitemap_json(sitemap):
+    """Write the sorted sitemap.json file to the repo for use in bedrock"""
+    sorted_sitemap = {url: sorted(locales) for url, locales in sitemap.items()}
+    with SITEMAP_FILE.open("w") as fh:
+        json.dump(sorted_sitemap, fh, sort_keys=True, indent=2)
 
 
 def generate_all_urls(data):
@@ -100,7 +108,8 @@ def update_url_etag(url):
 def main():
     try:
         # mash-up the JSON data into a full list of URLs
-        urls = generate_all_urls(load_current_sitemap())
+        sitemap = load_current_sitemap()
+        urls = generate_all_urls(sitemap)
         # populate UPDATED_ETAGS and ERRORS
         pool = ThreadPool(4)
         pool.map(update_url_etag, urls)
@@ -118,6 +127,7 @@ def main():
         etags = CURRENT_ETAGS.copy()
         etags.update(UPDATED_ETAGS)
         write_new_etags(etags)
+        write_sitemap_json(sitemap)
         print(f"\nWrote new etags.json file containing {len(etags)} URLs")
     else:
         print("\nNo updated URLs")

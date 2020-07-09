@@ -19,15 +19,3 @@ def load_current_sitemap():
         sitemap = json.load(fh)
 
     return sitemap
-
-
-def generate_all_urls(data):
-    all_urls = {}
-    for url, locales in data.items():
-        if locales:
-            for locale in locales:
-                all_urls.append("{}/{}{}".format(CANONICAL_DOMAIN, locale, url))
-        else:
-            all_urls.append("{}{}".format(CANONICAL_DOMAIN, url))
-
-    return all_urls
