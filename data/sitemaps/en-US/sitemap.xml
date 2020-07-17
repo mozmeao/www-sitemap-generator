@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/en-US/</loc>
-    <lastmod>2020-07-08T00:08:04.219036+00:00</lastmod>
+    <lastmod>2020-07-17T00:09:54.335515+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/MPL/</loc>
@@ -4664,7 +4664,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/browsers/compare/safari/</loc>
-    <lastmod>2020-07-08T00:07:52.334411+00:00</lastmod>
+    <lastmod>2020-07-17T00:09:24.970159+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/browsers/incognito-browser/</loc>
@@ -4688,15 +4688,15 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/channel/android/</loc>
-    <lastmod>2020-07-08T00:09:21.140830+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:42.166491+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/channel/desktop/</loc>
-    <lastmod>2020-07-08T00:08:48.605221+00:00</lastmod>
+    <lastmod>2020-07-17T00:12:17.469338+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/channel/ios/</loc>
-    <lastmod>2020-07-08T00:09:10.492442+00:00</lastmod>
+    <lastmod>2020-07-17T00:12:20.887962+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/developer/</loc>
@@ -4716,7 +4716,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/</loc>
-    <lastmod>2020-07-08T00:09:21.863785+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:13.941980+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/adblocker/</loc>
@@ -4724,31 +4724,31 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/bookmarks/</loc>
-    <lastmod>2020-07-08T00:09:11.517794+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:45.663911+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/fast/</loc>
-    <lastmod>2020-07-08T00:09:01.450754+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:41.124115+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/independent/</loc>
-    <lastmod>2020-07-08T00:08:35.374727+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:35.759584+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/memory/</loc>
-    <lastmod>2020-07-08T00:09:10.215564+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:29.953994+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/password-manager/</loc>
-    <lastmod>2020-07-08T00:08:51.729086+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:24.190900+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/private-browsing/</loc>
-    <lastmod>2020-07-08T00:08:48.000786+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:13.998769+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/features/safebrowser/</loc>
-    <lastmod>2020-07-08T00:08:29.072779+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:12.990432+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/flashback/</loc>
@@ -5574,7 +5574,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/</loc>
-    <lastmod>2020-07-13T07:03:28.171462+00:00</lastmod>
+    <lastmod>2020-07-17T00:11:55.508444+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/</loc>
@@ -9846,7 +9846,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/</loc>
-    <lastmod>2020-07-13T07:04:22.799536+00:00</lastmod>
+    <lastmod>2020-07-17T00:13:58.664372+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/</loc>
@@ -10150,15 +10150,19 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-26/</loc>
-    <lastmod>2020-07-08T00:10:15.851371+00:00</lastmod>
+    <lastmod>2020-07-17T00:13:50.043634+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-27/</loc>
-    <lastmod>2020-07-08T00:10:15.803097+00:00</lastmod>
+    <lastmod>2020-07-17T00:13:49.951591+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-28/</loc>
-    <lastmod>2020-07-13T07:04:19.383711+00:00</lastmod>
+    <lastmod>2020-07-17T00:13:49.810356+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-29/</loc>
+    <lastmod>2020-07-17T00:13:49.668129+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/bug-bounty/</loc>
@@ -10278,7 +10282,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/</loc>
-    <lastmod>2020-07-08T00:10:13.825688+00:00</lastmod>
+    <lastmod>2020-07-17T00:13:45.765202+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/web-bug-bounty/</loc>

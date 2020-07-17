@@ -19,6 +19,18 @@
     "date": "2018-08-15T03:29:59.406923+00:00",
     "etag": "\"b447df85df109106ca912657e4d33b1a\""
   },
+  "https://www.mozilla.org/ach/firefox/channel/android/": {
+    "date": "2020-07-17T00:11:29.496902+00:00",
+    "etag": "\"be5e29d7ecf04ccef23f22e7d5615480\""
+  },
+  "https://www.mozilla.org/ach/firefox/channel/desktop/": {
+    "date": "2020-07-17T00:12:03.431275+00:00",
+    "etag": "\"e78e62df5e5289c210c68b9ebf221639\""
+  },
+  "https://www.mozilla.org/ach/firefox/channel/ios/": {
+    "date": "2020-07-17T00:12:10.341582+00:00",
+    "etag": "\"5c21466c913cbb1fbf26fcf13f414eb4\""
+  },
   "https://www.mozilla.org/ach/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.808673+00:00",
     "etag": "\"6089c386d84a83cc257ffdd37a117e19\""
@@ -162,16 +174,16 @@
     "etag": "\"2f8f83695978f08d32a3f397b8d8c2b1\""
   },
   "https://www.mozilla.org/an/firefox/channel/android/": {
-    "date": "2020-07-13T07:03:29.702042+00:00",
-    "etag": "\"d69986f76e50ce984f9fb4d54e4b771b\""
+    "date": "2020-07-17T00:11:50.653034+00:00",
+    "etag": "\"f490bf4fafefa91ce1d386309cf4d39b\""
   },
   "https://www.mozilla.org/an/firefox/channel/desktop/": {
-    "date": "2020-07-13T07:03:38.712563+00:00",
-    "etag": "\"cae346073efd36e1ccc4a538abcecefb\""
+    "date": "2020-07-17T00:12:25.298828+00:00",
+    "etag": "\"a97f23b8d01ff7a5db683476c0ce107d\""
   },
   "https://www.mozilla.org/an/firefox/channel/ios/": {
-    "date": "2020-07-13T07:03:20.080352+00:00",
-    "etag": "\"b9b09575d5b26eb828102afc236718de\""
+    "date": "2020-07-17T00:12:28.531770+00:00",
+    "etag": "\"015969dcc2212cb8dc208725bfebc77e\""
   },
   "https://www.mozilla.org/an/firefox/developer/": {
     "date": "2020-07-13T07:03:13.765075+00:00",
@@ -333,16 +345,16 @@
     "etag": "\"d8db3a90bb911b55cfe3a2825a27beb3\""
   },
   "https://www.mozilla.org/ar/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.677946+00:00",
-    "etag": "\"3535ee8ccfdd10493907ee158a33c686\""
+    "date": "2020-07-17T00:11:36.900583+00:00",
+    "etag": "\"199dee594abb33838f01b72537a17991\""
   },
   "https://www.mozilla.org/ar/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.276188+00:00",
-    "etag": "\"d32d219933ae8658eb3e39f0a003f839\""
+    "date": "2020-07-17T00:12:10.988924+00:00",
+    "etag": "\"7b239691dd6d61b607062d90f9b1ebeb\""
   },
   "https://www.mozilla.org/ar/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.160333+00:00",
-    "etag": "\"aeab1ce6b6513b8a692021edd7b0d9b2\""
+    "date": "2020-07-17T00:12:16.068390+00:00",
+    "etag": "\"e2781d44bf27b8c681c3eda6842fb352\""
   },
   "https://www.mozilla.org/ar/firefox/developer/": {
     "date": "2020-07-08T00:08:57.489749+00:00",
@@ -517,16 +529,16 @@
     "etag": "\"5203b6c05e63f6d35a06da6f3c99c659\""
   },
   "https://www.mozilla.org/ast/firefox/channel/android/": {
-    "date": "2020-07-16T06:09:00.348807+00:00",
-    "etag": "\"8c6710bd7806382d3b505c76a4e533fb\""
+    "date": "2020-07-17T00:11:23.603067+00:00",
+    "etag": "\"4ea7c9ad45328042da6f8e09e8ff8cd6\""
   },
   "https://www.mozilla.org/ast/firefox/channel/desktop/": {
-    "date": "2020-07-16T06:09:20.802805+00:00",
-    "etag": "\"bfd9aaaa2077235fe5cf07f441472be6\""
+    "date": "2020-07-17T00:11:59.357100+00:00",
+    "etag": "\"3e101edd6dbcf44779e33d41837ace93\""
   },
   "https://www.mozilla.org/ast/firefox/channel/ios/": {
-    "date": "2020-07-16T06:08:41.418956+00:00",
-    "etag": "\"36745f74c9bb4ee24caf25dea6a23f45\""
+    "date": "2020-07-17T00:12:05.642635+00:00",
+    "etag": "\"e7695a1496d00a382c460cdbaa0519cd\""
   },
   "https://www.mozilla.org/ast/firefox/developer/": {
     "date": "2020-07-16T06:08:31.771512+00:00",
@@ -653,16 +665,16 @@
     "etag": "\"f8c3b220b5ce844a6f0eb7803e5a7b8d\""
   },
   "https://www.mozilla.org/az/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.896029+00:00",
-    "etag": "\"985eea9317a45cd0b843e81dceee75ed\""
+    "date": "2020-07-17T00:11:51.606643+00:00",
+    "etag": "\"fc7fa94deac9289f3d32007d7c19173d\""
   },
   "https://www.mozilla.org/az/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:50.602347+00:00",
-    "etag": "\"0332c9274ce35a20b292083b100b9afa\""
+    "date": "2020-07-17T00:12:26.686482+00:00",
+    "etag": "\"30bc3325e5ec8712d3ba34a3880e860b\""
   },
   "https://www.mozilla.org/az/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.237638+00:00",
-    "etag": "\"dc528c1456fe1ebab8b73e9e3764b997\""
+    "date": "2020-07-17T00:12:29.135105+00:00",
+    "etag": "\"d18908e7a1dd95bdfb214d8f3e848f69\""
   },
   "https://www.mozilla.org/az/firefox/developer/": {
     "date": "2020-07-08T00:08:56.987741+00:00",
@@ -773,16 +785,16 @@
     "etag": "\"9a382a1963e1c98939334f65da8e4561\""
   },
   "https://www.mozilla.org/azz/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.036700+00:00",
-    "etag": "\"bef2210f645d2963eb1f6478d298fb52\""
+    "date": "2020-07-17T00:11:26.570625+00:00",
+    "etag": "\"6a10bc81082f85a06dd0d1541d055ff2\""
   },
   "https://www.mozilla.org/azz/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.301038+00:00",
-    "etag": "\"e991c1a99bbd04b364f0f88784ebd071\""
+    "date": "2020-07-17T00:12:01.581746+00:00",
+    "etag": "\"d0ab4ef8f5db18d3c448b02f2eeb0db6\""
   },
   "https://www.mozilla.org/azz/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:07.733673+00:00",
-    "etag": "\"8e7625ce6808f95c2edcfa286c6d50ff\""
+    "date": "2020-07-17T00:12:08.410082+00:00",
+    "etag": "\"fcd2e960f2a36b8095309956eb96f690\""
   },
   "https://www.mozilla.org/azz/firefox/features/": {
     "date": "2020-07-08T00:09:19.417998+00:00",
@@ -881,16 +893,16 @@
     "etag": "\"bb090382d628015602884c8f0a9fc76b\""
   },
   "https://www.mozilla.org/be/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.492944+00:00",
-    "etag": "\"5d9e37db2036eb9036639baaf85657da\""
+    "date": "2020-07-17T00:11:48.807184+00:00",
+    "etag": "\"9e959dea1edef8b847236a2f9d11732c\""
   },
   "https://www.mozilla.org/be/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.706932+00:00",
-    "etag": "\"86ad58dcd2c4489818926946b8eb4184\""
+    "date": "2020-07-17T00:12:23.322818+00:00",
+    "etag": "\"d0b7d0146c8e8db5f009f04ba6804831\""
   },
   "https://www.mozilla.org/be/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.445856+00:00",
-    "etag": "\"657bca4e9e09d840483b82ddfdeb8d77\""
+    "date": "2020-07-17T00:12:27.047911+00:00",
+    "etag": "\"a5471285df0527d60f9ffdd401700a61\""
   },
   "https://www.mozilla.org/be/firefox/developer/": {
     "date": "2020-07-08T00:08:58.086887+00:00",
@@ -1071,16 +1083,16 @@
     "etag": "\"0db62fdca8fe552dba6dc352aaf42b42\""
   },
   "https://www.mozilla.org/bg/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.704231+00:00",
-    "etag": "\"bdfb9d53bf8532dc6894c33c10003c4f\""
+    "date": "2020-07-17T00:11:58.018116+00:00",
+    "etag": "\"ea99f43409c796024fc46ea64c628b1a\""
   },
   "https://www.mozilla.org/bg/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:51.886383+00:00",
-    "etag": "\"944445b6670ee9f590c67e2963385ce4\""
+    "date": "2020-07-17T00:12:32.604200+00:00",
+    "etag": "\"4370960d01bc28e840fa86c36e3ca49a\""
   },
   "https://www.mozilla.org/bg/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:12.038783+00:00",
-    "etag": "\"d34a6f41b4fb0a831d59c659b2ccb5b8\""
+    "date": "2020-07-17T00:11:21.471532+00:00",
+    "etag": "\"ed0663bca6b46d5aa700a891d1174f43\""
   },
   "https://www.mozilla.org/bg/firefox/developer/": {
     "date": "2020-07-08T00:09:00.671570+00:00",
@@ -1404,16 +1416,16 @@
     "etag": "\"8db3b04dae8d1c57f04639be73049dc4\""
   },
   "https://www.mozilla.org/bn/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:19.371449+00:00",
-    "etag": "\"b349fc01b1681a816149b34be3779a80\""
+    "date": "2020-07-17T00:11:24.488558+00:00",
+    "etag": "\"62cf0ea736c1f31f9d7feb9d5694c5cb\""
   },
   "https://www.mozilla.org/bn/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.414094+00:00",
-    "etag": "\"ec05c66ee41545766ad5120b6c2ea799\""
+    "date": "2020-07-17T00:11:59.694924+00:00",
+    "etag": "\"70a40c96598da69a841d3b8b1cd59f72\""
   },
   "https://www.mozilla.org/bn/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.831807+00:00",
-    "etag": "\"e2987c2df3e4812ee2c52ecaa4052c80\""
+    "date": "2020-07-17T00:12:05.989771+00:00",
+    "etag": "\"2f48d12b2f1a8d9b79cd96fcf5b5daba\""
   },
   "https://www.mozilla.org/bn/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:09:25.926636+00:00",
@@ -1550,16 +1562,16 @@
     "etag": "\"536ba5b9e7be4fd59e0c283d1f4cbfa7\""
   },
   "https://www.mozilla.org/bs/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.597553+00:00",
-    "etag": "\"a68c450f315d27a7df36203bc30670a4\""
+    "date": "2020-07-17T00:11:34.157694+00:00",
+    "etag": "\"4cc190bf54a3acda93200edb5484e069\""
   },
   "https://www.mozilla.org/bs/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.837167+00:00",
-    "etag": "\"08dbee217099747845b609b943e4b9d3\""
+    "date": "2020-07-17T00:12:07.379420+00:00",
+    "etag": "\"23747ae2ea70341ad64c328a5b1fe4ce\""
   },
   "https://www.mozilla.org/bs/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.552262+00:00",
-    "etag": "\"87999a7c4916d153760ce6ed457048c5\""
+    "date": "2020-07-17T00:12:13.502612+00:00",
+    "etag": "\"a8b6124dece04bba938ebb7f217117bc\""
   },
   "https://www.mozilla.org/bs/firefox/developer/": {
     "date": "2020-07-08T00:08:58.442495+00:00",
@@ -1734,16 +1746,16 @@
     "etag": "\"2fc414dda1039119ac0e4515f767807c\""
   },
   "https://www.mozilla.org/ca/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:17.500847+00:00",
-    "etag": "\"89b1551c03f12f900137caf8f31cd54b\""
+    "date": "2020-07-17T00:11:41.017960+00:00",
+    "etag": "\"11331c697873e588e082b2ec77a46242\""
   },
   "https://www.mozilla.org/ca/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:27.704028+00:00",
-    "etag": "\"636782b038a311adfc1e946c1f67fae6\""
+    "date": "2020-07-17T00:12:16.492220+00:00",
+    "etag": "\"00c69e47a89bfde7e1d5c25a7db40f95\""
   },
   "https://www.mozilla.org/ca/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:06.585539+00:00",
-    "etag": "\"bedaa9290cab741c5407f9c4c22daf72\""
+    "date": "2020-07-17T00:12:20.194635+00:00",
+    "etag": "\"d9ce52b7580f03a15c2a1c8dce563da6\""
   },
   "https://www.mozilla.org/ca/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:09:24.304676+00:00",
@@ -1864,16 +1876,16 @@
     "etag": "\"76503b2e4c1d89bcd3159caa11039077\""
   },
   "https://www.mozilla.org/cak/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:19.715186+00:00",
-    "etag": "\"a9ab4eb1d60e642d9c841e09abbd48b0\""
+    "date": "2020-07-17T00:11:44.469350+00:00",
+    "etag": "\"619b40655f34678f2c053eea62eed84c\""
   },
   "https://www.mozilla.org/cak/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.779412+00:00",
-    "etag": "\"b5f98c59e81565964f53efe1080b4786\""
+    "date": "2020-07-17T00:12:19.354234+00:00",
+    "etag": "\"62000971f77e425e56b2c913f3d77b02\""
   },
   "https://www.mozilla.org/cak/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:09.179329+00:00",
-    "etag": "\"a6a8347e0981e58c7947a6dbaaeb6a47\""
+    "date": "2020-07-17T00:12:22.492872+00:00",
+    "etag": "\"1e78657703b47671c60967ddefb609f3\""
   },
   "https://www.mozilla.org/cak/firefox/developer/": {
     "date": "2020-07-08T00:08:58.578084+00:00",
@@ -2130,16 +2142,16 @@
     "etag": "\"61e8b78b5701dda247aeb02b88a8c8dc\""
   },
   "https://www.mozilla.org/cs/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.019954+00:00",
-    "etag": "\"5ee2e713655f734e7632984f8017b26e\""
+    "date": "2020-07-17T00:11:25.466676+00:00",
+    "etag": "\"91b02a2d3120b3b89f165937e7fd7a71\""
   },
   "https://www.mozilla.org/cs/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:50.745397+00:00",
-    "etag": "\"f48d4f1b9a4bea37c71be7f5e8536e2c\""
+    "date": "2020-07-17T00:12:00.713581+00:00",
+    "etag": "\"2045a20a1e92c5ff0673b6c749fea9ad\""
   },
   "https://www.mozilla.org/cs/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.351108+00:00",
-    "etag": "\"5bf01ec5fabc03ca1f725ed25b632faa\""
+    "date": "2020-07-17T00:12:06.745325+00:00",
+    "etag": "\"ed5582898af1c25b7e6f4acbe4d5dec5\""
   },
   "https://www.mozilla.org/cs/firefox/developer/": {
     "date": "2020-07-08T00:08:58.697108+00:00",
@@ -2424,8 +2436,8 @@
     "etag": "\"8b4723835868d6a06f995d18ca993f36\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:58.118699+00:00",
-    "etag": "\"f85227f8d0a08131623467af2b54a3ee\""
+    "date": "2020-07-17T00:09:37.120785+00:00",
+    "etag": "\"77391931bf51fbac5cc1cae168cacfa9\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/what-is-a-browser/": {
     "date": "2020-07-08T00:07:44.741732+00:00",
@@ -2440,16 +2452,16 @@
     "etag": "\"97f70ecf7eabcb32772518bc34c92564\""
   },
   "https://www.mozilla.org/cy/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.351895+00:00",
-    "etag": "\"57b7c8f60b6f4b87822f81909d1f8446\""
+    "date": "2020-07-17T00:11:37.097197+00:00",
+    "etag": "\"0cd52465c854e5c7d042b95fa16f9720\""
   },
   "https://www.mozilla.org/cy/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.539689+00:00",
-    "etag": "\"1233bd255cfbbb6e3bed1c76897f78a6\""
+    "date": "2020-07-17T00:12:11.352631+00:00",
+    "etag": "\"7500edbbbe70bfc08c49d5e8d0a4ddee\""
   },
   "https://www.mozilla.org/cy/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.420706+00:00",
-    "etag": "\"26777a8c7178b59d2009c598e7d1e6c5\""
+    "date": "2020-07-17T00:12:16.376290+00:00",
+    "etag": "\"c4dfbd8b2c9fb0de62856c4d487018eb\""
   },
   "https://www.mozilla.org/cy/firefox/developer/": {
     "date": "2020-07-08T00:09:02.181896+00:00",
@@ -2464,36 +2476,36 @@
     "etag": "\"e74fd5fc9739fa7b9f49d07ec08779fb\""
   },
   "https://www.mozilla.org/cy/firefox/features/": {
-    "date": "2020-07-08T00:09:16.459908+00:00",
-    "etag": "\"510d4b97b40e7b74a3c70fbf530f13c8\""
+    "date": "2020-07-17T00:11:23.597086+00:00",
+    "etag": "\"e036f15138f67f4e5a17f480bc974840\""
   },
   "https://www.mozilla.org/cy/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:10.868221+00:00",
     "etag": "\"c6b8594de9a0ea296968ccf2909efe7b\""
   },
   "https://www.mozilla.org/cy/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:05.699044+00:00",
-    "etag": "\"ea31c4a8344313d2f2c943508ff21ea3\""
+    "date": "2020-07-17T00:10:55.045215+00:00",
+    "etag": "\"304fb3b489e7aa84de060de23e63da0d\""
   },
   "https://www.mozilla.org/cy/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:55.070318+00:00",
-    "etag": "\"8dea1097ab45ebe3f569ebdb57a44142\""
+    "date": "2020-07-17T00:11:44.586732+00:00",
+    "etag": "\"87b3ccb6ab8355f0887682c412fadd91\""
   },
   "https://www.mozilla.org/cy/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:52.197541+00:00",
-    "etag": "\"ec9fb3430abb5ae2b9d8c4b28b19726b\""
+    "date": "2020-07-17T00:11:39.654595+00:00",
+    "etag": "\"272a79157ccfc7273518cf592b8bfe33\""
   },
   "https://www.mozilla.org/cy/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:05.382204+00:00",
-    "etag": "\"5e2dbda9c9db315e6a0e0d87f9980a01\""
+    "date": "2020-07-17T00:11:34.441390+00:00",
+    "etag": "\"797758390ffb28a2601af17a0ccdd981\""
   },
   "https://www.mozilla.org/cy/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:03.521521+00:00",
-    "etag": "\"c5721916bb4a7e3362245fd7992c8a84\""
+    "date": "2020-07-17T00:11:28.347695+00:00",
+    "etag": "\"5bebe11a713f7cee9774c4ecc23e7f1c\""
   },
   "https://www.mozilla.org/cy/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:37.968003+00:00",
-    "etag": "\"133ed5296ff3f7d649747b2fd5f8332c\""
+    "date": "2020-07-17T00:11:22.453891+00:00",
+    "etag": "\"ab15628842a16e8c53c3a2f3add634a3\""
   },
   "https://www.mozilla.org/cy/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.295872+00:00",
@@ -2676,16 +2688,16 @@
     "etag": "\"a3907d2e1c87ee8a80049a7eee838883\""
   },
   "https://www.mozilla.org/da/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:17.814995+00:00",
-    "etag": "\"428aa97da2e6775131887be544e8b2fa\""
+    "date": "2020-07-17T00:11:40.172386+00:00",
+    "etag": "\"8e043625bc7e94d6a822485a4c283006\""
   },
   "https://www.mozilla.org/da/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.064071+00:00",
-    "etag": "\"acfb753444a6e50fe14dd7f8f92ef10b\""
+    "date": "2020-07-17T00:12:15.778509+00:00",
+    "etag": "\"75a6e8342d1ee566e2f5d93c3865262d\""
   },
   "https://www.mozilla.org/da/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:06.887625+00:00",
-    "etag": "\"f77e0effc060e7f27b5705144fbc8f4a\""
+    "date": "2020-07-17T00:12:19.204648+00:00",
+    "etag": "\"4111fd7fd22f46a2e6af9bcfd5fc1b8e\""
   },
   "https://www.mozilla.org/da/firefox/developer/": {
     "date": "2020-07-08T00:08:54.231723+00:00",
@@ -2934,8 +2946,8 @@
     "etag": "\"5a8a42f6b7393b10b5b3f569cfb1ddef\""
   },
   "https://www.mozilla.org/de/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:54.641445+00:00",
-    "etag": "\"38492fa62c8d1b8416cadbad6f2c4fc2\""
+    "date": "2020-07-17T00:09:32.239331+00:00",
+    "etag": "\"b3e3476d5e99c4fce0a9ca5b3d2460ab\""
   },
   "https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/": {
     "date": "2020-07-08T00:07:43.583767+00:00",
@@ -2950,16 +2962,16 @@
     "etag": "\"8cd89ae18d877c056e990895170d7f3f\""
   },
   "https://www.mozilla.org/de/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:19.473055+00:00",
-    "etag": "\"9567a70da295aab91e299e6b209bef5b\""
+    "date": "2020-07-17T00:11:33.730666+00:00",
+    "etag": "\"c8fc6336f233cbd06d9a0c9d515f671a\""
   },
   "https://www.mozilla.org/de/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.540230+00:00",
-    "etag": "\"617c3df19310c8b34a15ef1266ea5793\""
+    "date": "2020-07-17T00:12:06.968480+00:00",
+    "etag": "\"f2e82ff62a55423fbc01572dc0f9d144\""
   },
   "https://www.mozilla.org/de/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.932855+00:00",
-    "etag": "\"74be8f549cf0e5ccdba4feb0ffb49bff\""
+    "date": "2020-07-17T00:12:13.214633+00:00",
+    "etag": "\"ea35dbafb74702c3ab93a6142b90ce4e\""
   },
   "https://www.mozilla.org/de/firefox/developer/": {
     "date": "2020-07-08T00:08:57.750828+00:00",
@@ -2978,36 +2990,36 @@
     "etag": "\"6b629979cad42f38be207d5b8a633d12\""
   },
   "https://www.mozilla.org/de/firefox/features/": {
-    "date": "2020-07-08T00:09:20.192980+00:00",
-    "etag": "\"6060e42cc11482e1712a9cb40b37f89e\""
+    "date": "2020-07-17T00:11:17.587956+00:00",
+    "etag": "\"c1b1c7a789032af3d4cccab93f590a74\""
   },
   "https://www.mozilla.org/de/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:07.867487+00:00",
     "etag": "\"dfbeb9afc482c58170511f9c1c71544a\""
   },
   "https://www.mozilla.org/de/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:09.625705+00:00",
-    "etag": "\"87982ee9b48ce2a8a2307e9a5b60955a\""
+    "date": "2020-07-17T00:10:49.678583+00:00",
+    "etag": "\"8d21b471807b86fdb2c70b4b668f0671\""
   },
   "https://www.mozilla.org/de/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:59.794307+00:00",
-    "etag": "\"772b61bfd99210ba177d80aff7832879\""
+    "date": "2020-07-17T00:11:42.653368+00:00",
+    "etag": "\"5e7c05962c61fb3dbd2a945d1b71ff3a\""
   },
   "https://www.mozilla.org/de/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:44.265922+00:00",
-    "etag": "\"edc6829d1a40e9d01c6bf261a1f5be16\""
+    "date": "2020-07-17T00:11:37.719141+00:00",
+    "etag": "\"37610c2b5e4a4062b6cc47cd4b8fccd7\""
   },
   "https://www.mozilla.org/de/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:08.652767+00:00",
-    "etag": "\"800b6dfdcc8438870f33e4805629d063\""
+    "date": "2020-07-17T00:11:31.385393+00:00",
+    "etag": "\"44f2dc3623300ee825e05690ae240e2b\""
   },
   "https://www.mozilla.org/de/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:58.823620+00:00",
-    "etag": "\"eafdb6af3d67485ede945b5fa889fdec\""
+    "date": "2020-07-17T00:11:25.877742+00:00",
+    "etag": "\"f390edd904c342822d083a7003a65d29\""
   },
   "https://www.mozilla.org/de/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:45.778136+00:00",
-    "etag": "\"6038f8a7db0a072b15fd077fd94ea524\""
+    "date": "2020-07-17T00:11:18.374608+00:00",
+    "etag": "\"c09493e172f29b81beab23234b140c2e\""
   },
   "https://www.mozilla.org/de/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.068644+00:00",
@@ -3276,16 +3288,16 @@
     "etag": "\"d4c74fa738921232ced7e4e84b51fe07\""
   },
   "https://www.mozilla.org/dsb/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:14.733079+00:00",
-    "etag": "\"8e2152d8a86dacb4ef4d2e726d11534d\""
+    "date": "2020-07-17T00:11:49.104127+00:00",
+    "etag": "\"e8f1c5a77cefdee8dcd611d95b0c7151\""
   },
   "https://www.mozilla.org/dsb/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.755237+00:00",
-    "etag": "\"98f2ff59f585fa1add95174618fe3cd7\""
+    "date": "2020-07-17T00:12:23.762878+00:00",
+    "etag": "\"c9f1c5163ce81c4538b6ed0f3a519171\""
   },
   "https://www.mozilla.org/dsb/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.693284+00:00",
-    "etag": "\"2d055a238c9227558313a77f8810853d\""
+    "date": "2020-07-17T00:12:27.361612+00:00",
+    "etag": "\"7d33edec1ff71bf11f3e26dbf69094f8\""
   },
   "https://www.mozilla.org/dsb/firefox/developer/": {
     "date": "2020-07-08T00:08:59.184931+00:00",
@@ -3300,36 +3312,36 @@
     "etag": "\"10e6cdfa4d2a947e77a077562e0a9904\""
   },
   "https://www.mozilla.org/dsb/firefox/features/": {
-    "date": "2020-07-08T00:09:15.894573+00:00",
-    "etag": "\"31b30bf13749389480d7f99697b9d9ef\""
+    "date": "2020-07-17T00:11:23.012213+00:00",
+    "etag": "\"a939aa71246524a5c50f7edfc3cf5e03\""
   },
   "https://www.mozilla.org/dsb/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.427194+00:00",
     "etag": "\"b22b1ceebd57dfd67befb128749bfd21\""
   },
   "https://www.mozilla.org/dsb/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:05.241399+00:00",
-    "etag": "\"377a1b7f853a9200dcb38c3239a1c947\""
+    "date": "2020-07-17T00:10:54.419158+00:00",
+    "etag": "\"a559a5bd2fe1449407c135b489569f46\""
   },
   "https://www.mozilla.org/dsb/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:54.436945+00:00",
-    "etag": "\"032ab33cd569a5b983e39ab54e7c6669\""
+    "date": "2020-07-17T00:11:44.223913+00:00",
+    "etag": "\"b0e0e51ae93db4df7e12f654cf8aac56\""
   },
   "https://www.mozilla.org/dsb/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:46.601398+00:00",
-    "etag": "\"740bc6f3eef415af24829343e6e08449\""
+    "date": "2020-07-17T00:11:39.218497+00:00",
+    "etag": "\"c56f1d56184e390ddbc1bda255222a48\""
   },
   "https://www.mozilla.org/dsb/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:04.922587+00:00",
-    "etag": "\"77fa1aa25df7ccfec55d4a7c1b0463ff\""
+    "date": "2020-07-17T00:11:33.966787+00:00",
+    "etag": "\"9a132e62ac391b6851a91694813f3d50\""
   },
   "https://www.mozilla.org/dsb/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:00.234137+00:00",
-    "etag": "\"faabf7c57df9ecb1a32465881a254f6f\""
+    "date": "2020-07-17T00:11:27.938759+00:00",
+    "etag": "\"eb3503556955d1f90e2d7c8b63dcc504\""
   },
   "https://www.mozilla.org/dsb/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:36.752689+00:00",
-    "etag": "\"c18e0c235ce62742c631e5ad6f02f5c9\""
+    "date": "2020-07-17T00:11:21.944107+00:00",
+    "etag": "\"edd619bb6fc2713ae3d8f61a12c13348\""
   },
   "https://www.mozilla.org/dsb/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.612289+00:00",
@@ -3490,16 +3502,16 @@
     "etag": "\"0f8060baf1e80273c3fa48f642ab3386\""
   },
   "https://www.mozilla.org/el/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.134639+00:00",
-    "etag": "\"8f12050840de5c104c5342cdd5c1a334\""
+    "date": "2020-07-17T00:11:52.440106+00:00",
+    "etag": "\"ee54beec5a5fb46ab0e1685d0122a6a3\""
   },
   "https://www.mozilla.org/el/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:50.896885+00:00",
-    "etag": "\"cd538317f2044243bc51b48c46eeaba0\""
+    "date": "2020-07-17T00:12:27.310343+00:00",
+    "etag": "\"f2e9cfd19e3e17feb171326b8cff505b\""
   },
   "https://www.mozilla.org/el/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.452547+00:00",
-    "etag": "\"3ce6070baa6d6a0f711e1874d3f77508\""
+    "date": "2020-07-17T00:12:29.766696+00:00",
+    "etag": "\"4a2a38d7d76c3878ba6b58d5b2467f88\""
   },
   "https://www.mozilla.org/el/firefox/developer/": {
     "date": "2020-07-08T00:08:58.820175+00:00",
@@ -3638,8 +3650,8 @@
     "etag": "\"51fd9ac00a2bb3857b4043103455d283\""
   },
   "https://www.mozilla.org/en-CA/": {
-    "date": "2020-07-08T00:08:16.861057+00:00",
-    "etag": "\"849592612236a374a8a705d2664383cd\""
+    "date": "2020-07-17T00:10:17.912176+00:00",
+    "etag": "\"24a7ed813576e073ad7c27ef7dcc5890\""
   },
   "https://www.mozilla.org/en-CA/about/": {
     "date": "2020-07-08T00:08:01.627170+00:00",
@@ -3724,8 +3736,8 @@
     "etag": "\"f21cb97b253b97d75c81cc4a1ff32553\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:56.028230+00:00",
-    "etag": "\"48928a743979e33d3a8c7eccae4a42c7\""
+    "date": "2020-07-17T00:09:38.231023+00:00",
+    "etag": "\"97c2064441ddd50779ff5b21efdae1e6\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/what-is-a-browser/": {
     "date": "2020-07-08T00:07:44.234603+00:00",
@@ -3740,16 +3752,16 @@
     "etag": "\"6ce5b99efb518942c7bb310e8bbaa454\""
   },
   "https://www.mozilla.org/en-CA/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:14.835985+00:00",
-    "etag": "\"c27ed3b7ec912833b6806bd15d031839\""
+    "date": "2020-07-17T00:11:38.809156+00:00",
+    "etag": "\"bb67a2d6707628c2f6d574a63ecc6a1b\""
   },
   "https://www.mozilla.org/en-CA/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.872160+00:00",
-    "etag": "\"d2bcf80dcbe1472dc721ff3d83df26ae\""
+    "date": "2020-07-17T00:12:14.048853+00:00",
+    "etag": "\"cfb9c3a0ceaadd88650a34371303f440\""
   },
   "https://www.mozilla.org/en-CA/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.797843+00:00",
-    "etag": "\"357df0f00644a949d244e9d2b3dee348\""
+    "date": "2020-07-17T00:12:17.911850+00:00",
+    "etag": "\"f95d94c84976d347d01d6d65a226edfc\""
   },
   "https://www.mozilla.org/en-CA/firefox/developer/": {
     "date": "2020-07-08T00:08:59.856384+00:00",
@@ -3764,36 +3776,36 @@
     "etag": "\"59cf3f99c7b55c5f5ac7845a9c2436c5\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/": {
-    "date": "2020-07-08T00:09:16.013281+00:00",
-    "etag": "\"4806122a32814903c9bd80a2e04f6f44\""
+    "date": "2020-07-17T00:11:24.092060+00:00",
+    "etag": "\"c55c3d7f2d96787a4f09131131f3f706\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.815213+00:00",
     "etag": "\"06c80908b913b58edf270e0423e27f69\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:05.343349+00:00",
-    "etag": "\"6ada2bc2a9cfecd6fe0281f52166a9a1\""
+    "date": "2020-07-17T00:10:55.759651+00:00",
+    "etag": "\"b00308a53fd259c1331798186d63b9fd\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:54.616463+00:00",
-    "etag": "\"65d9451b5abb6a7dc42f95310e784768\""
+    "date": "2020-07-17T00:11:44.881591+00:00",
+    "etag": "\"eec61287d24e97402c3a4276b10cfc6e\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:47.763427+00:00",
-    "etag": "\"1ca70358f871c58c03f705e19f85ad00\""
+    "date": "2020-07-17T00:11:40.005780+00:00",
+    "etag": "\"3a7fedf59a36185c9680cd53ff4d8168\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:05.024162+00:00",
-    "etag": "\"71cdd715f4f40e2e3fad024aa07c74c1\""
+    "date": "2020-07-17T00:11:34.765098+00:00",
+    "etag": "\"17eb0e5a2789641955e49cd8586a2a1a\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:00.928994+00:00",
-    "etag": "\"9c8f305751e2d5c7af415e0250a6b6d7\""
+    "date": "2020-07-17T00:11:28.609835+00:00",
+    "etag": "\"76fa7e501d6887ef5d5430c1c394a095\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:36.991037+00:00",
-    "etag": "\"e16d682cf8ad14826009b3b549354d54\""
+    "date": "2020-07-17T00:11:22.869542+00:00",
+    "etag": "\"67e57b09cd26152672a65447208cba9b\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.814539+00:00",
@@ -3928,8 +3940,8 @@
     "etag": "\"579b92c45334f6171f74641c0c262363\""
   },
   "https://www.mozilla.org/en-GB/": {
-    "date": "2020-07-08T00:08:08.627723+00:00",
-    "etag": "\"e3318ecf5859f3857c35ad29e3d96d5d\""
+    "date": "2020-07-17T00:09:59.728366+00:00",
+    "etag": "\"f6c489d46fc12229e5860c333ac50dd3\""
   },
   "https://www.mozilla.org/en-GB/about/": {
     "date": "2020-07-08T00:07:58.345390+00:00",
@@ -4014,8 +4026,8 @@
     "etag": "\"aa1744155ed5934af2c48c4c91edf69a\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:53.698933+00:00",
-    "etag": "\"8cfe95c9fa0b9616c7e32fb83ec16134\""
+    "date": "2020-07-17T00:09:29.479331+00:00",
+    "etag": "\"14939ebc763c01236e0c1b61b66e7e11\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/what-is-a-browser/": {
     "date": "2020-07-08T00:07:43.938785+00:00",
@@ -4030,16 +4042,16 @@
     "etag": "\"5eec1e651e94be29bb3d5f905fe9442f\""
   },
   "https://www.mozilla.org/en-GB/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.041396+00:00",
-    "etag": "\"c1d0566a6f105c504f33e877dc65852a\""
+    "date": "2020-07-17T00:11:45.162300+00:00",
+    "etag": "\"60406073e426bb3b05599f5bf97a5df3\""
   },
   "https://www.mozilla.org/en-GB/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.582315+00:00",
-    "etag": "\"02438300e49c027e38a1cd7b28426051\""
+    "date": "2020-07-17T00:12:19.957515+00:00",
+    "etag": "\"da6f62eb3945ab39a44c78e7b00b3407\""
   },
   "https://www.mozilla.org/en-GB/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.551486+00:00",
-    "etag": "\"d1637c24d5f3bb26588e7d2e7189d2a5\""
+    "date": "2020-07-17T00:12:23.618629+00:00",
+    "etag": "\"ad758cab4032ffdbae8b231de500757c\""
   },
   "https://www.mozilla.org/en-GB/firefox/developer/": {
     "date": "2020-07-08T00:08:54.572011+00:00",
@@ -4054,36 +4066,36 @@
     "etag": "\"d1cb0a7e52bcb2371a3b7a8900d68897\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/": {
-    "date": "2020-07-08T00:09:14.592706+00:00",
-    "etag": "\"72187ade187a4b04272fc7091e1d0dce\""
+    "date": "2020-07-17T00:11:15.594854+00:00",
+    "etag": "\"c6a887c578f2504ac7e99806e1f32685\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:06.857842+00:00",
     "etag": "\"77d102a3d4e65c9b0f06c2c62c022684\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:04.266612+00:00",
-    "etag": "\"f8e96389f5feb5e2024edff1e1c61725\""
+    "date": "2020-07-17T00:11:46.403518+00:00",
+    "etag": "\"1edac5ba491334190413719b8489064c\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:52.764261+00:00",
-    "etag": "\"37bc89f8ef552be103ada1a53ba8b8ba\""
+    "date": "2020-07-17T00:11:41.834003+00:00",
+    "etag": "\"9f45e19d3aeff5b7009e9e4424b2b44c\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:39.021838+00:00",
-    "etag": "\"a4f47f638156344a88621eee1d6655fa\""
+    "date": "2020-07-17T00:11:36.690619+00:00",
+    "etag": "\"b053f84eba99e6cf4162c40d15f63754\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:03.878555+00:00",
-    "etag": "\"215842b807a1376d15f063b6b17b3f8d\""
+    "date": "2020-07-17T00:11:30.558597+00:00",
+    "etag": "\"cd5de8ee823e65044a9160fe834eb4c2\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:55.180107+00:00",
-    "etag": "\"9c404f5c65655e76aa9cb18a4c661d88\""
+    "date": "2020-07-17T00:11:25.235818+00:00",
+    "etag": "\"d6de6299a4b55c0cbf96afbf35084088\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:34.484222+00:00",
-    "etag": "\"509fbdd7e01934337e3ebbcb0f25ce43\""
+    "date": "2020-07-17T00:11:15.390628+00:00",
+    "etag": "\"84159579e148bcdb6681e2ab29a5dfbf\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.875342+00:00",
@@ -4214,8 +4226,8 @@
     "etag": "\"8e0f56ef3e606cb1a6427e91448740f4\""
   },
   "https://www.mozilla.org/en-US/": {
-    "date": "2020-07-08T00:08:04.219036+00:00",
-    "etag": "\"f5afb5ef7873ad70cef14a9c4ed3fe17\""
+    "date": "2020-07-17T00:09:54.335515+00:00",
+    "etag": "\"dafe9887e73b3315bc694086a1a24c9f\""
   },
   "https://www.mozilla.org/en-US/ITU/": {
     "date": "2018-08-15T03:29:18.987358+00:00",
@@ -9351,8 +9363,8 @@
     "etag": "\"a4b8ba91cde5e02dbc0c0c848d2586c7\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:52.334411+00:00",
-    "etag": "\"f08c50ee47833de98b7b2e0a83515de0\""
+    "date": "2020-07-17T00:09:24.970159+00:00",
+    "etag": "\"5eb0886b7c448d32992e32b6f606681f\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/incognito-browser/": {
     "date": "2020-07-08T00:07:44.938143+00:00",
@@ -9375,16 +9387,16 @@
     "etag": "\"e682164dd0861cf2e7714436f9fdafd0\""
   },
   "https://www.mozilla.org/en-US/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.140830+00:00",
-    "etag": "\"94ac1e247762987981ccb353b272a7b1\""
+    "date": "2020-07-17T00:11:42.166491+00:00",
+    "etag": "\"420eeec741ae8275fb2a2a8704c3fd54\""
   },
   "https://www.mozilla.org/en-US/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:48.605221+00:00",
-    "etag": "\"d86b5fa34eb6bec9d63b93386d036cdd\""
+    "date": "2020-07-17T00:12:17.469338+00:00",
+    "etag": "\"ddf072521d6918ec206683bb8339f905\""
   },
   "https://www.mozilla.org/en-US/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.492442+00:00",
-    "etag": "\"d6982523e09c78df5e6542a66b365b6d\""
+    "date": "2020-07-17T00:12:20.887962+00:00",
+    "etag": "\"27efa941a46a2811c975d72d3ebba55b\""
   },
   "https://www.mozilla.org/en-US/firefox/developer/": {
     "date": "2020-07-08T00:08:50.772115+00:00",
@@ -9407,40 +9419,40 @@
     "etag": "\"19132ff933201aac129b7b7ba0837f55\""
   },
   "https://www.mozilla.org/en-US/firefox/features/": {
-    "date": "2020-07-08T00:09:21.863785+00:00",
-    "etag": "\"0e0ea8964357e2d697b6aea6f0534dec\""
+    "date": "2020-07-17T00:11:13.941980+00:00",
+    "etag": "\"453c4ab3f5dbb498cb370d5b17ee8a1d\""
   },
   "https://www.mozilla.org/en-US/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:05.960700+00:00",
     "etag": "\"a003c4b5f78c2f07352e3d9c2d3e6eef\""
   },
   "https://www.mozilla.org/en-US/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:11.517794+00:00",
-    "etag": "\"a35ba8081d0d93bd87b9e40bfb5ca83d\""
+    "date": "2020-07-17T00:11:45.663911+00:00",
+    "etag": "\"e0db4c691ec1d72cdaf870a89c86122b\""
   },
   "https://www.mozilla.org/en-US/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:01.450754+00:00",
-    "etag": "\"faf60631bac1f7a0dada4317ae5cee10\""
+    "date": "2020-07-17T00:11:41.124115+00:00",
+    "etag": "\"5505950bd0042472abad4e102f968d91\""
   },
   "https://www.mozilla.org/en-US/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:35.374727+00:00",
-    "etag": "\"30d9c32bd8a30e270833a51a70039908\""
+    "date": "2020-07-17T00:11:35.759584+00:00",
+    "etag": "\"af6900c8a8033399d33511017f3ed049\""
   },
   "https://www.mozilla.org/en-US/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:10.215564+00:00",
-    "etag": "\"09df5be3d2b197e99a0c48e8388ce766\""
+    "date": "2020-07-17T00:11:29.953994+00:00",
+    "etag": "\"d0ce1ca4f88c3934fd69b2ed3f66ba86\""
   },
   "https://www.mozilla.org/en-US/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:51.729086+00:00",
-    "etag": "\"ac1bfad227a142863efae6acc93aaf4d\""
+    "date": "2020-07-17T00:11:24.190900+00:00",
+    "etag": "\"64fde6afc818743ddb2979c32ba92189\""
   },
   "https://www.mozilla.org/en-US/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:48.000786+00:00",
-    "etag": "\"0f8ad868f29362266b7e3a8dabeaa631\""
+    "date": "2020-07-17T00:11:13.998769+00:00",
+    "etag": "\"a8af41ad7375dfa8159be1efad8aeaf6\""
   },
   "https://www.mozilla.org/en-US/firefox/features/safebrowser/": {
-    "date": "2020-07-08T00:08:29.072779+00:00",
-    "etag": "\"10500a8a0d8c0ab5d43c887c89cdaa24\""
+    "date": "2020-07-17T00:11:12.990432+00:00",
+    "etag": "\"ff937f1dfc6c68d7990139a867106fd5\""
   },
   "https://www.mozilla.org/en-US/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.514219+00:00",
@@ -10365,8 +10377,8 @@
     "etag": "\"1634066261c957ff0f85d5268893232e\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2020-07-13T07:03:28.171462+00:00",
-    "etag": "\"81d2c16ab7bcbdea488aa3bb7f30fe5a\""
+    "date": "2020-07-17T00:11:55.508444+00:00",
+    "etag": "\"8ce0ecb04eea4788d01a67c4bf610c80\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2020-07-08T00:10:24.289723+00:00",
@@ -14637,8 +14649,8 @@
     "etag": "\"897ccc8fd3ccf6434b56cc34e0b61039\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2020-07-13T07:04:22.799536+00:00",
-    "etag": "\"0639ceb4607991fc083012b73743404a\""
+    "date": "2020-07-17T00:13:58.664372+00:00",
+    "etag": "\"63b4168a94c2232b4f651292715b7a36\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2020-07-08T00:10:19.232476+00:00",
@@ -14941,16 +14953,20 @@
     "etag": "\"44712e4a34e0544d60cd1c55be239622\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2020-26/": {
-    "date": "2020-07-08T00:10:15.851371+00:00",
-    "etag": "\"09e7b706bc6d7d95e2078bffb72efa45\""
+    "date": "2020-07-17T00:13:50.043634+00:00",
+    "etag": "\"ef98ada3ece921c15cb5d1d5c1fb7944\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2020-27/": {
-    "date": "2020-07-08T00:10:15.803097+00:00",
-    "etag": "\"d1ee16ad44abbc97f7abf87b7785ab9a\""
+    "date": "2020-07-17T00:13:49.951591+00:00",
+    "etag": "\"1e130cadfbded8a2569cb000c03b0627\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2020-28/": {
-    "date": "2020-07-13T07:04:19.383711+00:00",
-    "etag": "\"d2bf7abb6f1c30364d2e9a4f46d22d7b\""
+    "date": "2020-07-17T00:13:49.810356+00:00",
+    "etag": "\"e4a08da4d921c565eb169d9c31a5b271\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-29/": {
+    "date": "2020-07-17T00:13:49.668129+00:00",
+    "etag": "\"8e98b4d38168924461f39a5c33382a7d\""
   },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2020-07-08T00:09:17.081721+00:00",
@@ -15069,8 +15085,8 @@
     "etag": "\"48cea2ddc0ff437ac5531398b187f3b4\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2020-07-08T00:10:13.825688+00:00",
-    "etag": "\"9be44b4da33824ab84a42fae7bae6c5a\""
+    "date": "2020-07-17T00:13:45.765202+00:00",
+    "etag": "\"ffe159cfad1985421b07891c00e18506\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2020-07-08T00:09:16.968076+00:00",
@@ -15125,16 +15141,16 @@
     "etag": "\"68121da6d4ac5eb2990bb64f749cff81\""
   },
   "https://www.mozilla.org/eo/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.259090+00:00",
-    "etag": "\"943f181ea21bac91af7db5a89ef90790\""
+    "date": "2020-07-17T00:11:31.405479+00:00",
+    "etag": "\"d0472251888695ee5e1a48dc973d48da\""
   },
   "https://www.mozilla.org/eo/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.477564+00:00",
-    "etag": "\"0fde6c233eb5f3c39b200c259a2778ec\""
+    "date": "2020-07-17T00:12:05.290125+00:00",
+    "etag": "\"bf4c161fbb9572887443df0893714229\""
   },
   "https://www.mozilla.org/eo/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.244644+00:00",
-    "etag": "\"5b20f1d77e6a116e3e439b69672ae1dd\""
+    "date": "2020-07-17T00:12:11.722621+00:00",
+    "etag": "\"9659637424fe7ce3025bec8115bddb87\""
   },
   "https://www.mozilla.org/eo/firefox/developer/": {
     "date": "2020-07-08T00:08:56.822423+00:00",
@@ -15331,8 +15347,8 @@
     "etag": "\"06dcccbb2f40857f8d482b3305c8dc18\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:56.181369+00:00",
-    "etag": "\"23c276d1accaf819d138f66d9401c48a\""
+    "date": "2020-07-17T00:09:35.770679+00:00",
+    "etag": "\"f36b0cbcae96f186224213e6af481521\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:41.161143+00:00",
@@ -15343,16 +15359,16 @@
     "etag": "\"970e8c5578acb676735392c9c60028c5\""
   },
   "https://www.mozilla.org/es-AR/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.853387+00:00",
-    "etag": "\"78321f1722ac858865dadcab7b6cbc1b\""
+    "date": "2020-07-17T00:11:47.640126+00:00",
+    "etag": "\"6dd6d0b0d2eb523831613d705044e32f\""
   },
   "https://www.mozilla.org/es-AR/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:27.102276+00:00",
-    "etag": "\"72a96717cda1623742b5534a482bdba5\""
+    "date": "2020-07-17T00:12:22.137310+00:00",
+    "etag": "\"64c77f1d3c7f172b6a9a0f0505c76ff3\""
   },
   "https://www.mozilla.org/es-AR/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.812061+00:00",
-    "etag": "\"fcdfdb5b19e44b1b40e8a3c1d9434a71\""
+    "date": "2020-07-17T00:12:26.002607+00:00",
+    "etag": "\"5304da6b7043925ec17d7eee577f6e9c\""
   },
   "https://www.mozilla.org/es-AR/firefox/developer/": {
     "date": "2020-07-08T00:08:59.963088+00:00",
@@ -15367,36 +15383,36 @@
     "etag": "\"3023228fe4baa810105ef7d449e4a674\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/": {
-    "date": "2020-07-08T00:09:18.167864+00:00",
-    "etag": "\"cd4cb522d4a3733d84e24070cb82f70c\""
+    "date": "2020-07-17T00:11:19.796698+00:00",
+    "etag": "\"5231ebc19bbd20f9fc74315d53be2d71\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.867131+00:00",
     "etag": "\"bfe58dc5600a5907ddf85470a901d622\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:07.390786+00:00",
-    "etag": "\"f0379a04cd0c7b987ea91290eda9b9b1\""
+    "date": "2020-07-17T00:10:52.679210+00:00",
+    "etag": "\"0a79b17d7bbaf2270843782f77526df3\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:57.442498+00:00",
-    "etag": "\"c4e3755162f9be1bd0c889887917df4d\""
+    "date": "2020-07-17T00:11:43.615817+00:00",
+    "etag": "\"27495f34e5480a79138f909e05de9c35\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:47.950572+00:00",
-    "etag": "\"e374ddb4f602349e3a370d3ef6fc1401\""
+    "date": "2020-07-17T00:11:38.676490+00:00",
+    "etag": "\"499970764d8a5769dbfa37d8482f1243\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:06.921410+00:00",
-    "etag": "\"aa27dd4de59226b05611189fe9a45c96\""
+    "date": "2020-07-17T00:11:32.867692+00:00",
+    "etag": "\"e8b02a91b01e0311493cf6a2b7abcbe4\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:01.033843+00:00",
-    "etag": "\"3934103a6ce7e665ea95a13e3bbd11c7\""
+    "date": "2020-07-17T00:11:27.092761+00:00",
+    "etag": "\"317aa17b2b35ea4cc910efa844a90916\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:41.220057+00:00",
-    "etag": "\"71386a0e41705b13c77da6eac85d2fb2\""
+    "date": "2020-07-17T00:11:20.493162+00:00",
+    "etag": "\"0a19892e9369b59f1b79b99cbfc8a426\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.914890+00:00",
@@ -15585,8 +15601,8 @@
     "etag": "\"ec63e3759b63b3caa299df303dc2caba\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:57.759795+00:00",
-    "etag": "\"ed0b853cb2a64302177824ed93d3334f\""
+    "date": "2020-07-17T00:09:38.917014+00:00",
+    "etag": "\"645837f03b82f11163e1848851c5c7c1\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:43.125582+00:00",
@@ -15597,16 +15613,16 @@
     "etag": "\"02cca1a9f81020ccbd20f4205bad4f15\""
   },
   "https://www.mozilla.org/es-CL/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:23.233899+00:00",
-    "etag": "\"d64a28606188c5633697af71a5d27c32\""
+    "date": "2020-07-17T00:11:39.507052+00:00",
+    "etag": "\"c42c9d57d7ed0befda03aa0a85f277ef\""
   },
   "https://www.mozilla.org/es-CL/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:52.887581+00:00",
-    "etag": "\"4fa4689a1bf3555ecb39623369ff20e5\""
+    "date": "2020-07-17T00:12:14.823484+00:00",
+    "etag": "\"b001e26938de4b03b086c98bdd82cccd\""
   },
   "https://www.mozilla.org/es-CL/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:12.576739+00:00",
-    "etag": "\"9e35dd653230133d2d40e9bbdb66a996\""
+    "date": "2020-07-17T00:12:18.492746+00:00",
+    "etag": "\"1db6e0ec69a1f375e948815a9a1c80e3\""
   },
   "https://www.mozilla.org/es-CL/firefox/developer/": {
     "date": "2020-07-08T00:09:02.075828+00:00",
@@ -15887,8 +15903,8 @@
     "etag": "\"50f52335d4b4e00fb7b631852e562e71\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:56.452147+00:00",
-    "etag": "\"22d34a3c8a74df51e3685a14d772a69b\""
+    "date": "2020-07-17T00:09:26.139439+00:00",
+    "etag": "\"008b1cdad4b120d3b14c643ad93c23a8\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:41.701066+00:00",
@@ -15899,16 +15915,16 @@
     "etag": "\"5807b79ad0cf4f3a83fbc5701b3c13c3\""
   },
   "https://www.mozilla.org/es-ES/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:20.587167+00:00",
-    "etag": "\"8cf6feedbb5ef479c5b0af48332f80f7\""
+    "date": "2020-07-17T00:11:54.508452+00:00",
+    "etag": "\"435a9197f6bbce46fde1638bf0a2b4ca\""
   },
   "https://www.mozilla.org/es-ES/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:47.423559+00:00",
-    "etag": "\"9e5be1582397abbcdb4c7c9ce1a27c84\""
+    "date": "2020-07-17T00:12:29.353457+00:00",
+    "etag": "\"5d18a06857e8e951081cfff5fd5fed32\""
   },
   "https://www.mozilla.org/es-ES/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:09.951436+00:00",
-    "etag": "\"200bf66923195be15bd4953802ed7cb2\""
+    "date": "2020-07-17T00:12:31.304116+00:00",
+    "etag": "\"e1aae035032d9e5dd2b3a835224756c9\""
   },
   "https://www.mozilla.org/es-ES/firefox/developer/": {
     "date": "2020-07-08T00:09:00.780501+00:00",
@@ -16197,8 +16213,8 @@
     "etag": "\"53cdec76b2c29a90bf2cbdfb298e3214\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:53.954789+00:00",
-    "etag": "\"8caa62b8c646e9439bcbf8a7e09a409c\""
+    "date": "2020-07-17T00:09:36.696478+00:00",
+    "etag": "\"a94590e8066774fbe01ddd39f5c15723\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:37.136585+00:00",
@@ -16209,16 +16225,16 @@
     "etag": "\"0c33a1e266a777d63877930f336715a2\""
   },
   "https://www.mozilla.org/es-MX/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.153296+00:00",
-    "etag": "\"2e9fbb4ed6b7941812ab2300eafa739e\""
+    "date": "2020-07-17T00:11:36.666070+00:00",
+    "etag": "\"9df86ef82d59cd45b20015abb90563fd\""
   },
   "https://www.mozilla.org/es-MX/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.694744+00:00",
-    "etag": "\"9f2c6454a20a9b56a8a7c87f979cae9d\""
+    "date": "2020-07-17T00:12:10.686790+00:00",
+    "etag": "\"710d6876a605af627e01a2563bf021f2\""
   },
   "https://www.mozilla.org/es-MX/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.669475+00:00",
-    "etag": "\"daaf84484665c3ca4ba5ccd82e7fd250\""
+    "date": "2020-07-17T00:12:15.751248+00:00",
+    "etag": "\"becf82b1a702cbd18c44eca27f1964cb\""
   },
   "https://www.mozilla.org/es-MX/firefox/developer/": {
     "date": "2020-07-08T00:08:55.416112+00:00",
@@ -16425,16 +16441,16 @@
     "etag": "\"d37c00740f46fb19c3f15e74fcd065b7\""
   },
   "https://www.mozilla.org/et/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.364383+00:00",
-    "etag": "\"6c1e9519d3d76eeb2158d7f5a557f46e\""
+    "date": "2020-07-17T00:11:27.979636+00:00",
+    "etag": "\"702ef7667e0c30bae0d0ad8e860d837c\""
   },
   "https://www.mozilla.org/et/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.730320+00:00",
-    "etag": "\"d3ae1a1bbfb4425e0899fba5517d1523\""
+    "date": "2020-07-17T00:12:02.219061+00:00",
+    "etag": "\"33a654220c1f966711a2cccef84eab43\""
   },
   "https://www.mozilla.org/et/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.224117+00:00",
-    "etag": "\"1d877413e5f9f73e26a22f2785b0c52c\""
+    "date": "2020-07-17T00:12:09.148941+00:00",
+    "etag": "\"3822f318fb29f8a393f99e3f0a5ba37c\""
   },
   "https://www.mozilla.org/et/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:09:25.421994+00:00",
@@ -16577,16 +16593,16 @@
     "etag": "\"f90c602e21af90e4904db75a84ec8926\""
   },
   "https://www.mozilla.org/eu/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.592320+00:00",
-    "etag": "\"b9278accccb58d25b365a5e98f535a3c\""
+    "date": "2020-07-17T00:11:49.477136+00:00",
+    "etag": "\"5e6dc476f3bae223b9ee11170b5f33a6\""
   },
   "https://www.mozilla.org/eu/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.785093+00:00",
-    "etag": "\"151f05ff833f3639e6ab4d28cfc7c44f\""
+    "date": "2020-07-17T00:12:24.204810+00:00",
+    "etag": "\"2ab6769b43285ae46a52c7b105f94d8d\""
   },
   "https://www.mozilla.org/eu/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.619824+00:00",
-    "etag": "\"3a94345984c9e6bd876e642def3ba9bc\""
+    "date": "2020-07-17T00:12:27.755639+00:00",
+    "etag": "\"6007739864ce4401f1eaf299ae090201\""
   },
   "https://www.mozilla.org/eu/firefox/features/": {
     "date": "2020-07-08T00:09:16.677898+00:00",
@@ -16735,16 +16751,16 @@
     "etag": "\"56c3eff2536c514b6c25ddad28b48124\""
   },
   "https://www.mozilla.org/fa/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.955933+00:00",
-    "etag": "\"133e607a74aa149e31806886354f6261\""
+    "date": "2020-07-17T00:11:29.742721+00:00",
+    "etag": "\"290d593ea8bff688f4454a7f0bcfa078\""
   },
   "https://www.mozilla.org/fa/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:27.221765+00:00",
-    "etag": "\"79d80e1afd91951c12c728ba13df2bd9\""
+    "date": "2020-07-17T00:12:03.902442+00:00",
+    "etag": "\"ae75d38dbf233f46dcf7720e36a2f8e3\""
   },
   "https://www.mozilla.org/fa/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.917813+00:00",
-    "etag": "\"83bae7ae68b38a06905ba5c0465080cb\""
+    "date": "2020-07-17T00:12:10.765057+00:00",
+    "etag": "\"fa02625fe528cac6dd6e3d83667ab4a5\""
   },
   "https://www.mozilla.org/fa/firefox/developer/": {
     "date": "2020-07-08T00:09:00.234518+00:00",
@@ -16951,16 +16967,16 @@
     "etag": "\"579530e78e2a4a52798db3ff69c55ea7\""
   },
   "https://www.mozilla.org/fi/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.789588+00:00",
-    "etag": "\"2de50994d9d27e74b8af8eb7fa5c002b\""
+    "date": "2020-07-17T00:11:35.534856+00:00",
+    "etag": "\"06188196833d1cf4ea89e6f216be54b3\""
   },
   "https://www.mozilla.org/fi/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:49.727646+00:00",
-    "etag": "\"e8573c8786b89f625c8d5ec2d36f2816\""
+    "date": "2020-07-17T00:12:08.973118+00:00",
+    "etag": "\"7801be3a8f96e817cb8b093f7d928fe0\""
   },
   "https://www.mozilla.org/fi/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.125929+00:00",
-    "etag": "\"3e5a198fb1bb0a02421d79c8160024a8\""
+    "date": "2020-07-17T00:12:15.013749+00:00",
+    "etag": "\"cd13b074b55c28e1c616b7dc02122005\""
   },
   "https://www.mozilla.org/fi/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:09:25.650991+00:00",
@@ -17157,16 +17173,16 @@
     "etag": "\"86e13e0f087c07bc07d82dfbf83e3e85\""
   },
   "https://www.mozilla.org/fr/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.139653+00:00",
-    "etag": "\"75866609d28e871009879e7f343bfc5b\""
+    "date": "2020-07-17T00:11:39.922682+00:00",
+    "etag": "\"b93fab104d5dadceef1b3be99553ef6a\""
   },
   "https://www.mozilla.org/fr/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.352484+00:00",
-    "etag": "\"7090c57909ec31158ccc7303edf0f3a3\""
+    "date": "2020-07-17T00:12:15.226830+00:00",
+    "etag": "\"5192e761afc331e728fc722a00bebf65\""
   },
   "https://www.mozilla.org/fr/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.140908+00:00",
-    "etag": "\"dcbc3806e372a719e55900a9d767ccbb\""
+    "date": "2020-07-17T00:12:18.849330+00:00",
+    "etag": "\"bdad24f42f717623da18f2b2fddada40\""
   },
   "https://www.mozilla.org/fr/firefox/developer/": {
     "date": "2020-07-08T00:08:56.384905+00:00",
@@ -17483,8 +17499,8 @@
     "etag": "\"1d9b3a490e13f6a76b2f3b4a6865247c\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/compare/safari/": {
-    "date": "2020-07-15T18:07:48.899620+00:00",
-    "etag": "\"461a85676fca624e6ec05ff5f1a1b7b5\""
+    "date": "2020-07-17T00:09:24.771520+00:00",
+    "etag": "\"87f9722aff9c5c9c4912e031fd8777f8\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:42.020000+00:00",
@@ -17495,16 +17511,16 @@
     "etag": "\"d134809dcade41153c8d41d6780d6c42\""
   },
   "https://www.mozilla.org/fy-NL/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.809512+00:00",
-    "etag": "\"cb31653b97722814279b84ea06320ecd\""
+    "date": "2020-07-17T00:11:30.091049+00:00",
+    "etag": "\"726df8b066c122e552040479301af374\""
   },
   "https://www.mozilla.org/fy-NL/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:52.049135+00:00",
-    "etag": "\"964e36aac197df0ef8bd0660de925c1f\""
+    "date": "2020-07-17T00:12:04.199694+00:00",
+    "etag": "\"e7fb75e9c3a42a024527e8ccf432add4\""
   },
   "https://www.mozilla.org/fy-NL/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:12.146408+00:00",
-    "etag": "\"d6385d497baa7fad0e6df67b5c0eaa39\""
+    "date": "2020-07-17T00:12:11.074615+00:00",
+    "etag": "\"eb1affefbe6040a591f8d1b578e1eff3\""
   },
   "https://www.mozilla.org/fy-NL/firefox/developer/": {
     "date": "2020-07-08T00:09:00.900004+00:00",
@@ -17519,36 +17535,36 @@
     "etag": "\"0ecca1c6a69dd695c28e214cfb970b71\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/": {
-    "date": "2020-07-08T00:09:23.678660+00:00",
-    "etag": "\"e6a5d9d28ca58aea0a7f063cf9d82b0d\""
+    "date": "2020-07-17T00:11:13.662906+00:00",
+    "etag": "\"e0ad66bc95aee0dfec53f58ea0cddbae\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:09.631789+00:00",
     "etag": "\"42916f42ddf926bdf16d9d8663b9765c\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:13.667822+00:00",
-    "etag": "\"2393f04ca90dcf5e11af287ef780005f\""
+    "date": "2020-07-17T00:11:45.514614+00:00",
+    "etag": "\"8e5a7fc3d526be0d5c56d68171609ae1\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:03.393190+00:00",
-    "etag": "\"587f9fc714bf618e90da39be1d689c4e\""
+    "date": "2020-07-17T00:11:40.860520+00:00",
+    "etag": "\"11fa7314e8fd23de9c62ae4f6b584ed7\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:49.356281+00:00",
-    "etag": "\"234086add819aa260fcde94f022ec48d\""
+    "date": "2020-07-17T00:11:35.564746+00:00",
+    "etag": "\"67bbba8ac399afd485b36f4219e23ee6\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/memory/": {
-    "date": "2020-07-08T00:08:34.011427+00:00",
-    "etag": "\"3a0e41c4c3a49bb7d5eaf7537d61ab12\""
+    "date": "2020-07-17T00:11:29.758521+00:00",
+    "etag": "\"3d9d6ed6d936d42f3519af64690151bd\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:02.065788+00:00",
-    "etag": "\"db3e437fad6077e10fc58980b54ebca7\""
+    "date": "2020-07-17T00:11:23.963909+00:00",
+    "etag": "\"5f2c98a295c0f984a37074a3aeaa7a72\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:50.630244+00:00",
-    "etag": "\"f67c4922f3f31e1d235be75cca33b725\""
+    "date": "2020-07-17T00:11:13.676964+00:00",
+    "etag": "\"fb8e02a1a21fbe439f62630182a42e1e\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:27.449362+00:00",
@@ -17687,16 +17703,16 @@
     "etag": "\"bdfdb859a491569f56835cf7d67a41bf\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.299056+00:00",
-    "etag": "\"f8851639a29baaf0fe17cba6be303a4b\""
+    "date": "2020-07-17T00:11:57.634631+00:00",
+    "etag": "\"ddea5c33ff6933d7e0d2f1019513eef2\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.805627+00:00",
-    "etag": "\"d5cfec5ec6ef6d6751f2b953b4b706f6\""
+    "date": "2020-07-17T00:12:32.292323+00:00",
+    "etag": "\"3b867c8c2d59145acb98bc62e773d95e\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.796168+00:00",
-    "etag": "\"a262189f2121d451500477bde1b7c7c4\""
+    "date": "2020-07-17T00:12:34.188992+00:00",
+    "etag": "\"cf142f4f0378e274947fb585697fc029\""
   },
   "https://www.mozilla.org/ga-IE/firefox/features/": {
     "date": "2020-07-08T00:09:14.923415+00:00",
@@ -17815,16 +17831,16 @@
     "etag": "\"5356c8d16de5f9d9033798f40bf58b6e\""
   },
   "https://www.mozilla.org/gl/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:23.020188+00:00",
-    "etag": "\"0f92f87c3181936509fa0bfbaaaebc47\""
+    "date": "2020-07-17T00:11:28.754876+00:00",
+    "etag": "\"a502b31a4a6a8a0c5f6409c34d257cb5\""
   },
   "https://www.mozilla.org/gl/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:52.566012+00:00",
-    "etag": "\"49421c80ff8d8249eebb98f68de0362f\""
+    "date": "2020-07-17T00:12:02.919937+00:00",
+    "etag": "\"227cdbfb0bc537ffde2b2ae271f7d035\""
   },
   "https://www.mozilla.org/gl/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:12.343591+00:00",
-    "etag": "\"54863595b076a866a5c4c12922680589\""
+    "date": "2020-07-17T00:12:09.946669+00:00",
+    "etag": "\"e5f844d36f8414ed670437daf86323e5\""
   },
   "https://www.mozilla.org/gl/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:08:45.958575+00:00",
@@ -17951,8 +17967,8 @@
     "etag": "\"81e322ec9be6d2f9c8abd185dd764f2c\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:55.646486+00:00",
-    "etag": "\"97af99038e0db29d0e64be608022a2d1\""
+    "date": "2020-07-17T00:09:36.379107+00:00",
+    "etag": "\"bb13047792bb0493d9c9f5358fb3a2cc\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:40.168077+00:00",
@@ -17963,16 +17979,16 @@
     "etag": "\"653af0e63bb1de68324bec5fe4b77791\""
   },
   "https://www.mozilla.org/gn/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.270699+00:00",
-    "etag": "\"3e2b625091392bf6f5805fe15f17a4fd\""
+    "date": "2020-07-17T00:11:55.918958+00:00",
+    "etag": "\"2f6676d668cc19ad776d01ad01495f5b\""
   },
   "https://www.mozilla.org/gn/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:51.189945+00:00",
-    "etag": "\"daf725ed3e28d4be1682f0dc9a1af33c\""
+    "date": "2020-07-17T00:12:30.969644+00:00",
+    "etag": "\"6a7abdd7728c48a13eba399be394e1ab\""
   },
   "https://www.mozilla.org/gn/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.594253+00:00",
-    "etag": "\"eb6363d6f329d5bbc8543aac39b33136\""
+    "date": "2020-07-17T00:12:32.924060+00:00",
+    "etag": "\"c38341950f5e91252ea8d72ee318ee53\""
   },
   "https://www.mozilla.org/gn/firefox/developer/": {
     "date": "2020-07-08T00:08:59.335603+00:00",
@@ -17987,36 +18003,36 @@
     "etag": "\"ecdf31a8a8e43684f2e8fc86ad1fdc13\""
   },
   "https://www.mozilla.org/gn/firefox/features/": {
-    "date": "2020-07-08T00:09:23.086109+00:00",
-    "etag": "\"5d6925570dd89616aaac2da84a69bc40\""
+    "date": "2020-07-17T00:11:20.211734+00:00",
+    "etag": "\"cfffe6765bf1c34ac035571da71b31a4\""
   },
   "https://www.mozilla.org/gn/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.503627+00:00",
     "etag": "\"8ed53f279d2b044cf6368c28abfab543\""
   },
   "https://www.mozilla.org/gn/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:13.107916+00:00",
-    "etag": "\"1fb6dd5c446cc222c55bee98b96497a2\""
+    "date": "2020-07-17T00:10:53.026325+00:00",
+    "etag": "\"2022350c2078d15106b391451eaceb85\""
   },
   "https://www.mozilla.org/gn/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:02.805592+00:00",
-    "etag": "\"4f03c408fd5edf31d3494f5560f6e35d\""
+    "date": "2020-07-17T00:11:43.822769+00:00",
+    "etag": "\"666c6d3600f78a44016cdab5c917a385\""
   },
   "https://www.mozilla.org/gn/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:46.900796+00:00",
-    "etag": "\"958e05c39747a22c41bb5aff2f8111d3\""
+    "date": "2020-07-17T00:11:38.788964+00:00",
+    "etag": "\"0e973d3d6ec508e9839a28de2a9974f8\""
   },
   "https://www.mozilla.org/gn/firefox/features/memory/": {
-    "date": "2020-07-08T00:08:32.219924+00:00",
-    "etag": "\"5cc4cb068e3c1af61b34a6ba59db249c\""
+    "date": "2020-07-17T00:11:33.255276+00:00",
+    "etag": "\"0af9c024e5828e6b15b4822fe86c2ba3\""
   },
   "https://www.mozilla.org/gn/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:00.405625+00:00",
-    "etag": "\"4d4f461541775d00cdd2e4da083fa717\""
+    "date": "2020-07-17T00:11:27.356715+00:00",
+    "etag": "\"7fe88697e47408b20f50b10a37254b85\""
   },
   "https://www.mozilla.org/gn/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:49.674847+00:00",
-    "etag": "\"9b2a56cef8e1fdbb68baaf096fa208f1\""
+    "date": "2020-07-17T00:11:21.118125+00:00",
+    "etag": "\"cdfc4e376dce853e21b03f61832678c0\""
   },
   "https://www.mozilla.org/gn/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.492922+00:00",
@@ -18087,8 +18103,8 @@
     "etag": "\"574997288bf2c5c97b3e4a0f07650125\""
   },
   "https://www.mozilla.org/gn/mission/": {
-    "date": "2020-07-08T00:08:16.053392+00:00",
-    "etag": "\"839a420a8a9f7514b54c5a7b73153260\""
+    "date": "2020-07-17T00:10:15.750350+00:00",
+    "etag": "\"c947c7302bc6584471e3b6fb3ad6ef7a\""
   },
   "https://www.mozilla.org/gn/plugincheck/": {
     "date": "2018-08-15T03:28:55.787127+00:00",
@@ -18143,16 +18159,16 @@
     "etag": "\"8b854380305549597a2bed0fecab54bb\""
   },
   "https://www.mozilla.org/gu-IN/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.818923+00:00",
-    "etag": "\"2d1f2b5f24601f2e976dc7fb152e17a4\""
+    "date": "2020-07-17T00:11:40.575472+00:00",
+    "etag": "\"a1ffce5ca1c135e745a5a2a6e23833a4\""
   },
   "https://www.mozilla.org/gu-IN/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.001206+00:00",
-    "etag": "\"939e4aeaeecc49c05079c18323c22f56\""
+    "date": "2020-07-17T00:12:16.102189+00:00",
+    "etag": "\"c28a88b746b64123ff66438a3110f10e\""
   },
   "https://www.mozilla.org/gu-IN/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.822287+00:00",
-    "etag": "\"d93bddbf8b6aba9f6d02e7de5a759b0c\""
+    "date": "2020-07-17T00:12:19.917876+00:00",
+    "etag": "\"e486f1b5685e8d6f08267e46d59cec55\""
   },
   "https://www.mozilla.org/gu-IN/firefox/developer/": {
     "date": "2020-07-08T00:08:54.775001+00:00",
@@ -18279,44 +18295,44 @@
     "etag": "\"cd6c300f8fa8f631fc3a3741247ecad2\""
   },
   "https://www.mozilla.org/he/firefox/channel/android/": {
-    "date": "2020-07-13T07:03:33.536562+00:00",
-    "etag": "\"5dfb6f0036df635af3515c4ffa4dc909\""
+    "date": "2020-07-17T00:11:41.403987+00:00",
+    "etag": "\"2222338d533d58eb6b7dc772c72d2121\""
   },
   "https://www.mozilla.org/he/firefox/channel/desktop/": {
-    "date": "2020-07-13T07:03:06.498265+00:00",
-    "etag": "\"e7e7e3a1a4b03574dc57f29f69cc4b99\""
+    "date": "2020-07-17T00:12:16.859708+00:00",
+    "etag": "\"5ef56ed18253a9894db18f844974c671\""
   },
   "https://www.mozilla.org/he/firefox/channel/ios/": {
-    "date": "2020-07-13T07:03:24.009759+00:00",
-    "etag": "\"7fc56337f4637bbd1775281ca1b6c6f8\""
+    "date": "2020-07-17T00:12:20.471311+00:00",
+    "etag": "\"6c399dc74e88a568e720e8836facf209\""
   },
   "https://www.mozilla.org/he/firefox/features/": {
-    "date": "2020-07-13T07:03:39.712971+00:00",
-    "etag": "\"49fb0e526b0f4853b168ab7e910bf1c7\""
+    "date": "2020-07-17T00:11:13.008596+00:00",
+    "etag": "\"0e2011c64f09bd0a55a6dc5cc9f96927\""
   },
   "https://www.mozilla.org/he/firefox/features/bookmarks/": {
-    "date": "2020-07-13T07:03:30.280655+00:00",
-    "etag": "\"751f2cb4f4196b37bc8c5bce4022bcfa\""
+    "date": "2020-07-17T00:11:45.262577+00:00",
+    "etag": "\"ebd426111ae46fac01ef1ca0dc9bd825\""
   },
   "https://www.mozilla.org/he/firefox/features/fast/": {
-    "date": "2020-07-13T07:03:20.778467+00:00",
-    "etag": "\"9033b6de8456d438f6f37d66f46a2ee3\""
+    "date": "2020-07-17T00:11:40.603883+00:00",
+    "etag": "\"1cc69ae1a2d2df35eb41f6ee8ba1abf7\""
   },
   "https://www.mozilla.org/he/firefox/features/independent/": {
-    "date": "2020-07-13T07:03:06.953258+00:00",
-    "etag": "\"fedb5eda6409b61c26328bbe1d5e9a73\""
+    "date": "2020-07-17T00:11:35.310581+00:00",
+    "etag": "\"5c4b9f488db2bcbddd83df23ae226e00\""
   },
   "https://www.mozilla.org/he/firefox/features/memory/": {
-    "date": "2020-07-13T07:03:01.568324+00:00",
-    "etag": "\"859442da2afe02fd3976d3e9713aa6da\""
+    "date": "2020-07-17T00:11:29.429425+00:00",
+    "etag": "\"ea381043910ba2d5e060f9b53510b4be\""
   },
   "https://www.mozilla.org/he/firefox/features/password-manager/": {
-    "date": "2020-07-13T07:03:16.117295+00:00",
-    "etag": "\"ec63876b705bcc39283c00682c2fc803\""
+    "date": "2020-07-17T00:11:23.710175+00:00",
+    "etag": "\"f5e974cfcf463ba83ff11534a4c413b9\""
   },
   "https://www.mozilla.org/he/firefox/features/private-browsing/": {
-    "date": "2020-07-13T07:03:11.813841+00:00",
-    "etag": "\"747b4c9944a3d156245759fea2a6f7c8\""
+    "date": "2020-07-17T00:11:13.527448+00:00",
+    "etag": "\"3e7d03313c559dddaa5dc9a5a7bbe83c\""
   },
   "https://www.mozilla.org/he/firefox/features/sync/": {
     "date": "2018-08-15T03:32:03.664154+00:00",
@@ -18441,16 +18457,16 @@
     "etag": "\"409631c34383f97eb827ea68c2c41ebf\""
   },
   "https://www.mozilla.org/hi-IN/firefox/channel/android/": {
-    "date": "2020-07-13T07:03:30.874276+00:00",
-    "etag": "\"5b011be00c57134f445192f469177398\""
+    "date": "2020-07-17T00:11:49.764756+00:00",
+    "etag": "\"7157199cdec82d0bb80c798a733d813a\""
   },
   "https://www.mozilla.org/hi-IN/firefox/channel/desktop/": {
-    "date": "2020-07-13T07:03:39.981258+00:00",
-    "etag": "\"3abf50555e3672f6a0ed95cf130ee5f6\""
+    "date": "2020-07-17T00:12:24.616933+00:00",
+    "etag": "\"b1691a9c468cf3f7996150947a824d82\""
   },
   "https://www.mozilla.org/hi-IN/firefox/channel/ios/": {
-    "date": "2020-07-13T07:03:21.131836+00:00",
-    "etag": "\"83a4443e7bad2560d6e155fdf17450c8\""
+    "date": "2020-07-17T00:12:28.064636+00:00",
+    "etag": "\"3e2fb268660b5e17d1b6af3c80cc0b08\""
   },
   "https://www.mozilla.org/hi-IN/firefox/developer/": {
     "date": "2020-07-13T07:03:10.681773+00:00",
@@ -18645,16 +18661,16 @@
     "etag": "\"188a670a246e76c0a36723c13de6aa7b\""
   },
   "https://www.mozilla.org/hr/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.711403+00:00",
-    "etag": "\"e2b545f075e93efe955de4c1e7f1a58d\""
+    "date": "2020-07-17T00:11:56.631166+00:00",
+    "etag": "\"8c3addb8e29a9f973a8a8e8a5f840d8e\""
   },
   "https://www.mozilla.org/hr/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.893415+00:00",
-    "etag": "\"6812bb4205acea331c98385f18ebaca3\""
+    "date": "2020-07-17T00:12:31.664343+00:00",
+    "etag": "\"fec99bdf69de34391bbf73fa4ef89edd\""
   },
   "https://www.mozilla.org/hr/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.716781+00:00",
-    "etag": "\"b709d35107edde95e54dc447fd51d6ee\""
+    "date": "2020-07-17T00:12:33.669298+00:00",
+    "etag": "\"21138754efc9e0211c10b740b960a672\""
   },
   "https://www.mozilla.org/hr/firefox/developer/": {
     "date": "2020-07-08T00:08:53.684388+00:00",
@@ -18835,16 +18851,16 @@
     "etag": "\"ecadb2af20bd06899c4f8fbdd9dd1aa7\""
   },
   "https://www.mozilla.org/hsb/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.029628+00:00",
-    "etag": "\"cedd023a925e7543d33f60329d741eb1\""
+    "date": "2020-07-17T00:11:32.004406+00:00",
+    "etag": "\"2f6413ea7feaa1b4b722a702c633c725\""
   },
   "https://www.mozilla.org/hsb/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.228854+00:00",
-    "etag": "\"d3fd5e3515d69d891a9c056da0bafe98\""
+    "date": "2020-07-17T00:12:05.600963+00:00",
+    "etag": "\"c1fe7701e5e64cc3a8d35e6149e01d2b\""
   },
   "https://www.mozilla.org/hsb/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.037732+00:00",
-    "etag": "\"b3684ce34eecb8cd752bc6dd6311c35b\""
+    "date": "2020-07-17T00:12:12.086677+00:00",
+    "etag": "\"185b12e65ebe3b83361cf3d64952b37b\""
   },
   "https://www.mozilla.org/hsb/firefox/developer/": {
     "date": "2020-07-08T00:08:55.900237+00:00",
@@ -18859,36 +18875,36 @@
     "etag": "\"50b09603b1c56e40c762bad0493ce05e\""
   },
   "https://www.mozilla.org/hsb/firefox/features/": {
-    "date": "2020-07-08T00:09:17.265980+00:00",
-    "etag": "\"8c9f20441c283ae47092a38988ce824f\""
+    "date": "2020-07-17T00:11:15.034034+00:00",
+    "etag": "\"3415512d84c1e0d9f6f78dbb2d42626e\""
   },
   "https://www.mozilla.org/hsb/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:07.166485+00:00",
     "etag": "\"55464c8a419714fad89df5e1415511e0\""
   },
   "https://www.mozilla.org/hsb/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:06.352824+00:00",
-    "etag": "\"fef6337e3309307a78037c82e5d409e0\""
+    "date": "2020-07-17T00:11:46.079252+00:00",
+    "etag": "\"bcecf3df7e0f5a5c5c80d856bda4a0ec\""
   },
   "https://www.mozilla.org/hsb/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:56.076893+00:00",
-    "etag": "\"0aab1669a8377f979b583408b8e3d587\""
+    "date": "2020-07-17T00:11:41.440784+00:00",
+    "etag": "\"7432d49e1eb31fec3fedf02ab92001f5\""
   },
   "https://www.mozilla.org/hsb/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:41.067646+00:00",
-    "etag": "\"34b334febd7a19ac2eee56c07e8ef070\""
+    "date": "2020-07-17T00:11:36.364894+00:00",
+    "etag": "\"d9ecc6a964aee060d82d73728b5f1781\""
   },
   "https://www.mozilla.org/hsb/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:06.041600+00:00",
-    "etag": "\"2910e3994586e7a5579f57b46c1768b4\""
+    "date": "2020-07-17T00:11:30.315192+00:00",
+    "etag": "\"fe706dee82184024a272378ea4d1cdb1\""
   },
   "https://www.mozilla.org/hsb/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:56.619074+00:00",
-    "etag": "\"fc23e14b48d0b5b12201eaa99f41894a\""
+    "date": "2020-07-17T00:11:24.827390+00:00",
+    "etag": "\"ae38c98ed4b259c2358b86a0f857511e\""
   },
   "https://www.mozilla.org/hsb/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:39.356216+00:00",
-    "etag": "\"1c5dc66dda4703d38091d3dc262fdd67\""
+    "date": "2020-07-17T00:11:14.859830+00:00",
+    "etag": "\"0335cd7f54f3fd6615c68347d29a6360\""
   },
   "https://www.mozilla.org/hsb/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.771844+00:00",
@@ -19063,16 +19079,16 @@
     "etag": "\"f9450ef440fd75f94574175dd211428f\""
   },
   "https://www.mozilla.org/hu/firefox/channel/android/": {
-    "date": "2020-07-13T07:03:34.243795+00:00",
-    "etag": "\"2cde70707bb1e1f6372482bca7f99f1b\""
+    "date": "2020-07-17T00:11:57.095285+00:00",
+    "etag": "\"3436fe0d04fe9244a25657acd986e24b\""
   },
   "https://www.mozilla.org/hu/firefox/channel/desktop/": {
-    "date": "2020-07-13T07:03:07.348348+00:00",
-    "etag": "\"1e9815a761afc851772d3b1433a3c871\""
+    "date": "2020-07-17T00:12:32.030775+00:00",
+    "etag": "\"7a18ea877668e721acf017621e458219\""
   },
   "https://www.mozilla.org/hu/firefox/channel/ios/": {
-    "date": "2020-07-13T07:03:24.682639+00:00",
-    "etag": "\"9f6df9c8f9da3292f715f3109b643c49\""
+    "date": "2020-07-17T00:12:33.880210+00:00",
+    "etag": "\"53fe4a70ebcffbe60f83e7e38c63b005\""
   },
   "https://www.mozilla.org/hu/firefox/developer/": {
     "date": "2020-07-13T07:03:14.091147+00:00",
@@ -19087,36 +19103,36 @@
     "etag": "\"5290340c1cc415451646ec69afdbc2a3\""
   },
   "https://www.mozilla.org/hu/firefox/features/": {
-    "date": "2020-07-13T07:03:40.449580+00:00",
-    "etag": "\"4188a5351765c74a06f34a98ebbc9227\""
+    "date": "2020-07-17T00:11:24.158204+00:00",
+    "etag": "\"8d3c1e316898713783b9f13b1674b6b7\""
   },
   "https://www.mozilla.org/hu/firefox/features/adblocker/": {
     "date": "2020-07-13T07:02:47.542553+00:00",
     "etag": "\"6857301d0689128d7dd19e93579332be\""
   },
   "https://www.mozilla.org/hu/firefox/features/bookmarks/": {
-    "date": "2020-07-13T07:03:30.997323+00:00",
-    "etag": "\"d7cef9e1ac0bb826d6fa7bf628fa31e8\""
+    "date": "2020-07-17T00:10:56.168000+00:00",
+    "etag": "\"b22f66e2e685f695da27879c109895be\""
   },
   "https://www.mozilla.org/hu/firefox/features/fast/": {
-    "date": "2020-07-13T07:03:21.486258+00:00",
-    "etag": "\"57475c78b13a7205cb6bf8b5340f1b1f\""
+    "date": "2020-07-17T00:11:44.966174+00:00",
+    "etag": "\"f7c83280fcf67948ee677adbdcea59a2\""
   },
   "https://www.mozilla.org/hu/firefox/features/independent/": {
-    "date": "2020-07-13T07:03:10.655328+00:00",
-    "etag": "\"9633c5eea722e5785163b3cf0ef2d171\""
+    "date": "2020-07-17T00:11:40.198562+00:00",
+    "etag": "\"262385a06a6616fec2e5d2374ebd35e2\""
   },
   "https://www.mozilla.org/hu/firefox/features/memory/": {
-    "date": "2020-07-13T07:03:03.489085+00:00",
-    "etag": "\"bd343e91741616db55c8c0518d7cabf6\""
+    "date": "2020-07-17T00:11:34.887479+00:00",
+    "etag": "\"4514aef7b751437f2638a229f3a885c9\""
   },
   "https://www.mozilla.org/hu/firefox/features/password-manager/": {
-    "date": "2020-07-13T07:03:18.990737+00:00",
-    "etag": "\"ce89e5f88ff77e5cf70c87379c6a06d3\""
+    "date": "2020-07-17T00:11:28.751297+00:00",
+    "etag": "\"a29f0d8d8ec102217aff780bff3831ca\""
   },
   "https://www.mozilla.org/hu/firefox/features/private-browsing/": {
-    "date": "2020-07-13T07:03:12.547841+00:00",
-    "etag": "\"65dbb971df95fb0d9000418053285965\""
+    "date": "2020-07-17T00:11:23.042669+00:00",
+    "etag": "\"e82a7d99d91fd3eb5833605fe02b1175\""
   },
   "https://www.mozilla.org/hu/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.545219+00:00",
@@ -19271,16 +19287,16 @@
     "etag": "\"2dadbdc07ddf3f80c77878803c0b1290\""
   },
   "https://www.mozilla.org/hy-AM/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:12.893425+00:00",
-    "etag": "\"b33306b2c3e91d4184b2848142a67ea0\""
+    "date": "2020-07-17T00:11:51.315963+00:00",
+    "etag": "\"0f9cfb9d497f6a630a62242aeab591fc\""
   },
   "https://www.mozilla.org/hy-AM/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.477295+00:00",
-    "etag": "\"a3f2a82f9a3718a5792c881e8445f4cc\""
+    "date": "2020-07-17T00:12:26.274787+00:00",
+    "etag": "\"84fe7b1176bf38a473e3e10c324fd560\""
   },
   "https://www.mozilla.org/hy-AM/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.458666+00:00",
-    "etag": "\"bf60d3c5897ba734d08b76e944309931\""
+    "date": "2020-07-17T00:12:29.026646+00:00",
+    "etag": "\"fc3888e291b902cf0f765326f29997d3\""
   },
   "https://www.mozilla.org/hy-AM/firefox/developer/": {
     "date": "2020-07-08T00:08:51.276841+00:00",
@@ -19473,8 +19489,8 @@
     "etag": "\"4a5eb246b9d250225596b42c9360aa17\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:55.449700+00:00",
-    "etag": "\"3fb06699a1016a75501b5401c36206a7\""
+    "date": "2020-07-17T00:09:26.602727+00:00",
+    "etag": "\"c38bb4cf770e5590c435e18a7a17f33f\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:40.342657+00:00",
@@ -19485,16 +19501,16 @@
     "etag": "\"edfbdc3f62ca629ccee30c498b5ad59d\""
   },
   "https://www.mozilla.org/ia/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:16.736845+00:00",
-    "etag": "\"55dcaf701a6d837f88a235a5811616f4\""
+    "date": "2020-07-17T00:11:42.754661+00:00",
+    "etag": "\"9ce745bc18266e3760b4ebb7b571dc8e\""
   },
   "https://www.mozilla.org/ia/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.996628+00:00",
-    "etag": "\"62fd631f0b49c509f5e4272d7994f0fb\""
+    "date": "2020-07-17T00:12:17.905769+00:00",
+    "etag": "\"be9c68cc84cb16b200976e221a62c49c\""
   },
   "https://www.mozilla.org/ia/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:05.691707+00:00",
-    "etag": "\"c5671694b745655da20b5ef50c038380\""
+    "date": "2020-07-17T00:12:21.287041+00:00",
+    "etag": "\"8a71335a75ea6674e40d64360e2dcfb0\""
   },
   "https://www.mozilla.org/ia/firefox/developer/": {
     "date": "2020-07-08T00:08:59.493976+00:00",
@@ -19767,8 +19783,8 @@
     "etag": "\"a5e650a5b883fa3cf14ee224c4bda22c\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:57.446262+00:00",
-    "etag": "\"4d3e926b5724f590c31acc31d8270942\""
+    "date": "2020-07-17T00:09:27.722676+00:00",
+    "etag": "\"748d0abd4dbbd29c7b6da60617f2fc56\""
   },
   "https://www.mozilla.org/id/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:42.531254+00:00",
@@ -19779,16 +19795,16 @@
     "etag": "\"56469f3fae718354924e5bb02dbdfd5d\""
   },
   "https://www.mozilla.org/id/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.138850+00:00",
-    "etag": "\"e06098ea10e78e2e85c65d656c53e65f\""
+    "date": "2020-07-17T00:11:25.114680+00:00",
+    "etag": "\"c8d1cd91c3722e67c6bbd1398fc0fe8e\""
   },
   "https://www.mozilla.org/id/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.221948+00:00",
-    "etag": "\"74fa3d80f34020b3908bb884ae01ae75\""
+    "date": "2020-07-17T00:12:00.216709+00:00",
+    "etag": "\"7ded642531504d053f61134ca113896d\""
   },
   "https://www.mozilla.org/id/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.124659+00:00",
-    "etag": "\"a8f9a47a7c892de144b598952ac340ac\""
+    "date": "2020-07-17T00:12:06.334337+00:00",
+    "etag": "\"a8afb06a1622ebe29d9dfc052d9851ee\""
   },
   "https://www.mozilla.org/id/firefox/developer/": {
     "date": "2020-07-08T00:09:01.602805+00:00",
@@ -20007,16 +20023,16 @@
     "etag": "\"28153549af67121b886984da0198dd13\""
   },
   "https://www.mozilla.org/is/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.491852+00:00",
-    "etag": "\"fa11e771d23bd11f20ffa278bbeef8ad\""
+    "date": "2020-07-17T00:11:34.732931+00:00",
+    "etag": "\"70fa61b599653b720662982174b6c8b1\""
   },
   "https://www.mozilla.org/is/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.926057+00:00",
-    "etag": "\"4433e446e8766a80c26385ea6c1f7208\""
+    "date": "2020-07-17T00:12:08.127104+00:00",
+    "etag": "\"09cebee9309133ecba01aa892e6051a0\""
   },
   "https://www.mozilla.org/is/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.403823+00:00",
-    "etag": "\"fd5ae21ff9ea8d37b5269d35f9d0d003\""
+    "date": "2020-07-17T00:12:14.403175+00:00",
+    "etag": "\"929a252a539cb012a7cb770b9ae5caac\""
   },
   "https://www.mozilla.org/is/firefox/features/bookmarks/": {
     "date": "2020-07-08T00:09:08.956791+00:00",
@@ -20177,8 +20193,8 @@
     "etag": "\"65c30f150d91a11eed43781bad0d80e4\""
   },
   "https://www.mozilla.org/it/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:54.875575+00:00",
-    "etag": "\"7e929a2ce3e472a8ba5344d475232895\""
+    "date": "2020-07-17T00:09:34.070178+00:00",
+    "etag": "\"6eaee78340650a302629de4da9ced503\""
   },
   "https://www.mozilla.org/it/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:39.714683+00:00",
@@ -20189,16 +20205,16 @@
     "etag": "\"448d376aa302c0bbac57441c9c9203d8\""
   },
   "https://www.mozilla.org/it/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:19.814900+00:00",
-    "etag": "\"96ea3f95e9669ae9aad0e47c95a9603a\""
+    "date": "2020-07-17T00:11:34.367899+00:00",
+    "etag": "\"e2d9704bc1927e0c39db66650a920b9d\""
   },
   "https://www.mozilla.org/it/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.901666+00:00",
-    "etag": "\"c21b17b9ccb5682245fd03e6524587aa\""
+    "date": "2020-07-17T00:12:07.701577+00:00",
+    "etag": "\"030611bb196efd695bd49a72c150d7f5\""
   },
   "https://www.mozilla.org/it/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:09.283095+00:00",
-    "etag": "\"25e36f62f3ec1c9bffcef253e05603d9\""
+    "date": "2020-07-17T00:12:13.826662+00:00",
+    "etag": "\"edf96afb87e1584a01090a438c5f28e2\""
   },
   "https://www.mozilla.org/it/firefox/developer/": {
     "date": "2020-07-08T00:08:58.950285+00:00",
@@ -20213,36 +20229,36 @@
     "etag": "\"cd5c1d1baf837250c1b43fe318990693\""
   },
   "https://www.mozilla.org/it/firefox/features/": {
-    "date": "2020-07-08T00:09:20.592152+00:00",
-    "etag": "\"49820b8a43cb1090e859cd1fbce50fee\""
+    "date": "2020-07-17T00:11:18.358601+00:00",
+    "etag": "\"72641d7e10905aff967f19407cf056ce\""
   },
   "https://www.mozilla.org/it/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.193343+00:00",
     "etag": "\"00c258dc526c68ca197563faaf3806e7\""
   },
   "https://www.mozilla.org/it/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:09.981927+00:00",
-    "etag": "\"3378c0f1200e6262269339f16f1626d0\""
+    "date": "2020-07-17T00:10:50.826011+00:00",
+    "etag": "\"92fd6a2ee8311883d822555579d8ae27\""
   },
   "https://www.mozilla.org/it/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:00.238632+00:00",
-    "etag": "\"8c006e8d735bf6a427a1e902966fa942\""
+    "date": "2020-07-17T00:11:42.972772+00:00",
+    "etag": "\"fb189681e4ebe5e8258b8acc056656ab\""
   },
   "https://www.mozilla.org/it/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:46.289844+00:00",
-    "etag": "\"571ed59029ec24598e4dd61af6efda51\""
+    "date": "2020-07-17T00:11:38.023320+00:00",
+    "etag": "\"635c7ecd5323dc8908586619ecd027a6\""
   },
   "https://www.mozilla.org/it/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:09.009780+00:00",
-    "etag": "\"3826cd35164f808bf09853e9506c1f62\""
+    "date": "2020-07-17T00:11:31.810588+00:00",
+    "etag": "\"d7e8ba1c688cbbff4eb346310793ede9\""
   },
   "https://www.mozilla.org/it/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:59.992966+00:00",
-    "etag": "\"0a7415f0a268a33b1a3b80130ca2994f\""
+    "date": "2020-07-17T00:11:26.392792+00:00",
+    "etag": "\"e38ae1b0332dd3d64bf2354c708e3098\""
   },
   "https://www.mozilla.org/it/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:46.305652+00:00",
-    "etag": "\"f3cb1341812489c213cec558aa50664a\""
+    "date": "2020-07-17T00:11:19.006495+00:00",
+    "etag": "\"e05bd37d845a7deaea789ee273db8644\""
   },
   "https://www.mozilla.org/it/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.139776+00:00",
@@ -20473,16 +20489,16 @@
     "etag": "\"7751338c5f13c15d1985047d27ce570d\""
   },
   "https://www.mozilla.org/ja/firefox/channel/android/": {
-    "date": "2020-07-13T12:07:46.377204+00:00",
-    "etag": "\"ff836d21a66d18bef0f63f777a57d463\""
+    "date": "2020-07-17T00:11:41.800245+00:00",
+    "etag": "\"9d3e335ee6683a04cb54bd0f629886df\""
   },
   "https://www.mozilla.org/ja/firefox/channel/desktop/": {
-    "date": "2020-07-13T12:07:55.742731+00:00",
-    "etag": "\"83662866b30becb382c1b21e3c871f2d\""
+    "date": "2020-07-17T00:12:17.189529+00:00",
+    "etag": "\"8e30858dd0e849af8c82a7e5f312d310\""
   },
   "https://www.mozilla.org/ja/firefox/channel/ios/": {
-    "date": "2020-07-13T12:07:36.541545+00:00",
-    "etag": "\"93a40abbe86d5b70c57807f6ce1cdd15\""
+    "date": "2020-07-17T00:12:20.698664+00:00",
+    "etag": "\"a5f6d91702d48cafc697c6955428766e\""
   },
   "https://www.mozilla.org/ja/firefox/developer/": {
     "date": "2020-07-13T12:07:31.680739+00:00",
@@ -20729,8 +20745,8 @@
     "etag": "\"2bced29712a42502caef8ca3c8f9b7ac\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/compare/safari/": {
-    "date": "2020-07-14T06:06:18.609176+00:00",
-    "etag": "\"2b439da14fcb4d04ac5d2ca3cff29919\""
+    "date": "2020-07-17T00:09:31.858937+00:00",
+    "etag": "\"36e5c3bf503af8ba0ce38de8c110f5c5\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:42.731039+00:00",
@@ -20741,16 +20757,16 @@
     "etag": "\"0bcbdfe2741eca2e929fa3e7b8120437\""
   },
   "https://www.mozilla.org/ka/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.035848+00:00",
-    "etag": "\"a82d8511cc5d9e0e08a947783aea1c01\""
+    "date": "2020-07-17T00:11:45.998954+00:00",
+    "etag": "\"3f4907deb318b7f8f7e654a0ff6dd673\""
   },
   "https://www.mozilla.org/ka/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:48.382277+00:00",
-    "etag": "\"aa53976ceae06174484d5640559365ec\""
+    "date": "2020-07-17T00:12:20.582417+00:00",
+    "etag": "\"75ca25a06fe0c672722cfb72a30898b6\""
   },
   "https://www.mozilla.org/ka/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.391645+00:00",
-    "etag": "\"5e2b88bcf71b09d6ccc8b23c9e349b3f\""
+    "date": "2020-07-17T00:12:24.435902+00:00",
+    "etag": "\"566923ff57eb8b471e8c8feb33f7975a\""
   },
   "https://www.mozilla.org/ka/firefox/developer/": {
     "date": "2020-07-08T00:09:01.847761+00:00",
@@ -20765,36 +20781,36 @@
     "etag": "\"e3a1c63efd3505056f84e46d9664a15c\""
   },
   "https://www.mozilla.org/ka/firefox/features/": {
-    "date": "2020-07-08T00:09:21.747407+00:00",
-    "etag": "\"1058e1845dec1193e340ec33bcff2ceb\""
+    "date": "2020-07-17T00:11:17.233839+00:00",
+    "etag": "\"ce2dbb5e10a2e6c450ab5cab07e9efb2\""
   },
   "https://www.mozilla.org/ka/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:10.374927+00:00",
     "etag": "\"60802b632eac0a4ee5936d507f100a16\""
   },
   "https://www.mozilla.org/ka/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:11.416777+00:00",
-    "etag": "\"6d71e4c5e26af9c751dee4a3d8c7df60\""
+    "date": "2020-07-17T00:11:46.822020+00:00",
+    "etag": "\"9aa23c3cdaef1a2891138dc37b1fdfeb\""
   },
   "https://www.mozilla.org/ka/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:01.339156+00:00",
-    "etag": "\"5cac2658aef838b5d3eaf37849413e00\""
+    "date": "2020-07-17T00:11:42.501001+00:00",
+    "etag": "\"b8a6e679ece543393208967fefafe837\""
   },
   "https://www.mozilla.org/ka/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:51.016085+00:00",
-    "etag": "\"d847e84c227459418d0e3dce72f3b381\""
+    "date": "2020-07-17T00:11:37.511088+00:00",
+    "etag": "\"1d545fa1ef35e69d573e21b1f370d429\""
   },
   "https://www.mozilla.org/ka/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:10.113580+00:00",
-    "etag": "\"66c954fec8c0db7d3ac6d2693c3cc4bf\""
+    "date": "2020-07-17T00:11:31.189752+00:00",
+    "etag": "\"7da086d4f9372491cc9f14e90d4904ae\""
   },
   "https://www.mozilla.org/ka/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:03.086491+00:00",
-    "etag": "\"5c932918cd50d8ec6038868ab67cce97\""
+    "date": "2020-07-17T00:11:25.674611+00:00",
+    "etag": "\"8ecc2149e1169e7cc655dbe1da3e3645\""
   },
   "https://www.mozilla.org/ka/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:47.851163+00:00",
-    "etag": "\"9fcb3389be385984f06bf47fd856ae0b\""
+    "date": "2020-07-17T00:11:18.118680+00:00",
+    "etag": "\"04bf54eb5446642c8f86b3248a20a079\""
   },
   "https://www.mozilla.org/ka/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.761370+00:00",
@@ -20967,16 +20983,16 @@
     "etag": "\"e332cd388296b69becc469091c98114b\""
   },
   "https://www.mozilla.org/kab/firefox/channel/android/": {
-    "date": "2020-07-16T06:08:59.651108+00:00",
-    "etag": "\"b77378a310ca856e1ce1904e6b5020b9\""
+    "date": "2020-07-17T00:11:37.797105+00:00",
+    "etag": "\"8a15a56f9b64b6fcce69b86141140347\""
   },
   "https://www.mozilla.org/kab/firefox/channel/desktop/": {
-    "date": "2020-07-16T06:09:20.114846+00:00",
-    "etag": "\"f8a71fe5a6abf7cd48f11e02db6d7ca4\""
+    "date": "2020-07-17T00:12:11.791199+00:00",
+    "etag": "\"ffe1c8207cfad66e7e676f9be8692d70\""
   },
   "https://www.mozilla.org/kab/firefox/channel/ios/": {
-    "date": "2020-07-16T06:08:40.824521+00:00",
-    "etag": "\"59f1540b7d8bb2e561ad5a3f95495cb6\""
+    "date": "2020-07-17T00:12:16.732066+00:00",
+    "etag": "\"e43c5d3d4d7409f03da45c40693c9b6d\""
   },
   "https://www.mozilla.org/kab/firefox/developer/": {
     "date": "2020-07-16T06:08:29.990208+00:00",
@@ -21171,16 +21187,16 @@
     "etag": "\"5921faa64ac0701b46106ffde60e0bcb\""
   },
   "https://www.mozilla.org/kk/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:14.619322+00:00",
-    "etag": "\"9cd093b8419bf98ab58dc6ab7476e136\""
+    "date": "2020-07-17T00:11:30.978642+00:00",
+    "etag": "\"3fefb01550ee26d4b234046fdf1d65a8\""
   },
   "https://www.mozilla.org/kk/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.633419+00:00",
-    "etag": "\"336307e145f75c70422910bdbc379c9a\""
+    "date": "2020-07-17T00:12:04.929102+00:00",
+    "etag": "\"572757c21464e82b68484c075a53ef36\""
   },
   "https://www.mozilla.org/kk/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.578764+00:00",
-    "etag": "\"7204602040e7a73e4564e61bba9edbd3\""
+    "date": "2020-07-17T00:12:11.462370+00:00",
+    "etag": "\"b5c44c36558016db006523cb82dfbe05\""
   },
   "https://www.mozilla.org/kk/firefox/features/": {
     "date": "2020-07-08T00:09:15.779248+00:00",
@@ -21349,16 +21365,16 @@
     "etag": "\"c662b0fdb2e633eedfddb1844a5b7d9d\""
   },
   "https://www.mozilla.org/ko/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:20.910822+00:00",
-    "etag": "\"35f1a1d97233956900f43e0f469a4de0\""
+    "date": "2020-07-17T00:11:32.803291+00:00",
+    "etag": "\"5ab946cd89946e800a73859fb83100c1\""
   },
   "https://www.mozilla.org/ko/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:48.173737+00:00",
-    "etag": "\"b1fac2fe50bad99f19daee95f9b071a8\""
+    "date": "2020-07-17T00:12:06.187519+00:00",
+    "etag": "\"2da521390deaeed02c39b224ff0b8887\""
   },
   "https://www.mozilla.org/ko/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.285052+00:00",
-    "etag": "\"dbd2e57da125d6ac291b9431346561ae\""
+    "date": "2020-07-17T00:12:12.463890+00:00",
+    "etag": "\"46f7a7086fbc60b41ee9445c07476958\""
   },
   "https://www.mozilla.org/ko/firefox/developer/": {
     "date": "2020-07-08T00:09:01.120559+00:00",
@@ -21521,16 +21537,16 @@
     "etag": "\"a3766dd59076b2270e5e3e0c9b62ce42\""
   },
   "https://www.mozilla.org/lij/firefox/channel/android/": {
-    "date": "2020-07-09T06:07:22.526265+00:00",
-    "etag": "\"0cca0eec1edf8a7b7eca257c3dbd244b\""
+    "date": "2020-07-17T00:11:46.797496+00:00",
+    "etag": "\"02a7175d2faba29566b1d07cb7019f5a\""
   },
   "https://www.mozilla.org/lij/firefox/channel/desktop/": {
-    "date": "2020-07-09T06:07:32.144059+00:00",
-    "etag": "\"9a30e6f8357efb8e1f1182b395e7eaef\""
+    "date": "2020-07-17T00:12:21.474887+00:00",
+    "etag": "\"92d1125e50d9db16bc55f4177c0f8a30\""
   },
   "https://www.mozilla.org/lij/firefox/channel/ios/": {
-    "date": "2020-07-09T06:07:13.748181+00:00",
-    "etag": "\"50134d29c07ca147199a86b9689d495b\""
+    "date": "2020-07-17T00:12:25.433339+00:00",
+    "etag": "\"3977e36c8a5e8e60a163da1eebdc126e\""
   },
   "https://www.mozilla.org/lij/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:08:44.662122+00:00",
@@ -21691,16 +21707,16 @@
     "etag": "\"2d4e9e34efa178a2be77cd24f3397244\""
   },
   "https://www.mozilla.org/lt/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:20.692190+00:00",
-    "etag": "\"926dc5ac708c82847ebc453b807ef084\""
+    "date": "2020-07-17T00:11:33.313432+00:00",
+    "etag": "\"7d2a0c675a46f202c500f1a18fdd8727\""
   },
   "https://www.mozilla.org/lt/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:47.760671+00:00",
-    "etag": "\"31b2a02bd5af042bd871e3a032da9a9e\""
+    "date": "2020-07-17T00:12:06.484362+00:00",
+    "etag": "\"e283fc42390938f351b3c1968e9740b5\""
   },
   "https://www.mozilla.org/lt/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.061654+00:00",
-    "etag": "\"35034cb6b5d101452809a478956f6119\""
+    "date": "2020-07-17T00:12:12.897705+00:00",
+    "etag": "\"66b31ef58e28bef0bf180f6af1601e8c\""
   },
   "https://www.mozilla.org/lt/firefox/developer/": {
     "date": "2020-07-08T00:09:01.013904+00:00",
@@ -21963,16 +21979,16 @@
     "etag": "\"4c7856503d6d6e0a64f2e98fe1ea2106\""
   },
   "https://www.mozilla.org/ml/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.476078+00:00",
-    "etag": "\"7e4d3d4ad7bf3222c74ba896413d661b\""
+    "date": "2020-07-17T00:11:43.297974+00:00",
+    "etag": "\"d78f3d0c1bf7e8ed0a19161470cbd838\""
   },
   "https://www.mozilla.org/ml/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.657218+00:00",
-    "etag": "\"b3f3b83f79b46d9f14b73493fa45abf4\""
+    "date": "2020-07-17T00:12:18.490605+00:00",
+    "etag": "\"a61845b76cd892ea88b85f41d35d923a\""
   },
   "https://www.mozilla.org/ml/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.523023+00:00",
-    "etag": "\"3949a324e337b45cb878f2a569d7d287\""
+    "date": "2020-07-17T00:12:21.610725+00:00",
+    "etag": "\"a74d62a0b4db45e3e2834415d7a285f5\""
   },
   "https://www.mozilla.org/ml/firefox/developer/": {
     "date": "2020-07-08T00:08:52.656964+00:00",
@@ -22111,16 +22127,16 @@
     "etag": "\"6c26eba30ce3693135643055dc8fd47a\""
   },
   "https://www.mozilla.org/mr/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.917417+00:00",
-    "etag": "\"fa6e439159520bb0c56d9fd47ced5af2\""
+    "date": "2020-07-17T00:11:28.422790+00:00",
+    "etag": "\"120768f91f568d5e6088c47c4409f6d4\""
   },
   "https://www.mozilla.org/mr/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:52.259569+00:00",
-    "etag": "\"ec5e76f1028d7e74bd559d642ad24c22\""
+    "date": "2020-07-17T00:12:02.601032+00:00",
+    "etag": "\"f39679ee786a08c58778a264ad595da6\""
   },
   "https://www.mozilla.org/mr/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:12.237355+00:00",
-    "etag": "\"1f6f91b6953308a1b97f043aae48dd50\""
+    "date": "2020-07-17T00:12:09.574005+00:00",
+    "etag": "\"ffd9dab9eb9f0da47cb30ba8116acd84\""
   },
   "https://www.mozilla.org/mr/firefox/developer/": {
     "date": "2020-07-08T00:09:01.357109+00:00",
@@ -22269,16 +22285,16 @@
     "etag": "\"7f31e37c802f368a011918ba0afb94ae\""
   },
   "https://www.mozilla.org/ms/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.407077+00:00",
-    "etag": "\"1f4e8703a4a1a6978eb46b21e4175570\""
+    "date": "2020-07-17T00:11:52.854748+00:00",
+    "etag": "\"4dc7c482f6e83be7e5844682fb085606\""
   },
   "https://www.mozilla.org/ms/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.924118+00:00",
-    "etag": "\"dbba56b012d4cddeaed9747b5fe382cb\""
+    "date": "2020-07-17T00:12:27.592136+00:00",
+    "etag": "\"940d63877254b65b67ecf031a212c147\""
   },
   "https://www.mozilla.org/ms/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.902242+00:00",
-    "etag": "\"d6c6792250f6e86d921ab01671e7b73a\""
+    "date": "2020-07-17T00:12:30.146701+00:00",
+    "etag": "\"b8f4a611e2c96e418298c05636896629\""
   },
   "https://www.mozilla.org/ms/firefox/developer/": {
     "date": "2020-07-08T00:08:56.059609+00:00",
@@ -22437,16 +22453,16 @@
     "etag": "\"cb86d3b6cd88b77cf111c5c58e84df48\""
   },
   "https://www.mozilla.org/my/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.515075+00:00",
-    "etag": "\"54d30272c1b81494eb1af91821f582de\""
+    "date": "2020-07-17T00:11:22.591535+00:00",
+    "etag": "\"5a2bdceffb2d94c2c0dd65587a84b07c\""
   },
   "https://www.mozilla.org/my/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.157074+00:00",
-    "etag": "\"9ad3305ddb05b8a5ca1911af7e81c2b4\""
+    "date": "2020-07-17T00:11:58.822995+00:00",
+    "etag": "\"f24eca07b9cf4b5e64bfdd56290aac7c\""
   },
   "https://www.mozilla.org/my/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.032240+00:00",
-    "etag": "\"d2224f388c7a2d755dd154fbe73ed8eb\""
+    "date": "2020-07-17T00:12:05.342744+00:00",
+    "etag": "\"a88549048981cb1cb4f22e240635ab6b\""
   },
   "https://www.mozilla.org/my/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:09:25.751877+00:00",
@@ -22573,8 +22589,8 @@
     "etag": "\"241876779b87a040f1bc30a4d598f716\""
   },
   "https://www.mozilla.org/nb-NO/firefox/browsers/compare/safari/": {
-    "date": "2020-07-16T18:07:09.303946+00:00",
-    "etag": "\"0c021e55adb8976aa639618aee7a2b78\""
+    "date": "2020-07-17T00:09:37.458031+00:00",
+    "etag": "\"0a79eafc7f35af4a64dc70504623cbe2\""
   },
   "https://www.mozilla.org/nb-NO/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-16T00:06:40.566847+00:00",
@@ -22585,16 +22601,16 @@
     "etag": "\"b0258e7e136d401d31e8f16cedc49bcc\""
   },
   "https://www.mozilla.org/nb-NO/firefox/channel/android/": {
-    "date": "2020-07-16T00:09:08.582505+00:00",
-    "etag": "\"302aadb952fb379fe69cf8002c672a29\""
+    "date": "2020-07-17T00:11:38.123837+00:00",
+    "etag": "\"b89a2bb68de40d452e16f0820825023b\""
   },
   "https://www.mozilla.org/nb-NO/firefox/channel/desktop/": {
-    "date": "2020-07-16T00:09:26.649839+00:00",
-    "etag": "\"503ce003b81a2b03a3bc0b63753f6ea2\""
+    "date": "2020-07-17T00:12:12.186799+00:00",
+    "etag": "\"adc98e8503637050103ba2d03a4a6bff\""
   },
   "https://www.mozilla.org/nb-NO/firefox/channel/ios/": {
-    "date": "2020-07-16T00:08:49.812818+00:00",
-    "etag": "\"a36d610eb602d67d8f38a02b2c5789be\""
+    "date": "2020-07-17T00:12:17.113909+00:00",
+    "etag": "\"fcde8abd18fc2ccb114f485b1fda120b\""
   },
   "https://www.mozilla.org/nb-NO/firefox/developer/": {
     "date": "2020-07-16T00:08:37.120726+00:00",
@@ -22605,32 +22621,32 @@
     "etag": "\"64aceb4930fdc91dde8304506fdc9ad7\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/": {
-    "date": "2020-07-16T00:09:12.756485+00:00",
-    "etag": "\"aa44ebc5e83d2bbd6d64361597388158\""
+    "date": "2020-07-17T00:11:23.877873+00:00",
+    "etag": "\"b49df369e9baf520c031714778348696\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/bookmarks/": {
-    "date": "2020-07-16T00:08:54.523190+00:00",
-    "etag": "\"b433d105bd346888d65b3dbd2547af0c\""
+    "date": "2020-07-17T00:10:55.318631+00:00",
+    "etag": "\"bb58e77d2b5411e921e3e7975fe458e5\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/fast/": {
-    "date": "2020-07-16T00:08:37.590529+00:00",
-    "etag": "\"158cfc40113f84ca9ae1f7685d812d42\""
+    "date": "2020-07-17T00:11:44.781419+00:00",
+    "etag": "\"55276bad9cc0cbe396f9472c6597b365\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/independent/": {
-    "date": "2020-07-16T00:08:31.327656+00:00",
-    "etag": "\"3b48896a9ba115c62276362d23ed8443\""
+    "date": "2020-07-17T00:11:39.858982+00:00",
+    "etag": "\"54acfbcf86fdfa98277e4679cf426145\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/memory/": {
-    "date": "2020-07-16T00:08:57.238476+00:00",
-    "etag": "\"202ef5afd34fc2d063a27afd4074911b\""
+    "date": "2020-07-17T00:11:34.617408+00:00",
+    "etag": "\"74c650b1701a0cb597a3524f759fbae6\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/password-manager/": {
-    "date": "2020-07-16T00:08:50.819363+00:00",
-    "etag": "\"821b359abce7325aa5c9a5360e8a5a76\""
+    "date": "2020-07-17T00:11:28.436842+00:00",
+    "etag": "\"24a9f80b350cf8372c5202b3d511536d\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/private-browsing/": {
-    "date": "2020-07-16T00:08:18.656762+00:00",
-    "etag": "\"58c511c4091f223b1ec403beb5c1b140\""
+    "date": "2020-07-17T00:11:22.655316+00:00",
+    "etag": "\"7bf4d5ef6486a6372257ab43909c93f1\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.444016+00:00",
@@ -22855,8 +22871,8 @@
     "etag": "\"d87488b27ea4fb0ac3c645e301ef1f92\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:57.176914+00:00",
-    "etag": "\"f39e16d3a29f72eeecdb2927ea3bc928\""
+    "date": "2020-07-17T00:09:34.407409+00:00",
+    "etag": "\"26aacf2a5ba76c4cb44abf9a055b5526\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:42.266637+00:00",
@@ -22867,16 +22883,16 @@
     "etag": "\"0889acd6b43c096008d9206fd8769b23\""
   },
   "https://www.mozilla.org/nl/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:17.157587+00:00",
-    "etag": "\"81ac4c7a04d67bab2680a8907f1dd71e\""
+    "date": "2020-07-17T00:11:27.022644+00:00",
+    "etag": "\"d382bfb7d0dc04918b705ba011c14641\""
   },
   "https://www.mozilla.org/nl/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:27.460119+00:00",
-    "etag": "\"717d9a5e10e0eec6d79a826b1f401f63\""
+    "date": "2020-07-17T00:12:01.883635+00:00",
+    "etag": "\"e0beb77f0f671b3dde29c4bc4da53774\""
   },
   "https://www.mozilla.org/nl/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:06.253493+00:00",
-    "etag": "\"709aa21044499df2fe80a266717a3cb9\""
+    "date": "2020-07-17T00:12:08.764131+00:00",
+    "etag": "\"48cbffdbb61ffc4cff10911e4e96120e\""
   },
   "https://www.mozilla.org/nl/firefox/developer/": {
     "date": "2020-07-08T00:09:01.238461+00:00",
@@ -22891,36 +22907,36 @@
     "etag": "\"aab1c07113ab5b5299cdc54cc7682f07\""
   },
   "https://www.mozilla.org/nl/firefox/features/": {
-    "date": "2020-07-08T00:09:18.488095+00:00",
-    "etag": "\"6fe835d2083317411586d84a766a2a78\""
+    "date": "2020-07-17T00:11:18.821554+00:00",
+    "etag": "\"ce260d133fca1767313c75b6d96a4130\""
   },
   "https://www.mozilla.org/nl/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:09.945994+00:00",
     "etag": "\"18d7aee92dbe0d7427a01f57e9ce5f86\""
   },
   "https://www.mozilla.org/nl/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:07.720624+00:00",
-    "etag": "\"0ac2b69a365858b49ab8e6fcdf7e4399\""
+    "date": "2020-07-17T00:10:51.597471+00:00",
+    "etag": "\"42956014e882865dacdb37f4b82523cd\""
   },
   "https://www.mozilla.org/nl/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:57.936137+00:00",
-    "etag": "\"2db3c9721ee3553517f9d45811ac5130\""
+    "date": "2020-07-17T00:11:43.170401+00:00",
+    "etag": "\"f2f29089c037068b840b888e9db59fbf\""
   },
   "https://www.mozilla.org/nl/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:49.814288+00:00",
-    "etag": "\"3a57b37e04d3fbcb767f59f425f23f10\""
+    "date": "2020-07-17T00:11:38.225975+00:00",
+    "etag": "\"f92c9c422ce3a03b9d43d982e4ce73b4\""
   },
   "https://www.mozilla.org/nl/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:07.244175+00:00",
-    "etag": "\"81107fadac68610b676f55d5e49dfbce\""
+    "date": "2020-07-17T00:11:32.047165+00:00",
+    "etag": "\"083ab4754e7e0d56b881261f8486f161\""
   },
   "https://www.mozilla.org/nl/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:02.417217+00:00",
-    "etag": "\"7a7a0274723f76fd3ea247de28856c45\""
+    "date": "2020-07-17T00:11:26.558582+00:00",
+    "etag": "\"ba490ee0e150781c53399a632c79122e\""
   },
   "https://www.mozilla.org/nl/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:42.390073+00:00",
-    "etag": "\"5bd5115f77eb31790afce56a862ff251\""
+    "date": "2020-07-17T00:11:19.444389+00:00",
+    "etag": "\"32797380f5dac5924a61708a11b03b3e\""
   },
   "https://www.mozilla.org/nl/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.025346+00:00",
@@ -23136,6 +23152,10 @@
     "date": "2020-07-15T12:07:21.575808+00:00",
     "etag": "\"2a61e481b394bd5addf75fecf46d913e\""
   },
+  "https://www.mozilla.org/nn-NO/firefox/browsers/compare/safari/": {
+    "date": "2020-07-17T00:09:30.677016+00:00",
+    "etag": "\"da3a72e2e6a39bf902edec7b5a8b2b20\""
+  },
   "https://www.mozilla.org/nn-NO/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:36.865551+00:00",
     "etag": "\"6199b637b9168e852c52a09e1816ad7a\""
@@ -23145,16 +23165,16 @@
     "etag": "\"d0a5af96ef7745e4776124d9d281096b\""
   },
   "https://www.mozilla.org/nn-NO/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.921496+00:00",
-    "etag": "\"8ab170305304cf9de4100cbb5af6f56d\""
+    "date": "2020-07-17T00:11:45.570964+00:00",
+    "etag": "\"f859a62d120e47f2a91131ec9f3d2014\""
   },
   "https://www.mozilla.org/nn-NO/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:26.114264+00:00",
-    "etag": "\"a8e804130045565cc007cbd70867d66d\""
+    "date": "2020-07-17T00:12:20.300618+00:00",
+    "etag": "\"cd2d2f36e033c67ac3b12f5e388ddd56\""
   },
   "https://www.mozilla.org/nn-NO/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.922237+00:00",
-    "etag": "\"7e36cea70ec51af8e513be67d1c44d03\""
+    "date": "2020-07-17T00:12:24.026606+00:00",
+    "etag": "\"59ff5043348b8d618c66c6c0726689da\""
   },
   "https://www.mozilla.org/nn-NO/firefox/developer/": {
     "date": "2020-07-08T00:08:55.173411+00:00",
@@ -23165,32 +23185,32 @@
     "etag": "\"c37515a9f829164d1351d176e6746f0e\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/": {
-    "date": "2020-07-08T00:09:17.148590+00:00",
-    "etag": "\"a3517113115d6cda46b577dca75f4eff\""
+    "date": "2020-07-17T00:11:16.161264+00:00",
+    "etag": "\"350a47ef260fad4034363bf4e182734e\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:06.233995+00:00",
-    "etag": "\"14b5e467fa891eaa30b70141c91a9c33\""
+    "date": "2020-07-17T00:11:46.522677+00:00",
+    "etag": "\"2692251401d81110aea4d2a0e76e1570\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:55.863951+00:00",
-    "etag": "\"3eb2472046a263f645a07033e221ecf8\""
+    "date": "2020-07-17T00:11:42.099931+00:00",
+    "etag": "\"4bf737b19b4f314e539c35b55eaccf62\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:39.702834+00:00",
-    "etag": "\"544bd02fb16d175d1860fd6625887fa7\""
+    "date": "2020-07-17T00:11:37.017018+00:00",
+    "etag": "\"b9982638d9e7e6d03652cb1bb0821c26\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:05.920185+00:00",
-    "etag": "\"78797fe96683ec0dad8cc0343d8982ae\""
+    "date": "2020-07-17T00:11:30.888266+00:00",
+    "etag": "\"7eb4b5238515e7640707648bb2ea7b23\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:55.722805+00:00",
-    "etag": "\"676e45e5e524b03bcfe009f0a52a1fb1\""
+    "date": "2020-07-17T00:11:25.380310+00:00",
+    "etag": "\"2e3dfb5de449efffddf93ff738a42fb7\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:39.102296+00:00",
-    "etag": "\"6ef3a0ebace1c2a450ebaefa3994e33b\""
+    "date": "2020-07-17T00:11:15.733446+00:00",
+    "etag": "\"fbf145ff03799a37c72c700afdd19f8e\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:27.074639+00:00",
@@ -23296,6 +23316,18 @@
     "date": "2018-08-15T03:29:59.435493+00:00",
     "etag": "\"3cecc5df5fe26a400e894e56d4a62409\""
   },
+  "https://www.mozilla.org/oc/firefox/channel/android/": {
+    "date": "2020-07-17T00:11:36.345296+00:00",
+    "etag": "\"c00a5d9a68a874177a22735daf40fd90\""
+  },
+  "https://www.mozilla.org/oc/firefox/channel/desktop/": {
+    "date": "2020-07-17T00:12:09.359649+00:00",
+    "etag": "\"d2e017397c206682ec1495db062b7fdc\""
+  },
+  "https://www.mozilla.org/oc/firefox/channel/ios/": {
+    "date": "2020-07-17T00:12:15.456129+00:00",
+    "etag": "\"985c9914ea44690afe26d0aee3455071\""
+  },
   "https://www.mozilla.org/oc/firefox/features/bookmarks/": {
     "date": "2020-07-08T00:09:07.133637+00:00",
     "etag": "\"b475cd38a4d3ab4c9809b8a84114adb2\""
@@ -23365,16 +23397,16 @@
     "etag": "\"28fd9dfa39ada9c560a689c4102ffd60\""
   },
   "https://www.mozilla.org/pa-IN/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.789707+00:00",
-    "etag": "\"dd29fd8a46d43eecb32e821df0473ac0\""
+    "date": "2020-07-17T00:11:53.846704+00:00",
+    "etag": "\"155c71da0aec8d5991d252e146ee3784\""
   },
   "https://www.mozilla.org/pa-IN/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.390530+00:00",
-    "etag": "\"d8d0bed870c5d83bada3b04d8fb9ec0e\""
+    "date": "2020-07-17T00:12:28.613582+00:00",
+    "etag": "\"ff62796115474579960fa3e62aecd4f2\""
   },
   "https://www.mozilla.org/pa-IN/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.269454+00:00",
-    "etag": "\"a7cb73bbd76bc106e099674b041be9ac\""
+    "date": "2020-07-17T00:12:30.791429+00:00",
+    "etag": "\"d3ce6a495a67f9b740ffa83503efb3e9\""
   },
   "https://www.mozilla.org/pa-IN/firefox/developer/": {
     "date": "2020-07-08T00:08:57.964546+00:00",
@@ -23583,16 +23615,16 @@
     "etag": "\"610332e64b4b6b9c8693f7e633058cfd\""
   },
   "https://www.mozilla.org/pl/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:17.923100+00:00",
-    "etag": "\"391f4715cc2da440e2c325fe617eb6c3\""
+    "date": "2020-07-17T00:11:56.298565+00:00",
+    "etag": "\"47d0d19f936022908b6c3e198a9d70af\""
   },
   "https://www.mozilla.org/pl/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.180493+00:00",
-    "etag": "\"7f268197c1d675a624e71bbcc3b5a59e\""
+    "date": "2020-07-17T00:12:31.353809+00:00",
+    "etag": "\"d4a0f39f0a9e9f311cd5efd4f506053a\""
   },
   "https://www.mozilla.org/pl/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:07.627072+00:00",
-    "etag": "\"0ef1f487ee667f2fc5c859ca00d7521f\""
+    "date": "2020-07-17T00:12:33.299494+00:00",
+    "etag": "\"bbec85332bc507e4493e29c67aada54f\""
   },
   "https://www.mozilla.org/pl/firefox/developer/": {
     "date": "2020-07-08T00:08:55.647203+00:00",
@@ -23607,36 +23639,36 @@
     "etag": "\"fc7a422a577285bc63df162d7f9b8fd8\""
   },
   "https://www.mozilla.org/pl/firefox/features/": {
-    "date": "2020-07-08T00:09:19.209204+00:00",
-    "etag": "\"5f41801aa60e7fa9ac5f124933e27780\""
+    "date": "2020-07-17T00:11:22.525319+00:00",
+    "etag": "\"1ab7b02b4a26a167c1b4716942d356f0\""
   },
   "https://www.mozilla.org/pl/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:07.060214+00:00",
     "etag": "\"07c1c7dba3b5daf0408a23ba8e82594f\""
   },
   "https://www.mozilla.org/pl/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:08.409177+00:00",
-    "etag": "\"314d3efafc108d623ee950412ffb139c\""
+    "date": "2020-07-17T00:10:54.136399+00:00",
+    "etag": "\"0b3fa05ea3e87b3c5d586685e1987d2f\""
   },
   "https://www.mozilla.org/pl/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:58.829094+00:00",
-    "etag": "\"61ef88316650eb51bb77718675bf62b3\""
+    "date": "2020-07-17T00:11:44.137376+00:00",
+    "etag": "\"7eaa668854bc9a21fc483b375181c25f\""
   },
   "https://www.mozilla.org/pl/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:40.368240+00:00",
-    "etag": "\"9a0f491eb656dfa4b8ca1eaeb2b95097\""
+    "date": "2020-07-17T00:11:39.123957+00:00",
+    "etag": "\"1babd6507fb8868147d99b5ceefea685\""
   },
   "https://www.mozilla.org/pl/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:07.773177+00:00",
-    "etag": "\"120bd387087eec38504b7551a34a278c\""
+    "date": "2020-07-17T00:11:33.666279+00:00",
+    "etag": "\"330df712b5c0d873c7b82d4ceb01cf38\""
   },
   "https://www.mozilla.org/pl/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:56.279729+00:00",
-    "etag": "\"8676d23a587d86b712677219df8a9b2c\""
+    "date": "2020-07-17T00:11:27.795907+00:00",
+    "etag": "\"905b6a3278812c8f891c4ab7a8f00b71\""
   },
   "https://www.mozilla.org/pl/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:43.948845+00:00",
-    "etag": "\"ce8210d52d3d99e1b2e68609e3e7ee6f\""
+    "date": "2020-07-17T00:11:21.587303+00:00",
+    "etag": "\"2ba681b016642c9631d0aa1384563dbe\""
   },
   "https://www.mozilla.org/pl/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.669286+00:00",
@@ -23885,8 +23917,8 @@
     "etag": "\"da192014eaa13e4b41f85b040ced895a\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:57.315102+00:00",
-    "etag": "\"cf7b36e24a1f2a0a0d5a14389e39c35d\""
+    "date": "2020-07-17T00:09:39.409029+00:00",
+    "etag": "\"310e7a9e738464f25575a898197a4e18\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:42.457213+00:00",
@@ -23897,16 +23929,16 @@
     "etag": "\"3ac6e9b81be630e372ae491bff6ec4b8\""
   },
   "https://www.mozilla.org/pt-BR/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.039132+00:00",
-    "etag": "\"358baba5e9e2b40b6440a5e837d74a35\""
+    "date": "2020-07-17T00:11:53.211085+00:00",
+    "etag": "\"42c1220a03e678c98a2237e5a8de2fd2\""
   },
   "https://www.mozilla.org/pt-BR/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.109204+00:00",
-    "etag": "\"4aab2a2ab242a8eec4aebd6eb91236ec\""
+    "date": "2020-07-17T00:12:27.958779+00:00",
+    "etag": "\"6846d2b45e25e9ab5124eab4ff797b05\""
   },
   "https://www.mozilla.org/pt-BR/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.009855+00:00",
-    "etag": "\"256e8bbbc06930d64d0bf20624196e57\""
+    "date": "2020-07-17T00:12:30.383155+00:00",
+    "etag": "\"d7179accb1507971eeb1c99f2151083b\""
   },
   "https://www.mozilla.org/pt-BR/firefox/developer/": {
     "date": "2020-07-08T00:09:01.488986+00:00",
@@ -23921,36 +23953,36 @@
     "etag": "\"c55c8afbf044603ad170a8610b525c10\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/": {
-    "date": "2020-07-08T00:09:16.116957+00:00",
-    "etag": "\"d406414eef7062dee6ab87835155b6fd\""
+    "date": "2020-07-17T00:11:24.346521+00:00",
+    "etag": "\"f877066d27d423b240286dd264c3c16b\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:10.203373+00:00",
     "etag": "\"3de70e64b79fa4246777f0d7884e1ed4\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:05.442499+00:00",
-    "etag": "\"0a50b078725744525c9fc1616e5be894\""
+    "date": "2020-07-17T00:10:56.529856+00:00",
+    "etag": "\"8a698359342d589181958d53dacdd416\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:54.760877+00:00",
-    "etag": "\"0453617a869a40a71e8af12f81aa2b87\""
+    "date": "2020-07-17T00:11:45.122698+00:00",
+    "etag": "\"27d49c39407a2ef7ef4b40b76d8593fb\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:50.237043+00:00",
-    "etag": "\"d68aa408099d89091cc70cec11d432a3\""
+    "date": "2020-07-17T00:11:40.334592+00:00",
+    "etag": "\"579401a47926ee493e6cd45c4febfcf1\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:05.158955+00:00",
-    "etag": "\"93aeda89c3a249e53267b4b556662c4a\""
+    "date": "2020-07-17T00:11:35.014632+00:00",
+    "etag": "\"0206c19651d1ab108abc6e3729ac486e\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:02.642306+00:00",
-    "etag": "\"d7ba0f73366c24eb257f8e09a757a047\""
+    "date": "2020-07-17T00:11:28.930969+00:00",
+    "etag": "\"4d83b50381e18d01b5739da40d24f70d\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:37.198480+00:00",
-    "etag": "\"884945750dd3466b066c64e967e0a2ac\""
+    "date": "2020-07-17T00:11:23.461914+00:00",
+    "etag": "\"2fc0a4e33370e009caf5ad7ebf57f4ca\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.345879+00:00",
@@ -24203,8 +24235,8 @@
     "etag": "\"66b4a5c6dda9215cfaaa3d7280541e9f\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/compare/safari/": {
-    "date": "2020-07-16T00:07:10.088046+00:00",
-    "etag": "\"4b786637e6103c9ccf0343be5309ee2e\""
+    "date": "2020-07-17T00:09:37.899435+00:00",
+    "etag": "\"93508ffe179e4d41ea82d903616b92c9\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:38.035010+00:00",
@@ -24215,16 +24247,16 @@
     "etag": "\"90d4f92293cfcf101874b3ad921c1f28\""
   },
   "https://www.mozilla.org/pt-PT/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.251836+00:00",
-    "etag": "\"be083f84959ac22cf92a695a382e767e\""
+    "date": "2020-07-17T00:11:38.482651+00:00",
+    "etag": "\"2a62a9703e4812b56f46909f9bf7f095\""
   },
   "https://www.mozilla.org/pt-PT/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:28.611683+00:00",
-    "etag": "\"9d9b2717109a5829f67e274e8abd3f60\""
+    "date": "2020-07-17T00:12:12.583041+00:00",
+    "etag": "\"b89d7bff02deccba86aad2dca9714e87\""
   },
   "https://www.mozilla.org/pt-PT/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.009725+00:00",
-    "etag": "\"73287dab686a23d722b369e7afc8550e\""
+    "date": "2020-07-17T00:12:17.568530+00:00",
+    "etag": "\"ae1dd7d26a45c83aee0a698e48a094f2\""
   },
   "https://www.mozilla.org/pt-PT/firefox/developer/": {
     "date": "2020-07-08T00:08:56.233468+00:00",
@@ -24387,16 +24419,16 @@
     "etag": "\"a02d2da8bbd326c98611fed11c027ce4\""
   },
   "https://www.mozilla.org/rm/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.737071+00:00",
-    "etag": "\"9f8b34dbe1d7d2ec15146c117cece586\""
+    "date": "2020-07-17T00:11:53.508865+00:00",
+    "etag": "\"ce58fabff5b2daeffbc802af7de41b2a\""
   },
   "https://www.mozilla.org/rm/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.164269+00:00",
-    "etag": "\"6f6ae2b489a62732ee9718fd548ca3e5\""
+    "date": "2020-07-17T00:12:28.268660+00:00",
+    "etag": "\"8dc02bfcbd6caa92fa528cfe10090083\""
   },
   "https://www.mozilla.org/rm/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.605244+00:00",
-    "etag": "\"00ee8eb60df360aa6535f32f8a5937fe\""
+    "date": "2020-07-17T00:12:30.619643+00:00",
+    "etag": "\"f065d4fe71df5a23e0efdf8f2b681585\""
   },
   "https://www.mozilla.org/rm/firefox/developer/": {
     "date": "2020-07-08T00:08:57.313607+00:00",
@@ -24589,16 +24621,16 @@
     "etag": "\"02fda820019e2ee0cf9ad05edb1e3be9\""
   },
   "https://www.mozilla.org/ro/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.250677+00:00",
-    "etag": "\"b6265cc64b5cfd4692d0abcc5a1823c1\""
+    "date": "2020-07-17T00:11:51.946604+00:00",
+    "etag": "\"bbbc13b4013df10f5613d918b2ab6b86\""
   },
   "https://www.mozilla.org/ro/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:48.881229+00:00",
-    "etag": "\"cd5081803094fcd4c2a8d998ef26e7ec\""
+    "date": "2020-07-17T00:12:26.895742+00:00",
+    "etag": "\"03700c00c7afab2daf8c683ae90ef7e9\""
   },
   "https://www.mozilla.org/ro/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.592910+00:00",
-    "etag": "\"d371b92622a21cb87c4dc8d0a7c26589\""
+    "date": "2020-07-17T00:12:29.502618+00:00",
+    "etag": "\"389a27fed75d715c66ca04e337465c2f\""
   },
   "https://www.mozilla.org/ro/firefox/developer/": {
     "date": "2020-07-08T00:08:51.572714+00:00",
@@ -24851,16 +24883,16 @@
     "etag": "\"4e7f891ca4c9c33235e050ce70855ab9\""
   },
   "https://www.mozilla.org/ru/firefox/channel/android/": {
-    "date": "2020-07-13T12:07:47.894755+00:00",
-    "etag": "\"53ac9e47ca2106665114ea2572e9e5de\""
+    "date": "2020-07-17T00:11:54.219867+00:00",
+    "etag": "\"d1fbc602c69648b9c2d4923bb9c6126c\""
   },
   "https://www.mozilla.org/ru/firefox/channel/desktop/": {
-    "date": "2020-07-13T12:07:56.920030+00:00",
-    "etag": "\"d42f0207d4496f828dae133afd64d71a\""
+    "date": "2020-07-17T00:12:29.054826+00:00",
+    "etag": "\"8bff8878878d7bfa30b07e844ca6c619\""
   },
   "https://www.mozilla.org/ru/firefox/channel/ios/": {
-    "date": "2020-07-13T12:07:37.584187+00:00",
-    "etag": "\"15a34e29f2569f72bb045b453c51cce6\""
+    "date": "2020-07-17T00:12:31.056507+00:00",
+    "etag": "\"f66e1100129a925f1f39ccc554e138c4\""
   },
   "https://www.mozilla.org/ru/firefox/developer/": {
     "date": "2020-07-13T12:07:27.184122+00:00",
@@ -24875,36 +24907,36 @@
     "etag": "\"cd7db08d056cccfefadcaedf1bf56a41\""
   },
   "https://www.mozilla.org/ru/firefox/features/": {
-    "date": "2020-07-13T12:07:48.328792+00:00",
-    "etag": "\"b99dadc67a758e44957b9019a86a7db8\""
+    "date": "2020-07-17T00:11:14.734604+00:00",
+    "etag": "\"aab3157ea031f304fc8244b2df3d58d1\""
   },
   "https://www.mozilla.org/ru/firefox/features/adblocker/": {
     "date": "2020-07-13T12:07:01.143796+00:00",
     "etag": "\"28dcef30962d31a5102231677c58d461\""
   },
   "https://www.mozilla.org/ru/firefox/features/bookmarks/": {
-    "date": "2020-07-13T12:07:39.257921+00:00",
-    "etag": "\"e7fccc821769c1f96c07a1494531c884\""
+    "date": "2020-07-17T00:11:45.837858+00:00",
+    "etag": "\"f705afb4e97d9a7058bd5a74d0e17245\""
   },
   "https://www.mozilla.org/ru/firefox/features/fast/": {
-    "date": "2020-07-13T12:07:30.354953+00:00",
-    "etag": "\"713a11e878799eaeb33c648d6678e93e\""
+    "date": "2020-07-17T00:11:41.254683+00:00",
+    "etag": "\"6f0e4d8a99c9a20c045c274d8ada69cf\""
   },
   "https://www.mozilla.org/ru/firefox/features/independent/": {
-    "date": "2020-07-13T12:07:18.518892+00:00",
-    "etag": "\"6561a745350d49ded6d0d7b101f69618\""
+    "date": "2020-07-17T00:11:35.959454+00:00",
+    "etag": "\"877a1d53f1b965cf68881b59644adb9c\""
   },
   "https://www.mozilla.org/ru/firefox/features/memory/": {
-    "date": "2020-07-13T12:07:40.600164+00:00",
-    "etag": "\"6f5f8b35f8743f617d29502ff3466651\""
+    "date": "2020-07-17T00:11:30.159271+00:00",
+    "etag": "\"9235db05638ca4f20aaf0b9c0cec465b\""
   },
   "https://www.mozilla.org/ru/firefox/features/password-manager/": {
-    "date": "2020-07-13T12:07:29.727000+00:00",
-    "etag": "\"efe6d99485a497824b4fd0424332506b\""
+    "date": "2020-07-17T00:11:24.511770+00:00",
+    "etag": "\"abffb5dc808a7f5da4d1599a9d59e8e0\""
   },
   "https://www.mozilla.org/ru/firefox/features/private-browsing/": {
-    "date": "2020-07-13T12:07:22.256198+00:00",
-    "etag": "\"91a9a31088f6d2b6af9f8349cdade50c\""
+    "date": "2020-07-17T00:11:14.536621+00:00",
+    "etag": "\"e916821ea92a6cd7bd07a1b008bf5c83\""
   },
   "https://www.mozilla.org/ru/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.926141+00:00",
@@ -25090,16 +25122,16 @@
     "etag": "\"9b9074b471e5d0417c4554613dfcaf9a\""
   },
   "https://www.mozilla.org/sk/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:20.053791+00:00",
-    "etag": "\"b70c69493bf79591ae3bb0ea894dd4a6\""
+    "date": "2020-07-17T00:11:44.966618+00:00",
+    "etag": "\"2db06980ab1969e6f63d9c5f84f04417\""
   },
   "https://www.mozilla.org/sk/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:30.271479+00:00",
-    "etag": "\"e18eecac63b4cb478bb8b95c2ccec12e\""
+    "date": "2020-07-17T00:12:19.713336+00:00",
+    "etag": "\"425941adba41d18813c0071175501f4a\""
   },
   "https://www.mozilla.org/sk/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:09.485283+00:00",
-    "etag": "\"8044e13663fc2c8bc60db0fdc7088bc4\""
+    "date": "2020-07-17T00:12:23.265711+00:00",
+    "etag": "\"6c9d98065108d66f3bd328a3084a2dff\""
   },
   "https://www.mozilla.org/sk/firefox/developer/": {
     "date": "2020-07-08T00:08:59.613706+00:00",
@@ -25320,16 +25352,16 @@
     "etag": "\"0764c91983cf5ecf87df18e4d36f663e\""
   },
   "https://www.mozilla.org/sl/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:13.940309+00:00",
-    "etag": "\"7bf209b3cddb444dff04215875cef712\""
+    "date": "2020-07-17T00:11:50.218708+00:00",
+    "etag": "\"05646c6122c88e1ee6e677afae18320e\""
   },
   "https://www.mozilla.org/sl/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:24.515344+00:00",
-    "etag": "\"c2523f921bb0fc4cde05a79818672b91\""
+    "date": "2020-07-17T00:12:24.958080+00:00",
+    "etag": "\"9a3adadc46fe2e59d066035c6e904311\""
   },
   "https://www.mozilla.org/sl/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:03.375150+00:00",
-    "etag": "\"ea914dd99f641af2d5dbb3ef44097d6d\""
+    "date": "2020-07-17T00:12:28.310922+00:00",
+    "etag": "\"12dd799e4f39ec8ab1fc676507d57408\""
   },
   "https://www.mozilla.org/sl/firefox/developer/": {
     "date": "2020-07-08T00:08:59.074088+00:00",
@@ -25340,36 +25372,36 @@
     "etag": "\"a4c0b088cd21ec30c2ab1330f6f97437\""
   },
   "https://www.mozilla.org/sl/firefox/features/": {
-    "date": "2020-07-08T00:09:15.563411+00:00",
-    "etag": "\"427a86fc1bb675d2ea2d04bff2045b25\""
+    "date": "2020-07-17T00:11:23.233574+00:00",
+    "etag": "\"66bff6d8bbfaebc4b251548652b937ac\""
   },
   "https://www.mozilla.org/sl/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:08.299181+00:00",
     "etag": "\"5cc972db735d1cab4eff9c304808da29\""
   },
   "https://www.mozilla.org/sl/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:05.128379+00:00",
-    "etag": "\"ce32929de2ce48a1fb5838fbd4492601\""
+    "date": "2020-07-17T00:10:54.698681+00:00",
+    "etag": "\"cd604661b29cab9dfaac6bdca41fe81c\""
   },
   "https://www.mozilla.org/sl/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:54.221091+00:00",
-    "etag": "\"60bd4acfa750791907bdd7f3c99bc76a\""
+    "date": "2020-07-17T00:11:44.431309+00:00",
+    "etag": "\"012191f2c6afb6775eabeb2493fe99d0\""
   },
   "https://www.mozilla.org/sl/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:46.477676+00:00",
-    "etag": "\"700d93e7b764f3ddedde9052a07b05be\""
+    "date": "2020-07-17T00:11:39.448045+00:00",
+    "etag": "\"fafb26875fefd0bdd6becb43cc59e7f7\""
   },
   "https://www.mozilla.org/sl/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:04.685425+00:00",
-    "etag": "\"7dc90d97d6251f3986b3df84358821a3\""
+    "date": "2020-07-17T00:11:34.266580+00:00",
+    "etag": "\"6780c525d3e398fc27f2b19495348f62\""
   },
   "https://www.mozilla.org/sl/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:00.101974+00:00",
-    "etag": "\"b63dc0f9bc3591fe5baf8041708e6170\""
+    "date": "2020-07-17T00:11:28.124620+00:00",
+    "etag": "\"fbb55cd52ff659bcf6c2690e3fcbd3eb\""
   },
   "https://www.mozilla.org/sl/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:36.470072+00:00",
-    "etag": "\"79d1793317dc15936163afce6ba94d68\""
+    "date": "2020-07-17T00:11:22.186282+00:00",
+    "etag": "\"7f672ebf3eff636eafef8a31b1264699\""
   },
   "https://www.mozilla.org/sl/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.078094+00:00",
@@ -25597,8 +25629,8 @@
     "etag": "\"6f62a1d3b3c21f1508ee1ce360e0bd0b\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:55.895394+00:00",
-    "etag": "\"0cba91c8711557394ca3717bdc638892\""
+    "date": "2020-07-17T00:09:29.121807+00:00",
+    "etag": "\"7b5774292203df7af352c25f75d3cf30\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:40.773653+00:00",
@@ -25609,16 +25641,16 @@
     "etag": "\"a324939636243e91d34cf4ecc53b995c\""
   },
   "https://www.mozilla.org/sq/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.377804+00:00",
-    "etag": "\"3add77652656d0c03b5fec4a800764d7\""
+    "date": "2020-07-17T00:11:44.028056+00:00",
+    "etag": "\"12b6b24b5e4b33656bf7b68779bb5199\""
   },
   "https://www.mozilla.org/sq/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:51.321364+00:00",
-    "etag": "\"833da31d2e7dd4453280b1f936bc2c74\""
+    "date": "2020-07-17T00:12:19.042796+00:00",
+    "etag": "\"da82c21b65b890bf45b80d65bd0cb48c\""
   },
   "https://www.mozilla.org/sq/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.704720+00:00",
-    "etag": "\"fc32346576dd1666f1ebe20f49244ed4\""
+    "date": "2020-07-17T00:12:22.190459+00:00",
+    "etag": "\"ca495ad98e4dfaf0ce07dfcfce4477a7\""
   },
   "https://www.mozilla.org/sq/firefox/developer/": {
     "date": "2020-07-08T00:08:59.740539+00:00",
@@ -25887,16 +25919,16 @@
     "etag": "\"4ebdaf2d33b983eb438e2e110ed3f6fb\""
   },
   "https://www.mozilla.org/sr/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.607445+00:00",
-    "etag": "\"37dd71ca8fb93cb2de112aaa235349dd\""
+    "date": "2020-07-17T00:11:55.144561+00:00",
+    "etag": "\"23f3cfefcca095eaf236a1bfcd8adfd5\""
   },
   "https://www.mozilla.org/sr/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.040416+00:00",
-    "etag": "\"32c656e85b53339ca768cbd5831330ac\""
+    "date": "2020-07-17T00:12:30.069474+00:00",
+    "etag": "\"bea7903f37a9629036a5f3923615250c\""
   },
   "https://www.mozilla.org/sr/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.505120+00:00",
-    "etag": "\"226c468e5ae7db52b1aa3d1f534c06b7\""
+    "date": "2020-07-17T00:12:31.986395+00:00",
+    "etag": "\"abab5e159b3e74d212350c39bb5f0ad3\""
   },
   "https://www.mozilla.org/sr/firefox/developer/": {
     "date": "2020-07-08T00:08:56.691062+00:00",
@@ -26133,8 +26165,8 @@
     "etag": "\"0ba262718772d55cda9960bcb93b0dc0\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:56.317757+00:00",
-    "etag": "\"0ee86c312c3e7f83d8084ffae8a13018\""
+    "date": "2020-07-17T00:09:32.896279+00:00",
+    "etag": "\"78a6275d69f9927e6ff70a84a3cbda05\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:41.648336+00:00",
@@ -26145,16 +26177,16 @@
     "etag": "\"13940fd15384eeef9a34b9802a392366\""
   },
   "https://www.mozilla.org/sv-SE/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.594872+00:00",
-    "etag": "\"312691a434ee0457434cc33fac9aa650\""
+    "date": "2020-07-17T00:11:55.530641+00:00",
+    "etag": "\"6bed616db5090ae912b5c38b417ee33c\""
   },
   "https://www.mozilla.org/sv-SE/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:51.682909+00:00",
-    "etag": "\"e8384d00d4fb483e3196c9ad6b990a44\""
+    "date": "2020-07-17T00:12:30.522989+00:00",
+    "etag": "\"c24eae1fb6ee16e4a92b508e3835b290\""
   },
   "https://www.mozilla.org/sv-SE/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.925189+00:00",
-    "etag": "\"dd85fcf8effaef7d03e69637a8785bdc\""
+    "date": "2020-07-17T00:12:32.434513+00:00",
+    "etag": "\"ef47e189935e4e2de14e355cae511f2b\""
   },
   "https://www.mozilla.org/sv-SE/firefox/developer/": {
     "date": "2020-07-08T00:09:00.560278+00:00",
@@ -26169,36 +26201,36 @@
     "etag": "\"b4ad12830c975a7b5b30a511480ac458\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/": {
-    "date": "2020-07-08T00:09:23.460815+00:00",
-    "etag": "\"5193e9f56a77870e9412107594504a76\""
+    "date": "2020-07-17T00:11:18.027007+00:00",
+    "etag": "\"8759187ce07020e3717308ffe3584a67\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:09.520096+00:00",
     "etag": "\"816739fb19b5e33c542e7d544114f41a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:13.455416+00:00",
-    "etag": "\"a5a19841319e3192578e068e7e6d67ab\""
+    "date": "2020-07-17T00:10:50.525787+00:00",
+    "etag": "\"c14d3a851473d889344fb48d920cf8fc\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:03.172251+00:00",
-    "etag": "\"c03beee4f993fe30a458543ebfd8b815\""
+    "date": "2020-07-17T00:11:42.853101+00:00",
+    "etag": "\"96d050539fef66c6694ad34ab3b6dd13\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:48.746809+00:00",
-    "etag": "\"bf764bfdac2182abce90f3b10e6557e7\""
+    "date": "2020-07-17T00:11:37.836698+00:00",
+    "etag": "\"381dc4900a25531027d3678e0bb98acc\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/memory/": {
-    "date": "2020-07-08T00:08:33.221511+00:00",
-    "etag": "\"a09abbab153600cd51fd119ef461d32a\""
+    "date": "2020-07-17T00:11:31.575871+00:00",
+    "etag": "\"f5ba54bf0f2dabdd681b606ad4ced007\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:09:01.616760+00:00",
-    "etag": "\"5e1018fd34740b5120b1366867619e8e\""
+    "date": "2020-07-17T00:11:26.082638+00:00",
+    "etag": "\"f99411cd45d486c23d5e697f4dbf6045\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:50.247780+00:00",
-    "etag": "\"8ffb8d36e43c6c2005e82c2294fece44\""
+    "date": "2020-07-17T00:11:18.762249+00:00",
+    "etag": "\"a8a01dcadf7d214f429f8b2cc21871de\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.967337+00:00",
@@ -26407,16 +26439,16 @@
     "etag": "\"a6d68b85c4bd8ec633676a389d5aefa0\""
   },
   "https://www.mozilla.org/ta/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:20.800771+00:00",
-    "etag": "\"ecc03f94a01084040d0a7aec21e5c2d2\""
+    "date": "2020-07-17T00:11:51.009813+00:00",
+    "etag": "\"b61f72b3637ed115348f7d631164b500\""
   },
   "https://www.mozilla.org/ta/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:47.901607+00:00",
-    "etag": "\"e4bd7c33edc87446a534f5cb99628fbc\""
+    "date": "2020-07-17T00:12:25.655307+00:00",
+    "etag": "\"cd044d7088baf19101506109ee6a0ee8\""
   },
   "https://www.mozilla.org/ta/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.170783+00:00",
-    "etag": "\"519e8736311a6394effb3cd7e985dfc0\""
+    "date": "2020-07-17T00:12:28.883745+00:00",
+    "etag": "\"88e4884f9055a6e308aaa93e4c06f50b\""
   },
   "https://www.mozilla.org/ta/firefox/developer/": {
     "date": "2020-07-08T00:09:01.716645+00:00",
@@ -26551,16 +26583,16 @@
     "etag": "\"b955dd9aeb314c71bcce25f403f99d94\""
   },
   "https://www.mozilla.org/te/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:15.246651+00:00",
-    "etag": "\"2994a8ad40910ab71081a9c593ac8f21\""
+    "date": "2020-07-17T00:11:25.894708+00:00",
+    "etag": "\"30ad0418778e3175d5731330f137201f\""
   },
   "https://www.mozilla.org/te/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:25.429291+00:00",
-    "etag": "\"fccb274f6e2b9055432f5a98f2b69365\""
+    "date": "2020-07-17T00:12:01.134789+00:00",
+    "etag": "\"e6c830c2178b7a0e3148491f4d08cd5f\""
   },
   "https://www.mozilla.org/te/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:04.316223+00:00",
-    "etag": "\"3a2133acb48b474635ebdf92cd5d2795\""
+    "date": "2020-07-17T00:12:07.054772+00:00",
+    "etag": "\"ae9d081389371e50b76e10bb21f289a4\""
   },
   "https://www.mozilla.org/te/firefox/features/": {
     "date": "2020-07-08T00:09:16.351412+00:00",
@@ -26643,16 +26675,16 @@
     "etag": "\"94092fd9773a2a736c2961468e3a6131\""
   },
   "https://www.mozilla.org/th/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:17.057863+00:00",
-    "etag": "\"6ebd73d1a34b6ff18e4488443fef03e6\""
+    "date": "2020-07-17T00:11:39.226987+00:00",
+    "etag": "\"d34f66cd12c299d5c9484d366666bba0\""
   },
   "https://www.mozilla.org/th/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:27.341711+00:00",
-    "etag": "\"9400e339564334e8e119de9aedfa15bc\""
+    "date": "2020-07-17T00:12:14.526510+00:00",
+    "etag": "\"08ad964943d09245cac0533703500388\""
   },
   "https://www.mozilla.org/th/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:06.148168+00:00",
-    "etag": "\"0d8bee806829a8736e7ba8fdcb4e84ec\""
+    "date": "2020-07-17T00:12:18.173682+00:00",
+    "etag": "\"5b43094f62694538ef0680462f3bdc55\""
   },
   "https://www.mozilla.org/th/firefox/developer/": {
     "date": "2020-07-08T00:09:00.455106+00:00",
@@ -26869,16 +26901,16 @@
     "etag": "\"4ab109d1e99368367da042af6417e73f\""
   },
   "https://www.mozilla.org/tr/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:18.840544+00:00",
-    "etag": "\"8fb044f4c4ae0ecf7478e5137e0f49a7\""
+    "date": "2020-07-17T00:11:47.198752+00:00",
+    "etag": "\"94ebe1b57dd58b8fdefec5bafcc8f445\""
   },
   "https://www.mozilla.org/tr/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:29.294921+00:00",
-    "etag": "\"9a4695fd35d7d088cf0b88f8d50275cc\""
+    "date": "2020-07-17T00:12:21.752462+00:00",
+    "etag": "\"51f94af04da562f06fe0d83148b6715f\""
   },
   "https://www.mozilla.org/tr/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:08.720396+00:00",
-    "etag": "\"16517713302cf73dc772f569bd03594a\""
+    "date": "2020-07-17T00:12:25.759452+00:00",
+    "etag": "\"4aeab6ea96ad7cf35bcbea38581ebac1\""
   },
   "https://www.mozilla.org/tr/firefox/developer/": {
     "date": "2020-07-08T00:08:58.206172+00:00",
@@ -26889,32 +26921,32 @@
     "etag": "\"29d31a3d7d567ba8fd2137c344a36085\""
   },
   "https://www.mozilla.org/tr/firefox/features/": {
-    "date": "2020-07-08T00:09:19.973999+00:00",
-    "etag": "\"71e599f7d3fe260b8d723c831ee11c49\""
+    "date": "2020-07-17T00:11:19.390731+00:00",
+    "etag": "\"30e3fd921d9c7561dc89f9eb6452f648\""
   },
   "https://www.mozilla.org/tr/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:09.292871+00:00",
-    "etag": "\"0c097b75346b58af257e7d5901ed841c\""
+    "date": "2020-07-17T00:10:52.368591+00:00",
+    "etag": "\"fa0b126ad1091e5c5f877988b802fba1\""
   },
   "https://www.mozilla.org/tr/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:59.574754+00:00",
-    "etag": "\"adc0d08c507f090cedb2e3e0ddc3cd8b\""
+    "date": "2020-07-17T00:11:43.425590+00:00",
+    "etag": "\"1ba9f52690b06830fcd71bde0be9fc72\""
   },
   "https://www.mozilla.org/tr/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:45.106528+00:00",
-    "etag": "\"5674744d795e458c2576a54b856f8a56\""
+    "date": "2020-07-17T00:11:38.564287+00:00",
+    "etag": "\"fc7d9b176f754850a3c6fa2b358df97c\""
   },
   "https://www.mozilla.org/tr/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:08.429659+00:00",
-    "etag": "\"b4b1386578d6d37386819f29f4557c05\""
+    "date": "2020-07-17T00:11:32.596092+00:00",
+    "etag": "\"33bd4a892c64edc56135732637b3b6e2\""
   },
   "https://www.mozilla.org/tr/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:59.259581+00:00",
-    "etag": "\"9dad6845957de723342f16ff21d59e64\""
+    "date": "2020-07-17T00:11:26.928900+00:00",
+    "etag": "\"604c96f2884076a0d0c50bc4c99e22dc\""
   },
   "https://www.mozilla.org/tr/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:45.488827+00:00",
-    "etag": "\"7d20adcc9f9741a5e57d0268a440a6b0\""
+    "date": "2020-07-17T00:11:20.158617+00:00",
+    "etag": "\"c0da5b61c439d9ac4f57286e822e8533\""
   },
   "https://www.mozilla.org/tr/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.176725+00:00",
@@ -27061,16 +27093,16 @@
     "etag": "\"f4f7b18a94a4c4541b04fb12590476d7\""
   },
   "https://www.mozilla.org/trs/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:22.491456+00:00",
-    "etag": "\"413c586f8dce55b572434df83bf63512\""
+    "date": "2020-07-17T00:11:48.018699+00:00",
+    "etag": "\"0a74be672940e2befe284ebe9f06e9f6\""
   },
   "https://www.mozilla.org/trs/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:51.459168+00:00",
-    "etag": "\"8ac62a2139f24decc075d94e0b169b36\""
+    "date": "2020-07-17T00:12:22.626845+00:00",
+    "etag": "\"08eb01c4b4086fbb09fce03ebcfc51be\""
   },
   "https://www.mozilla.org/trs/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.824678+00:00",
-    "etag": "\"eff1490fa96fe7e429d299950bda0d57\""
+    "date": "2020-07-17T00:12:26.372389+00:00",
+    "etag": "\"e1bff90d65a58bd0a487aad49cdb4398\""
   },
   "https://www.mozilla.org/trs/firefox/features/": {
     "date": "2020-07-08T00:09:23.351288+00:00",
@@ -27231,8 +27263,8 @@
     "etag": "\"bb9a5ef85582b96f99dd0ac0ecdb16aa\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/compare/safari/": {
-    "date": "2020-07-14T00:06:34.830152+00:00",
-    "etag": "\"d765989e89a9ea4ec0ed6bdc95d71b35\""
+    "date": "2020-07-17T00:09:31.535420+00:00",
+    "etag": "\"de9dce55728e0d273aa025523ad65e47\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/what-is-a-browser/": {
     "date": "2020-07-08T00:07:43.884893+00:00",
@@ -27247,16 +27279,16 @@
     "etag": "\"e5fb93418b84bad7cac186f20b79771b\""
   },
   "https://www.mozilla.org/uk/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.685748+00:00",
-    "etag": "\"7f308c7f4b7f060da6ec8e43037a09ea\""
+    "date": "2020-07-17T00:11:54.829370+00:00",
+    "etag": "\"2c2228165f000026260713225aa8ed22\""
   },
   "https://www.mozilla.org/uk/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:49.589150+00:00",
-    "etag": "\"a0eddb53e97437e339a2bd2c62653f5c\""
+    "date": "2020-07-17T00:12:29.661907+00:00",
+    "etag": "\"eeed110e5c65bdb07b2bcfce8cfba2a7\""
   },
   "https://www.mozilla.org/uk/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:11.022272+00:00",
-    "etag": "\"6430699af39755d70ff745a9db8dfcb1\""
+    "date": "2020-07-17T00:12:31.646419+00:00",
+    "etag": "\"923533effb747b5aabad6944415bc8eb\""
   },
   "https://www.mozilla.org/uk/firefox/developer/": {
     "date": "2020-07-08T00:08:56.533743+00:00",
@@ -27271,36 +27303,36 @@
     "etag": "\"06865ea69563bf596298b2063f4d6312\""
   },
   "https://www.mozilla.org/uk/firefox/features/": {
-    "date": "2020-07-08T00:09:22.456118+00:00",
-    "etag": "\"af73908ab7b34f999e57310d855c34ac\""
+    "date": "2020-07-17T00:11:16.854269+00:00",
+    "etag": "\"20fd8929f042c0b331ffd9f9dd12959d\""
   },
   "https://www.mozilla.org/uk/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:07.325390+00:00",
     "etag": "\"228b6a5fb5a024b99dd9919c8e1cc1d4\""
   },
   "https://www.mozilla.org/uk/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:12.078358+00:00",
-    "etag": "\"dcfc273f590fe62f07842d2bd1b9fa32\""
+    "date": "2020-07-17T00:11:46.678220+00:00",
+    "etag": "\"f963cc84914f5c7a91ed1d95d2b2b213\""
   },
   "https://www.mozilla.org/uk/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:02.019293+00:00",
-    "etag": "\"15780a2ed8b0f8a53fc3bee5dae0c5c8\""
+    "date": "2020-07-17T00:11:42.278637+00:00",
+    "etag": "\"51c713cfc62e66c7cc33aa5e7df592e2\""
   },
   "https://www.mozilla.org/uk/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:42.565567+00:00",
-    "etag": "\"ae07b86a14f81616e1dd0f32027c52f5\""
+    "date": "2020-07-17T00:11:37.328264+00:00",
+    "etag": "\"8c685d8a5a1d7fcf2172344f50c6315a\""
   },
   "https://www.mozilla.org/uk/firefox/features/memory/": {
-    "date": "2020-07-08T00:08:30.430212+00:00",
-    "etag": "\"61b6001c7396315771400973387cfff9\""
+    "date": "2020-07-17T00:11:31.029348+00:00",
+    "etag": "\"8ef9458f719b4c0d070214b3ca1c21e3\""
   },
   "https://www.mozilla.org/uk/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:57.600480+00:00",
-    "etag": "\"51e90ec51f27d75156733b2bea3728ee\""
+    "date": "2020-07-17T00:11:25.534520+00:00",
+    "etag": "\"b094d929bfaaf880abb9a26eabc9a5c4\""
   },
   "https://www.mozilla.org/uk/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:48.810293+00:00",
-    "etag": "\"9b09fe10eeeed1f1ffd7df0ba38a6452\""
+    "date": "2020-07-17T00:11:17.839175+00:00",
+    "etag": "\"96d100c0e5467db39e51396d6ed19bb8\""
   },
   "https://www.mozilla.org/uk/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.395274+00:00",
@@ -27451,16 +27483,16 @@
     "etag": "\"62352fe7d86d74a820ea4686d1a22009\""
   },
   "https://www.mozilla.org/ur/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:19.922500+00:00",
-    "etag": "\"42b8d6abd1be7ea143ba009b521799b9\""
+    "date": "2020-07-17T00:11:46.376532+00:00",
+    "etag": "\"cc4074bb2f09762eda4d9c302659a1cc\""
   },
   "https://www.mozilla.org/ur/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:30.147762+00:00",
-    "etag": "\"a08c73bae7b841f57837b33af9b4a52e\""
+    "date": "2020-07-17T00:12:20.918766+00:00",
+    "etag": "\"2083f5527d86647f5e51de4ff2a27326\""
   },
   "https://www.mozilla.org/ur/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:09.381945+00:00",
-    "etag": "\"1d36f9fe989ebbcdaa4d4728c5102f0a\""
+    "date": "2020-07-17T00:12:25.078085+00:00",
+    "etag": "\"2baa860e6307cef5d4bf54e6c9022786\""
   },
   "https://www.mozilla.org/ur/firefox/facebookcontainer/": {
     "date": "2020-07-08T00:08:44.094465+00:00",
@@ -27611,8 +27643,8 @@
     "etag": "\"7780cb87f2a6ce3665b6b69a0b116f1f\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:53.174676+00:00",
-    "etag": "\"26c3726f127fbdc5057174b35b7a4003\""
+    "date": "2020-07-17T00:09:28.850589+00:00",
+    "etag": "\"d265585f36ba5fa808e7989b628cf67f\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:36.007073+00:00",
@@ -27623,16 +27655,16 @@
     "etag": "\"09d5d2d7fcdf31883b771b1b107624b3\""
   },
   "https://www.mozilla.org/vi/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.464518+00:00",
-    "etag": "\"9d13427942aa76c21744a90005463e29\""
+    "date": "2020-07-17T00:11:43.626572+00:00",
+    "etag": "\"ea673bbd4b481135cdbe0fe4b187f352\""
   },
   "https://www.mozilla.org/vi/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:49.237566+00:00",
-    "etag": "\"a67db0f49aee69113d11646e314046a2\""
+    "date": "2020-07-17T00:12:18.806786+00:00",
+    "etag": "\"e250bfece1fa6b4319d57f12d850527b\""
   },
   "https://www.mozilla.org/vi/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.816673+00:00",
-    "etag": "\"1d589eca637964733012aa99d7e3432d\""
+    "date": "2020-07-17T00:12:21.885770+00:00",
+    "etag": "\"6bbf7e1a48ed2580593055b6dbe0710c\""
   },
   "https://www.mozilla.org/vi/firefox/developer/": {
     "date": "2020-07-08T00:08:54.008431+00:00",
@@ -27647,36 +27679,36 @@
     "etag": "\"1e70d20fd9ecf666546ba19d2ec5015d\""
   },
   "https://www.mozilla.org/vi/firefox/features/": {
-    "date": "2020-07-08T00:09:22.223416+00:00",
-    "etag": "\"83e749adf3d27adffdc577560001e578\""
+    "date": "2020-07-17T00:11:15.322792+00:00",
+    "etag": "\"68048b808c5314960976a8d659024c9a\""
   },
   "https://www.mozilla.org/vi/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:06.578210+00:00",
     "etag": "\"eed3064af7c58ae23c806100af221d6a\""
   },
   "https://www.mozilla.org/vi/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:11.849722+00:00",
-    "etag": "\"619e4310bcf30661bd4e30ce41db283f\""
+    "date": "2020-07-17T00:11:46.236967+00:00",
+    "etag": "\"e724504daa4a848569c585463668a3e9\""
   },
   "https://www.mozilla.org/vi/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:01.800489+00:00",
-    "etag": "\"354a570f73f89c48db619659ccfecf31\""
+    "date": "2020-07-17T00:11:41.622577+00:00",
+    "etag": "\"5fb7fe9a5a20aa535e92f6e6bbca4410\""
   },
   "https://www.mozilla.org/vi/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:38.216786+00:00",
-    "etag": "\"5b3fd9c4d6671f79996a66e901f513f8\""
+    "date": "2020-07-17T00:11:36.491916+00:00",
+    "etag": "\"db1b911c5a826b0ea8ba7cc35e3eff43\""
   },
   "https://www.mozilla.org/vi/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:10.533199+00:00",
-    "etag": "\"19de789235b8dcffe4535699c7e6e16b\""
+    "date": "2020-07-17T00:11:30.408873+00:00",
+    "etag": "\"6d353f68ff89c22b1ba09be577750cbd\""
   },
   "https://www.mozilla.org/vi/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:54.293939+00:00",
-    "etag": "\"d40f7bbc625a309d1cf3980c4f8528a7\""
+    "date": "2020-07-17T00:11:25.044657+00:00",
+    "etag": "\"55cf4a1a4fdf95317a9240ddc55db035\""
   },
   "https://www.mozilla.org/vi/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:48.457373+00:00",
-    "etag": "\"02eaff2b577ba4477281325ca7cbe3ec\""
+    "date": "2020-07-17T00:11:15.230012+00:00",
+    "etag": "\"0cd4e3cb14c48a63836053f28421e2ad\""
   },
   "https://www.mozilla.org/vi/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.038581+00:00",
@@ -27941,8 +27973,8 @@
     "etag": "\"a74116c6be79336f62b0d2246fd101da\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/compare/safari/": {
-    "date": "2020-07-08T00:07:53.447794+00:00",
-    "etag": "\"2d432c9e179ecf2be85bddc668632a28\""
+    "date": "2020-07-17T00:09:34.674175+00:00",
+    "etag": "\"02bbabe788c0b111b48ac9d17a8e8810\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:36.334744+00:00",
@@ -27953,16 +27985,16 @@
     "etag": "\"264b911eb0b6b78afa397c3e4eecd0f4\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:21.578812+00:00",
-    "etag": "\"be994c3d0cf17f892a2535f8810962bc\""
+    "date": "2020-07-17T00:11:35.196013+00:00",
+    "etag": "\"eb148de560d31d9a3fca8ef6cc342f9e\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:08:49.426666+00:00",
-    "etag": "\"4dc1b92738c007bd8e9ffcfc50645254\""
+    "date": "2020-07-17T00:12:08.528515+00:00",
+    "etag": "\"1ae5148ebab608c77d865c5b038e732d\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:10.919985+00:00",
-    "etag": "\"33aecdfe6793f3e2542c02daec3dec8e\""
+    "date": "2020-07-17T00:12:14.717702+00:00",
+    "etag": "\"a79d81578c1f1dce5eb4779c1549e284\""
   },
   "https://www.mozilla.org/zh-CN/firefox/developer/": {
     "date": "2020-07-08T00:08:54.445441+00:00",
@@ -27977,36 +28009,36 @@
     "etag": "\"1c198c27862794db6967899f3e9a418e\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/": {
-    "date": "2020-07-08T00:09:22.344721+00:00",
-    "etag": "\"b70690a93ec688a502efffed5cc96753\""
+    "date": "2020-07-17T00:11:19.131318+00:00",
+    "etag": "\"8657a4240ea8fdcab113d876be0167aa\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:06.744541+00:00",
     "etag": "\"f10fc11eba93acba6570b84a6ef0c660\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:11.959271+00:00",
-    "etag": "\"78d8420d204b5171e58bcb7a57d43e2f\""
+    "date": "2020-07-17T00:10:51.934211+00:00",
+    "etag": "\"ef84cff8fdc837866a54fc784412cfb5\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/fast/": {
-    "date": "2020-07-08T00:09:01.912755+00:00",
-    "etag": "\"d2044cdc182003d5c7f10fbc0dcc7feb\""
+    "date": "2020-07-17T00:11:43.262784+00:00",
+    "etag": "\"62cd7341cd313f84e55caa996a59035f\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:38.902591+00:00",
-    "etag": "\"df4308cf4da2a4928b97297a248e4c28\""
+    "date": "2020-07-17T00:11:38.347094+00:00",
+    "etag": "\"0cc5404b3642b6e6f21e744261f09c0f\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/memory/": {
-    "date": "2020-07-08T00:08:29.888850+00:00",
-    "etag": "\"1fe32e33cf556baa7eccca9dca63811e\""
+    "date": "2020-07-17T00:11:32.318980+00:00",
+    "etag": "\"aefff175ed73df80e48ec4a90df23ed8\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:54.953567+00:00",
-    "etag": "\"915e6887d0502665d4bad3b3e12f53d2\""
+    "date": "2020-07-17T00:11:26.795470+00:00",
+    "etag": "\"62ee217558c3d7b784a3e8e6fc2137b3\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:48.589292+00:00",
-    "etag": "\"2f3d5e86c22f79ff3be0a51ce7664f85\""
+    "date": "2020-07-17T00:11:19.741217+00:00",
+    "etag": "\"15b5392ff104a459b9bb60c9db328d6d\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.127428+00:00",
@@ -28243,16 +28275,16 @@
     "etag": "\"0ef231445d0eb21ebc0df17496293598\""
   },
   "https://www.mozilla.org/zh-TW/firefox/channel/android/": {
-    "date": "2020-07-08T00:09:12.732640+00:00",
-    "etag": "\"6d04b3fa9a7b45e836948765d64284cb\""
+    "date": "2020-07-17T00:11:48.414686+00:00",
+    "etag": "\"7076098debe10bd2a693018e5fd336dd\""
   },
   "https://www.mozilla.org/zh-TW/firefox/channel/desktop/": {
-    "date": "2020-07-08T00:09:23.355877+00:00",
-    "etag": "\"f95a9e504aaba67c821ed0a6768e73d9\""
+    "date": "2020-07-17T00:12:22.986007+00:00",
+    "etag": "\"210ca3b54e2683d1db36dc42ec349af1\""
   },
   "https://www.mozilla.org/zh-TW/firefox/channel/ios/": {
-    "date": "2020-07-08T00:09:02.333545+00:00",
-    "etag": "\"5644875bc980716d866493ff8ff6ed1d\""
+    "date": "2020-07-17T00:12:26.653924+00:00",
+    "etag": "\"610322a7e3733aa7078777ed2cab1d2e\""
   },
   "https://www.mozilla.org/zh-TW/firefox/developer/": {
     "date": "2020-07-08T00:08:52.025738+00:00",
@@ -28267,36 +28299,36 @@
     "etag": "\"b2cbddab296b143c214ce5ddb636b75b\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/": {
-    "date": "2020-07-08T00:09:14.308497+00:00",
-    "etag": "\"715fc8d027369950ff67bdb9291019e9\""
+    "date": "2020-07-17T00:11:22.139310+00:00",
+    "etag": "\"e4b15cd42b95f7b4eefe134b479de4dd\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/adblocker/": {
     "date": "2020-07-08T00:08:06.152406+00:00",
     "etag": "\"7c65db4c819573386f74434931e723ea\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/bookmarks/": {
-    "date": "2020-07-08T00:09:04.002237+00:00",
-    "etag": "\"5fb85495d54af888c38ede685a7c6b09\""
+    "date": "2020-07-17T00:10:53.751309+00:00",
+    "etag": "\"c480c58689bcc6b37fe2b6132144bd41\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/fast/": {
-    "date": "2020-07-08T00:08:52.423811+00:00",
-    "etag": "\"8284b71b03a2544332432dd5c3a4aba1\""
+    "date": "2020-07-17T00:11:43.975699+00:00",
+    "etag": "\"48817ee5def6fc1d0827627b36701ddc\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/independent/": {
-    "date": "2020-07-08T00:08:36.364794+00:00",
-    "etag": "\"a79dc543dad98aeb3ab8a0d3cace90ef\""
+    "date": "2020-07-17T00:11:38.978605+00:00",
+    "etag": "\"b0c9a2ac74b65b90cfdd1f53eef84238\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/memory/": {
-    "date": "2020-07-08T00:09:03.647211+00:00",
-    "etag": "\"9748c7ee02a49f0cef308697e43ba19b\""
+    "date": "2020-07-17T00:11:33.422606+00:00",
+    "etag": "\"7cb239b49698abbcb53f866bf7371db4\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/password-manager/": {
-    "date": "2020-07-08T00:08:52.552746+00:00",
-    "etag": "\"8113577ba465df7090a8f636680e5bbf\""
+    "date": "2020-07-17T00:11:27.514600+00:00",
+    "etag": "\"e2bf359d7230ed4e7a37b9e78416d78e\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/private-browsing/": {
-    "date": "2020-07-08T00:08:33.770169+00:00",
-    "etag": "\"55ab26ad59175875ee8a9ec0f01da165\""
+    "date": "2020-07-17T00:11:21.390593+00:00",
+    "etag": "\"1f82e9f5fd46e4599c0b3680245e2687\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.380697+00:00",
