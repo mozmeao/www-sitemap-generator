@@ -7403,8 +7403,8 @@
     "etag": "\"0d6a12fd2f5835fe0f7b89ab94a0f26f\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0.1/releasenotes/": {
-    "date": "2020-07-08T00:09:29.088020+00:00",
-    "etag": "\"aaef6ef3769b1cbf60304ada42b3650c\""
+    "date": "2020-07-28T00:09:36.267331+00:00",
+    "etag": "\"2ca6b633937a2ed7edf63dc1eb671eeb\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0.1/system-requirements/": {
     "date": "2020-07-08T00:09:29.180329+00:00",
@@ -7419,8 +7419,8 @@
     "etag": "\"88db04a1390446acf2205085641f9706\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0.2/releasenotes/": {
-    "date": "2020-07-08T00:09:28.718498+00:00",
-    "etag": "\"9d24e2860c40501ce7640d93ecae8905\""
+    "date": "2020-07-28T00:09:35.562036+00:00",
+    "etag": "\"9f51a62aafec13d040cf06d531e403da\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0.2/system-requirements/": {
     "date": "2020-07-08T00:09:28.792554+00:00",
@@ -7435,8 +7435,8 @@
     "etag": "\"db0aef8890ef93ba1c136e6dcb334552\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0/releasenotes/": {
-    "date": "2020-07-08T00:09:29.486352+00:00",
-    "etag": "\"7b68844a7cece788f12df5f2009e5533\""
+    "date": "2020-07-28T00:09:37.086731+00:00",
+    "etag": "\"95e7018039af0f84afc953b4895316e0\""
   },
   "https://www.mozilla.org/en-US/firefox/68.0/system-requirements/": {
     "date": "2020-07-08T00:09:29.594766+00:00",
@@ -9293,6 +9293,14 @@
   "https://www.mozilla.org/en-US/firefox/android/68.10.1/system-requirements/": {
     "date": "2020-07-08T00:09:43.208891+00:00",
     "etag": "\"6ab0aa831061ff4839d5599d2d2cd2c3\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/68.11.0/releasenotes/": {
+    "date": "2020-07-28T00:09:12.149554+00:00",
+    "etag": "\"2b8bb68e19a3966ab4e6c3aa4e1d9086\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/68.11.0/system-requirements/": {
+    "date": "2020-07-28T00:09:12.208410+00:00",
+    "etag": "\"8e6e65dfa226f1827904dede11e89552\""
   },
   "https://www.mozilla.org/en-US/firefox/android/68.2.0/releasenotes/": {
     "date": "2020-07-08T00:09:58.960429+00:00",
@@ -18135,16 +18143,16 @@
     "etag": "\"42122eaafad4541a10e8f521ac3843ac\""
   },
   "https://www.mozilla.org/gn/firefox/channel/android/": {
-    "date": "2020-07-27T18:08:39.261706+00:00",
-    "etag": "\"a3e71c75877a3a1fd6e05cc3f5ad4828\""
+    "date": "2020-07-28T00:08:49.719255+00:00",
+    "etag": "\"e3e1158e31d57ed936f4787d7f2ce9ad\""
   },
   "https://www.mozilla.org/gn/firefox/channel/desktop/": {
-    "date": "2020-07-27T18:09:03.250103+00:00",
-    "etag": "\"9b9208c4c1f08f1a66255707b5c2fe70\""
+    "date": "2020-07-28T00:09:12.970492+00:00",
+    "etag": "\"571566e981cb8709a29ea2ccb37e9845\""
   },
   "https://www.mozilla.org/gn/firefox/channel/ios/": {
-    "date": "2020-07-27T18:08:17.339809+00:00",
-    "etag": "\"79ef3849765c223809e4b862d229f24c\""
+    "date": "2020-07-28T00:08:25.675957+00:00",
+    "etag": "\"27ab64eb44eeabc50fcb7a855c73a6a6\""
   },
   "https://www.mozilla.org/gn/firefox/developer/": {
     "date": "2020-07-24T18:08:37.397526+00:00",
@@ -18183,12 +18191,12 @@
     "etag": "\"3b5c965a815cc4814557f48007fbd5b6\""
   },
   "https://www.mozilla.org/gn/firefox/features/password-manager/": {
-    "date": "2020-07-25T06:07:53.679283+00:00",
-    "etag": "\"918241ff1c73ec8ebf7733889df89911\""
+    "date": "2020-07-28T00:08:12.640068+00:00",
+    "etag": "\"f0f997231382992f5672a1e11db7e03c\""
   },
   "https://www.mozilla.org/gn/firefox/features/private-browsing/": {
-    "date": "2020-07-25T06:07:48.661513+00:00",
-    "etag": "\"b5f90703f04ea8d506f4683cc7d8109e\""
+    "date": "2020-07-28T00:08:07.534570+00:00",
+    "etag": "\"2cf3945fedcd8338f4a2e01e5505b536\""
   },
   "https://www.mozilla.org/gn/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.492922+00:00",
