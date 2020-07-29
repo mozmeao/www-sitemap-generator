@@ -2959,6 +2959,12 @@
   "/firefox/80.0a1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/81.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/81.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/accounts/": [
     "ar",
     "be",
@@ -10685,6 +10691,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-33/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-34/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
