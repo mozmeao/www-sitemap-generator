@@ -7978,6 +7978,14 @@
     "date": "2020-07-23T18:10:38.417231+00:00",
     "etag": "\"fe857354bd22fde7255ebc77cccb86ef\""
   },
+  "https://www.mozilla.org/en-US/firefox/80.0beta/releasenotes/": {
+    "date": "2020-07-29T18:09:34.690404+00:00",
+    "etag": "\"d2c90373a316dc8b574b81f7515f77a8\""
+  },
+  "https://www.mozilla.org/en-US/firefox/80.0beta/system-requirements/": {
+    "date": "2020-07-29T18:09:34.784089+00:00",
+    "etag": "\"f28592c74e21471b99aa2b848d71f404\""
+  },
   "https://www.mozilla.org/en-US/firefox/81.0a1/releasenotes/": {
     "date": "2020-07-29T12:11:17.029745+00:00",
     "etag": "\"2730f2776f536e3646648aa36d802775\""
@@ -16051,20 +16059,20 @@
     "etag": "\"244be0737e397704f574a28b4151b30d\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/edge/": {
-    "date": "2020-07-29T12:09:33.801773+00:00",
-    "etag": "\"533dce63898c488dfcc16fd58c5e0d04\""
+    "date": "2020-07-29T18:08:02.531232+00:00",
+    "etag": "\"f861359a61c71ea2ff5e7cc8974d99f1\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/ie/": {
     "date": "2020-07-29T12:09:25.387214+00:00",
     "etag": "\"3f8d9aae1e18ad4eab37a4fd65f07705\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/opera/": {
-    "date": "2020-07-29T12:09:16.662781+00:00",
-    "etag": "\"5c77b3d0f85bccee73a54911ba78f92b\""
+    "date": "2020-07-29T18:07:44.677697+00:00",
+    "etag": "\"9b77e73a931cc9d89975cff9348ea509\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/safari/": {
-    "date": "2020-07-17T00:09:26.139439+00:00",
-    "etag": "\"008b1cdad4b120d3b14c643ad93c23a8\""
+    "date": "2020-07-29T18:07:35.277814+00:00",
+    "etag": "\"b8dcc8eeea6f70e137ab8911d3534286\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/windows-64-bit/": {
     "date": "2020-07-08T00:07:41.701066+00:00",
