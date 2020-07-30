@@ -4984,7 +4984,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/new/</loc>
-    <lastmod>2020-07-24T00:08:58.837223+00:00</lastmod>
+    <lastmod>2020-07-30T18:08:04.098387+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/pocket/</loc>
@@ -5626,7 +5626,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/</loc>
-    <lastmod>2020-07-29T12:10:34.398621+00:00</lastmod>
+    <lastmod>2020-07-30T18:08:56.830739+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/</loc>
@@ -9898,7 +9898,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/</loc>
-    <lastmod>2020-07-29T12:12:15.070521+00:00</lastmod>
+    <lastmod>2020-07-30T18:10:37.565560+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/</loc>
@@ -10222,7 +10222,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-31/</loc>
-    <lastmod>2020-07-29T12:12:06.001481+00:00</lastmod>
+    <lastmod>2020-07-30T18:10:30.723886+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-32/</loc>
@@ -10235,6 +10235,10 @@
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-34/</loc>
     <lastmod>2020-07-29T12:12:05.759356+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-35/</loc>
+    <lastmod>2020-07-30T18:10:30.337903+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/bug-bounty/</loc>
@@ -10354,7 +10358,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/</loc>
-    <lastmod>2020-07-28T18:10:01.229988+00:00</lastmod>
+    <lastmod>2020-07-30T18:10:27.478551+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/web-bug-bounty/</loc>

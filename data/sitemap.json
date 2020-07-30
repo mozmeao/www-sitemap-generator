@@ -5742,6 +5742,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "kab",
     "ko",
@@ -5762,6 +5763,7 @@
     "sq",
     "sr",
     "sv-SE",
+    "th",
     "tr",
     "uk",
     "vi",
@@ -10700,6 +10702,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-34/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-35/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
