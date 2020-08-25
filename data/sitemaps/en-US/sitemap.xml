@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/en-US/</loc>
-    <lastmod>2020-08-15T00:07:16.548435+00:00</lastmod>
+    <lastmod>2020-08-25T18:07:12.087919+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/MPL/</loc>
@@ -2723,6 +2723,14 @@
     <lastmod>2020-08-13T18:09:58.691121+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/firefox/68.12.0/releasenotes/</loc>
+    <lastmod>2020-08-25T18:09:00.739898+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/68.12.0/system-requirements/</loc>
+    <lastmod>2020-08-25T18:09:00.812749+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/firefox/68.2.0/releasenotes/</loc>
     <lastmod>2020-08-13T18:10:18.517675+00:00</lastmod>
   </url>
@@ -3179,8 +3187,16 @@
     <lastmod>2020-08-13T18:09:59.424343+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/firefox/78.2.0/releasenotes/</loc>
+    <lastmod>2020-08-25T18:09:00.972938+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/78.2.0/system-requirements/</loc>
+    <lastmod>2020-08-25T18:09:01.157611+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/firefox/79.0/releasenotes/</loc>
-    <lastmod>2020-08-13T18:09:58.897671+00:00</lastmod>
+    <lastmod>2020-08-25T18:09:02.886038+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/79.0/system-requirements/</loc>
@@ -3203,8 +3219,16 @@
     <lastmod>2020-08-13T18:10:02.445564+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/firefox/80.0/releasenotes/</loc>
+    <lastmod>2020-08-25T18:09:01.785302+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/80.0/system-requirements/</loc>
+    <lastmod>2020-08-25T18:09:01.938289+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0a1/releasenotes/</loc>
-    <lastmod>2020-08-13T18:10:03.381669+00:00</lastmod>
+    <lastmod>2020-08-25T18:09:07.554742+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0a1/system-requirements/</loc>
@@ -3220,11 +3244,27 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/81.0a1/releasenotes/</loc>
-    <lastmod>2020-08-13T18:10:03.688788+00:00</lastmod>
+    <lastmod>2020-08-25T18:09:04.026029+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/81.0a1/system-requirements/</loc>
     <lastmod>2020-08-13T18:10:03.769650+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/81.0beta/releasenotes/</loc>
+    <lastmod>2020-08-25T18:09:00.466939+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/81.0beta/system-requirements/</loc>
+    <lastmod>2020-08-25T18:09:00.551118+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/82.0a1/releasenotes/</loc>
+    <lastmod>2020-08-25T18:09:02.166848+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/82.0a1/system-requirements/</loc>
+    <lastmod>2020-08-25T18:09:02.332840+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/accounts/</loc>
@@ -5016,7 +5056,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/releases/</loc>
-    <lastmod>2020-08-13T18:08:04.252052+00:00</lastmod>
+    <lastmod>2020-08-25T18:07:12.518531+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/set-as-default/</loc>
@@ -5630,7 +5670,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/</loc>
-    <lastmod>2020-08-20T00:08:32.185402+00:00</lastmod>
+    <lastmod>2020-08-25T18:08:28.090718+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/</loc>
@@ -9902,7 +9942,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/</loc>
-    <lastmod>2020-08-20T00:10:14.073848+00:00</lastmod>
+    <lastmod>2020-08-25T18:10:12.563573+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/</loc>
@@ -10245,6 +10285,18 @@
     <lastmod>2020-08-13T18:10:54.525566+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-36/</loc>
+    <lastmod>2020-08-25T18:10:04.523744+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-37/</loc>
+    <lastmod>2020-08-25T18:10:04.421105+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-38/</loc>
+    <lastmod>2020-08-25T18:10:04.332766+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/security/bug-bounty/</loc>
     <lastmod>2020-08-18T00:09:42.976609+00:00</lastmod>
   </url>
@@ -10302,7 +10354,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/</loc>
-    <lastmod>2020-08-13T18:10:50.709339+00:00</lastmod>
+    <lastmod>2020-08-25T18:09:59.483110+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-os/</loc>
@@ -10310,7 +10362,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/</loc>
-    <lastmod>2020-08-13T18:10:50.146280+00:00</lastmod>
+    <lastmod>2020-08-25T18:09:58.801239+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/mozilla-suite/</loc>

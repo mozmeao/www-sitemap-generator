@@ -2615,6 +2615,12 @@
   "/firefox/68.11.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/68.12.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/68.12.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/68.2.0/releasenotes/": [
     "en-US"
   ],
@@ -2957,6 +2963,12 @@
   "/firefox/78.1.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.2.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.2.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0/releasenotes/": [
     "en-US"
   ],
@@ -2975,6 +2987,12 @@
   "/firefox/79.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/80.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/80.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/80.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2991,6 +3009,18 @@
     "en-US"
   ],
   "/firefox/81.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/81.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/81.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/82.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/82.0a1/system-requirements/": [
     "en-US"
   ],
   "/firefox/accounts/": [
@@ -10725,6 +10755,15 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-35/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-36/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-37/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-38/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
