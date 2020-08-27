@@ -10565,8 +10565,8 @@
     "etag": "\"741b4050035954cb804051801d33b2e0\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2020-08-25T18:08:28.090718+00:00",
-    "etag": "\"fa0e4906ee9c9dcdf1b0939ee3f15bb0\""
+    "date": "2020-08-27T00:08:47.011138+00:00",
+    "etag": "\"bf2ef07d8a26130bd4cdeaa855750e9a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2020-08-13T18:11:16.269562+00:00",
@@ -14837,8 +14837,8 @@
     "etag": "\"0d69618826fd64ed0b7df6e5d9d29db4\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2020-08-25T18:10:12.563573+00:00",
-    "etag": "\"5222b76e77edee55e7ceb0479b34ba23\""
+    "date": "2020-08-27T00:10:24.999044+00:00",
+    "etag": "\"2de23e0416d243c8df82bbfa7ab05d46\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2020-08-13T18:11:01.809992+00:00",
@@ -15192,6 +15192,14 @@
     "date": "2020-08-25T18:10:04.332766+00:00",
     "etag": "\"79fbf583d708249a5b8377534eded3c9\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-40/": {
+    "date": "2020-08-27T00:10:17.223828+00:00",
+    "etag": "\"bbe8649134d11bddabb1648fc12f2777\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-41/": {
+    "date": "2020-08-27T00:10:17.162948+00:00",
+    "etag": "\"90b498f432737c77935aea91b9ba1226\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2020-08-18T00:09:42.976609+00:00",
     "etag": "\"0cf2e3d632f9db3df9266e4690acdf2e\""
@@ -15309,8 +15317,8 @@
     "etag": "\"9265f5812129652d54410afe05162fde\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2020-08-13T18:10:51.547246+00:00",
-    "etag": "\"485fafece01496723df9366f25fe43f8\""
+    "date": "2020-08-27T00:10:13.902511+00:00",
+    "etag": "\"9a7da5699d335bdaab41f31166ababc7\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2020-08-13T18:09:21.523113+00:00",

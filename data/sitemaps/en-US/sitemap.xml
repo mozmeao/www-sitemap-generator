@@ -5670,7 +5670,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/</loc>
-    <lastmod>2020-08-25T18:08:28.090718+00:00</lastmod>
+    <lastmod>2020-08-27T00:08:47.011138+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/</loc>
@@ -9942,7 +9942,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/</loc>
-    <lastmod>2020-08-25T18:10:12.563573+00:00</lastmod>
+    <lastmod>2020-08-27T00:10:24.999044+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/</loc>
@@ -10297,6 +10297,14 @@
     <lastmod>2020-08-25T18:10:04.332766+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-40/</loc>
+    <lastmod>2020-08-27T00:10:17.223828+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-41/</loc>
+    <lastmod>2020-08-27T00:10:17.162948+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/security/bug-bounty/</loc>
     <lastmod>2020-08-18T00:09:42.976609+00:00</lastmod>
   </url>
@@ -10414,7 +10422,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/</loc>
-    <lastmod>2020-08-13T18:10:51.547246+00:00</lastmod>
+    <lastmod>2020-08-27T00:10:13.902511+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/web-bug-bounty/</loc>
