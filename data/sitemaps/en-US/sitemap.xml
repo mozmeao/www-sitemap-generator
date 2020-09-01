@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/en-US/</loc>
-    <lastmod>2020-09-01T00:23:43.881258+00:00</lastmod>
+    <lastmod>2020-09-01T18:09:47.241937+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/MPL/</loc>
@@ -368,7 +368,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/</loc>
-    <lastmod>2020-08-27T18:09:48.023178+00:00</lastmod>
+    <lastmod>2020-09-01T18:11:00.745773+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/</loc>
@@ -3219,8 +3219,16 @@
     <lastmod>2020-08-27T18:10:29.535348+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/firefox/80.0.1/releasenotes/</loc>
+    <lastmod>2020-09-01T18:11:55.880339+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/80.0.1/system-requirements/</loc>
+    <lastmod>2020-09-01T18:11:56.061563+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0/releasenotes/</loc>
-    <lastmod>2020-08-27T18:10:25.078597+00:00</lastmod>
+    <lastmod>2020-09-01T18:11:57.303402+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0/system-requirements/</loc>
@@ -4720,7 +4728,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/browsers/</loc>
-    <lastmod>2020-08-27T18:09:22.141871+00:00</lastmod>
+    <lastmod>2020-09-01T18:10:28.021359+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/browsers/best-browser/</loc>
@@ -5020,7 +5028,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/mobile/</loc>
-    <lastmod>2020-08-27T18:09:19.131629+00:00</lastmod>
+    <lastmod>2020-09-01T18:10:24.161584+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/mobile/get-app/</loc>
@@ -5028,7 +5036,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/new/</loc>
-    <lastmod>2020-08-27T18:09:05.532492+00:00</lastmod>
+    <lastmod>2020-09-01T18:10:04.272784+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/pocket/</loc>
@@ -5052,11 +5060,11 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/products/</loc>
-    <lastmod>2020-08-27T18:10:29.373905+00:00</lastmod>
+    <lastmod>2020-09-01T18:11:59.748047+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/releases/</loc>
-    <lastmod>2020-08-27T18:08:32.758554+00:00</lastmod>
+    <lastmod>2020-09-01T18:09:21.153556+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/set-as-default/</loc>
@@ -5476,7 +5484,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/moss/</loc>
-    <lastmod>2020-08-27T18:07:49.366972+00:00</lastmod>
+    <lastmod>2020-09-01T18:08:35.707506+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/moss/foundational-technology/</loc>
