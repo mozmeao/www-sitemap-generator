@@ -3220,7 +3220,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0.1/releasenotes/</loc>
-    <lastmod>2020-09-03T00:10:30.390512+00:00</lastmod>
+    <lastmod>2020-09-03T06:09:08.602666+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0.1/system-requirements/</loc>
@@ -3228,7 +3228,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0/releasenotes/</loc>
-    <lastmod>2020-09-03T00:10:31.965642+00:00</lastmod>
+    <lastmod>2020-09-03T06:09:11.104041+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/firefox/80.0/system-requirements/</loc>
@@ -4735,6 +4735,14 @@
     <lastmod>2020-09-03T00:10:30.905800+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.mozilla.org/en-US/firefox/android/80.0/releasenotes/</loc>
+    <lastmod>2020-09-03T06:09:08.937607+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/firefox/android/80.0/system-requirements/</loc>
+    <lastmod>2020-09-03T06:09:09.104005+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.mozilla.org/en-US/firefox/browsers/</loc>
     <lastmod>2020-09-03T00:09:23.649682+00:00</lastmod>
   </url>
@@ -5686,7 +5694,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/</loc>
-    <lastmod>2020-09-02T00:08:48.250633+00:00</lastmod>
+    <lastmod>2020-09-03T06:08:37.411194+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/</loc>
@@ -9958,7 +9966,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/</loc>
-    <lastmod>2020-09-02T00:10:33.841203+00:00</lastmod>
+    <lastmod>2020-09-03T06:10:15.474489+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/</loc>
@@ -10311,6 +10319,10 @@
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-38/</loc>
     <lastmod>2020-09-02T00:10:25.645581+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-39/</loc>
+    <lastmod>2020-09-03T06:10:06.382257+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/en-US/security/advisories/mfsa2020-40/</loc>

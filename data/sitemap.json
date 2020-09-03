@@ -4186,6 +4186,12 @@
   "/firefox/android/79.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/80.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/80.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/browsers/": [
     "be",
     "cak",
@@ -10787,6 +10793,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-38/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-39/": [
     "en-US"
   ],
   "/security/advisories/mfsa2020-40/": [
