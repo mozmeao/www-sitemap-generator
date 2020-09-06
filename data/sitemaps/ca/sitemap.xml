@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/ca/</loc>
-    <lastmod>2020-08-27T18:08:43.426033+00:00</lastmod>
+    <lastmod>2020-09-06T18:07:03.126128+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ca/about/history/</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ca/firefox/</loc>
-    <lastmod>2020-09-03T00:09:48.049638+00:00</lastmod>
+    <lastmod>2020-09-06T18:08:14.785904+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ca/firefox/channel/android/</loc>
@@ -51,6 +51,14 @@
   <url>
     <loc>https://www.mozilla.org/ca/firefox/new/</loc>
     <lastmod>2020-09-03T00:08:59.815154+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ca/firefox/whatsnew/africa/</loc>
+    <lastmod>2020-09-06T18:07:20.055906+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ca/firefox/whatsnew/india/</loc>
+    <lastmod>2020-09-06T18:07:13.509855+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ca/firefox/windows/</loc>
