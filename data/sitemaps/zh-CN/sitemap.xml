@@ -2,258 +2,297 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/</loc>
-    <lastmod>2020-09-03T00:08:19.925673+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:50.379458+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/governance/policies/participation/</loc>
-    <lastmod>2020-10-16T06:07:27.559418+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:53.384570+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/governance/policies/participation/reporting/</loc>
-    <lastmod>2020-10-16T06:07:21.898412+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:50.496384+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/governance/policies/participation/reporting/community-hotline/</loc>
-    <lastmod>2020-10-16T06:07:18.021737+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:48.324648+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/history/</loc>
-    <lastmod>2020-08-27T18:08:47.660710+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:11.857176+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/legal/</loc>
-    <lastmod>2020-10-16T06:09:36.750236+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:33.856653+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/legal/acceptable-use/</loc>
-    <lastmod>2020-08-27T18:10:04.266836+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:50.117217+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/legal/terms/firefox/</loc>
-    <lastmod>2020-08-27T18:10:13.069788+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:53.288866+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/legal/terms/services/</loc>
-    <lastmod>2020-08-27T18:10:07.661642+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:51.390949+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/manifesto/</loc>
-    <lastmod>2020-10-16T06:07:19.406900+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:45.753092+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/about/manifesto/details/</loc>
-    <lastmod>2020-08-27T18:08:53.661885+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:31.781106+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/contribute/</loc>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/</loc>
-    <lastmod>2020-09-03T00:09:46.301636+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:37.923431+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/accounts/</loc>
-    <lastmod>2020-09-29T12:08:32.649369+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:31.597964+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/</loc>
-    <lastmod>2020-09-29T18:08:15.705938+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:27.382523+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/best-browser/</loc>
-    <lastmod>2020-09-03T00:08:03.500876+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:50.797474+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/browsers/chromebook/</loc>
+    <lastmod>2020-11-04T17:08:06.567504+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/</loc>
-    <lastmod>2020-10-04T06:06:27.114209+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:44.198837+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/brave/</loc>
-    <lastmod>2020-10-16T00:08:31.025443+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:36.879934+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/chrome/</loc>
-    <lastmod>2020-10-18T00:07:39.456157+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:29.853623+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/edge/</loc>
-    <lastmod>2020-09-03T00:08:46.566335+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:21.273064+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/ie/</loc>
-    <lastmod>2020-09-03T00:08:35.726978+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:04.267959+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/opera/</loc>
-    <lastmod>2020-09-24T18:07:19.357927+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:00.078768+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/compare/safari/</loc>
-    <lastmod>2020-09-03T00:08:14.847533+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:55.427429+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/browsers/quantum/</loc>
+    <lastmod>2020-11-04T17:08:10.315490+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/browsers/windows-64-bit/</loc>
-    <lastmod>2020-09-03T00:07:47.757742+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/zh-CN/firefox/campaign/</loc>
-    <lastmod>2020-09-03T00:10:29.033439+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:45.533944+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/channel/android/</loc>
-    <lastmod>2020-10-16T06:09:14.074061+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:51.195439+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/channel/desktop/</loc>
-    <lastmod>2020-10-16T06:09:38.868031+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:18.889569+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/channel/ios/</loc>
-    <lastmod>2020-10-16T06:08:50.325687+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:39.846697+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/developer/</loc>
-    <lastmod>2020-10-16T06:09:03.630564+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:25.068167+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/enterprise/</loc>
-    <lastmod>2020-09-29T18:08:31.854693+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:18.822136+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/facebookcontainer/</loc>
-    <lastmod>2020-09-03T06:08:12.146569+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:14.304414+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/faq/</loc>
+    <lastmod>2020-11-04T17:08:08.205164+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/</loc>
-    <lastmod>2020-10-10T12:08:25.890905+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:30.253101+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/adblocker/</loc>
-    <lastmod>2020-09-03T00:09:16.305718+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:26.791557+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/bookmarks/</loc>
-    <lastmod>2020-10-30T18:06:46.702592+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:23.291904+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/fast/</loc>
-    <lastmod>2020-10-10T12:08:06.389946+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:20.685698+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/independent/</loc>
-    <lastmod>2020-10-10T12:07:58.341070+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:18.113368+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/memory/</loc>
-    <lastmod>2020-10-10T12:08:47.720154+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:15.400649+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/password-manager/</loc>
-    <lastmod>2020-10-10T12:08:41.858146+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:12.408721+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/features/private-browsing/</loc>
-    <lastmod>2020-10-10T12:08:36.049106+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:09.691062+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/linux/</loc>
-    <lastmod>2020-09-03T00:07:38.561744+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:50.405780+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/lockwise/</loc>
-    <lastmod>2020-09-11T06:06:30.170508+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:41.776401+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/mac/</loc>
-    <lastmod>2020-09-03T00:08:00.608178+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:55.999575+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/mobile/</loc>
-    <lastmod>2020-10-10T12:08:27.201138+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:30.625883+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/mobile/get-app/</loc>
-    <lastmod>2020-10-10T12:08:20.376707+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:27.445488+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/more/</loc>
+    <lastmod>2020-11-04T17:08:12.206836+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/new/</loc>
-    <lastmod>2020-10-13T06:08:05.781574+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:21.578030+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/privacy/</loc>
-    <lastmod>2020-09-29T12:08:01.029890+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:37.478029+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/privacy/products/</loc>
-    <lastmod>2020-09-29T12:07:54.620606+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:31.912433+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/products/</loc>
-    <lastmod>2020-10-10T18:09:13.843990+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:23.023649+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/set-as-default/</loc>
-    <lastmod>2020-10-06T12:08:15.814274+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:24.231120+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/switch/</loc>
-    <lastmod>2020-09-03T00:08:28.389644+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:05.324444+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/sync/</loc>
+    <lastmod>2020-11-04T17:08:05.539748+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/whatsnew/africa/</loc>
-    <lastmod>2020-11-03T00:06:41.925180+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:15.077197+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/firefox/whatsnew/china/</loc>
+    <lastmod>2020-11-04T17:08:10.238243+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/whatsnew/india/</loc>
-    <lastmod>2020-11-03T00:06:37.976984+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:12.901027+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/firefox/windows/</loc>
-    <lastmod>2020-09-03T00:08:14.605594+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:00.139854+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/foundation/annualreport/2011/</loc>
-    <lastmod>2020-08-27T18:10:16.830110+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:46.907189+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/foundation/annualreport/2011/faq/</loc>
-    <lastmod>2020-08-27T18:10:12.573875+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:44.744362+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/foundation/annualreport/2012/</loc>
-    <lastmod>2020-08-27T18:10:07.689853+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:42.540014+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/foundation/annualreport/2012/faq/</loc>
-    <lastmod>2020-08-27T18:10:33.926228+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:40.912484+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/mission/</loc>
-    <lastmod>2020-10-16T06:07:53.525503+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:08.613936+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/newsletter/</loc>
+    <lastmod>2020-11-04T17:07:41.522306+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/newsletter/developer/</loc>
+    <lastmod>2020-11-04T17:07:24.213158+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/newsletter/firefox/</loc>
+    <lastmod>2020-11-04T17:07:31.055983+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/zh-CN/newsletter/mozilla/</loc>
+    <lastmod>2020-11-04T17:07:37.244288+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/</loc>
-    <lastmod>2020-08-27T18:09:59.689151+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:47.476027+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/faq/</loc>
-    <lastmod>2020-08-27T18:10:15.680243+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:38.926163+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/firefox-lite/</loc>
-    <lastmod>2020-08-27T18:10:00.656753+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:45.979850+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/firefox-os/</loc>
-    <lastmod>2020-08-27T18:10:04.661860+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:32.464818+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/firefox/</loc>
-    <lastmod>2020-08-27T18:10:10.073996+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:34.904143+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/principles/</loc>
-    <lastmod>2020-08-27T18:09:47.303689+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:45.466636+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/zh-CN/privacy/websites/</loc>
-    <lastmod>2020-08-27T18:09:57.347107+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:44.378560+00:00</lastmod>
   </url>
 </urlset>

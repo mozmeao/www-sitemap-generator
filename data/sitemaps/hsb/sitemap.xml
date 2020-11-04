@@ -2,174 +2,185 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/hsb/</loc>
-    <lastmod>2020-09-20T00:07:18.379919+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:02.288902+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/about/</loc>
-    <lastmod>2020-09-20T00:06:55.867563+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:51.620407+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/about/history/</loc>
-    <lastmod>2020-09-20T00:07:23.959411+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:12.825632+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/about/manifesto/</loc>
-    <lastmod>2020-09-20T00:06:46.657016+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:40.122487+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/about/manifesto/details/</loc>
-    <lastmod>2020-09-20T00:06:17.597727+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:27.468581+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/hsb/contribute/</loc>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/</loc>
-    <lastmod>2020-09-20T00:08:26.832209+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:38.898053+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/accounts/</loc>
-    <lastmod>2020-09-29T12:08:32.313828+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:32.677349+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/</loc>
-    <lastmod>2020-09-29T18:08:22.065656+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:28.064986+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/best-browser/</loc>
-    <lastmod>2020-09-20T00:06:42.581695+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:51.390140+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/compare/</loc>
-    <lastmod>2020-10-04T06:08:25.637870+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:44.857653+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/hsb/firefox/browsers/quantum/</loc>
+    <lastmod>2020-11-04T17:08:10.534511+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/windows-64-bit/</loc>
-    <lastmod>2020-09-20T00:06:26.605911+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.mozilla.org/hsb/firefox/campaign/</loc>
-    <lastmod>2020-09-03T00:10:30.578463+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:46.458687+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/channel/android/</loc>
-    <lastmod>2020-09-20T00:08:40.198164+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:46.257907+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/channel/desktop/</loc>
-    <lastmod>2020-09-20T00:09:04.833840+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:57.654089+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/channel/ios/</loc>
-    <lastmod>2020-09-20T00:08:15.913642+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:34.508362+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/developer/</loc>
-    <lastmod>2020-09-20T00:08:31.777970+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:26.794581+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/enterprise/</loc>
-    <lastmod>2020-09-29T18:08:36.592247+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:19.307015+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/facebookcontainer/</loc>
-    <lastmod>2020-09-20T00:08:11.924590+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:15.529139+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/</loc>
-    <lastmod>2020-10-10T12:08:28.224032+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:30.765798+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/adblocker/</loc>
-    <lastmod>2020-09-20T00:07:53.859339+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:27.421739+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/bookmarks/</loc>
-    <lastmod>2020-10-10T12:08:15.733058+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:23.735249+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/fast/</loc>
-    <lastmod>2020-10-10T12:08:08.429039+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:21.110971+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/independent/</loc>
-    <lastmod>2020-10-10T12:08:01.085410+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:18.571938+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/memory/</loc>
-    <lastmod>2020-10-10T12:08:50.009005+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:15.870249+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/password-manager/</loc>
-    <lastmod>2020-10-10T12:08:44.107194+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:12.991546+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/features/private-browsing/</loc>
-    <lastmod>2020-10-10T12:08:38.117106+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:10.159459+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/linux/</loc>
-    <lastmod>2020-09-03T00:07:46.745545+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:51.406950+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/lockwise/</loc>
-    <lastmod>2020-09-20T00:06:12.997680+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:42.698483+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/mac/</loc>
-    <lastmod>2020-09-03T00:08:05.437505+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:56.732683+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/mobile/</loc>
-    <lastmod>2020-10-10T12:08:31.027521+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:31.328180+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/mobile/get-app/</loc>
-    <lastmod>2020-10-10T12:08:23.120952+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:28.106156+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/hsb/firefox/more/</loc>
+    <lastmod>2020-11-04T17:08:12.498479+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/new/</loc>
-    <lastmod>2020-09-25T00:07:43.868157+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:23.238472+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/privacy/</loc>
-    <lastmod>2020-09-29T12:08:00.757798+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:38.486846+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/privacy/products/</loc>
-    <lastmod>2020-09-29T12:07:54.230013+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:33.305670+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/products/</loc>
-    <lastmod>2020-10-10T18:09:17.820472+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:23.873079+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/set-as-default/</loc>
-    <lastmod>2020-10-06T12:08:16.221421+00:00</lastmod>
+    <lastmod>2020-11-04T17:07:26.002950+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/switch/</loc>
-    <lastmod>2020-09-20T00:07:02.647372+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:06.463469+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/whatsnew/africa/</loc>
-    <lastmod>2020-11-03T00:06:43.939417+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:15.544473+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/hsb/firefox/whatsnew/china/</loc>
+    <lastmod>2020-11-04T17:08:11.201305+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/whatsnew/india/</loc>
-    <lastmod>2020-11-03T00:06:40.368931+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:13.531741+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/windows/</loc>
-    <lastmod>2020-09-03T00:08:18.397762+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:01.251974+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/mission/</loc>
-    <lastmod>2020-09-20T00:07:18.772817+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:02.620898+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/privacy/faq/</loc>
-    <lastmod>2020-09-20T00:08:20.079820+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:39.474593+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/privacy/principles/</loc>
-    <lastmod>2020-09-20T00:08:30.950099+00:00</lastmod>
+    <lastmod>2020-11-04T17:08:42.986331+00:00</lastmod>
   </url>
 </urlset>
