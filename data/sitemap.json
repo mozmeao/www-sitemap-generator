@@ -4424,6 +4424,7 @@
     "nl",
     "pl",
     "pt-BR",
+    "sq",
     "sv-SE",
     "uk",
     "vi",
@@ -5205,6 +5206,7 @@
     "ka",
     "nl",
     "pt-BR",
+    "sq",
     "sv-SE",
     "uk",
     "vi",
@@ -11152,6 +11154,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-47/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2020-48/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
