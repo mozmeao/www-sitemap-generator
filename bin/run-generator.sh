@@ -8,4 +8,3 @@ bin/run-prod.sh > /dev/null &
 urlwait http://localhost:8000 60
 sleep 2
 python update_etags.py
-python generate_sitemaps.py
