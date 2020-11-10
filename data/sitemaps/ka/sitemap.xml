@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/ka/</loc>
-    <lastmod>2020-11-04T17:08:00.950612+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:37.128489+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/about/</loc>
@@ -21,7 +21,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/</loc>
-    <lastmod>2020-11-04T17:08:38.191008+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:17.798828+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/accounts/</loc>
@@ -29,11 +29,15 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/</loc>
-    <lastmod>2020-11-04T17:08:27.689913+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:05.900851+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/best-browser/</loc>
     <lastmod>2020-11-04T17:07:50.937367+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ka/firefox/browsers/chromebook/</loc>
+    <lastmod>2020-11-10T18:09:43.747193+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/</loc>
@@ -41,27 +45,27 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/brave/</loc>
-    <lastmod>2020-11-04T17:07:37.640034+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:16.082268+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/chrome/</loc>
-    <lastmod>2020-11-04T17:07:30.496141+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:10.044438+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/edge/</loc>
-    <lastmod>2020-11-04T17:07:22.264515+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:03.022862+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/ie/</loc>
-    <lastmod>2020-11-04T17:08:04.650376+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:42.863253+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/opera/</loc>
-    <lastmod>2020-11-04T17:08:00.459071+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:39.029773+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/compare/safari/</loc>
-    <lastmod>2020-11-04T17:07:56.045955+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:34.378468+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/browsers/quantum/</loc>
@@ -97,7 +101,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/faq/</loc>
-    <lastmod>2020-11-05T00:08:25.036712+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:45.503088+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/features/</loc>
@@ -145,7 +149,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/mobile/</loc>
-    <lastmod>2020-11-04T17:08:30.970610+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:08.759749+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/mobile/get-app/</loc>
@@ -153,7 +157,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/more/</loc>
-    <lastmod>2020-11-04T17:08:12.362937+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:48.298477+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/new/</loc>
@@ -169,7 +173,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/products/</loc>
-    <lastmod>2020-11-04T17:08:23.325594+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:01.459967+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/set-as-default/</loc>
@@ -178,6 +182,10 @@
   <url>
     <loc>https://www.mozilla.org/ka/firefox/switch/</loc>
     <lastmod>2020-11-04T17:08:05.544558+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/ka/firefox/sync/</loc>
+    <lastmod>2020-11-10T18:09:42.528886+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/ka/firefox/whatsnew/africa/</loc>

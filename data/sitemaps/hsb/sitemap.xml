@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.mozilla.org/hsb/</loc>
-    <lastmod>2020-11-04T17:08:02.288902+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:33.484966+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/about/</loc>
@@ -25,7 +25,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/</loc>
-    <lastmod>2020-11-04T17:08:38.898053+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:14.786850+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/accounts/</loc>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/</loc>
-    <lastmod>2020-11-04T17:08:28.064986+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:04.629220+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/browsers/best-browser/</loc>
@@ -121,7 +121,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/mobile/</loc>
-    <lastmod>2020-11-04T17:08:31.328180+00:00</lastmod>
+    <lastmod>2020-11-10T18:10:07.483075+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/mobile/get-app/</loc>
@@ -129,7 +129,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/more/</loc>
-    <lastmod>2020-11-07T18:06:52.497706+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:47.642980+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/new/</loc>
@@ -145,7 +145,7 @@
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/products/</loc>
-    <lastmod>2020-11-04T17:08:23.873079+00:00</lastmod>
+    <lastmod>2020-11-10T18:09:59.745180+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/set-as-default/</loc>
@@ -154,6 +154,10 @@
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/switch/</loc>
     <lastmod>2020-11-04T17:08:06.463469+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.mozilla.org/hsb/firefox/sync/</loc>
+    <lastmod>2020-11-10T18:09:41.944770+00:00</lastmod>
   </url>
   <url>
     <loc>https://www.mozilla.org/hsb/firefox/whatsnew/africa/</loc>
