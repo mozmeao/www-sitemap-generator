@@ -67,6 +67,7 @@ def update_url_etag(url):
     local_url = LOCAL_SERVER + url
     headers = {}
     curr_etag = CURRENT_ETAGS.get(canonical_url)
+    today = datetime.now(timezone.utc).isoformat()
     # skip some URLs that we don't want to have lastmod dates
     if ignore_url(url):
         # remove the etag and date if one already exists
@@ -94,7 +95,7 @@ def update_url_etag(url):
         else:
             UPDATED_ETAGS[canonical_url] = {
                 "etag": etag,
-                "date": datetime.now(timezone.utc).isoformat(),
+                "date": today,
             }
             print("*", end="", flush=True)
     else:
