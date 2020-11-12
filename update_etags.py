@@ -64,8 +64,8 @@ def generate_all_urls(data):
 
 
 def update_url_etag(url):
-    canonical_url = CANONICAL_DOMAIN + url
-    local_url = LOCAL_SERVER + url
+    canonical_url = f"{CANONICAL_DOMAIN}{url}"
+    local_url = f"{LOCAL_SERVER}{url}?automation=true"
     headers = {}
     curr_etag = CURRENT_ETAGS.get(canonical_url)
     # skip some URLs that we don't want to have lastmod dates
