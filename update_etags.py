@@ -32,6 +32,7 @@ IGNORE = [
     "/prometheus/",
 ]
 IGNORE = [re.compile(s) for s in IGNORE]
+TODAY = datetime.now(timezone.utc).isoformat()
 
 
 def ignore_url(url):
@@ -67,7 +68,6 @@ def update_url_etag(url):
     local_url = LOCAL_SERVER + url
     headers = {}
     curr_etag = CURRENT_ETAGS.get(canonical_url)
-    today = datetime.now(timezone.utc).isoformat()
     # skip some URLs that we don't want to have lastmod dates
     if ignore_url(url):
         # remove the etag and date if one already exists
@@ -95,7 +95,7 @@ def update_url_etag(url):
         else:
             UPDATED_ETAGS[canonical_url] = {
                 "etag": etag,
-                "date": today,
+                "date": TODAY,
             }
             print("*", end="", flush=True)
     else:
