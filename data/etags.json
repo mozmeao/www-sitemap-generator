@@ -8286,6 +8286,14 @@
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"67872cf709d310a1be55cb72aa703a01\""
   },
+  "https://www.mozilla.org/en-US/firefox/78.5.0/releasenotes/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"e4e45665dcfec839f06f37c5d85a7297\""
+  },
+  "https://www.mozilla.org/en-US/firefox/78.5.0/system-requirements/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"a2478d828aae2f48e25b09751a05372b\""
+  },
   "https://www.mozilla.org/en-US/firefox/79.0/releasenotes/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"f016ec768d38cb6c6f6545a5f8f6a7a0\""
@@ -8399,8 +8407,8 @@
     "etag": "\"f9473ac3bbbcfab8bb67abbe4f23f89e\""
   },
   "https://www.mozilla.org/en-US/firefox/82.0.3/releasenotes/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"944b076a5e6bfacb55a30d1cc9cab885\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"26cba5b2a659d680ef092919ac3684b6\""
   },
   "https://www.mozilla.org/en-US/firefox/82.0.3/system-requirements/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -8430,17 +8438,25 @@
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"ba1bdbc14bbd0767c63c6882f79e4ae1\""
   },
+  "https://www.mozilla.org/en-US/firefox/83.0/releasenotes/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"463970da1c00565464836f2133e5bb82\""
+  },
+  "https://www.mozilla.org/en-US/firefox/83.0/system-requirements/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"a1ea4d7b8452198a2fc0649543a6f6d2\""
+  },
   "https://www.mozilla.org/en-US/firefox/83.0a1/releasenotes/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"0677d01396b7fbb888cdbe7b3f81544c\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"5d935b0540bb5fe174baca3b99b57646\""
   },
   "https://www.mozilla.org/en-US/firefox/83.0a1/system-requirements/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"00774ca7c01c99000a95f3f46587c30f\""
   },
   "https://www.mozilla.org/en-US/firefox/83.0beta/releasenotes/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"0381894f06b7247457e6b9ac878fb2a0\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"9364b25f197ccdf82899701af84fda4e\""
   },
   "https://www.mozilla.org/en-US/firefox/83.0beta/system-requirements/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -8453,6 +8469,14 @@
   "https://www.mozilla.org/en-US/firefox/84.0a1/system-requirements/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"58751931d5bd28faa12bbdf44a3396f6\""
+  },
+  "https://www.mozilla.org/en-US/firefox/84.0beta/releasenotes/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"cfdbb3c5b47ad665f0173b18b8d734e4\""
+  },
+  "https://www.mozilla.org/en-US/firefox/84.0beta/system-requirements/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"e701c51c8b2ab4a46d0f5cc4f8dbfc62\""
   },
   "https://www.mozilla.org/en-US/firefox/85.0a1/releasenotes/": {
     "date": "2020-11-17T12:07:26.227303+00:00",
@@ -9954,6 +9978,14 @@
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"c41093691a1e9dd6d5410714fcd47b8f\""
   },
+  "https://www.mozilla.org/en-US/firefox/android/83.0/releasenotes/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"44a865d67296225084202a31bae5219d\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/83.0/system-requirements/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"645a89830d41929871b5652212631d3b\""
+  },
   "https://www.mozilla.org/en-US/firefox/browsers/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"77fbbd0a321ec890d6328c4be5ead1f0\""
@@ -10343,8 +10375,8 @@
     "etag": "\"d33a74917a86c65f97a5dcb41dd05a54\""
   },
   "https://www.mozilla.org/en-US/firefox/releases/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"aac1a2e7d28952d42efaa339826495e2\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"b7cec797f6098a10b738c801a76e919d\""
   },
   "https://www.mozilla.org/en-US/firefox/set-as-default/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -11049,8 +11081,8 @@
     "etag": "\"61f7e897ba6e769a9b6406ec3512c551\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"b198d0964fa37266775baf7d81a51c31\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"15fa2b9c6fcef1b1f85964cd0e8c3495\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -15321,8 +15353,8 @@
     "etag": "\"75ad94ff3183a071872ebf3e044fcfe8\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"971fe94ce45e68b794a2d3b0a60cce98\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"5b0fdf733d9f55583ca8403508683ea8\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -15720,6 +15752,18 @@
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"d7de6261417e611c65d03323fabb0149\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-50/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"4bfc8c96367f90bb7fbbdf28950835ad\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-51/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"88d12363027ae10aa94784cb8e8cc602\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2020-52/": {
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"9d07d6bd4496fe3c85483ec0873a0700\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"459309947a81fefb96734f9f16277f1b\""
@@ -15777,16 +15821,16 @@
     "etag": "\"134d1e89c5e1c5ab3a722324398bb572\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-esr/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"b539d09b9e156d8502e9e546f7bff315\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"b9dbf90388ca668c346ef744b54d3287\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-os/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
     "etag": "\"04b7de78dbaea96df46146075ab3ea27\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"0c71808a3fc497c74f174b8fbdaabb39\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"6f604de212ea5ede9b8c7aaae1deec47\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/mozilla-suite/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -15837,8 +15881,8 @@
     "etag": "\"f7a0e2eb70972e334b1089ee790059ca\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"83fbd63af3711bcd2e38ecd8e7ca0e18\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"33411a1c10eba2a60c502792db1726a9\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
@@ -19331,8 +19375,8 @@
     "etag": "\"9a88efcf44f42872ce2d26cf5220f1c3\""
   },
   "https://www.mozilla.org/he/firefox/browsers/compare/": {
-    "date": "2020-11-17T00:07:21.606940+00:00",
-    "etag": "\"fbf7320e411e9e00bd0f581c8920eb0c\""
+    "date": "2020-11-17T18:06:24.628537+00:00",
+    "etag": "\"80b560f9b9507410eddc6a8f17ee1add\""
   },
   "https://www.mozilla.org/he/firefox/channel/android/": {
     "date": "2020-11-17T00:07:21.606940+00:00",
