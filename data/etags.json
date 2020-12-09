@@ -39,6 +39,18 @@
     "date": "2020-11-23T00:05:52.166858+00:00",
     "etag": "\"fd511e4cf987d2b6e374b15cba4f90bf\""
   },
+  "https://www.mozilla.org/ach/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b638fe81222e2ee78e0dc395d3de6400\""
+  },
+  "https://www.mozilla.org/ach/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"48c9fb2eca7f263dafd9eacfc86b864d\""
+  },
+  "https://www.mozilla.org/ach/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1d85494dbfa513bb8a9673ad78207e77\""
+  },
   "https://www.mozilla.org/af/about/": {
     "date": "2018-08-15T03:30:06.721554+00:00",
     "etag": "\"99625cc761972272dd2f85cc8589fb49\""
@@ -106,12 +118,16 @@
     "etag": "\"322d51cd2ce1892451c509c888dc2a25\""
   },
   "https://www.mozilla.org/af/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:40.543792+00:00",
-    "etag": "\"1aab6bbe74543a6e7a7b2358b0538d8b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"12f89b3d669b7ef7d4c2a037519701a1\""
+  },
+  "https://www.mozilla.org/af/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"449ca9184c64f2fe751f95c2df99d8e1\""
   },
   "https://www.mozilla.org/af/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:32.595269+00:00",
-    "etag": "\"957afcd4c501085c195545ef19166f29\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0aedb2c161f21474dc97dbdd1c5546d0\""
   },
   "https://www.mozilla.org/af/internet-health/digital-inclusion/": {
     "date": "2018-08-15T03:30:29.300148+00:00",
@@ -258,16 +274,16 @@
     "etag": "\"9a535bbc872e34933747c510af56dbcb\""
   },
   "https://www.mozilla.org/an/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4384784f07ab49bcce2e01ca10245f62\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"68a02860923b9fad7f54957050fcbcb7\""
   },
   "https://www.mozilla.org/an/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"8a6feb2c60fa68e0fcb3e1f43e928d2f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d1ca4a760d9936a7c7ff126f5c2ed0cb\""
   },
   "https://www.mozilla.org/an/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3049ff24f6600638d7ff99b3b652e372\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"abd363eeb0e6595c34e5e9723778696c\""
   },
   "https://www.mozilla.org/an/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -449,16 +465,16 @@
     "etag": "\"ab3c3973d6f6d564b482555610128ad4\""
   },
   "https://www.mozilla.org/ar/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5ae591e998af5c258cd0700c20d7aa67\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6ef82b11886884273fcdd392268d7a7a\""
   },
   "https://www.mozilla.org/ar/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"38780fe939f1c2ba0ec118a6030aa672\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0b1118d260c64187f54d2b0d5dc81d94\""
   },
   "https://www.mozilla.org/ar/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3b1c53be8c4d2eaeb27971341519357e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"281f1d08b5428814df1db928de8d3146\""
   },
   "https://www.mozilla.org/ar/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -629,16 +645,16 @@
     "etag": "\"5c495f3c3c147dd2962a32c586fc8637\""
   },
   "https://www.mozilla.org/ast/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"596ca5e8d928916f37ae3424614777aa\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a6ed11fac36a00c4def7481506196f4e\""
   },
   "https://www.mozilla.org/ast/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"0702ded0be51f18199b071e81f2a1221\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9cb77b365d617a0044ab806e6bbe5117\""
   },
   "https://www.mozilla.org/ast/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"19cdc8f01e50d0b431e1424c16402a02\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7da8f39cc0a4c756d1521b72fc20f906\""
   },
   "https://www.mozilla.org/ast/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -781,12 +797,16 @@
     "etag": "\"8ff9e50eeeacdfc8cc26d83e15a7c54a\""
   },
   "https://www.mozilla.org/az/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:39.203295+00:00",
-    "etag": "\"f06431cd4b4e2d2afc27866073e69b34\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8abb35282f8791adb4cd3bcae4dad011\""
+  },
+  "https://www.mozilla.org/az/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"844fe09cecab840db6c9cc331346a5bd\""
   },
   "https://www.mozilla.org/az/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:30.915441+00:00",
-    "etag": "\"57609bf1576cc0d06744af0d79af7a01\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4471a9aa345768ccef18390a052da661\""
   },
   "https://www.mozilla.org/az/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -873,12 +893,16 @@
     "etag": "\"bf615b0377a54bcef4a4a68769cbae8c\""
   },
   "https://www.mozilla.org/azz/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:34.653316+00:00",
-    "etag": "\"52f79f256bb279e6fa1a852a653332bf\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ccb360671f31f1511db334891a532da7\""
+  },
+  "https://www.mozilla.org/azz/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"95ddd3a4f58ba7aac9013e2ec9660c2e\""
   },
   "https://www.mozilla.org/azz/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:24.685352+00:00",
-    "etag": "\"ea2e8bdd6fc1656126c4ebc3ea0561e9\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"94872ef97236dac652384316285ea9f4\""
   },
   "https://www.mozilla.org/be/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -1041,16 +1065,16 @@
     "etag": "\"89f93bfe8d7e0e1aa4f3f123861aa348\""
   },
   "https://www.mozilla.org/be/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"bb443afafad49cf9328fc9545f0a840d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"28c916bc37116bab8682540dafd3b672\""
   },
   "https://www.mozilla.org/be/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c69c75175cf92dc5ec4aee8f1210a7b7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7499047581c4be013a45107e43be97d7\""
   },
   "https://www.mozilla.org/be/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"78f419c2bd342db9708557b91f964b62\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"acb6ad574ae12cf1e914c44659a2df28\""
   },
   "https://www.mozilla.org/be/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -1219,12 +1243,16 @@
     "etag": "\"47bee130e501e3c714c6869484a391b9\""
   },
   "https://www.mozilla.org/bg/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:36.560208+00:00",
-    "etag": "\"5024e995d8b7fabb03981a302d98a1a7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"91ad708a02ce433fc70bf65ec21ebd95\""
+  },
+  "https://www.mozilla.org/bg/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1dea24f809ac3f001b0d456c10e48345\""
   },
   "https://www.mozilla.org/bg/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:28.147973+00:00",
-    "etag": "\"dcb5a9d3adc8432d81ec470e93e04d13\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7f7475f15c4cbe1e1fe45ec9255d4209\""
   },
   "https://www.mozilla.org/bg/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -1516,12 +1544,16 @@
     "etag": "\"91b0eb505b1ae760d50459627d352202\""
   },
   "https://www.mozilla.org/bn/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:38.909415+00:00",
-    "etag": "\"b99a893c93bcfc2534c2b2d0a9b478d0\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"daeabcab6062f458f7815ceb70c0afe4\""
+  },
+  "https://www.mozilla.org/bn/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"bd5f4db7f1e95d7ed2bd7481104782cb\""
   },
   "https://www.mozilla.org/bn/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:30.849405+00:00",
-    "etag": "\"c0934f54cb2b0d64e86673620f9c3d8c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6ebb5f5d94cc75fe75a322cebd942607\""
   },
   "https://www.mozilla.org/bn/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -1566,6 +1598,18 @@
   "https://www.mozilla.org/br/firefox/mobile/": {
     "date": "2018-08-15T03:32:07.514915+00:00",
     "etag": "\"03d4a69aaa44126a9d900f869db2d408\""
+  },
+  "https://www.mozilla.org/br/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ad2c9362552446ebdd065f9611dc72f0\""
+  },
+  "https://www.mozilla.org/br/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1dfe50d27733ce392720b27243190373\""
+  },
+  "https://www.mozilla.org/br/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"503f85b18e6b0e375100433f3dbacbd8\""
   },
   "https://www.mozilla.org/br/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -1706,12 +1750,16 @@
     "etag": "\"eece1cc7aa6f51d20c50895ef7523ae1\""
   },
   "https://www.mozilla.org/bs/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:41.498170+00:00",
-    "etag": "\"0ef1f5c34873bd5872992817eb8fbec8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"213d298c2fbcb398313e2d55657a8ca4\""
+  },
+  "https://www.mozilla.org/bs/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8ebe6f265b3ab2cd232be62b291c0245\""
   },
   "https://www.mozilla.org/bs/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:34.470416+00:00",
-    "etag": "\"e639888a9c0cd7b36dd876c2a1414f6b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"928ebb895b341ae63d7fc0df0b9efcd7\""
   },
   "https://www.mozilla.org/bs/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -1862,16 +1910,16 @@
     "etag": "\"e8cbbd70764a11c2745e0966db92dabc\""
   },
   "https://www.mozilla.org/ca/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ae3c1dae13516ceb81b7a284b58097c2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"686a9f05ba0287399e9d227b19d60e5d\""
   },
   "https://www.mozilla.org/ca/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"28689dd8b12365b389f2fdf2635da710\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c82c8f8edc4371e3a277c1b525e7eab2\""
   },
   "https://www.mozilla.org/ca/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"b911b5baf1bf2fa88349409fa57596d3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3ead87e998f120290c3b41ee4768510f\""
   },
   "https://www.mozilla.org/ca/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -2104,16 +2152,16 @@
     "etag": "\"27d724e1cac2792395bac1860a18fc19\""
   },
   "https://www.mozilla.org/cak/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"22d7a3f7902245b1e2814b6b28494b3f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4a19e67295f184d91686367def96ff25\""
   },
   "https://www.mozilla.org/cak/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3c8e3c6be3be13b9b68923f5dbc7b9e8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"12ce8185609b987cd2e3734178b6b6f8\""
   },
   "https://www.mozilla.org/cak/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"e8f1c666f01161341bc8d055688c10bb\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"753ab51185b3fda795e9b2bba69a0221\""
   },
   "https://www.mozilla.org/cak/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -2390,16 +2438,16 @@
     "etag": "\"ec7924c98083c4e5f492541c9b3801e3\""
   },
   "https://www.mozilla.org/cs/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"abd2684a676c5e81c9f702e8dd067aab\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"225f0dbd9b229c9ed62253f25cf69451\""
   },
   "https://www.mozilla.org/cs/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d2a1584956e0f1fe3cb4e763e96c0fd2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"bd58ee15136531f7596648f12171f1d5\""
   },
   "https://www.mozilla.org/cs/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a46bf65d0ffc4a62d81cb26d8c6a99fa\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"162317e15f2b578a28762ae2dcb63108\""
   },
   "https://www.mozilla.org/cs/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -2716,8 +2764,8 @@
     "etag": "\"03f529211933d958444db5a0819d659f\""
   },
   "https://www.mozilla.org/cy/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"e1dc9a2f4d116b29679fe84de3765a3b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5719a2ab1f7a4476479081c3cd4dd91e\""
   },
   "https://www.mozilla.org/cy/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -2748,16 +2796,16 @@
     "etag": "\"9705d56d4d02a8478c6dd387e2409bdd\""
   },
   "https://www.mozilla.org/cy/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"b621a2fdd50509d594db06fe0fe41f47\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f86c14d91fe30580c33c11084cfc3192\""
   },
   "https://www.mozilla.org/cy/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"939a84071beceb370d4b512d507a9dc8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3e48aa77987800285e87a7813b61d93a\""
   },
   "https://www.mozilla.org/cy/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"50aa5f431cf072a5127930f99f31516e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f16443795cb594c66a7b3850a1c2e0b3\""
   },
   "https://www.mozilla.org/cy/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -2992,16 +3040,16 @@
     "etag": "\"43ea70d3a815632584a11425c2397265\""
   },
   "https://www.mozilla.org/da/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c691c0acca4da5fa9979bdbae657384f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6df2729312a550df15b94a512489669f\""
   },
   "https://www.mozilla.org/da/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c5a23706f71e7290e99d3bbf76c22213\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fbab727e34cf81988035c5c249d9f0a0\""
   },
   "https://www.mozilla.org/da/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"bb4c52ff30c545fd22fcf2a4f40050f9\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"923457a7e6399582eacdff81e957f6e9\""
   },
   "https://www.mozilla.org/da/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -3286,8 +3334,8 @@
     "etag": "\"52d3fe5511b6665e930200fa31dda3ca\""
   },
   "https://www.mozilla.org/de/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"d232851e98bd2ae6edbec0f5137e6744\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cde1bb2d7650734b649a0a421abae5cf\""
   },
   "https://www.mozilla.org/de/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -3322,20 +3370,20 @@
     "etag": "\"8b290d46720bc64ab655e14648f49776\""
   },
   "https://www.mozilla.org/de/firefox/unfck/": {
-    "date": "2020-12-03T12:06:54.825894+00:00",
-    "etag": "\"7e16fdd7f8f5a3e0588dd8ac6adc66fa\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6a8ca8f1de2a92a650dee13997da9ea6\""
   },
   "https://www.mozilla.org/de/firefox/whatsnew/africa/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"432261829d93138ed63951afd319702c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4b829393d94ebf908d0f52428b5d096a\""
   },
   "https://www.mozilla.org/de/firefox/whatsnew/china/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"da0bc2f27731d3f68eddd6400d535b84\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9f63aab7be0b788d2fc3f3d3dc542bc6\""
   },
   "https://www.mozilla.org/de/firefox/whatsnew/india/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"b2583c3ab16d14eca1f3f7c0e1b0385d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"593faaee42dee9265bab07b2b29f18d5\""
   },
   "https://www.mozilla.org/de/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -3632,8 +3680,8 @@
     "etag": "\"52e7dd1fb75e1ad64a169d60840a3ede\""
   },
   "https://www.mozilla.org/dsb/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"e21c4252f6fafd847a444e88598f5553\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3ccfb5c8fef9b0b954185b083e154cab\""
   },
   "https://www.mozilla.org/dsb/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -3664,16 +3712,16 @@
     "etag": "\"97647091af8619d9327e086d2a46f3f6\""
   },
   "https://www.mozilla.org/dsb/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"e11307d41a2bf9e5a797739c7b3ae3c8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7ed0499cc326bcf2c30880b3d3468e82\""
   },
   "https://www.mozilla.org/dsb/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3707c3a1c62adb84733936e1ea715170\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cb098de5b044de95478516cd059c0ee1\""
   },
   "https://www.mozilla.org/dsb/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"afdebc71645ec7e311680ef5c413c86c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1aec0cce4d1a2dbd02a4d24c24331d92\""
   },
   "https://www.mozilla.org/dsb/firefox/windows/": {
     "date": "2020-12-04T00:07:27.298165+00:00",
@@ -3878,8 +3926,8 @@
     "etag": "\"09b828087de7c8358de68f32fce298ab\""
   },
   "https://www.mozilla.org/el/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"80fe775e493776050d453d977a2a1877\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"14cd816d9379a4d110ac8778e46d70b6\""
   },
   "https://www.mozilla.org/el/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -3910,16 +3958,16 @@
     "etag": "\"57c06628a36ccc43de119b82208a4d1a\""
   },
   "https://www.mozilla.org/el/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4dc5c90eaf3b93db6f176c3842765ff1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cbef3fb48d68f756ea21c60599eb5558\""
   },
   "https://www.mozilla.org/el/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"321dbf352cee846cfc7fb4fc48822e6c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1efd947926eda948bdac85110e74dc0b\""
   },
   "https://www.mozilla.org/el/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"82e6860a52654560d9177f7fd0adcca2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1239341b67202dd363ed6754b8dd051e\""
   },
   "https://www.mozilla.org/el/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -4196,8 +4244,8 @@
     "etag": "\"9890b39e341906b7b0a654559d2ff258\""
   },
   "https://www.mozilla.org/en-CA/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"c525194f6a8efc7081329dfaa7a7235c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a010a9916a61e98f55a532ecc5c9fd5b\""
   },
   "https://www.mozilla.org/en-CA/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -4224,16 +4272,16 @@
     "etag": "\"3e3b1e46b2717d0c8bd2d0d1721ad38b\""
   },
   "https://www.mozilla.org/en-CA/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"04ff747ebb0f39a29af0f7b941e362b3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c983b4098702ae154e2ca1894b2a7c75\""
   },
   "https://www.mozilla.org/en-CA/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2220af94af885ba9cfaeedfe26f0f8c5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7b3efb5e013945a9713b76dc29b49652\""
   },
   "https://www.mozilla.org/en-CA/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"88ab27129dec77f6014270a5444fc0f7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fd20c6a8dd8fc0033223b29a576767ef\""
   },
   "https://www.mozilla.org/en-CA/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -4530,8 +4578,8 @@
     "etag": "\"5c5e6d9e1f8cb79088be54e1fbcf8c13\""
   },
   "https://www.mozilla.org/en-GB/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"bdc891e935ceca39a3d8a6b9fd304984\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a83fd6499450197013bf181c36cce156\""
   },
   "https://www.mozilla.org/en-GB/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -4562,16 +4610,16 @@
     "etag": "\"fc052e30008f725c9531d63679ba3b1f\""
   },
   "https://www.mozilla.org/en-GB/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2d9c5033ff610e881ed35c9e04431a77\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"45f8724dba70b92143d7c6176b866849\""
   },
   "https://www.mozilla.org/en-GB/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a60f1b07108285c7afc38f8c833c4ede\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7a9e895cf05a31d5cf36cf8ac8dfc4ee\""
   },
   "https://www.mozilla.org/en-GB/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"efd529b7a689f9364f881255fd4abdbf\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1ede58205bfcce9e5b32edfeebcdc52f\""
   },
   "https://www.mozilla.org/en-GB/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -10395,8 +10443,8 @@
     "etag": "\"e8556cd924de00adaa81a58839e04763\""
   },
   "https://www.mozilla.org/en-US/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"4108066560409103c486c39a8bc82056\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e8d0258e38d73f239040ac8754d6591f\""
   },
   "https://www.mozilla.org/en-US/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -10455,24 +10503,24 @@
     "etag": "\"783310c8f69baccb6b1e59f375007524\""
   },
   "https://www.mozilla.org/en-US/firefox/unfck/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ebf5378e45545050d63032f60f13c12c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e65560cc32f317b77dd2f68ad50f827d\""
   },
   "https://www.mozilla.org/en-US/firefox/unsupported-systems/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
     "etag": "\"867b5bf6c031c226a5c01d69c031af47\""
   },
   "https://www.mozilla.org/en-US/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"8da5dbfe26ba93bee46dbbfbe1b72ca1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b9d0df675278fe5500784feaec3de21a\""
   },
   "https://www.mozilla.org/en-US/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a4443b31cdef3a176db85a967cb3eae0\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1dfafec48909bc952dfcfc65ce86c0de\""
   },
   "https://www.mozilla.org/en-US/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5ba4dc2a9710f6968cb81053a49679db\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ef792e41ed0e21fa9ad303807903ebb8\""
   },
   "https://www.mozilla.org/en-US/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -16089,12 +16137,16 @@
     "etag": "\"81838af7b9c6107e07b5e765c9c103df\""
   },
   "https://www.mozilla.org/eo/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:37.329411+00:00",
-    "etag": "\"9e7b77d8f391baef54e805e515e0484b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c5ff711397767d73191b1570e375162c\""
+  },
+  "https://www.mozilla.org/eo/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cc19e0cbd877c2b041bf57b0da22ae96\""
   },
   "https://www.mozilla.org/eo/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:29.548350+00:00",
-    "etag": "\"12b7cd451f0969c9d520f745d9fb618c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c026a6d9a7f7421be94f895c091f73ef\""
   },
   "https://www.mozilla.org/eo/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -16339,8 +16391,8 @@
     "etag": "\"fc12a59eb8d2d6e28ad9fc4cfe581cc1\""
   },
   "https://www.mozilla.org/es-AR/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"374a75a10d363d85e59157b52cde266e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"11bca5d4889663a8454831e6ce6b3ecc\""
   },
   "https://www.mozilla.org/es-AR/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -16371,16 +16423,16 @@
     "etag": "\"15a4254a2ebbaa1f22f0524762742221\""
   },
   "https://www.mozilla.org/es-AR/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"25601083605c8f10644e2476c2aab280\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"43ba60f078706e57ee9cca984332bae8\""
   },
   "https://www.mozilla.org/es-AR/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d117fb2d7c1a84ab4aa2ebd6bd3ef44e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"bace5e83a3523107d6fed2895c961a25\""
   },
   "https://www.mozilla.org/es-AR/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"e5e68754e3effbd74177128bd994e86e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8ace4c88100f17066a74bac096d015a7\""
   },
   "https://www.mozilla.org/es-AR/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -16633,8 +16685,8 @@
     "etag": "\"393200d4d1c82fc62c8dac83bad077fa\""
   },
   "https://www.mozilla.org/es-CL/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"7df3459d4c39a0e0b546846142db7929\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4739f5e20b67f79fb4a2c36d1b295551\""
   },
   "https://www.mozilla.org/es-CL/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -16665,16 +16717,16 @@
     "etag": "\"17565c9095dfc7359f9ecb2131911a15\""
   },
   "https://www.mozilla.org/es-CL/firefox/whatsnew/africa/": {
-    "date": "2020-11-22T18:05:47.677287+00:00",
-    "etag": "\"dd1b1561f044c2d98460230301e6c384\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6e10861e85338352377d93b01c5aa49d\""
   },
   "https://www.mozilla.org/es-CL/firefox/whatsnew/china/": {
-    "date": "2020-11-22T18:05:47.677287+00:00",
-    "etag": "\"ab6fba8989a75f52cd9a9b07977017dc\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6c493fa3459d7e8d178b91f62a1618f5\""
   },
   "https://www.mozilla.org/es-CL/firefox/whatsnew/india/": {
-    "date": "2020-11-22T18:05:47.677287+00:00",
-    "etag": "\"1b0b3e02104be5804af3c6b73fe3bb71\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"47bf5c9568632f9cf9af48a70b7e3db5\""
   },
   "https://www.mozilla.org/es-CL/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -16983,8 +17035,8 @@
     "etag": "\"48a5aeee413ff0c2e887cb5d12b8c0d3\""
   },
   "https://www.mozilla.org/es-ES/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"0d1232a2222d11c9b100ecc24fce96e3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"14653bd4a832fe14cd54638851610dcd\""
   },
   "https://www.mozilla.org/es-ES/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -17015,16 +17067,16 @@
     "etag": "\"a4c0339b25edf8815cab91321bf8583c\""
   },
   "https://www.mozilla.org/es-ES/firefox/whatsnew/africa/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"4c12af812d6acc8005bc9ae0ec75e891\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4a426a019f7f53ff7313637fad184185\""
   },
   "https://www.mozilla.org/es-ES/firefox/whatsnew/china/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"b177e0b29b8b4135baa40813f2b38a95\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5f7b1233716b2cac212e4a9e395a82dc\""
   },
   "https://www.mozilla.org/es-ES/firefox/whatsnew/india/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"6877dbe546255db3b13923d2952db6f8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d86698003ad14ef7404aea1efcde6707\""
   },
   "https://www.mozilla.org/es-ES/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -17341,16 +17393,16 @@
     "etag": "\"af1c70bd18a73b85fad581a0c0e29a76\""
   },
   "https://www.mozilla.org/es-MX/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ced379a7120e14559f26b59672e0b911\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d273641876b307ee8e97b893e92ca58a\""
   },
   "https://www.mozilla.org/es-MX/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"69796b54da6f87970b4207ea251adf2d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c0e7308e40e132f228662ef924fccdaf\""
   },
   "https://www.mozilla.org/es-MX/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"fcc3c71750ca3127f863698e59a508cf\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"af9d7c70e90398143ed29a66301811d4\""
   },
   "https://www.mozilla.org/es-MX/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -17537,12 +17589,16 @@
     "etag": "\"a9a7443b549092083fc29a62fd5e5c86\""
   },
   "https://www.mozilla.org/et/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:34.985316+00:00",
-    "etag": "\"3b5ca5e914ea62307e0b43d5db657075\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2421f535fa255eea70f95d73667d9b39\""
+  },
+  "https://www.mozilla.org/et/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"32cd259be9f175994628f109d020f5f3\""
   },
   "https://www.mozilla.org/et/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:25.114406+00:00",
-    "etag": "\"6c0d61ed60e76ab64da3f249e7b11ae2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a16c85e851e027b7dcaa3962edd801c4\""
   },
   "https://www.mozilla.org/et/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -17697,16 +17753,16 @@
     "etag": "\"3040ee65bc548c36f100af52bf91ac51\""
   },
   "https://www.mozilla.org/eu/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"58e288a044badf732a6a1f141afd02e5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ee7abbc503c74f58802684edee637f34\""
   },
   "https://www.mozilla.org/eu/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a683383e29817de81636329eeeda7a6a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"037ba4d9ce57bbc925e77abb0be6f35c\""
   },
   "https://www.mozilla.org/eu/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"9fa1ea35aa212a14babfa466ac0f27b6\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fd3af8a0474b20a69445c0ec7c792439\""
   },
   "https://www.mozilla.org/eu/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -17863,12 +17919,16 @@
     "etag": "\"3faee7f2c3cf2b9db9424d092df3f8fc\""
   },
   "https://www.mozilla.org/fa/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:41.227170+00:00",
-    "etag": "\"a89dcf054cbfa2ff0c291f50d403ed96\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"89fdf792e7efcde67cb44dbf959db38c\""
+  },
+  "https://www.mozilla.org/fa/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c2f2c5959ec7c0d0c58ff20e40677378\""
   },
   "https://www.mozilla.org/fa/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:34.121276+00:00",
-    "etag": "\"6d6f50a910f661da884df9785891739e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"accc056f171fc9885649825f8c45c4ea\""
   },
   "https://www.mozilla.org/fa/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -17951,12 +18011,16 @@
     "etag": "\"ffc8c0ffdbc95cc644579565a9e8108b\""
   },
   "https://www.mozilla.org/ff/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:37.672358+00:00",
-    "etag": "\"ce497d5639be84c8bf0c12fd368b4a3e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"83b6eb8055f4832b09371111c5ac7a15\""
+  },
+  "https://www.mozilla.org/ff/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"daf726c1690476c641326ce41192a3a2\""
   },
   "https://www.mozilla.org/ff/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:30.241358+00:00",
-    "etag": "\"5fd003d51a63f48183ae6f3d4d34e343\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"30aec07fbf97d88d5c1161bc2d53f80e\""
   },
   "https://www.mozilla.org/ff/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -18087,16 +18151,16 @@
     "etag": "\"c1399985d6962549c34f4e9473a2ee6c\""
   },
   "https://www.mozilla.org/fi/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4ad46c6c8c8ac3bf1e326b6e892cd59a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1997f1069575c4b5d200bd256cb6b1ae\""
   },
   "https://www.mozilla.org/fi/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"103a42dfeab1ea9109582591d87d04f7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b0fd401b2510025da3048a78b671f130\""
   },
   "https://www.mozilla.org/fi/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c5ee96017702774a508d5c052b15fb98\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e4ee1edb2607602d6ff3f46087065198\""
   },
   "https://www.mozilla.org/fi/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -18377,16 +18441,16 @@
     "etag": "\"ab024c85836a5f31358876e99d6accbf\""
   },
   "https://www.mozilla.org/fr/firefox/whatsnew/africa/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"ae970701a19c45582dc03f22f2a8d0a4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d4d484fb28707d0347019d3b012c7cac\""
   },
   "https://www.mozilla.org/fr/firefox/whatsnew/china/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"372b54e4def3f0e7125324fed288d34f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0321994eb9397af7351cdc923aeb04b7\""
   },
   "https://www.mozilla.org/fr/firefox/whatsnew/india/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"7548990ff6255b022c9cd3fac58fabdd\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2bd789f39e228ac6f9470ab6320d7e39\""
   },
   "https://www.mozilla.org/fr/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -18711,8 +18775,8 @@
     "etag": "\"05c58d577d143e5d90ebd12a6738830e\""
   },
   "https://www.mozilla.org/fy-NL/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"93fa4eaca80e0a4f528f47788808640c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fdab359340d364d41da72f93ec25131d\""
   },
   "https://www.mozilla.org/fy-NL/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -18743,16 +18807,16 @@
     "etag": "\"3648bf24632fd9194d042464ea09a9e5\""
   },
   "https://www.mozilla.org/fy-NL/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"7c7be45af31fd7d3fe51fc8139300b3f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2a5314a4b037d18ccf4e2e44c24113a6\""
   },
   "https://www.mozilla.org/fy-NL/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"1d5adf591c1b8abe2168e2008e8c2a01\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8b349f4694f255c1c0e13f4206d215d2\""
   },
   "https://www.mozilla.org/fy-NL/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"0f61f819c2170e2ebee2c66dbec381d7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e43c8b70e6e5eb31571250e9e750951e\""
   },
   "https://www.mozilla.org/fy-NL/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -18891,12 +18955,16 @@
     "etag": "\"be0742afea6afbc2bf8957219aca8046\""
   },
   "https://www.mozilla.org/ga-IE/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:35.524147+00:00",
-    "etag": "\"f9587722fa1ebc4f9b1048986f4b4508\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"dae73986596364209259e8e9d682c7ab\""
+  },
+  "https://www.mozilla.org/ga-IE/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d103e7674c8c40d67e73e21da82ce191\""
   },
   "https://www.mozilla.org/ga-IE/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:26.311870+00:00",
-    "etag": "\"be238a4e2c2d7474ac1d7e5574cf15b0\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7aceec618a78613ca418435315d5ff6b\""
   },
   "https://www.mozilla.org/ga-IE/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -18937,6 +19005,18 @@
   "https://www.mozilla.org/gd/firefox/mobile/": {
     "date": "2018-08-15T03:32:06.072538+00:00",
     "etag": "\"d33768bf6772dc01b0478ef51cff5669\""
+  },
+  "https://www.mozilla.org/gd/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5e19c0565c446ca087a03b8bd8462a64\""
+  },
+  "https://www.mozilla.org/gd/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5e49fe28c6d477538e535bbc6247244d\""
+  },
+  "https://www.mozilla.org/gd/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"db97f9c13f4d2f310f89a006db3e2eff\""
   },
   "https://www.mozilla.org/gd/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -19107,8 +19187,8 @@
     "etag": "\"76f4749b434fdf7b60a49506e1d569a2\""
   },
   "https://www.mozilla.org/gl/firefox/more/": {
-    "date": "2020-12-08T06:05:58.571236+00:00",
-    "etag": "\"68e880376f9c6876d7787afe703004a2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1ee3a8e243af47b24d4aafad042dea0c\""
   },
   "https://www.mozilla.org/gl/firefox/new/": {
     "date": "2020-12-08T12:06:16.971778+00:00",
@@ -19139,16 +19219,16 @@
     "etag": "\"9f27de068f3bf127ea8c0591b8e24082\""
   },
   "https://www.mozilla.org/gl/firefox/whatsnew/africa/": {
-    "date": "2020-12-08T06:05:58.571236+00:00",
-    "etag": "\"d63bb4ffe0bd7565d5b5dd4c161dd24d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c6e7890e8aa459b875a516895d4c9160\""
   },
   "https://www.mozilla.org/gl/firefox/whatsnew/china/": {
-    "date": "2020-12-08T06:05:58.571236+00:00",
-    "etag": "\"e07ab3dbdbe815f34eaab7145bac7a2b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6fe902df8fbfe93261886034ad37bc77\""
   },
   "https://www.mozilla.org/gl/firefox/whatsnew/india/": {
-    "date": "2020-12-08T06:05:58.571236+00:00",
-    "etag": "\"9bcdbaed57657c84a0bd4d778ff8d61e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1e7cf80b7bde11b6c84964d1faa6532c\""
   },
   "https://www.mozilla.org/gl/firefox/windows/": {
     "date": "2020-12-08T06:05:58.571236+00:00",
@@ -19327,16 +19407,16 @@
     "etag": "\"37485a75c0a18e859bbe0fba97ebd4d6\""
   },
   "https://www.mozilla.org/gn/firefox/linux/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"cf962ab44df813569e463a2a383d67f9\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"460d9ab82dbb6f576d6744dba687c0af\""
   },
   "https://www.mozilla.org/gn/firefox/lockwise/": {
     "date": "2020-11-28T06:05:49.514283+00:00",
     "etag": "\"3dc480c50fe292702550ef1be5b9505d\""
   },
   "https://www.mozilla.org/gn/firefox/mac/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"a3bb4efb10d0e740e89fb299d8174f52\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5e3033e2adfb0c3d7194816d96bf6d57\""
   },
   "https://www.mozilla.org/gn/firefox/mobile-promo/": {
     "date": "2020-07-30T18:07:38.193949+00:00",
@@ -19349,6 +19429,10 @@
   "https://www.mozilla.org/gn/firefox/mobile/get-app/": {
     "date": "2020-11-24T12:06:30.297497+00:00",
     "etag": "\"2a7c1d53796bf3711901cc111d7d0c12\""
+  },
+  "https://www.mozilla.org/gn/firefox/more/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8b362514f2bf28ad84c8b307b2749f85\""
   },
   "https://www.mozilla.org/gn/firefox/new/": {
     "date": "2020-11-21T12:05:59.216460+00:00",
@@ -19375,20 +19459,20 @@
     "etag": "\"68547443f03bd8b211d8b8582bb4586b\""
   },
   "https://www.mozilla.org/gn/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"0919f7af3b7f0936e45d6055ff754553\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3acc189594388c5a71a257d6c1d0e217\""
   },
   "https://www.mozilla.org/gn/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"8faa0462a111f8f0fea358d25494f71d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6ae62a6f2fb63d68912cc65cb40550b5\""
   },
   "https://www.mozilla.org/gn/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f8103cad54b3594615af550ad25ec504\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"407ff9c0b73c9d2d55a2a3b2df0c457b\""
   },
   "https://www.mozilla.org/gn/firefox/windows/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"83bdc08df562ef4ab18706c4f3d1d961\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1c3e5717eb698435835a4cec2fa9767d\""
   },
   "https://www.mozilla.org/gn/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -19543,12 +19627,16 @@
     "etag": "\"809a6f1169c409454a74c92ab18aa78e\""
   },
   "https://www.mozilla.org/gu-IN/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:40.192481+00:00",
-    "etag": "\"d4f52aa53cafee37c2e40de0aa9ca958\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d7ce830bd7c36cce69ccb238b5594d3d\""
+  },
+  "https://www.mozilla.org/gu-IN/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5e705b63b2d6d6f2c612ab7bafb4f5ca\""
   },
   "https://www.mozilla.org/gu-IN/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:31.777385+00:00",
-    "etag": "\"08117175e49935aec9fcd0a5fd13480b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9789960d3575b8a9c766b54937bafbf8\""
   },
   "https://www.mozilla.org/gu-IN/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -19659,16 +19747,16 @@
     "etag": "\"aff282e0b485516cfc18a11a9a7f0754\""
   },
   "https://www.mozilla.org/he/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"1d758b41e3cd46d69b7d7f80048dc0b8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"574db05125a5489f55893d4172c9712d\""
   },
   "https://www.mozilla.org/he/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d94e7cb9fbf572270a8750b62534f667\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9b925671c3c673fb99bf6e5cbf3cee01\""
   },
   "https://www.mozilla.org/he/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"1e00b7d32543777ce49c3249452f18ec\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"359f0a571f5e99d0b30bbfb31b7f2bb4\""
   },
   "https://www.mozilla.org/he/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -19853,16 +19941,16 @@
     "etag": "\"84a5e75c0410379c6d0e757527236b26\""
   },
   "https://www.mozilla.org/hi-IN/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"fc8f4900d1b65b66221b45b3a9866e20\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"391c7947514802fe6122d75b66281c37\""
   },
   "https://www.mozilla.org/hi-IN/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"66d9e4da34c1eaf6f33299fcaa62640c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8ff6455311a4240e42af8a47aebf7d13\""
   },
   "https://www.mozilla.org/hi-IN/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"716a592370a074c8798d4d1cf412ec6e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"42ab1a744ff3738f687e7f42e8f0b229\""
   },
   "https://www.mozilla.org/hi-IN/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -20073,16 +20161,16 @@
     "etag": "\"e362fb4e794cd9f8de4274f468c62170\""
   },
   "https://www.mozilla.org/hr/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"6bbb596ab9e0551c51244d301dc49c5a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"89a1ca95cabfd8cc5faac860e75ecae4\""
   },
   "https://www.mozilla.org/hr/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"19ea58291ac8e1acecfa70c3fe3e1a5f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"091d46db1818c80f2586e18781830177\""
   },
   "https://www.mozilla.org/hr/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"7183b1b28e6639095dc09b50307a4b53\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9123ee76ade8f5f1def6d267d85d2c5b\""
   },
   "https://www.mozilla.org/hr/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -20279,8 +20367,8 @@
     "etag": "\"c0a1d51425f680e5b90b24b67f30e11b\""
   },
   "https://www.mozilla.org/hsb/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"c32012126ab73f51a7d665607d9c4d9b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"04a498381a185292131c88eb5091ae02\""
   },
   "https://www.mozilla.org/hsb/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -20311,16 +20399,16 @@
     "etag": "\"33c7bcf90528c41454af7936959c3f7f\""
   },
   "https://www.mozilla.org/hsb/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"b811d64612d6a97913638b0dfdd4c269\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9313327436956b7e673ae56f991ab225\""
   },
   "https://www.mozilla.org/hsb/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3cc61d820d09b2db6ea7bdb6bc94803f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"94ae7aa619d3c63f3aaac981b67346f9\""
   },
   "https://www.mozilla.org/hsb/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3eb2adb12acfe793d64ed973400cd177\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fbf3b6ae50bf1efa1a2706d1400d214f\""
   },
   "https://www.mozilla.org/hsb/firefox/windows/": {
     "date": "2020-12-04T00:07:27.298165+00:00",
@@ -20555,8 +20643,8 @@
     "etag": "\"02cbf220520646e0427c7dc8d1da67bb\""
   },
   "https://www.mozilla.org/hu/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"86e22b582a065a26d38df1437cda4fca\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"75d0a67f32eb004dc3ca5c9a32af0def\""
   },
   "https://www.mozilla.org/hu/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -20587,16 +20675,16 @@
     "etag": "\"a68f25493d4b33a66526e0f9127aec75\""
   },
   "https://www.mozilla.org/hu/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"88746717ad0a301986a96727675f48dc\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e9b3c01b6be5b2af7c5f4c763df80601\""
   },
   "https://www.mozilla.org/hu/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4c2d8d592636039dddb839657c505f64\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0eb8d8b3e8797abbdc5a3543b172dd08\""
   },
   "https://www.mozilla.org/hu/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"44a28440b47baef90c20a1ae44adab43\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"05a6c5d4540cd4b304c272a0fb0b46e4\""
   },
   "https://www.mozilla.org/hu/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -20783,16 +20871,16 @@
     "etag": "\"131c6202e4eede6a5d7fd053433530b4\""
   },
   "https://www.mozilla.org/hy-AM/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"014669e6b4eace7c86f93544df0c6c27\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2e9530a6dab67cf839643ac10315ed37\""
   },
   "https://www.mozilla.org/hy-AM/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"09c44a63a28739fa22fa29f1682476f3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"73594ec3ef7dbe9a5fefe5c3205d878c\""
   },
   "https://www.mozilla.org/hy-AM/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c520774adb8c452147dcd5a3f2755424\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3fe5f498093a1ecd7f0c70d946bb8a5c\""
   },
   "https://www.mozilla.org/hy-AM/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -21005,8 +21093,8 @@
     "etag": "\"73c93921fbdfc78745ae252588713ff9\""
   },
   "https://www.mozilla.org/ia/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"02e141eab219ab8443fc1b35c78774c4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d65d1f75970754580cec31cd2dbeecf3\""
   },
   "https://www.mozilla.org/ia/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -21033,16 +21121,16 @@
     "etag": "\"f37641298018c51a964ec102ba90c26e\""
   },
   "https://www.mozilla.org/ia/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3ecafaacac37ad3eae43597f7eae7bc2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2954b2a6ba133fe528196e63764e09a5\""
   },
   "https://www.mozilla.org/ia/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"969d6b654d714389c65e5bcb4f01f06c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8fe655d40f8516ef6f1daf39ba556ee9\""
   },
   "https://www.mozilla.org/ia/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d8b2a8c1e1f061b7be1877c366037e06\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9edb339cc77358958693cdedc01cdc1a\""
   },
   "https://www.mozilla.org/ia/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -21499,12 +21587,16 @@
     "etag": "\"64efa3bd380cc648d916e33260cc3a1f\""
   },
   "https://www.mozilla.org/is/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:40.450882+00:00",
-    "etag": "\"3a1fbf8b5d5af81160d9b8e6fcc7b8bf\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"20a19e70091b8300176a5d9ca422eb61\""
+  },
+  "https://www.mozilla.org/is/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"de44f7bad32e612e49ac09201e2cde79\""
   },
   "https://www.mozilla.org/is/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:32.388812+00:00",
-    "etag": "\"40ad8e5f39560e8f75c31d78b3dda90d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"97ccf189e79b07954eadf4efe453418f\""
   },
   "https://www.mozilla.org/is/foundation/annualreport/2011/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -21761,8 +21853,8 @@
     "etag": "\"67dc67d3a4fac58ef8dbf4318dbe7010\""
   },
   "https://www.mozilla.org/it/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"c42b702faf09930ec6f4d62d80300bb8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"87135dd0282826d201efc46cf3613b48\""
   },
   "https://www.mozilla.org/it/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -21793,16 +21885,16 @@
     "etag": "\"d7a61b0837b1c98662430807a9c3dbbe\""
   },
   "https://www.mozilla.org/it/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"01810b6a69326766688faf7f23a6151b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"dfeeea5b00ba4042958ae968ae942f04\""
   },
   "https://www.mozilla.org/it/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"cea1961a82b4ab852411b671a464c615\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8a8c9f42b8ee842a5fdb79ba76c46645\""
   },
   "https://www.mozilla.org/it/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"fae6e5220e640b599b521b5f8c8c68e8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e949e82fea139c5191d5312e5d5abcd3\""
   },
   "https://www.mozilla.org/it/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -22053,12 +22145,16 @@
     "etag": "\"a68886183525f5aa0112e96364324e6c\""
   },
   "https://www.mozilla.org/ja/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:39.535924+00:00",
-    "etag": "\"9dbb3da318c37bb6821b86b7bcc87903\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5ec06650ff1175ecb1ba6bde3bf86813\""
+  },
+  "https://www.mozilla.org/ja/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"058e8a8b7392c26f8cecf8bced5a33bc\""
   },
   "https://www.mozilla.org/ja/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:31.061336+00:00",
-    "etag": "\"ca9a0945545ed6f256429ac57895613b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cf2ba30e7a1bfc73b5af96926e1a7313\""
   },
   "https://www.mozilla.org/ja/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -22357,8 +22453,8 @@
     "etag": "\"6cb957b7d8e28bdf5b7afe94323e0b21\""
   },
   "https://www.mozilla.org/ka/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"033edd9de00241ba4dd5e35f4ae58e35\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fe8a91a586a7c731f8ae3b920cd7af9e\""
   },
   "https://www.mozilla.org/ka/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -22389,16 +22485,16 @@
     "etag": "\"d2374ff5a4fe19708c6830e46de10e50\""
   },
   "https://www.mozilla.org/ka/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"bf15c46eb37fcf444f3c75a0ddfa28b4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5a92074499dbc2dded25ed11955bfd93\""
   },
   "https://www.mozilla.org/ka/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"9cf2e5f8d4467299f6b5754e5b94a67a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5f0e94029f750bb1d0b0f994bb85520f\""
   },
   "https://www.mozilla.org/ka/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"9b6607939c9e1b54444d1b2bdbac3abe\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1ab7e182b036ff2699ffd4cae05e94d8\""
   },
   "https://www.mozilla.org/ka/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -22651,16 +22747,16 @@
     "etag": "\"235c619ff486cdddabfa6865e51d854b\""
   },
   "https://www.mozilla.org/kab/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ccd55a74f5f13447518a9d32238fb9ca\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5624fc13a44ce25758190b54881671d3\""
   },
   "https://www.mozilla.org/kab/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f164fc61bfe4d49a8beea71866f89ec0\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ed5f62eb923612c05e772c2682c172a8\""
   },
   "https://www.mozilla.org/kab/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d3345d902f5872ff35f056c50b60aa7e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3b2994f4de40c45fddef426b22fe64a3\""
   },
   "https://www.mozilla.org/kab/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -22787,12 +22883,16 @@
     "etag": "\"9da433b5a1b00117a27e6486624b9fc9\""
   },
   "https://www.mozilla.org/kk/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:36.869312+00:00",
-    "etag": "\"9661f7eb14d8463910307fae57faa4dc\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e27a110bf488f32869325385d3b1ff3f\""
+  },
+  "https://www.mozilla.org/kk/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ebe6f24e8cc7c9a8c323da9cb6054a96\""
   },
   "https://www.mozilla.org/kk/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:28.757344+00:00",
-    "etag": "\"55d6869129f63d707adf021fd64444ef\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"42b519046f07a3980491b82be5b7fce7\""
   },
   "https://www.mozilla.org/kk/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -22830,6 +22930,18 @@
     "date": "2018-08-15T03:31:20.742036+00:00",
     "etag": "\"016d55b0885426c60d1f5450d8efcd56\""
   },
+  "https://www.mozilla.org/km/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"90b2375f432362767700cd472f70fa40\""
+  },
+  "https://www.mozilla.org/km/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c17cb47036e9b1e3b99c620893441e07\""
+  },
+  "https://www.mozilla.org/km/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"422e12d7ee1c2d65c759f3d0ffd4c06c\""
+  },
   "https://www.mozilla.org/km/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
     "etag": "\"fcffa2d39433c5539cb9d754cdc23a49\""
@@ -22865,6 +22977,18 @@
   "https://www.mozilla.org/kn/firefox/mobile/": {
     "date": "2018-08-15T03:32:09.522130+00:00",
     "etag": "\"b526a7c49fdf8003d8ff84477bd23246\""
+  },
+  "https://www.mozilla.org/kn/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"360872573b8f13409129acff231b95e9\""
+  },
+  "https://www.mozilla.org/kn/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a60cb5f74cf96e26da028943e9449507\""
+  },
+  "https://www.mozilla.org/kn/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1dd869a663d03332769cd13d2dbbe65f\""
   },
   "https://www.mozilla.org/kn/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -23081,16 +23205,16 @@
     "etag": "\"3706f585f7bff1008574d0faddc5a7fe\""
   },
   "https://www.mozilla.org/ko/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"452d3742d46c4fb2eacc2ded9b7d60b8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"681e8c40c757c9a99c8a9f99621ec857\""
   },
   "https://www.mozilla.org/ko/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"89ccf91bd8a48dd0526068fb2d25cd22\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7278aed2cb1b2bcfba7863db8d9cbde2\""
   },
   "https://www.mozilla.org/ko/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"82966987dfc4989e2d2c8adb22223ddc\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"62d03302f2f93fd9850b35f51cd040b7\""
   },
   "https://www.mozilla.org/ko/firefox/windows/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -23245,12 +23369,16 @@
     "etag": "\"bd51082e546913d52797546286f64f8e\""
   },
   "https://www.mozilla.org/lij/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:34.934874+00:00",
-    "etag": "\"73c04de898e5e4ef5fce1d25b5a550a7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c57e4a84f1a17e49f2c8568c03ebe0c5\""
+  },
+  "https://www.mozilla.org/lij/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"66156cbc4b927ee3183d1bbc6cc3f826\""
   },
   "https://www.mozilla.org/lij/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:25.052786+00:00",
-    "etag": "\"6fba3deb19682949c676b8f8eff105d2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cf74aefb7a8795913e2f1de28abcfcb1\""
   },
   "https://www.mozilla.org/lij/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -23439,16 +23567,16 @@
     "etag": "\"24fc43fd3d2b3a173501411dc8d6d4c7\""
   },
   "https://www.mozilla.org/lt/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d89882223b177c451eb600f1a0445caf\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ee90c758be5c18e83cc49b3b9f504c6d\""
   },
   "https://www.mozilla.org/lt/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"542efc84df1d7cf80774713b07c13873\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3e4622016eb852ebfaaf1f5767e304e9\""
   },
   "https://www.mozilla.org/lt/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"0f83f25f38d986415883629af2fa638a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b54f595d4880b9cc348cbd61592ac283\""
   },
   "https://www.mozilla.org/lt/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -23482,6 +23610,18 @@
     "date": "2018-08-15T03:31:17.971699+00:00",
     "etag": "\"857d3097dd2d77435da1cb2ea9d05af7\""
   },
+  "https://www.mozilla.org/ltg/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"26855433cda48315f658e11f80833809\""
+  },
+  "https://www.mozilla.org/ltg/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"32f98757e96fc04470c3f717027395c7\""
+  },
+  "https://www.mozilla.org/ltg/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e8e0462b1088476465f5ef6d186a7f77\""
+  },
   "https://www.mozilla.org/lv/about/": {
     "date": "2018-08-15T03:30:04.341587+00:00",
     "etag": "\"5f0913dad42164d998714f3f7bf792dc\""
@@ -23505,6 +23645,18 @@
   "https://www.mozilla.org/lv/firefox/mobile/": {
     "date": "2018-08-15T03:32:06.381938+00:00",
     "etag": "\"4274318406392c4e5389a51025007711\""
+  },
+  "https://www.mozilla.org/lv/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"149c4436675e1bec57d6da7b716f67ba\""
+  },
+  "https://www.mozilla.org/lv/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a5485fdd359c07d2f4ca5d2d7dd8fe66\""
+  },
+  "https://www.mozilla.org/lv/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1e58309f2b24191c2591dd21ef3027e5\""
   },
   "https://www.mozilla.org/lv/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -23561,6 +23713,18 @@
   "https://www.mozilla.org/mk/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.798943+00:00",
     "etag": "\"e39d0c48dc924399577c3b6c792d93f3\""
+  },
+  "https://www.mozilla.org/mk/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3aaf204dace460b8983e7fdb18e3cc71\""
+  },
+  "https://www.mozilla.org/mk/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6f2efc52a128b5b18d99298b61548e26\""
+  },
+  "https://www.mozilla.org/mk/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1c3e8772cd1f51985e9d9437749d9106\""
   },
   "https://www.mozilla.org/mk/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -23707,12 +23871,16 @@
     "etag": "\"4a36e6c8a67a43261d98f92eb25562a9\""
   },
   "https://www.mozilla.org/ml/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:34.854038+00:00",
-    "etag": "\"74559866e14c2ae5864c86fd438ee13d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3af71b5719ceb2390d521cefd0d5a736\""
+  },
+  "https://www.mozilla.org/ml/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"36c9c5128b26853c3f58bdf3ee577c04\""
   },
   "https://www.mozilla.org/ml/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:24.963288+00:00",
-    "etag": "\"4f3f6a442b1794977c28ab090e27b4f5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"15165d1508e40a936bf2694857ea4764\""
   },
   "https://www.mozilla.org/ml/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -23867,16 +24035,16 @@
     "etag": "\"d4b77ee17adbb32feffa09f8427f39ad\""
   },
   "https://www.mozilla.org/mr/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f52712394f48c4e5dd6d9695ba77014b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0a1078a013e1d05f137847a5bca57539\""
   },
   "https://www.mozilla.org/mr/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"273ba43ca69eba0e2835c43ecfbfd99e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"eac8e87c939b4496b6d53e93b3e65cb4\""
   },
   "https://www.mozilla.org/mr/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"b269b412ad87c87724e47bf3d1b5799f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"168870424e05d13ba2c0eac739a05907\""
   },
   "https://www.mozilla.org/mr/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -24029,12 +24197,16 @@
     "etag": "\"10a4a75befc76dc02b43a87324773562\""
   },
   "https://www.mozilla.org/ms/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:40.242940+00:00",
-    "etag": "\"f08d33d56eac599ceb8f2f8b16107804\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"47020c805d55b70562e35947c109c82d\""
+  },
+  "https://www.mozilla.org/ms/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d70abda303d51b48a1c210b71bb59ab2\""
   },
   "https://www.mozilla.org/ms/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:32.017346+00:00",
-    "etag": "\"9cec1cd67c949ba4ceb4d5714fbfd88f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a78f98aca7f62b5308b354c7d7753c62\""
   },
   "https://www.mozilla.org/ms/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -24181,16 +24353,16 @@
     "etag": "\"5def937aa5b0f1804975cad2a07b6e0e\""
   },
   "https://www.mozilla.org/my/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a4cd55cd0b8f1b2f5a410c6f2331c8d1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a84fd8bc1bf5805a9fb87f671882f5a9\""
   },
   "https://www.mozilla.org/my/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5d1dfa7193a75ae6fdb2b2dd4e1fdb50\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c6da9ac2485b90f5cd20a25922426279\""
   },
   "https://www.mozilla.org/my/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4db93b42651981d5d025185e53bef072\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"44195ce2cb1765714da93c5c1dc04f7c\""
   },
   "https://www.mozilla.org/my/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -24401,16 +24573,16 @@
     "etag": "\"b857d416b3f6ef6950c21a6a91c6e87d\""
   },
   "https://www.mozilla.org/nb-NO/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"973922defcf311662d3793748c17c89f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4a4cddc25bfdeea38dc31bfe8c73b3f7\""
   },
   "https://www.mozilla.org/nb-NO/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f972c5716f6809bd7d2a59343a2c1893\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f96012f17555bc7fb18188def1d4a10d\""
   },
   "https://www.mozilla.org/nb-NO/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"72b847d1aaf602b12d20486c90c15fc9\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"857a6c41241872a16f00ee17ebe0a51e\""
   },
   "https://www.mozilla.org/nb-NO/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -24459,6 +24631,18 @@
   "https://www.mozilla.org/ne-NP/firefox/installer-help/": {
     "date": "2018-08-15T03:31:15.977600+00:00",
     "etag": "\"2038e3bd6c5d1726c6844b26edf2dcc1\""
+  },
+  "https://www.mozilla.org/ne-NP/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2ef9494dcdc9dbb7b7f409f13af4ddfc\""
+  },
+  "https://www.mozilla.org/ne-NP/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"db79d8965c638816d64e879daa376483\""
+  },
+  "https://www.mozilla.org/ne-NP/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8881d4d934cde4369bcfd978866662c0\""
   },
   "https://www.mozilla.org/nl/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -24687,8 +24871,8 @@
     "etag": "\"4e91824cd798eaef99008f34dcced701\""
   },
   "https://www.mozilla.org/nl/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"e5f8e26804c4b21490248de4de305c61\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0c4b045e7104ae7046458465dedf57d2\""
   },
   "https://www.mozilla.org/nl/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -24719,16 +24903,16 @@
     "etag": "\"dc6cc60b452abd8529e24b5046d37a7f\""
   },
   "https://www.mozilla.org/nl/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f97b49e97507c34e4d11e81f0093a64f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"84b151c30429ccb8c57e5596942f525f\""
   },
   "https://www.mozilla.org/nl/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2170d6dd52fb76be2483817c7b2f9c67\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"dec1d0d4f5c06c25b02cd301e67d41e0\""
   },
   "https://www.mozilla.org/nl/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a8a71f13abe9afaa499470aa1f9c70aa\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3c0b1b63cb5ec96d4b0482b24174b8dc\""
   },
   "https://www.mozilla.org/nl/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -25005,16 +25189,16 @@
     "etag": "\"a0f94c8c13b3c7817c43c7c9a22b9b50\""
   },
   "https://www.mozilla.org/nn-NO/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3ac8e3b6bd4688738673b194776995a4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"398beafe04c3fbb1dc2f100f10733162\""
   },
   "https://www.mozilla.org/nn-NO/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"580fa324834772b2607d8bf3ce6b6d15\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"da0dc86becc458b828c25f5834296879\""
   },
   "https://www.mozilla.org/nn-NO/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d487a15d63de6d6207abc5f83d571c5a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cae41b36570ea89b8ff53fc048ff54bf\""
   },
   "https://www.mozilla.org/nn-NO/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -25081,12 +25265,16 @@
     "etag": "\"78e152d2f02f5939fc07540d12a58812\""
   },
   "https://www.mozilla.org/oc/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:36.124168+00:00",
-    "etag": "\"c4f4117265d95c4012b670a176d8decb\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1e060ef79271d10853e98714402ee661\""
+  },
+  "https://www.mozilla.org/oc/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5da636b2ec89b07210cfe77d725caa65\""
   },
   "https://www.mozilla.org/oc/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:27.159998+00:00",
-    "etag": "\"fc793b6257cadbdbb58b35e7bc60c32a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e94e19ec8d2d4aeb74039478bece080d\""
   },
   "https://www.mozilla.org/oc/foundation/annualreport/2012/faq/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -25229,16 +25417,16 @@
     "etag": "\"2c8e6d4985f39ef631d7b6441c64c559\""
   },
   "https://www.mozilla.org/pa-IN/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2680843d09b14ba4badbcf05d10015b5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f0baa48647d2de3f90d9dc35914d5594\""
   },
   "https://www.mozilla.org/pa-IN/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"e777e4d2763a6a837576542b15fd1271\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2e784c21bc6a3c32615f64a176cf041b\""
   },
   "https://www.mozilla.org/pa-IN/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2fcf8ef5a1b0ff8c8df7cbbff3f86ef0\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b56b989488e6b5510b4bd96c12ee3407\""
   },
   "https://www.mozilla.org/pa-IN/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -25487,16 +25675,16 @@
     "etag": "\"9b0d02591cc5a822e85c81e1faec5666\""
   },
   "https://www.mozilla.org/pl/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d555ff49b634bf90af1826d7357a0b2c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"703cc8c8de7cd17ebeb6220f74e3d1a3\""
   },
   "https://www.mozilla.org/pl/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"079f598d9848121845a4ff2864b46526\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b05df26948f9180145334ed1fe9e5b9c\""
   },
   "https://www.mozilla.org/pl/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"07b00576de1631228bfce1d788547f57\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"41befb71ee275b092611b759bbc69237\""
   },
   "https://www.mozilla.org/pl/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -25805,8 +25993,8 @@
     "etag": "\"3123a0e04788091389d85ed2f8346b6d\""
   },
   "https://www.mozilla.org/pt-BR/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"f39e0b20ce01f1eab519184da6c065b1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"6082090f0b11f08750d938dad95516ac\""
   },
   "https://www.mozilla.org/pt-BR/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -25837,16 +26025,16 @@
     "etag": "\"fd184c5149e5ede73b68642b03cdaf76\""
   },
   "https://www.mozilla.org/pt-BR/firefox/whatsnew/africa/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"2d9b48d3b6165f2018f13bbb27f4e6e7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"11065782a4de352cfe7acb6a474e9039\""
   },
   "https://www.mozilla.org/pt-BR/firefox/whatsnew/china/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"f6d692a1ce7ec751be33fb3512978960\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d7c045bcccff504204a63c8ffaff5b91\""
   },
   "https://www.mozilla.org/pt-BR/firefox/whatsnew/india/": {
-    "date": "2020-12-03T00:07:21.292575+00:00",
-    "etag": "\"3eb817eb6317a4cf3ebcf8a845ec940b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c877de8723c831736f6e877372a03fcc\""
   },
   "https://www.mozilla.org/pt-BR/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -26171,16 +26359,16 @@
     "etag": "\"1dbce1b6b47b5f72f2d58393ab78730e\""
   },
   "https://www.mozilla.org/pt-PT/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ba26950d4f91ae603fc453749344c45a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"49b10fcb6aaafffeae9d3b9722d1186e\""
   },
   "https://www.mozilla.org/pt-PT/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"ae680c5e3cd9f07233f2e85e3f43556f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4f3a4ce1b3547c4f856fe13f94443476\""
   },
   "https://www.mozilla.org/pt-PT/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"88ec68a274584f9539ff4a1b3337eec8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"62ceeb6b06a64830af6ead4baaf5d531\""
   },
   "https://www.mozilla.org/pt-PT/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -26331,12 +26519,16 @@
     "etag": "\"2c98b22b0480edb668bfd90c84df5449\""
   },
   "https://www.mozilla.org/rm/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:41.473303+00:00",
-    "etag": "\"99d0e421a833e551fe394952c0b33880\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e9e806de5d22ab973eaefaae5056f770\""
+  },
+  "https://www.mozilla.org/rm/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"b80ad9bed56e555af854f1acb046ad0f\""
   },
   "https://www.mozilla.org/rm/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:34.407935+00:00",
-    "etag": "\"169d50e7d83424baf85ae0e257f03954\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"40fd8bbe0c4db69717c5c78c3ff6b6c2\""
   },
   "https://www.mozilla.org/rm/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -26593,16 +26785,16 @@
     "etag": "\"3f4b98978221c58671f789cb19e18bb8\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"724e171c1e7f7fe89d5ce84e95d1b081\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"8f0697d8b330043b32e38abdd347635f\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"6b5397967d320cc2de258f075859f332\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"24ad3572b355a65beec68e51e4bb2a59\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"b03d28bf7037f604d08996396d23cf10\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"be568e959a58822d88740623700f6f2e\""
   },
   "https://www.mozilla.org/ro/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -26903,16 +27095,16 @@
     "etag": "\"9d83bf3b74e68402154d211eb8156e8c\""
   },
   "https://www.mozilla.org/ru/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d25d8690e4139e020571b0f1381d23d1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"527c4ffb460ba9ab6ad1ef2d993b452e\""
   },
   "https://www.mozilla.org/ru/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"6502b07d4d40fd526f73c2559fc50bc3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"5f3e5352a531deec8dd3c8ff1e127f8a\""
   },
   "https://www.mozilla.org/ru/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"14be5e6826cf7faa155a9de9002b8e3c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9e1c397d97b606b9e7a58f993878a4c2\""
   },
   "https://www.mozilla.org/ru/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -26981,6 +27173,18 @@
   "https://www.mozilla.org/si/firefox/mobile/": {
     "date": "2018-08-15T03:32:09.645353+00:00",
     "etag": "\"41bec52ac6d021bac70bc3f3af43b3fe\""
+  },
+  "https://www.mozilla.org/si/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"aaffdc028541294095b9096e6f03372e\""
+  },
+  "https://www.mozilla.org/si/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"7fa1cf7d5d376cf4aa088e3afccb8d91\""
+  },
+  "https://www.mozilla.org/si/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d43766d053b7492964c5df443635e37b\""
   },
   "https://www.mozilla.org/sk/": {
     "date": "2020-11-20T18:07:10.341712+00:00",
@@ -27146,16 +27350,16 @@
     "etag": "\"e22af8e4e3f8b2a4aea3caec6a21ba19\""
   },
   "https://www.mozilla.org/sk/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T18:07:10.341712+00:00",
-    "etag": "\"646e89b20cc36c6118ad36e289d61b83\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0e6dcb50d29c0b4abdc431abe39e61bd\""
   },
   "https://www.mozilla.org/sk/firefox/whatsnew/china/": {
-    "date": "2020-11-20T18:07:10.341712+00:00",
-    "etag": "\"c69e30aa8a6373d0b24edbae34f8c259\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"934fe4ccff431fb3c1df3e389a77a453\""
   },
   "https://www.mozilla.org/sk/firefox/whatsnew/india/": {
-    "date": "2020-11-20T18:07:10.341712+00:00",
-    "etag": "\"a5e1c12b40ccd79e9ae7ca5280c64f4b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"bed5390cedf938f46d4cb22ee01e42d6\""
   },
   "https://www.mozilla.org/sk/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -27404,16 +27608,16 @@
     "etag": "\"921140d32759334c578fa04411f9f123\""
   },
   "https://www.mozilla.org/sl/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"dac369c8b82c05ec2300bedf65bcb39d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2ad511cbc61ee838dc98b5e6d46b5f20\""
   },
   "https://www.mozilla.org/sl/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"1f1102cb2f4484c17a2c73ea20d9eb7e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9c142bef63b13d54f60833826337c21a\""
   },
   "https://www.mozilla.org/sl/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"29b5da455d35ffe8904cc9053676ac43\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e752d130f765b132182f5868bc08c3f1\""
   },
   "https://www.mozilla.org/sl/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -27501,6 +27705,18 @@
   "https://www.mozilla.org/son/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.185844+00:00",
     "etag": "\"3d5024ea4bca6a9056d35d5784a05d31\""
+  },
+  "https://www.mozilla.org/son/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"cddd0d27ed295dcafed98f8467329ebb\""
+  },
+  "https://www.mozilla.org/son/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"00fc0eceff1add47b8179f7b13325556\""
+  },
+  "https://www.mozilla.org/son/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"27411c8d01c1593ad62c51b14b62a281\""
   },
   "https://www.mozilla.org/son/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -27717,8 +27933,8 @@
     "etag": "\"4487b57206a15e5395c5311126e563ab\""
   },
   "https://www.mozilla.org/sq/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"c223d7e6cf3d2138a4f0934c7a861542\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4c7ef83d118ec31f737b609687f429d0\""
   },
   "https://www.mozilla.org/sq/firefox/new/": {
     "date": "2020-11-21T12:05:59.216460+00:00",
@@ -27749,16 +27965,16 @@
     "etag": "\"5c73ff3d8daaac3bb4039695b8d8d00c\""
   },
   "https://www.mozilla.org/sq/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"49fd52bbfedfaa6d0db0d37b94da0fb1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"4b3da1d336619fcd6d210c8d4ef4c40a\""
   },
   "https://www.mozilla.org/sq/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"0a66bfbe1c99fd097865471742ca5a8c\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"463ea0c3d61ab1f16ccc3f6c2dca838c\""
   },
   "https://www.mozilla.org/sq/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"06cc6448b83064f63d62e697f859b2a9\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"42f112b39943559e56475d0b3d18ee44\""
   },
   "https://www.mozilla.org/sq/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -28035,16 +28251,16 @@
     "etag": "\"7fb039d6ae8ee6a27c28d72d62ccc1dd\""
   },
   "https://www.mozilla.org/sr/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"7662db1c01367503b6d2acd76ae3c8d8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d90c7bccbca4a88a9686d42e0790147d\""
   },
   "https://www.mozilla.org/sr/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"25ec0fc13eded07596032dc3d56e6dd3\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a674da363cd50301b25df8f3bc330a3e\""
   },
   "https://www.mozilla.org/sr/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5eef585b61cdf4b360a623a913760d94\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d34c0d660f7675a51462eb082cf76821\""
   },
   "https://www.mozilla.org/sr/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -28309,8 +28525,8 @@
     "etag": "\"157a2f6c9b22be88f7e34976c222628a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"a82a55ef67618cd54d57b96a7aed9d10\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"55a9a9462c0ff46e6cd591ca484ef2d5\""
   },
   "https://www.mozilla.org/sv-SE/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -28341,16 +28557,16 @@
     "etag": "\"645e0509b09592156d60a07f0a8e2d36\""
   },
   "https://www.mozilla.org/sv-SE/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2f09bfcf33f69d2d255c4ae4abad58e8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"862112a43dd2ccbb616882307fc78fb9\""
   },
   "https://www.mozilla.org/sv-SE/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d6c962146c40bfa0731f828ed215673e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3cd61959b06a2e0e5b0f774e9898573a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"4a55758803316aac763180a39b4a75b6\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"678230e3e525dd57faa135cd5c7aba70\""
   },
   "https://www.mozilla.org/sv-SE/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -28591,12 +28807,16 @@
     "etag": "\"1e2c2e0b74667db67b5fd666a56f1729\""
   },
   "https://www.mozilla.org/ta/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:39.283435+00:00",
-    "etag": "\"af29d063fefede82a095fe5fb07392a2\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fa76a9117751e2748e2841ff63aa66d8\""
+  },
+  "https://www.mozilla.org/ta/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"79f921c760cd59c3d97bff04d7df3b2a\""
   },
   "https://www.mozilla.org/ta/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:31.003224+00:00",
-    "etag": "\"7146e39d497e6c23eaac316258ee0895\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"accdc65ad6c4aff6faca7bb98bb0a48e\""
   },
   "https://www.mozilla.org/ta/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -28687,12 +28907,16 @@
     "etag": "\"699ee015814a76448f8293a5a681f31b\""
   },
   "https://www.mozilla.org/te/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:41.130576+00:00",
-    "etag": "\"6750226a68b8bf14d6b18d4297e369da\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"81d3efe1551682854fd32d52d934e9ea\""
+  },
+  "https://www.mozilla.org/te/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"582743f513475e102d6f3cb21413dc1d\""
   },
   "https://www.mozilla.org/te/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:33.742596+00:00",
-    "etag": "\"89f34085903c2dcdc4a26baa9ea9d66d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1bafabd21179722e7deea1495a4f3b52\""
   },
   "https://www.mozilla.org/te/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -28843,12 +29067,16 @@
     "etag": "\"d43d6ee5cc83d9925b696492ad833e32\""
   },
   "https://www.mozilla.org/th/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:40.805354+00:00",
-    "etag": "\"5d7c85d1f9d81ba563bfc7981f9177e7\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"40119de3488526bde53519e4f8376cbf\""
+  },
+  "https://www.mozilla.org/th/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f423e2a26d0c7e4b0d625419de58f8b7\""
   },
   "https://www.mozilla.org/th/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:33.082759+00:00",
-    "etag": "\"98922f8cfa2a1dd92c4ad89e4bb45707\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"82408504ea7de86d7fc54d8b84a3a4c7\""
   },
   "https://www.mozilla.org/th/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -28909,6 +29137,18 @@
   "https://www.mozilla.org/tl/firefox/accounts/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
     "etag": "\"53d1e2ca2ea63b06dd3c94081d10bd08\""
+  },
+  "https://www.mozilla.org/tl/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"0d6564d9985c50d049c731410a87ef27\""
+  },
+  "https://www.mozilla.org/tl/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a1d104977132de9fb79e89c5980198d6\""
+  },
+  "https://www.mozilla.org/tl/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ad21bd618ae51e65bfc89ff1643f6621\""
   },
   "https://www.mozilla.org/tl/privacy/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -29109,16 +29349,16 @@
     "etag": "\"f670148d79ba93bd47d3bb1eab67c4bb\""
   },
   "https://www.mozilla.org/tr/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d3b16abe4ab9c22636cb5050e8440107\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"127af019f5ce11e854778a91dac9df87\""
   },
   "https://www.mozilla.org/tr/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"00b9e6c79385926b4ebbc7e3a0d71ac5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a2ebb4e1038d09d7b64247cd3be78eb4\""
   },
   "https://www.mozilla.org/tr/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"9cba3db5e2f4d186e084de78213a33a5\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"75595765c42be63217d7aae61d2bdf82\""
   },
   "https://www.mozilla.org/tr/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -29263,6 +29503,18 @@
   "https://www.mozilla.org/trs/firefox/new/": {
     "date": "2020-08-09T12:07:38.488948+00:00",
     "etag": "\"da52cae03d37f350f6d1c46922b3fe47\""
+  },
+  "https://www.mozilla.org/trs/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3cec4bff8664f3f41e9d4d50d20bc366\""
+  },
+  "https://www.mozilla.org/trs/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f1a0d920970ac11cdde2a463d45db7b3\""
+  },
+  "https://www.mozilla.org/trs/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"26d0d1635d6df9fcfbde1ab00f3a6af1\""
   },
   "https://www.mozilla.org/trs/firefox/windows/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -29495,8 +29747,8 @@
     "etag": "\"36a7866800714c0f21e8bd3b7e7dad5c\""
   },
   "https://www.mozilla.org/uk/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"8485a73f8ae3214c82667bd4bdb22f2d\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9a28114ac61832164746e8be2cb7e8f0\""
   },
   "https://www.mozilla.org/uk/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -29527,16 +29779,16 @@
     "etag": "\"190e37c696fe7b941967e0b9d39f90aa\""
   },
   "https://www.mozilla.org/uk/firefox/whatsnew/africa/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"563b828cf39106c8d6ee73a975eceba1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"378f8673166dbfe36e30f357dd36e6a2\""
   },
   "https://www.mozilla.org/uk/firefox/whatsnew/china/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"98b938f261fecc638d6e13dd861f98ab\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"00f14afb62f113af91bf7499d7f139cd\""
   },
   "https://www.mozilla.org/uk/firefox/whatsnew/india/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"0f1fae373268c8ad9dfc09525f918d0a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"e0f09d10621cb5e6ce3eb7df4572a495\""
   },
   "https://www.mozilla.org/uk/firefox/windows/": {
     "date": "2020-12-05T00:05:56.635864+00:00",
@@ -29711,16 +29963,16 @@
     "etag": "\"afdbc00abfff7d330db7742da7702f16\""
   },
   "https://www.mozilla.org/ur/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"f9c83faa0e5611d2603759d61fbe9d5f\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"d40b67fcfa2937e4721fb0932d0fe4af\""
   },
   "https://www.mozilla.org/ur/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"2b09528035f3e46604651e04aeb92a3e\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"3716d0fe2b917015eb7357b07ef6e3e0\""
   },
   "https://www.mozilla.org/ur/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"c8bed6e7ddb081e33ef4e02cb7198e92\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"c5b722faf87aa59235cb252ad1203a86\""
   },
   "https://www.mozilla.org/ur/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -29759,12 +30011,16 @@
     "etag": "\"90aac5e3a346cadde7b2ed8a2f451d3d\""
   },
   "https://www.mozilla.org/uz/firefox/whatsnew/africa/": {
-    "date": "2020-08-06T01:30:39.562265+00:00",
-    "etag": "\"dbc774153acd5840782552f8985643b8\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"948300cce7cce57f3d6cc4123aa1f7eb\""
+  },
+  "https://www.mozilla.org/uz/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"70cba739ebb6c27b530bb3caa674c594\""
   },
   "https://www.mozilla.org/uz/firefox/whatsnew/india/": {
-    "date": "2020-08-06T01:30:31.123080+00:00",
-    "etag": "\"b01818fe217a04071b0f96c29c96e592\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f70ef5e33acd23b69d8c8fe7e37bdebb\""
   },
   "https://www.mozilla.org/uz/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -29967,8 +30223,8 @@
     "etag": "\"77ff469f560720831baea5ce6054e2c2\""
   },
   "https://www.mozilla.org/vi/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"cfa06246040c130cef6d72fae0c4124b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"a0dea3e062053c9998e1c95233f335a5\""
   },
   "https://www.mozilla.org/vi/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -29999,16 +30255,16 @@
     "etag": "\"de97866db1ab572209eb8215f3715a7e\""
   },
   "https://www.mozilla.org/vi/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"963b1dbfb32929677f3a5c9218326c89\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1f8f3ff6cc90fa43d4d7bc0bf963aade\""
   },
   "https://www.mozilla.org/vi/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"530c282cca6964836ac185f1c100375a\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"bffc8e5b7938e876a28984e88bacafd7\""
   },
   "https://www.mozilla.org/vi/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"d6990f43a271565268f942c82d3713a1\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"fe7f0daff3eee46fa9893d10cdf99490\""
   },
   "https://www.mozilla.org/vi/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -30105,6 +30361,18 @@
   "https://www.mozilla.org/xh/firefox/mobile/": {
     "date": "2018-08-15T03:32:07.893440+00:00",
     "etag": "\"52e2e79a58fca8c32d0d85bbdb5b00fb\""
+  },
+  "https://www.mozilla.org/xh/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"215d106132ddaf2d7f0de27428e5ba0b\""
+  },
+  "https://www.mozilla.org/xh/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"11d13099874db347542583c91a610dbf\""
+  },
+  "https://www.mozilla.org/xh/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2e08c140db4a0f978fb109e7afa6e839\""
   },
   "https://www.mozilla.org/xh/mission/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
@@ -30341,8 +30609,8 @@
     "etag": "\"52b351bafd206291916ec457e2eb642d\""
   },
   "https://www.mozilla.org/zh-CN/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"3c159bccf8d3320a3d20a9f4101144c4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"1663f5685c3f229bf6d2cc6a794104bf\""
   },
   "https://www.mozilla.org/zh-CN/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -30373,16 +30641,16 @@
     "etag": "\"cc00a862b2f44a2afc0d7b389d267c2b\""
   },
   "https://www.mozilla.org/zh-CN/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"421e4b4093b245bc10bc0d1f858441c4\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"376c977463529859dfb9b09c6f9f34e4\""
   },
   "https://www.mozilla.org/zh-CN/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"a0154b9e5acded7b5ce8daa61a3783db\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"9e1d6d00cd4fd54c4db670923d649f41\""
   },
   "https://www.mozilla.org/zh-CN/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"fb29765e7f8d8cba833d9f5e72f2f845\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"74ff4c6f7915d930e4f4ba1fa3289586\""
   },
   "https://www.mozilla.org/zh-CN/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -30675,8 +30943,8 @@
     "etag": "\"b08b21cf3a7f667a99beb65dcd581d95\""
   },
   "https://www.mozilla.org/zh-TW/firefox/more/": {
-    "date": "2020-12-08T00:03:26.953417+00:00",
-    "etag": "\"d62d545d593e654ea5faac564b917315\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"091cd20e9c5ee222abb58fbffe860ad2\""
   },
   "https://www.mozilla.org/zh-TW/firefox/new/": {
     "date": "2020-12-08T00:03:26.953417+00:00",
@@ -30707,16 +30975,16 @@
     "etag": "\"f39a5109e7af26d0025b00bafad58b97\""
   },
   "https://www.mozilla.org/zh-TW/firefox/whatsnew/africa/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"3b6e39aa1adb7148e0eae382e25fef3b\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"46b5c0fc378af7889a62916a28481443\""
   },
   "https://www.mozilla.org/zh-TW/firefox/whatsnew/china/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5d3b6ed9c164f5297bda6a125bffa864\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"378f600f99e0df1936022256836fb2ac\""
   },
   "https://www.mozilla.org/zh-TW/firefox/whatsnew/india/": {
-    "date": "2020-11-20T00:07:12.933551+00:00",
-    "etag": "\"5f4bb492456792f880b6a0279d214dfb\""
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"82799f59e811fe13b9bb02298e4e2985\""
   },
   "https://www.mozilla.org/zh-TW/firefox/windows/": {
     "date": "2020-12-03T00:07:21.292575+00:00",
@@ -30813,6 +31081,18 @@
   "https://www.mozilla.org/zu/about/legal/terms/services/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
     "etag": "\"b8e2a16c68df7a40d9d8127907ab49d6\""
+  },
+  "https://www.mozilla.org/zu/firefox/whatsnew/africa/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"2374ed116c07c4a13e2f34bc1a2983c1\""
+  },
+  "https://www.mozilla.org/zu/firefox/whatsnew/china/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"f0aba3d9766c147070899e4a3e727f3f\""
+  },
+  "https://www.mozilla.org/zu/firefox/whatsnew/india/": {
+    "date": "2020-12-09T18:08:19.320595+00:00",
+    "etag": "\"ffd47b8367469bd7ec879e82168ddcaa\""
   },
   "https://www.mozilla.org/zu/privacy/": {
     "date": "2020-11-20T00:07:12.933551+00:00",
