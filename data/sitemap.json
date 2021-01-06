@@ -3046,6 +3046,12 @@
   "/firefox/78.6.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.6.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.6.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0/releasenotes/": [
     "en-US"
   ],
@@ -3176,6 +3182,12 @@
     "en-US"
   ],
   "/firefox/84.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/84.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/84.0.2/system-requirements/": [
     "en-US"
   ],
   "/firefox/84.0/releasenotes/": [
@@ -4848,6 +4860,7 @@
     "es-CL",
     "es-ES",
     "fr",
+    "gl",
     "it",
     "kab",
     "nl",
@@ -5366,6 +5379,7 @@
     "ka",
     "nl",
     "pt-BR",
+    "ru",
     "sq",
     "sv-SE",
     "uk",
@@ -11636,6 +11650,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2020-56/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-01/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
