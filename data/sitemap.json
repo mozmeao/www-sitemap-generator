@@ -815,13 +815,7 @@
   "/credits/": [],
   "/credits/faq/": [],
   "/firefox/": [
-    "an",
-    "ar",
-    "ast",
-    "az",
     "be",
-    "bg",
-    "bs",
     "ca",
     "cak",
     "cs",
@@ -833,21 +827,17 @@
     "en-CA",
     "en-GB",
     "en-US",
-    "eo",
     "es-AR",
     "es-CL",
     "es-ES",
     "es-MX",
-    "et",
     "eu",
     "fa",
     "ff",
-    "fi",
     "fr",
     "fy-NL",
     "gl",
     "gn",
-    "gu-IN",
     "he",
     "hi-IN",
     "hr",
@@ -857,24 +847,18 @@
     "ia",
     "id",
     "it",
-    "ja",
     "ka",
     "kab",
     "ko",
-    "lij",
     "lt",
-    "ml",
     "mr",
-    "ms",
     "my",
     "nb-NO",
     "nl",
     "nn-NO",
-    "pa-IN",
     "pl",
     "pt-BR",
     "pt-PT",
-    "rm",
     "ro",
     "ru",
     "sk",
@@ -882,10 +866,8 @@
     "sq",
     "sr",
     "sv-SE",
-    "ta",
     "th",
     "tr",
-    "trs",
     "uk",
     "ur",
     "vi",
@@ -5201,6 +5183,7 @@
     "fy-NL",
     "gn",
     "gu-IN",
+    "he",
     "hi-IN",
     "hr",
     "hsb",
@@ -5217,6 +5200,7 @@
     "ml",
     "mr",
     "ms",
+    "my",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -7342,162 +7326,6 @@
   "/foundation/trademarks/policy/": [
     "en-US",
     "ja"
-  ],
-  "/grants/": [
-    "en-US"
-  ],
-  "/grants/aapd.html": [
-    "en-US"
-  ],
-  "/grants/adaptive-technology-resource-centre.html": [
-    "en-US"
-  ],
-  "/grants/ariel-rios.html": [
-    "en-US"
-  ],
-  "/grants/atlan.html": [
-    "en-US"
-  ],
-  "/grants/automated-calendar-testing.html": [
-    "en-US"
-  ],
-  "/grants/bay-area-video-coalition.html": [
-    "en-US"
-  ],
-  "/grants/benetech.html": [
-    "en-US"
-  ],
-  "/grants/big-blue-button.html": [
-    "en-US"
-  ],
-  "/grants/cbc.html": [
-    "en-US"
-  ],
-  "/grants/charles-chen.html": [
-    "en-US"
-  ],
-  "/grants/codethink.html": [
-    "en-US"
-  ],
-  "/grants/compumentor.html": [
-    "en-US"
-  ],
-  "/grants/creative-commons.html": [
-    "en-US"
-  ],
-  "/grants/depaul-university.html": [
-    "en-US"
-  ],
-  "/grants/dream-yard.html": [
-    "en-US"
-  ],
-  "/grants/firebug-accessibility.html": [
-    "en-US"
-  ],
-  "/grants/foms.html": [
-    "en-US"
-  ],
-  "/grants/free-culture-conference.html": [
-    "en-US"
-  ],
-  "/grants/free-software-foundation.html": [
-    "en-US"
-  ],
-  "/grants/fscons.html": [
-    "en-US"
-  ],
-  "/grants/global-kids-inc.html": [
-    "en-US"
-  ],
-  "/grants/gnome.html": [
-    "en-US"
-  ],
-  "/grants/henrik-moltke.html": [
-    "en-US"
-  ],
-  "/grants/ifosslr.html": [
-    "en-US"
-  ],
-  "/grants/institute_of_play.html": [
-    "en-US"
-  ],
-  "/grants/jambu.html": [
-    "en-US"
-  ],
-  "/grants/leigh-school.html": [
-    "en-US"
-  ],
-  "/grants/mozdev.html": [
-    "en-US"
-  ],
-  "/grants/new-youth-city.html": [
-    "en-US"
-  ],
-  "/grants/nonprofit-software-development-summit.html": [
-    "en-US"
-  ],
-  "/grants/nu.html": [
-    "en-US"
-  ],
-  "/grants/nvda.html": [
-    "en-US"
-  ],
-  "/grants/open-source-software-institute.html": [
-    "en-US"
-  ],
-  "/grants/open-video-alliance.html": [
-    "en-US"
-  ],
-  "/grants/owasp.html": [
-    "en-US"
-  ],
-  "/grants/participatory-culture-foundation.html": [
-    "en-US"
-  ],
-  "/grants/peer2peer-university.html": [
-    "en-US"
-  ],
-  "/grants/peoples-production-house.html": [
-    "en-US"
-  ],
-  "/grants/perl-foundation.html": [
-    "en-US"
-  ],
-  "/grants/personal-democracy-forum.html": [
-    "en-US"
-  ],
-  "/grants/public_knowledge.html": [
-    "en-US"
-  ],
-  "/grants/reports/gnome-haeger-report/": [
-    "en-US"
-  ],
-  "/grants/reports/ushahidi-chile-report/": [
-    "en-US"
-  ],
-  "/grants/seneca.html": [
-    "en-US"
-  ],
-  "/grants/software-freedom-conservancy.html": [
-    "en-US"
-  ],
-  "/grants/universal-subtitles.html": [
-    "en-US"
-  ],
-  "/grants/ushaidi-chile.html": [
-    "en-US"
-  ],
-  "/grants/vquence.html": [
-    "en-US"
-  ],
-  "/grants/w3c-validator.html": [
-    "en-US"
-  ],
-  "/grants/web4all.html": [
-    "en-US"
-  ],
-  "/grants/webaim.html": [
-    "en-US"
   ],
   "/keymaster/gatekeeper/there.is.only.xul": [],
   "/locales/": [],
@@ -11662,6 +11490,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-01/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-02/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
