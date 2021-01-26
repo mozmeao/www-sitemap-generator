@@ -8795,12 +8795,28 @@
     "etag": "\"3a6f42de044c621897c60470cf2c022b\""
   },
   "https://www.mozilla.org/en-US/firefox/86.0a1/releasenotes/": {
-    "date": "2021-01-22T18:07:22.037599+00:00",
-    "etag": "\"36dd1860450b56b334148444aa9f8029\""
+    "date": "2021-01-26T00:06:01.821604+00:00",
+    "etag": "\"d2c294db49e94810074409041ca11727\""
   },
   "https://www.mozilla.org/en-US/firefox/86.0a1/system-requirements/": {
     "date": "2021-01-06T18:06:01.720424+00:00",
     "etag": "\"338f458125b5173664a8a1d4d5966b04\""
+  },
+  "https://www.mozilla.org/en-US/firefox/86.0beta/releasenotes/": {
+    "date": "2021-01-26T00:06:01.821604+00:00",
+    "etag": "\"0be9b90c3937f99f90c896dadb8b15ee\""
+  },
+  "https://www.mozilla.org/en-US/firefox/86.0beta/system-requirements/": {
+    "date": "2021-01-26T00:06:01.821604+00:00",
+    "etag": "\"74a5d213855eb0ef029a45e214a5f837\""
+  },
+  "https://www.mozilla.org/en-US/firefox/87.0a1/releasenotes/": {
+    "date": "2021-01-26T00:06:01.821604+00:00",
+    "etag": "\"35134dc1393767c74a544156e8026423\""
+  },
+  "https://www.mozilla.org/en-US/firefox/87.0a1/system-requirements/": {
+    "date": "2021-01-26T00:06:01.821604+00:00",
+    "etag": "\"a8f564caaf3c66627bfdb0e1287ae072\""
   },
   "https://www.mozilla.org/en-US/firefox/accounts/": {
     "date": "2021-01-06T18:06:01.720424+00:00",
