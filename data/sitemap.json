@@ -3019,6 +3019,12 @@
   "/firefox/78.7.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.7.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.7.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0/releasenotes/": [
     "en-US"
   ],
@@ -3173,6 +3179,12 @@
     "en-US"
   ],
   "/firefox/84.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/85.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/85.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/85.0/releasenotes/": [
@@ -11528,6 +11540,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-05/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-06/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
