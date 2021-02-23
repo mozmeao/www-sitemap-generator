@@ -8891,12 +8891,20 @@
     "etag": "\"373dd87e6e76d781b9fca388a95dabfc\""
   },
   "https://www.mozilla.org/en-US/firefox/87.0a1/releasenotes/": {
-    "date": "2021-02-09T18:06:09.950916+00:00",
-    "etag": "\"4fbeb32aa4ba5b8e594f40240fec103a\""
+    "date": "2021-02-23T12:07:59.426605+00:00",
+    "etag": "\"a0e362803b55c2262412c17a610e6816\""
   },
   "https://www.mozilla.org/en-US/firefox/87.0a1/system-requirements/": {
     "date": "2021-02-09T18:06:09.950916+00:00",
     "etag": "\"4f0ba328d61e9dbb67b97eca1d7a61f6\""
+  },
+  "https://www.mozilla.org/en-US/firefox/88.0a1/releasenotes/": {
+    "date": "2021-02-23T12:07:59.426605+00:00",
+    "etag": "\"e3092d2992ef679195ac2c6f4627ed8d\""
+  },
+  "https://www.mozilla.org/en-US/firefox/88.0a1/system-requirements/": {
+    "date": "2021-02-23T12:07:59.426605+00:00",
+    "etag": "\"0214423ae21b6c2e82f8f95014aa1484\""
   },
   "https://www.mozilla.org/en-US/firefox/accounts/": {
     "date": "2021-02-09T18:06:09.950916+00:00",
@@ -10407,8 +10415,8 @@
     "etag": "\"8c012404f9de638dfbc40e563723a955\""
   },
   "https://www.mozilla.org/en-US/firefox/android/85.0/releasenotes/": {
-    "date": "2021-02-09T18:06:09.950916+00:00",
-    "etag": "\"4cb9bb2a56157b81495085b49447931a\""
+    "date": "2021-02-23T12:07:59.426605+00:00",
+    "etag": "\"9624659ce0953e7223bd8c7c4a507d1a\""
   },
   "https://www.mozilla.org/en-US/firefox/android/85.0/system-requirements/": {
     "date": "2021-02-09T18:06:09.950916+00:00",
