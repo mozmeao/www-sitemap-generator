@@ -336,6 +336,7 @@
     "es-AR",
     "es-CL",
     "es-ES",
+    "fy-NL",
     "gn",
     "hsb",
     "ia",
@@ -3015,6 +3016,12 @@
   "/firefox/78.7.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.8.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.8.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0/releasenotes/": [
     "en-US"
   ],
@@ -3201,6 +3208,12 @@
   "/firefox/85.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/86.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/86.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/86.0a1/releasenotes/": [
     "en-US"
   ],
@@ -3217,6 +3230,12 @@
     "en-US"
   ],
   "/firefox/87.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/87.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/87.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/88.0a1/releasenotes/": [
@@ -4558,6 +4577,7 @@
     "es-ES",
     "fy-NL",
     "gl",
+    "gn",
     "hu",
     "ia",
     "it",
@@ -11548,6 +11568,15 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-06/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-07/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-08/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-09/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
