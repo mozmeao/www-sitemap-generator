@@ -393,8 +393,8 @@
     "etag": "\"dcb3e0524199b410db623dbfd3105f6b\""
   },
   "https://www.mozilla.org/ar/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"29c8dd4271aeb5b56c4cb9b4e22eb301\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"64c917c23144e6725b64f14a6fadb42d\""
   },
   "https://www.mozilla.org/ar/firefox/features/adblocker/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -423,6 +423,10 @@
   "https://www.mozilla.org/ar/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"d857a01790ddddca16eeb11d698a19e7\""
+  },
+  "https://www.mozilla.org/ar/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"243d877d913beb42b2ddf53ebaa2f514\""
   },
   "https://www.mozilla.org/ar/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -2088,8 +2092,8 @@
     "etag": "\"941af741095bd628a528e021ddf4af61\""
   },
   "https://www.mozilla.org/cak/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"57526e1a1d56a96a957d4a6fd81e6a3e\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"a319064ae92d3b5de46b082f5bf6704b\""
   },
   "https://www.mozilla.org/cak/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -2118,6 +2122,10 @@
   "https://www.mozilla.org/cak/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"f38e55774a611a39f7db24cb3fb5df38\""
+  },
+  "https://www.mozilla.org/cak/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"e6c521351200317c1800b910969e46f6\""
   },
   "https://www.mozilla.org/cak/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -2402,8 +2410,8 @@
     "etag": "\"04fbaa48a33ddb026a9724957354e7dd\""
   },
   "https://www.mozilla.org/cs/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"b7ce23b419e7d41283fa5d19affa6638\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"b144cb63fab579f6e830f3126d5c728b\""
   },
   "https://www.mozilla.org/cs/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -2432,6 +2440,10 @@
   "https://www.mozilla.org/cs/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"c243a927f7af605479cdd7b8a71995c5\""
+  },
+  "https://www.mozilla.org/cs/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"c83f216bd858cb796938428b57d7d325\""
   },
   "https://www.mozilla.org/cs/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -2756,8 +2768,8 @@
     "etag": "\"6c51a0e4457bac6b3ec87bb80407bb99\""
   },
   "https://www.mozilla.org/cy/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"2be75f24d7fc88e93cbcaa69b1821b15\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"81d1265c01ad7ad62936e3e21ef94741\""
   },
   "https://www.mozilla.org/cy/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -2786,6 +2798,10 @@
   "https://www.mozilla.org/cy/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"2fe2c5e2d40cd7f33ab06ee4486ad47d\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d8ce7045f666f2a010d6c805f7813f4f\""
   },
   "https://www.mozilla.org/cy/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3032,8 +3048,8 @@
     "etag": "\"b93adc1699d1893bbbafdb40be3bc044\""
   },
   "https://www.mozilla.org/da/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"d93ba78920025c96be6706b4c96e6cf1\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"06459dfe3c589594a25eb0a78e80c2d9\""
   },
   "https://www.mozilla.org/da/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3062,6 +3078,10 @@
   "https://www.mozilla.org/da/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"0f23c108a8d46f005d08ae5644c7f45c\""
+  },
+  "https://www.mozilla.org/da/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5a3336a34bdf08a49cb38acbadca3ef8\""
   },
   "https://www.mozilla.org/da/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3342,8 +3362,8 @@
     "etag": "\"18ee2fb5c833ff0e05ad044a4d623fc5\""
   },
   "https://www.mozilla.org/de/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"4d16c654ca4f43080166a3304d1af5ab\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"1b4b66d851172adf7982587414f08d94\""
   },
   "https://www.mozilla.org/de/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3372,6 +3392,10 @@
   "https://www.mozilla.org/de/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"bac5db10daeb28596c5da920f2988a64\""
+  },
+  "https://www.mozilla.org/de/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"073f1cad11c5041b5f851d5edec7d7c1\""
   },
   "https://www.mozilla.org/de/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3712,8 +3736,8 @@
     "etag": "\"c50c1ed74464279e26e5de8f8e838451\""
   },
   "https://www.mozilla.org/dsb/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"fb86e0c6eb5c09858dd38e1177a36061\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7a2f5143ce0b30b00b0eebf7dad6499b\""
   },
   "https://www.mozilla.org/dsb/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3742,6 +3766,10 @@
   "https://www.mozilla.org/dsb/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"7cc5e65ad0fe3dbfc4083068cae8c4fb\""
+  },
+  "https://www.mozilla.org/dsb/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d7bad170ef70203f6b660fb20d24324d\""
   },
   "https://www.mozilla.org/dsb/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -3994,8 +4022,8 @@
     "etag": "\"a8332aa06c6d6f4bc6c9b4f5b04254b2\""
   },
   "https://www.mozilla.org/el/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"1300cc3de6d4ab583c10a3ef0ea79ed2\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"761397af1ad9bf138aedbeb84a5986e8\""
   },
   "https://www.mozilla.org/el/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -4024,6 +4052,10 @@
   "https://www.mozilla.org/el/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"5375e217db91cee615323d24f54feb75\""
+  },
+  "https://www.mozilla.org/el/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"b32dede8b0685ab3e823e398f8a849d7\""
   },
   "https://www.mozilla.org/el/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -4082,8 +4114,8 @@
     "etag": "\"4e8db6a3362d8e2182622efc1acd9ad9\""
   },
   "https://www.mozilla.org/el/firefox/privacy/safe-passwords/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"1d04172e30b009c308afd595cd0d247f\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d945d3d66c5dc4edf92dfbd262ba4b14\""
   },
   "https://www.mozilla.org/el/firefox/products/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -4328,8 +4360,8 @@
     "etag": "\"0144cc44d4002f7d949104850fd6d572\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"6c831a899fbbafebe7fd0bea23310735\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d779c25f8ed2d1f5730c29c54d01908d\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -4358,6 +4390,10 @@
   "https://www.mozilla.org/en-CA/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"854e7a32517dab06c1ea2441e92e0e5b\""
+  },
+  "https://www.mozilla.org/en-CA/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d407695720f1b953cde682562dd7cfc6\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -4682,8 +4718,8 @@
     "etag": "\"061c4cec24d419006c8a0bbfae26d6af\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"9b71060e1e7265cdad39691d7b96befd\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"b92ae0e6fad179a31e9730b5aa08af64\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -4712,6 +4748,10 @@
   "https://www.mozilla.org/en-GB/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"bf8dad2e57d754ceb9202ab8e0abf0ad\""
+  },
+  "https://www.mozilla.org/en-GB/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"594edf44d1715f9215e2abc7028e47d8\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -10559,8 +10599,8 @@
     "etag": "\"c2ef102971fd9e8b0b8f5504b5c4bfa2\""
   },
   "https://www.mozilla.org/en-US/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"857cae5b3d43e4983c3947f376edf709\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"ae9bf17a78c1dff8dea3b405ce9c1353\""
   },
   "https://www.mozilla.org/en-US/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -10589,6 +10629,10 @@
   "https://www.mozilla.org/en-US/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"57deecd3517d0e40fe12d302aa0fdf83\""
+  },
+  "https://www.mozilla.org/en-US/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"80b465f440d98272ef2bdfe72868890b\""
   },
   "https://www.mozilla.org/en-US/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -16759,8 +16803,8 @@
     "etag": "\"196125ce5865a9aa46ec20624915e25f\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"64cdcb3b2e06ec8911d0020f8ac56834\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"c16a8c1e249d6707b59364cbdddcd8b1\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -16789,6 +16833,10 @@
   "https://www.mozilla.org/es-AR/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"8317eb1d121037b28d64f0e58fcf3912\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"c5a1a696a19f4fa1973a611b5b9376d4\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -17085,8 +17133,8 @@
     "etag": "\"fcc744542666eae2e153012c678e7b16\""
   },
   "https://www.mozilla.org/es-CL/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"015fdaa052a1cc00ad782ca8636b13a3\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"0fe2db92a912391d5c37ae0bbf64cff9\""
   },
   "https://www.mozilla.org/es-CL/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -17115,6 +17163,10 @@
   "https://www.mozilla.org/es-CL/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"63d9bb8af22e7f25e911eed12434b0bb\""
+  },
+  "https://www.mozilla.org/es-CL/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"c8bb6ad83b2e321eb0b427487f0b4c8a\""
   },
   "https://www.mozilla.org/es-CL/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -17459,8 +17511,8 @@
     "etag": "\"b58f9fa9fc1379aa69db3ed2750fac98\""
   },
   "https://www.mozilla.org/es-ES/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"62f977427c80e08f0fffa6cc4663a681\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"bf8f74466e185f1b5936fa8944d3f710\""
   },
   "https://www.mozilla.org/es-ES/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -17489,6 +17541,10 @@
   "https://www.mozilla.org/es-ES/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"95c57e9d73604cf9465a023804d7881c\""
+  },
+  "https://www.mozilla.org/es-ES/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7ac232dbdf75f8b2c510d3dc22b21e03\""
   },
   "https://www.mozilla.org/es-ES/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -17805,8 +17861,8 @@
     "etag": "\"4b1a06a794bd78076877b97c7a960169\""
   },
   "https://www.mozilla.org/es-MX/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"322b6d816df433fc29f824a01786dc77\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"a83f1d8026280ed8d30116387874c151\""
   },
   "https://www.mozilla.org/es-MX/firefox/features/adblocker/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -17835,6 +17891,10 @@
   "https://www.mozilla.org/es-MX/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"d8b99bfca828cdad49b249dfb2f99a8d\""
+  },
+  "https://www.mozilla.org/es-MX/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"153b1719dffa0ebc20d892a52bbd393f\""
   },
   "https://www.mozilla.org/es-MX/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -18611,8 +18671,8 @@
     "etag": "\"712e43ced293d568c74965cb3dbe7d55\""
   },
   "https://www.mozilla.org/fi/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"7ac80dafa6ff120db10461a5848686e2\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"43f917ab1321e57594416aab94001a14\""
   },
   "https://www.mozilla.org/fi/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -18637,6 +18697,10 @@
   "https://www.mozilla.org/fi/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"6337f111e2f80523d5301b7b01a9c429\""
+  },
+  "https://www.mozilla.org/fi/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"02fe202fc198f5f72301331fead0aec9\""
   },
   "https://www.mozilla.org/fi/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -18857,8 +18921,8 @@
     "etag": "\"923c9c13d8f9ff92c186042a7a065b91\""
   },
   "https://www.mozilla.org/fr/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"c9df4cc5fd7de6c38305d62784164d9d\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5951ba6687e43454218a6069223cda67\""
   },
   "https://www.mozilla.org/fr/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -18887,6 +18951,10 @@
   "https://www.mozilla.org/fr/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"63615b0c322d4a4abc045cd82a6bc79d\""
+  },
+  "https://www.mozilla.org/fr/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d55c1d04b8ff6f89868d51de3066a651\""
   },
   "https://www.mozilla.org/fr/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19247,8 +19315,8 @@
     "etag": "\"3531a06f416d9834e5b5eec77455099f\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"80f21824e5d8db376cdb2408e105e65f\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7d1932902758ce1089d714aedecd614d\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19277,6 +19345,10 @@
   "https://www.mozilla.org/fy-NL/firefox/features/password-manager/": {
     "date": "2021-03-03T12:06:14.829843+00:00",
     "etag": "\"12d636e221322c78e9bd30e5806d97b2\""
+  },
+  "https://www.mozilla.org/fy-NL/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5dd8136f36dfab31b4707ca4e30ade0c\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19691,8 +19763,8 @@
     "etag": "\"735d265904313349eeb432dbe998dea4\""
   },
   "https://www.mozilla.org/gl/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"9311dedc405f8d44822f01b0c6025881\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"039e0044c8fe246589522975dd28bf1d\""
   },
   "https://www.mozilla.org/gl/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19721,6 +19793,10 @@
   "https://www.mozilla.org/gl/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"fabbf8cc164aee9cf86221d8e09cfb1f\""
+  },
+  "https://www.mozilla.org/gl/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"09d01533730599aa7ca5faa28e5d2bfa\""
   },
   "https://www.mozilla.org/gl/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19943,8 +20019,8 @@
     "etag": "\"e9c5db4b6c5efc546609f5df80a5b07d\""
   },
   "https://www.mozilla.org/gn/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"a1178e82648ccfb71d29855055d13204\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"3399f85b1dcebe31b7e6d07d5ba5ccbe\""
   },
   "https://www.mozilla.org/gn/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -19973,6 +20049,10 @@
   "https://www.mozilla.org/gn/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"bacf10c7c2d98fd94fa03bb9d790cf11\""
+  },
+  "https://www.mozilla.org/gn/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7cbf5295faa0f2f66ad7a84dcaf1dc33\""
   },
   "https://www.mozilla.org/gn/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -20303,8 +20383,8 @@
     "etag": "\"3c56548df73386041d3769e4fb637929\""
   },
   "https://www.mozilla.org/he/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"142586aeb9585bf137a4d5cbc7a1aefc\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"6c9aff1a6b1f0db30fd84615ef2b4dc7\""
   },
   "https://www.mozilla.org/he/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -20329,6 +20409,10 @@
   "https://www.mozilla.org/he/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"3585e2599c8260d8d0be2eea5ac0b5a1\""
+  },
+  "https://www.mozilla.org/he/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"e988fef38ed1d91cf82669b511915f84\""
   },
   "https://www.mozilla.org/he/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -20915,8 +20999,8 @@
     "etag": "\"fe14c1aab61433dca3eb9fef752b181d\""
   },
   "https://www.mozilla.org/hsb/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"75f4a9a4d79cea6553eff911cf5c0245\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"2c2b2f63c800467504033fa45fb7ad01\""
   },
   "https://www.mozilla.org/hsb/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -20945,6 +21029,10 @@
   "https://www.mozilla.org/hsb/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"38f2b9e933d5558381e67f31269fe0b9\""
+  },
+  "https://www.mozilla.org/hsb/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"28660c23ed51c5174db73d9bda4bb243\""
   },
   "https://www.mozilla.org/hsb/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -21207,8 +21295,8 @@
     "etag": "\"680f29d8c102644ebdec93a1bbd1859d\""
   },
   "https://www.mozilla.org/hu/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"4581964fa8ce2618afb7fa3b7ec61598\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"e2f62c2997bf8745595dcbef5290d02f\""
   },
   "https://www.mozilla.org/hu/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -21237,6 +21325,10 @@
   "https://www.mozilla.org/hu/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"977e20a97e45d8a28d25054a4ae38b3a\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"1af888841eae749b906a8358d9ebcc5a\""
   },
   "https://www.mozilla.org/hu/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -21689,8 +21781,8 @@
     "etag": "\"ccaf4002126094212eb6ae7aafe24538\""
   },
   "https://www.mozilla.org/ia/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"6f8dc25d8ad738efce9d61ab24bcbee0\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"46cc3b8a2475a489b411a3f020270ec7\""
   },
   "https://www.mozilla.org/ia/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -21719,6 +21811,10 @@
   "https://www.mozilla.org/ia/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"91fdf83fa62c2f9b597d317b79f0da1a\""
+  },
+  "https://www.mozilla.org/ia/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5319ea57cb32a0e14676e16fd6ed93af\""
   },
   "https://www.mozilla.org/ia/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -22019,8 +22115,8 @@
     "etag": "\"2f61bd0fcffeecff6cf6900850b5bda9\""
   },
   "https://www.mozilla.org/id/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"fdc4d1f3e0d6625f52b79b6c7e6bedfe\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"58774a13bddddf8c47893189438298de\""
   },
   "https://www.mozilla.org/id/firefox/features/adblocker/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -22049,6 +22145,10 @@
   "https://www.mozilla.org/id/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"379dc15d88b5ca97285dd2b00ee91872\""
+  },
+  "https://www.mozilla.org/id/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"ba9d6a1e701ac3c53703eebbb4eb9f5d\""
   },
   "https://www.mozilla.org/id/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -22485,8 +22585,8 @@
     "etag": "\"ed99f87f5b7fbf8f8ae256290c06c08e\""
   },
   "https://www.mozilla.org/it/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"aeb7a7a85aa6a82912271189878e727a\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d2642090253aba39bfd8eef3d17a17ec\""
   },
   "https://www.mozilla.org/it/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -22515,6 +22615,10 @@
   "https://www.mozilla.org/it/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"de41b57010d7c56ff9df8f98e1812ce6\""
+  },
+  "https://www.mozilla.org/it/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"f52379d5a6d0bc819e2f54abc7406bc8\""
   },
   "https://www.mozilla.org/it/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -23109,8 +23213,8 @@
     "etag": "\"0f5a84fce6d1f5454f04afcdbc1906dd\""
   },
   "https://www.mozilla.org/ka/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"7d20da9536db6d3dd3af63a6ef67b358\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"1d653f5714b2e029d0918977ac673075\""
   },
   "https://www.mozilla.org/ka/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -23139,6 +23243,10 @@
   "https://www.mozilla.org/ka/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"9fb3ec093c6a1ee9cdce83d4b6462978\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7785be2f63c65b31e3c6e7b978651c17\""
   },
   "https://www.mozilla.org/ka/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -23395,8 +23503,8 @@
     "etag": "\"0a7719dec4d2a87d7363ebdfbfd45893\""
   },
   "https://www.mozilla.org/kab/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"c126fe6417139ada607e8fe2b8f77484\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"97d1f3d47ba9be4a5c783a0f3ea015ec\""
   },
   "https://www.mozilla.org/kab/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -23425,6 +23533,10 @@
   "https://www.mozilla.org/kab/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"a1667a7af8a7344a23a2bd92f9ab8e9a\""
+  },
+  "https://www.mozilla.org/kab/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"f23cee7df2d25c80d0afa58da2e7de83\""
   },
   "https://www.mozilla.org/kab/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -23877,8 +23989,8 @@
     "etag": "\"1201180d7ebb8bb9fb104b6df858f537\""
   },
   "https://www.mozilla.org/ko/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"5d75ccdb9f64891297d4df9e498a14d3\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"38364b835d0f4e1d0a6be17bf317f3e7\""
   },
   "https://www.mozilla.org/ko/firefox/features/adblocker/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -23907,6 +24019,10 @@
   "https://www.mozilla.org/ko/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"59ec8035db71467386cddca2d067228b\""
+  },
+  "https://www.mozilla.org/ko/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"517b8f3f0ffb8be17d1e24232fe01bd1\""
   },
   "https://www.mozilla.org/ko/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -25285,8 +25401,8 @@
     "etag": "\"1089766861c8825626f14613e47db46a\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"5e81d3ccc42b37812ab293de2d9df1ef\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"394d4246ad4930757420408e671bb92c\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -25311,6 +25427,10 @@
   "https://www.mozilla.org/nb-NO/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"ccaf8f575c981c58df7b1ff48fa61d77\""
+  },
+  "https://www.mozilla.org/nb-NO/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"a5a2dfdb5b304a1649148355b4c25008\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -25623,8 +25743,8 @@
     "etag": "\"9a141f74d7986b4aff55f14f245ea64a\""
   },
   "https://www.mozilla.org/nl/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"6b4cd374841ae2220fa992cd348a2358\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"ef9bf0dab7dc7b50bff669caf5f03d5e\""
   },
   "https://www.mozilla.org/nl/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -25653,6 +25773,10 @@
   "https://www.mozilla.org/nl/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"d8f7578eacfe0815739687cede554efb\""
+  },
+  "https://www.mozilla.org/nl/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"327c8b2b0fe903fd831852e2d9cc5372\""
   },
   "https://www.mozilla.org/nl/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -25933,8 +26057,8 @@
     "etag": "\"5d93d343e74accbe95f7f28689e401d1\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"4671d991ed4e69893ec99d7b5cd8734e\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"98e8991bdc40a153edb6ebb1682cfff8\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -25959,6 +26083,10 @@
   "https://www.mozilla.org/nn-NO/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"75587fd03b3c9be3cd4fc7839413e296\""
+  },
+  "https://www.mozilla.org/nn-NO/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"87d0a4b42bd485587785fd2164452fa7\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -26431,8 +26559,8 @@
     "etag": "\"294601912a6377bae63ad05d061f454c\""
   },
   "https://www.mozilla.org/pl/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"a9722c6f37c3df679f9f9b270e1dda2f\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"328ddc51dc723f6558e0634f02e13ec7\""
   },
   "https://www.mozilla.org/pl/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -26461,6 +26589,10 @@
   "https://www.mozilla.org/pl/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"c06cab75af43377f4012da3efdd92219\""
+  },
+  "https://www.mozilla.org/pl/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"6b9d9f17255b4ca2bc3f2061abb0d062\""
   },
   "https://www.mozilla.org/pl/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -26785,8 +26917,8 @@
     "etag": "\"203b134e8eb9486963ea54f3cbf838a4\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"607da080248ce9066959b714937ddaaf\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"563f56f4972db14daf1792fe2363a99b\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -26815,6 +26947,10 @@
   "https://www.mozilla.org/pt-BR/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"1cb5dc120ed38fcfbcbccbcb5e43debf\""
+  },
+  "https://www.mozilla.org/pt-BR/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"434d37cac2490790a365ad354112dcb3\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -27139,8 +27275,8 @@
     "etag": "\"7ec18bd29797a3be0a705c1fb2422d27\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"ec27b70ae0cfad31a5c8e46488109457\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"07279ebed792175f6c3da3f56f6a22ac\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -27169,6 +27305,10 @@
   "https://www.mozilla.org/pt-PT/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"8117e484539599a2a90e103119978655\""
+  },
+  "https://www.mozilla.org/pt-PT/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"166caf23f5d6076b51b312873b9ec0fb\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -27577,8 +27717,8 @@
     "etag": "\"d68efd5d2349927ee4d63fea264eb632\""
   },
   "https://www.mozilla.org/ro/firefox/features/": {
-    "date": "2021-03-01T18:07:26.371633+00:00",
-    "etag": "\"afca919f3b58bd7526cddeb329bab5f8\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7e9f2ab9a2e40b163d335c2fd79e0c24\""
   },
   "https://www.mozilla.org/ro/firefox/features/adblocker/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -27607,6 +27747,10 @@
   "https://www.mozilla.org/ro/firefox/features/password-manager/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
     "etag": "\"5ed0deb2062a566918ed8cc405fc8542\""
+  },
+  "https://www.mozilla.org/ro/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"d6583e02b172fc12d9412e3ad23745b5\""
   },
   "https://www.mozilla.org/ro/firefox/features/private-browsing/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -27919,8 +28063,8 @@
     "etag": "\"3b9308241ff4917a1ab37c05f8ffdf1e\""
   },
   "https://www.mozilla.org/ru/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"c458d42a540272241041e885a3c816b3\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"6ca12edf26daf61f5f614f877db481c9\""
   },
   "https://www.mozilla.org/ru/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -27949,6 +28093,10 @@
   "https://www.mozilla.org/ru/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"032da3fcef595e1ef7919ccb4873661d\""
+  },
+  "https://www.mozilla.org/ru/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"9cdbf230732042a5fe71e62dd61bc181\""
   },
   "https://www.mozilla.org/ru/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -28210,8 +28358,8 @@
     "etag": "\"ebe8013cd964f2834912642ab7ac00a2\""
   },
   "https://www.mozilla.org/sk/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"8d9b83e8a1bd11ff43aa8f15afc47b58\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"4a592f44f11bfd41aae51d6cde55e6c5\""
   },
   "https://www.mozilla.org/sk/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -28236,6 +28384,10 @@
   "https://www.mozilla.org/sk/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"b4e2c7e80a35355a21fb462681d38ba4\""
+  },
+  "https://www.mozilla.org/sk/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"39423b30dc55e1df5a6985c669015711\""
   },
   "https://www.mozilla.org/sk/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -28468,8 +28620,8 @@
     "etag": "\"79d72c809c3941436da08d062277f3e5\""
   },
   "https://www.mozilla.org/sl/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"99566648a5ebfc7c0eeb0525442914b6\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"994dc862a11766408102c740249d0b97\""
   },
   "https://www.mozilla.org/sl/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -28498,6 +28650,10 @@
   "https://www.mozilla.org/sl/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"acb4d5bb5de5bcaa4947ac8ac048af39\""
+  },
+  "https://www.mozilla.org/sl/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"ea8d30902701bcfccce660f9a884508c\""
   },
   "https://www.mozilla.org/sl/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -28841,8 +28997,8 @@
     "etag": "\"4bd77d2a1021c9ec233233b288abbce8\""
   },
   "https://www.mozilla.org/sq/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"672a63bcfe0390d231afb953b95ace02\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"9682164bb968b805663632f5a5f4fe8f\""
   },
   "https://www.mozilla.org/sq/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -28871,6 +29027,10 @@
   "https://www.mozilla.org/sq/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"7726d2d1a7782d7a8ac91d3f9c56dc11\""
+  },
+  "https://www.mozilla.org/sq/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5a6cf1e5dc27c2af6e1e855303137fa6\""
   },
   "https://www.mozilla.org/sq/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -29453,8 +29613,8 @@
     "etag": "\"523a2ec42891ad98e14ab8ff5deb4c91\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"e3f6ff976088b9d7abd60b7477b1d10b\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"ad277e8f49c5e44e60cdfd075f305046\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -29483,6 +29643,10 @@
   "https://www.mozilla.org/sv-SE/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"6683ec6052aa3588617cb3e366c3e6c4\""
+  },
+  "https://www.mozilla.org/sv-SE/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"9bc0fa192c30813c7ec754ea1a335bc9\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -30273,8 +30437,8 @@
     "etag": "\"0f325c3576ff1e1825bd3725238847a8\""
   },
   "https://www.mozilla.org/tr/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"cd9a1b1ed9f246d0c942bd8b1b7b85bd\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"e0a3138d52c04e5b2534910032bbc109\""
   },
   "https://www.mozilla.org/tr/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -30299,6 +30463,10 @@
   "https://www.mozilla.org/tr/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"9bbb473d72802c22462708d96d0829a4\""
+  },
+  "https://www.mozilla.org/tr/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5eb07466b31e87db0aadd2964ecb3328\""
   },
   "https://www.mozilla.org/tr/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -30715,8 +30883,8 @@
     "etag": "\"ba88bfdf8d96c7694abdeedf5d70e1bb\""
   },
   "https://www.mozilla.org/uk/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"6520d1514ffd7e67a109e081e6125d70\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5210fdf12632c7e02e66d8c0ab23289b\""
   },
   "https://www.mozilla.org/uk/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -30745,6 +30913,10 @@
   "https://www.mozilla.org/uk/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"1c0a3acaa24ed7ea8721a224bc0a43f7\""
+  },
+  "https://www.mozilla.org/uk/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"44fbbfab54aaa3430688a1737d5fabc2\""
   },
   "https://www.mozilla.org/uk/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -30967,8 +31139,8 @@
     "etag": "\"eba46699034ad94691505350d7de8482\""
   },
   "https://www.mozilla.org/ur/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"7ab82ad3395201a70e0547b2803d5ba6\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"06e21e9b5c4e048a04863189ddda4785\""
   },
   "https://www.mozilla.org/ur/firefox/features/block-fingerprinting/": {
     "date": "2021-03-01T18:07:26.371633+00:00",
@@ -30993,6 +31165,10 @@
   "https://www.mozilla.org/ur/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"91355b2fa46be2715ab58e81ff770c6d\""
+  },
+  "https://www.mozilla.org/ur/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"90b9515c8150c98c6a30940e1f0ec3d2\""
   },
   "https://www.mozilla.org/ur/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -31243,8 +31419,8 @@
     "etag": "\"434ce69c8d670e84a4c9b4f1a23ce32f\""
   },
   "https://www.mozilla.org/vi/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"0e9ce1071ab964f7f7732eccd3c98168\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"73e722f468f5d3468bec38c13a74d4d5\""
   },
   "https://www.mozilla.org/vi/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -31273,6 +31449,10 @@
   "https://www.mozilla.org/vi/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"34a50fdd9a49fa54c98b4eb2b85ac85f\""
+  },
+  "https://www.mozilla.org/vi/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"1bfb5e9e6f269ce44f461e9a01d1ad85\""
   },
   "https://www.mozilla.org/vi/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -31653,8 +31833,8 @@
     "etag": "\"6404f9ad1ef70eec996a203204880a09\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"97ea4e48813a11d163290a161ec13c66\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"19d15c5d2cd5dbbc0f41aac2b4374d77\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -31683,6 +31863,10 @@
   "https://www.mozilla.org/zh-CN/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"ca3f635cd6293306bf844bf6964b345b\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"7b5556715a6d90842f89fd427d09b867\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -31999,8 +32183,8 @@
     "etag": "\"db84c5892f2f24b01b8304040679c761\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/": {
-    "date": "2021-03-02T18:07:19.737918+00:00",
-    "etag": "\"d438b9c3a2b184e9ebbc33f2a6946311\""
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"25c8c69adb6e8b9a738bc5b72ecc12fe\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/adblocker/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
@@ -32029,6 +32213,10 @@
   "https://www.mozilla.org/zh-TW/firefox/features/password-manager/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
     "etag": "\"e8d80ed237ff951f6747cb20bc10e059\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/picture-in-picture/": {
+    "date": "2021-03-04T00:07:55.942095+00:00",
+    "etag": "\"5cd76e45628a1d257d89d3afdf41374c\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/private-browsing/": {
     "date": "2021-03-02T18:07:19.737918+00:00",
