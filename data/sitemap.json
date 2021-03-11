@@ -298,6 +298,7 @@
     "fr",
     "hi-IN",
     "hsb",
+    "hu",
     "ia",
     "it",
     "ja",
@@ -3198,6 +3199,12 @@
     "en-US"
   ],
   "/firefox/85.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/86.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/86.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/86.0/releasenotes/": [
@@ -6403,6 +6410,9 @@
   "/firefox/more/misinformation/": [
     "de",
     "en-US",
+    "hu",
+    "nl",
+    "sv-SE",
     "uk"
   ],
   "/firefox/new/": [
