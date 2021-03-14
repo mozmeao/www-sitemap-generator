@@ -2852,8 +2852,8 @@
     "etag": "\"a21352c3734363d2c4201aa2e245fc89\""
   },
   "https://www.mozilla.org/cy/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"28516e0384e1222dbdf00160ab219c02\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"189c17e565bfeafa29b1d4a52ac17001\""
   },
   "https://www.mozilla.org/cy/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -3458,8 +3458,8 @@
     "etag": "\"ac3e9ffc4e46d62aae671eb4107e244c\""
   },
   "https://www.mozilla.org/de/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"bcf2841393f752a9d44c6c55424e871b\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"aa0d2c68deaa09e50a44704a9d38132d\""
   },
   "https://www.mozilla.org/de/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -4818,8 +4818,8 @@
     "etag": "\"9be85c101680e5e05a3d57779ebe4a64\""
   },
   "https://www.mozilla.org/en-GB/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"dd81bd8f90a7f86f1949d86a7a7f4b97\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"33f3cfc77cd0602b92e6c881e493b4b3\""
   },
   "https://www.mozilla.org/en-GB/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -10883,8 +10883,8 @@
     "etag": "\"62377c2c5c467c6859cc113eb6f37620\""
   },
   "https://www.mozilla.org/en-US/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"7b2e8c9fbb1f7edb7848e150309d1769\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"c112c58fb7183321a7253015067e6727\""
   },
   "https://www.mozilla.org/en-US/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -16919,8 +16919,8 @@
     "etag": "\"6471a39c00bede382976ee0a2b681333\""
   },
   "https://www.mozilla.org/es-AR/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"973c3aac2a0149a4dac8368935d74f76\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"cdca65a0fc229cf334e69ca40d727ab1\""
   },
   "https://www.mozilla.org/es-AR/firefox/new/": {
     "date": "2021-03-12T00:07:57.577297+00:00",
@@ -21431,8 +21431,8 @@
     "etag": "\"6760910008cdc28c2ba708290b3e989a\""
   },
   "https://www.mozilla.org/hu/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"3ba4fc3f5903b247d63d596846624d69\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"04b6f155c3203190f10ef3b1c2132ef2\""
   },
   "https://www.mozilla.org/hu/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -23353,8 +23353,8 @@
     "etag": "\"9ac6b7bd315c220eb5f4870782591317\""
   },
   "https://www.mozilla.org/ka/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"7c1c02fb4344d641c119a08c61e2b9c8\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"22636d97ffd114f4ffb9a507a906b3b6\""
   },
   "https://www.mozilla.org/ka/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -25887,8 +25887,8 @@
     "etag": "\"4e0b767d3b7814a5fd94e992646f5a51\""
   },
   "https://www.mozilla.org/nl/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"0c6c60f200e1f3d453cfbcbe862c66a0\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"b7739af8d3d257be5d9e17d9bde380c0\""
   },
   "https://www.mozilla.org/nl/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -27063,6 +27063,10 @@
   "https://www.mozilla.org/pt-BR/firefox/more/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
     "etag": "\"00605cb28c13bf35e4988806e26be7b9\""
+  },
+  "https://www.mozilla.org/pt-BR/firefox/more/misinformation/": {
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"4d63c6a843a6eb94606ac689b62783fc\""
   },
   "https://www.mozilla.org/pt-BR/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -29765,8 +29769,8 @@
     "etag": "\"c8b95e35372685cdc5d4171e81bb035a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"d9dd1472d8ec5833bd19399131ccb764\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"b631e139c0fe2580c6abf2d66fe990c7\""
   },
   "https://www.mozilla.org/sv-SE/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -31039,8 +31043,8 @@
     "etag": "\"622e5a020ce487385e0637d4cb18e165\""
   },
   "https://www.mozilla.org/uk/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"7e40ead2bcf1d0581648b8a21b66c91e\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"ca44589fba7e60c1b588f0fc34944ea4\""
   },
   "https://www.mozilla.org/uk/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
@@ -31579,8 +31583,8 @@
     "etag": "\"670c9bb7c17fd052d7fd6eec461d3c9c\""
   },
   "https://www.mozilla.org/vi/firefox/more/misinformation/": {
-    "date": "2021-03-14T06:07:29.517063+00:00",
-    "etag": "\"4a7b3c507bdca3461ed43b28910bea69\""
+    "date": "2021-03-14T12:06:03.492775+00:00",
+    "etag": "\"17f74828031a5872f577538c8b767ce5\""
   },
   "https://www.mozilla.org/vi/firefox/new/": {
     "date": "2021-03-11T18:07:37.918686+00:00",
