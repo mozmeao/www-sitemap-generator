@@ -8109,7 +8109,25 @@
   "/products/vpn/": [
     "en-US"
   ],
+  "/products/vpn/desktop/": [
+    "en-US"
+  ],
+  "/products/vpn/desktop/linux/": [
+    "en-US"
+  ],
+  "/products/vpn/desktop/mac/": [
+    "en-US"
+  ],
+  "/products/vpn/desktop/windows/": [
+    "en-US"
+  ],
   "/products/vpn/invite/": [
+    "en-US"
+  ],
+  "/products/vpn/mobile/": [
+    "en-US"
+  ],
+  "/products/vpn/mobile/ios/": [
     "en-US"
   ],
   "/security/": [
