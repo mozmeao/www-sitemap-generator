@@ -3015,6 +3015,12 @@
   "/firefox/78.8.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.9.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.9.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/79.0/releasenotes/": [
     "en-US"
   ],
@@ -3225,6 +3231,12 @@
   "/firefox/86.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/87.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/87.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/87.0a1/releasenotes/": [
     "en-US"
   ],
@@ -3241,6 +3253,12 @@
     "en-US"
   ],
   "/firefox/88.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/88.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/88.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/accounts/": [
@@ -6420,6 +6438,7 @@
     "en-GB",
     "en-US",
     "es-AR",
+    "es-CL",
     "hu",
     "ia",
     "it",
@@ -8108,7 +8127,22 @@
     "zh-TW"
   ],
   "/products/vpn/": [
-    "en-US"
+    "cy",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "es-CL",
+    "fr",
+    "gn",
+    "ka",
+    "nl",
+    "pt-BR",
+    "sv-SE",
+    "uk",
+    "vi",
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/desktop/": [
     "en-US"
@@ -8123,7 +8157,22 @@
     "en-US"
   ],
   "/products/vpn/invite/": [
-    "en-US"
+    "cy",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "es-CL",
+    "fr",
+    "gn",
+    "ka",
+    "nl",
+    "pt-BR",
+    "sv-SE",
+    "uk",
+    "vi",
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/mobile/": [
     "en-US"
@@ -11684,6 +11733,15 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-09/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-10/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-11/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-12/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
