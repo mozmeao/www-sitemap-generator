@@ -3261,6 +3261,12 @@
   "/firefox/88.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/89.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/89.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/accounts/": [
     "ar",
     "be",
@@ -8135,6 +8141,7 @@
     "es-CL",
     "fr",
     "gn",
+    "it",
     "ka",
     "nl",
     "pt-BR",
@@ -8165,6 +8172,7 @@
     "es-CL",
     "fr",
     "gn",
+    "it",
     "ka",
     "nl",
     "pt-BR",
