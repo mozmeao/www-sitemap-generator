@@ -4598,6 +4598,7 @@
   ],
   "/firefox/browsers/chromebook/": [
     "cak",
+    "cs",
     "cy",
     "de",
     "el",
@@ -8138,6 +8139,7 @@
   "/products/vpn/": [
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -8170,11 +8172,13 @@
   ],
   "/products/vpn/desktop/windows/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/invite/": [
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -8199,7 +8203,8 @@
   ],
   "/products/vpn/mobile/android/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/mobile/ios/": [
     "de",
