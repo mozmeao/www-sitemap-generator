@@ -8145,6 +8145,7 @@
     "fr",
     "gn",
     "hu",
+    "ia",
     "it",
     "ka",
     "nl",
@@ -8156,15 +8157,19 @@
     "zh-TW"
   ],
   "/products/vpn/desktop/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/desktop/linux/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/desktop/mac/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/desktop/windows/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/invite/": [
@@ -8177,6 +8182,7 @@
     "fr",
     "gn",
     "hu",
+    "ia",
     "it",
     "ka",
     "nl",
@@ -8188,12 +8194,15 @@
     "zh-TW"
   ],
   "/products/vpn/mobile/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/mobile/android/": [
+    "de",
     "en-US"
   ],
   "/products/vpn/mobile/ios/": [
+    "de",
     "en-US"
   ],
   "/security/": [
