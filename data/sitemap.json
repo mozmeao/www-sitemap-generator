@@ -8160,15 +8160,18 @@
   ],
   "/products/vpn/desktop/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/desktop/linux/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/desktop/mac/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/desktop/windows/": [
     "de",
@@ -8199,7 +8202,8 @@
   ],
   "/products/vpn/mobile/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/products/vpn/mobile/android/": [
     "de",
@@ -8208,7 +8212,8 @@
   ],
   "/products/vpn/mobile/ios/": [
     "de",
-    "en-US"
+    "en-US",
+    "uk"
   ],
   "/security/": [
     "en-US"
