@@ -8163,11 +8163,14 @@
   "/products/vpn/desktop/": [
     "de",
     "en-US",
+    "nl",
+    "sv-SE",
     "uk"
   ],
   "/products/vpn/desktop/linux/": [
     "de",
     "en-US",
+    "pt-BR",
     "uk"
   ],
   "/products/vpn/desktop/mac/": [
@@ -8178,6 +8181,7 @@
   "/products/vpn/desktop/windows/": [
     "de",
     "en-US",
+    "sv-SE",
     "uk"
   ],
   "/products/vpn/invite/": [
@@ -8205,12 +8209,14 @@
   "/products/vpn/mobile/": [
     "de",
     "en-US",
+    "sv-SE",
     "uk"
   ],
   "/products/vpn/mobile/android/": [
     "de",
     "en-US",
     "nl",
+    "sv-SE",
     "uk"
   ],
   "/products/vpn/mobile/ios/": [
