@@ -8165,25 +8165,29 @@
     "en-US",
     "nl",
     "sv-SE",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/desktop/linux/": [
     "de",
     "en-US",
     "pt-BR",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/desktop/mac/": [
     "de",
     "en-US",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/desktop/windows/": [
     "de",
     "en-US",
     "ka",
     "sv-SE",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/invite/": [
     "cy",
@@ -8210,8 +8214,10 @@
   "/products/vpn/mobile/": [
     "de",
     "en-US",
+    "ka",
     "sv-SE",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/mobile/android/": [
     "de",
@@ -8219,13 +8225,15 @@
     "ka",
     "nl",
     "sv-SE",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/products/vpn/mobile/ios/": [
     "de",
     "en-US",
     "ka",
-    "uk"
+    "uk",
+    "vi"
   ],
   "/security/": [
     "en-US"
