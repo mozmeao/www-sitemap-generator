@@ -3666,12 +3666,12 @@
     "etag": "\"c7a8fcdc21de96bb4da7d1e0d2fdca33\""
   },
   "https://www.mozilla.org/de/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"f869363e34316b386bc0e4f8d53992d1\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"ae2a9deaef52aba908b4ca7eb6742500\""
   },
   "https://www.mozilla.org/de/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"45fe907f3b4a6bb80b8284061e2de47c\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"39c6b4ef6e3b1d0343cee274ab11691c\""
   },
   "https://www.mozilla.org/de/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -3686,8 +3686,8 @@
     "etag": "\"cdb93fafbba1bee0616c0a1e2d147e2f\""
   },
   "https://www.mozilla.org/de/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"460bf14e91561950ce6d7f9b8383e97f\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"635fbdb92bb6fcd0199d26b665e71be1\""
   },
   "https://www.mozilla.org/de/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -4644,12 +4644,12 @@
     "etag": "\"35a6d6d3a4711f981e5aa8710be567ea\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"b8bcc5a7236c43566cc43a229d0cc670\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"2a0ac61a6f315157ee13d190380ee12a\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"de8bff5d6ee7a8ef6c0adbfd8956df5a\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"21ed0fd35f0d914a2d9653aec6cd4841\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -4660,8 +4660,8 @@
     "etag": "\"ea8466d3b91406eb73f0e64148d89cf5\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"605eee3f13309e3b74e6a385dffbfb7d\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"7548bc82ce5bd9124d89f653b0ce9406\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -11773,12 +11773,12 @@
     "etag": "\"1d91d3462ea031bcea7734c0e872b49e\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"04f41697d9340d42fca45fc65cdea248\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"d337978120f7e1379aefa18a98e020fb\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"dfc9944b6c67d8ade37f5fa939130f80\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"4aafa9fa3e1a8b0c29c5c5da3dc871d9\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -11793,8 +11793,8 @@
     "etag": "\"ef3dffd718d8d1091d648cbed6007bd8\""
   },
   "https://www.mozilla.org/en-US/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"3878d9c50cfe8716b0706e748771a1c7\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"db293e12ad86974c0fa88aa96ae48c80\""
   },
   "https://www.mozilla.org/en-US/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -23092,9 +23092,21 @@
     "date": "2021-04-02T00:07:11.335505+00:00",
     "etag": "\"78898785d34690314bec525cb34e9757\""
   },
+  "https://www.mozilla.org/it/products/vpn/desktop/": {
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"e41ea9455a1d2df5a8e204de21bc1944\""
+  },
+  "https://www.mozilla.org/it/products/vpn/desktop/linux/": {
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"91a08cc9b3a45d3e8f7e80cab182bdf1\""
+  },
   "https://www.mozilla.org/it/products/vpn/invite/": {
     "date": "2021-04-01T18:05:58.054133+00:00",
     "etag": "\"742a3abf0007bfe6e91302ea311eb356\""
+  },
+  "https://www.mozilla.org/it/products/vpn/mobile/": {
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"a40499ea59528d51dd802b90ae90205f\""
   },
   "https://www.mozilla.org/it/technology/": {
     "date": "2018-08-15T18:00:19.268331+00:00",
@@ -23689,8 +23701,8 @@
     "etag": "\"de5189540123ce699cca2da361efbba0\""
   },
   "https://www.mozilla.org/ka/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"a278a0a96921fcc0da4ac9bcb496a5de\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"a56b7ade51f3b776ef3100126f69a785\""
   },
   "https://www.mozilla.org/ka/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -26267,16 +26279,16 @@
     "etag": "\"7104f12f58f3b3ee11b1985dc39c8181\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"7ceb761af8fe6b37681e3af73062ce9c\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"018646f9fb3958e2f4a103c73bb3f35d\""
   },
   "https://www.mozilla.org/nl/products/vpn/invite/": {
     "date": "2021-04-01T18:05:58.054133+00:00",
     "etag": "\"d115ea71b4e9488468e89cd7cb4d2be0\""
   },
   "https://www.mozilla.org/nl/products/vpn/mobile/android/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"551707507496fe89c8de83c0da8a7e7f\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"daa2ea9f68ff28e5acea880071678c72\""
   },
   "https://www.mozilla.org/nl/technology/": {
     "date": "2018-08-15T18:00:20.252400+00:00",
@@ -27501,8 +27513,8 @@
     "etag": "\"220ec2123b5251b9a7c87502d29e21f9\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"fda8941c3c1f135444ecadeb66d282b6\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"0bf2d434a3216d14c4c4cf99e821942b\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/invite/": {
     "date": "2021-04-01T18:05:58.054133+00:00",
@@ -30213,12 +30225,12 @@
     "etag": "\"193575bf806dce31ba2bf6d171f74c0a\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"0022de1f4c4e8614434ebfd0b59b17aa\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"e304a97df12e8a99fb602155dc3163c8\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"f6b97b5f58718220de2945854da8eed7\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"808531396a323fb58c0e6fd3af437737\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -30233,8 +30245,8 @@
     "etag": "\"9f72c9154061068e5bb6df1d813f12c9\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"8d5794a3e495297754432cc3802bc213\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"7c7936363f4a47db401beeccd6caaac1\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -31515,12 +31527,12 @@
     "etag": "\"52da402ea66f468e449ba5956e3748c9\""
   },
   "https://www.mozilla.org/uk/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"0653ab4a643babf7c81359e6a4a8080b\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"a02a06d0f28a5871b6ea2b7bfe83c35e\""
   },
   "https://www.mozilla.org/uk/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"baba5251b721d4b49caa736ccece68c0\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"837abd2eae669eb9806e839760d74645\""
   },
   "https://www.mozilla.org/uk/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -31535,8 +31547,8 @@
     "etag": "\"f470c054cf94384f50430bbbf5da2b99\""
   },
   "https://www.mozilla.org/uk/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"964ba5b789536738304cdd198b502b55\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"7c1d67f1dc445148be9f4538d783124a\""
   },
   "https://www.mozilla.org/uk/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -32079,12 +32091,12 @@
     "etag": "\"caf78fe8a3d48d7f8e736001c06e2f57\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"71c08f74cc8a82638cea750738635df2\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"8df1efe70ab80d36d1504bb797ad9c05\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/linux/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"d3aded38acd0fddbfb8421b69e1ed1f7\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"3e3f861976aa5f3b22764ec8101dbbc5\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/mac/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -32099,8 +32111,8 @@
     "etag": "\"4a068b09f2fb6a415c18619258bdee55\""
   },
   "https://www.mozilla.org/vi/products/vpn/mobile/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"2e19440691dbde81135d94c06a061fd1\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"ae0970c8e8ae52bb1fde46d62e210ddd\""
   },
   "https://www.mozilla.org/vi/products/vpn/mobile/android/": {
     "date": "2021-04-04T06:07:11.398271+00:00",
@@ -32553,8 +32565,8 @@
     "etag": "\"6f126d0e033ff80788eba55f448f909e\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/windows/": {
-    "date": "2021-04-04T06:07:11.398271+00:00",
-    "etag": "\"13151901895ecdac1b044116f0802984\""
+    "date": "2021-04-04T12:05:47.236033+00:00",
+    "etag": "\"e372007d0bc72e10fbb249b788886f5b\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/invite/": {
     "date": "2021-04-01T18:05:58.054133+00:00",
