@@ -8163,6 +8163,7 @@
   "/products/vpn/desktop/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
     "it",
     "nl",
@@ -8173,6 +8174,7 @@
   "/products/vpn/desktop/linux/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
     "it",
     "pt-BR",
@@ -8183,6 +8185,7 @@
   "/products/vpn/desktop/mac/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
     "sv-SE",
     "uk",
@@ -8190,6 +8193,7 @@
   ],
   "/products/vpn/desktop/windows/": [
     "de",
+    "en-GB",
     "en-US",
     "ka",
     "sv-SE",
@@ -8222,6 +8226,7 @@
   "/products/vpn/mobile/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
     "it",
     "ka",
@@ -8232,7 +8237,9 @@
   "/products/vpn/mobile/android/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
+    "es-AR",
     "ka",
     "nl",
     "sv-SE",
@@ -8242,6 +8249,7 @@
   "/products/vpn/mobile/ios/": [
     "de",
     "en-CA",
+    "en-GB",
     "en-US",
     "ka",
     "sv-SE",
