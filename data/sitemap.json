@@ -4534,6 +4534,7 @@
     "da",
     "de",
     "dsb",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -4750,6 +4751,7 @@
     "cs",
     "cy",
     "de",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -8142,6 +8144,7 @@
   "/products/vpn/": [
     "cy",
     "de",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -8180,6 +8183,7 @@
     "zh-CN"
   ],
   "/products/vpn/desktop/linux/": [
+    "cy",
     "de",
     "en-CA",
     "en-GB",
@@ -8221,6 +8225,7 @@
   "/products/vpn/invite/": [
     "cy",
     "de",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -8271,6 +8276,7 @@
     "vi"
   ],
   "/products/vpn/mobile/ios/": [
+    "cy",
     "de",
     "en-CA",
     "en-GB",
