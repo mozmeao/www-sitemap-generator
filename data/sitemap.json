@@ -8144,6 +8144,7 @@
   "/products/vpn/": [
     "cy",
     "de",
+    "dsb",
     "el",
     "en-CA",
     "en-GB",
@@ -8202,6 +8203,7 @@
     "en-CA",
     "en-GB",
     "en-US",
+    "it",
     "nl",
     "pt-BR",
     "sq",
@@ -8214,6 +8216,7 @@
     "en-CA",
     "en-GB",
     "en-US",
+    "it",
     "ka",
     "nl",
     "sq",
@@ -8225,6 +8228,7 @@
   "/products/vpn/invite/": [
     "cy",
     "de",
+    "dsb",
     "el",
     "en-CA",
     "en-GB",
@@ -8258,7 +8262,8 @@
     "sq",
     "sv-SE",
     "uk",
-    "vi"
+    "vi",
+    "zh-CN"
   ],
   "/products/vpn/mobile/android/": [
     "cy",
@@ -8267,6 +8272,7 @@
     "en-GB",
     "en-US",
     "es-AR",
+    "it",
     "ka",
     "nl",
     "pt-BR",
@@ -8281,6 +8287,7 @@
     "en-CA",
     "en-GB",
     "en-US",
+    "it",
     "ka",
     "nl",
     "pt-BR",
