@@ -28,6 +28,7 @@ IGNORE = [
     "/press/speakerrequest/$",
     "/press/press-inquiry/$",
     "/about/legal/fraud-report/$",
+    "/about/legal/defend-mozilla-trademarks/$",
     "/contribute/",
     "/prometheus/",
 ]
