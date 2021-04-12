@@ -316,6 +316,7 @@
     "ro",
     "ru",
     "sk",
+    "sl",
     "son",
     "sq",
     "sv-SE",
@@ -384,6 +385,9 @@
     "tr",
     "zh-CN"
   ],
+  "/about/legal/defend-mozilla-trademarks/": [
+    "en-US"
+  ],
   "/about/legal/eula/": [
     "en-US"
   ],
@@ -400,9 +404,6 @@
     "en-US"
   ],
   "/about/legal/firefox/": [
-    "en-US"
-  ],
-  "/about/legal/fraud-report/": [
     "en-US"
   ],
   "/about/legal/impressum/": [
@@ -8189,6 +8190,7 @@
     "en-CA",
     "en-GB",
     "en-US",
+    "es-AR",
     "ia",
     "it",
     "nl",
@@ -8196,29 +8198,36 @@
     "sq",
     "sv-SE",
     "uk",
-    "vi"
+    "vi",
+    "zh-CN"
   ],
   "/products/vpn/desktop/mac/": [
+    "cy",
     "de",
     "en-CA",
     "en-GB",
     "en-US",
+    "es-AR",
     "it",
     "nl",
     "pt-BR",
     "sq",
     "sv-SE",
     "uk",
-    "vi"
+    "vi",
+    "zh-CN"
   ],
   "/products/vpn/desktop/windows/": [
+    "cy",
     "de",
     "en-CA",
     "en-GB",
     "en-US",
+    "es-AR",
     "it",
     "ka",
     "nl",
+    "pt-BR",
     "sq",
     "sv-SE",
     "uk",
@@ -8252,20 +8261,6 @@
     "zh-TW"
   ],
   "/products/vpn/mobile/": [
-    "de",
-    "en-CA",
-    "en-GB",
-    "en-US",
-    "it",
-    "ka",
-    "nl",
-    "sq",
-    "sv-SE",
-    "uk",
-    "vi",
-    "zh-CN"
-  ],
-  "/products/vpn/mobile/android/": [
     "cy",
     "de",
     "en-CA",
@@ -8279,14 +8274,17 @@
     "sq",
     "sv-SE",
     "uk",
-    "vi"
+    "vi",
+    "zh-CN"
   ],
-  "/products/vpn/mobile/ios/": [
+  "/products/vpn/mobile/android/": [
     "cy",
     "de",
     "en-CA",
     "en-GB",
     "en-US",
+    "es-AR",
+    "hu",
     "it",
     "ka",
     "nl",
@@ -8294,7 +8292,25 @@
     "sq",
     "sv-SE",
     "uk",
-    "vi"
+    "vi",
+    "zh-CN"
+  ],
+  "/products/vpn/mobile/ios/": [
+    "cy",
+    "de",
+    "en-CA",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "it",
+    "ka",
+    "nl",
+    "pt-BR",
+    "sq",
+    "sv-SE",
+    "uk",
+    "vi",
+    "zh-CN"
   ],
   "/security/": [
     "en-US"
@@ -11858,6 +11874,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-12/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-13/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
