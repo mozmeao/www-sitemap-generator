@@ -9139,8 +9139,8 @@
     "etag": "\"17e921c933cb47389efcbee72d14e85d\""
   },
   "https://www.mozilla.org/en-US/firefox/86.0/releasenotes/": {
-    "date": "2021-04-12T21:37:19.548464+00:00",
-    "etag": "\"5e0b4f0414723cf250f837b4a448e886\""
+    "date": "2021-04-14T18:05:59.811939+00:00",
+    "etag": "\"59a9e6e35dd6c20c8d91e68444d018b6\""
   },
   "https://www.mozilla.org/en-US/firefox/86.0/system-requirements/": {
     "date": "2021-03-25T15:35:40.283450+00:00",
@@ -9163,8 +9163,8 @@
     "etag": "\"410567cf61a7dcfbf091b5c271d3bbd9\""
   },
   "https://www.mozilla.org/en-US/firefox/87.0/releasenotes/": {
-    "date": "2021-04-12T21:37:19.548464+00:00",
-    "etag": "\"96e526578a1a8d6f7fe63f6c2dd5fcfa\""
+    "date": "2021-04-14T18:05:59.811939+00:00",
+    "etag": "\"767f30bd2aa7623222e286ac739272f8\""
   },
   "https://www.mozilla.org/en-US/firefox/87.0/system-requirements/": {
     "date": "2021-03-25T15:35:40.283450+00:00",
@@ -10733,6 +10733,14 @@
   "https://www.mozilla.org/en-US/firefox/android/86.0/system-requirements/": {
     "date": "2021-03-25T15:35:40.283450+00:00",
     "etag": "\"db41d1c30699f809804250660e24efca\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/87.0/releasenotes/": {
+    "date": "2021-04-14T18:05:59.811939+00:00",
+    "etag": "\"3ca67f213304a1db2443d5b47f8d10db\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/87.0/system-requirements/": {
+    "date": "2021-04-14T18:05:59.811939+00:00",
+    "etag": "\"4e995a35ca6a7df7b43254d21357b088\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/": {
     "date": "2021-03-25T15:35:40.283450+00:00",
@@ -30799,8 +30807,8 @@
     "etag": "\"6bd4ae992dfa401e8b7dc6a8f53547d0\""
   },
   "https://www.mozilla.org/th/about/manifesto/details/": {
-    "date": "2021-03-31T12:07:42.582542+00:00",
-    "etag": "\"a87a6435a2f267ad6f70336f00a099f6\""
+    "date": "2021-04-14T18:05:59.811939+00:00",
+    "etag": "\"d0e6edd8561eb678bf3eba6956fe2710\""
   },
   "https://www.mozilla.org/th/firefox/": {
     "date": "2021-03-25T15:35:40.283450+00:00",
