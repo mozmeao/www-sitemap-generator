@@ -309,6 +309,7 @@
     "km",
     "ko",
     "lt",
+    "ms",
     "nl",
     "nn-NO",
     "pa-IN",
@@ -821,6 +822,7 @@
     "ko",
     "lt",
     "mr",
+    "ms",
     "my",
     "nb-NO",
     "nl",
@@ -3314,6 +3316,7 @@
     "ko",
     "lt",
     "mr",
+    "ms",
     "my",
     "nb-NO",
     "nl",
@@ -5512,6 +5515,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5563,6 +5567,7 @@
     "ko",
     "lt",
     "mr",
+    "ms",
     "my",
     "nl",
     "pl",
@@ -5609,6 +5614,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5658,6 +5664,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5707,6 +5714,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5756,6 +5764,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5805,6 +5814,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5854,6 +5864,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5903,6 +5914,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -5952,6 +5964,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -6004,6 +6017,7 @@
     "ka",
     "kab",
     "ko",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -6185,6 +6199,7 @@
     "kab",
     "ko",
     "lt",
+    "ms",
     "my",
     "nb-NO",
     "nl",
@@ -6289,6 +6304,7 @@
     "kab",
     "ko",
     "lt",
+    "ms",
     "my",
     "nb-NO",
     "nl",
@@ -6515,6 +6531,7 @@
     "lij",
     "lt",
     "mr",
+    "ms",
     "nb-NO",
     "nl",
     "nn-NO",
@@ -7237,6 +7254,7 @@
     "kab",
     "ko",
     "lt",
+    "ms",
     "my",
     "nb-NO",
     "nl",
@@ -8154,6 +8172,7 @@
     "zh-TW"
   ],
   "/products/vpn/": [
+    "ar",
     "cy",
     "de",
     "dsb",
@@ -8180,6 +8199,7 @@
     "zh-TW"
   ],
   "/products/vpn/desktop/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8196,6 +8216,7 @@
     "zh-CN"
   ],
   "/products/vpn/desktop/linux/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8213,6 +8234,7 @@
     "zh-CN"
   ],
   "/products/vpn/desktop/mac/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8229,6 +8251,7 @@
     "zh-CN"
   ],
   "/products/vpn/desktop/windows/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8246,6 +8269,7 @@
     "zh-CN"
   ],
   "/products/vpn/invite/": [
+    "ar",
     "cy",
     "de",
     "dsb",
@@ -8272,6 +8296,7 @@
     "zh-TW"
   ],
   "/products/vpn/mobile/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8289,6 +8314,7 @@
     "zh-CN"
   ],
   "/products/vpn/mobile/android/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
@@ -8307,6 +8333,7 @@
     "zh-CN"
   ],
   "/products/vpn/mobile/ios/": [
+    "ar",
     "cy",
     "de",
     "en-CA",
