@@ -2957,6 +2957,12 @@
   "/firefox/78.1.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.10.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.10.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/78.2.0/releasenotes/": [
     "en-US"
   ],
@@ -3255,6 +3261,12 @@
     "en-US"
   ],
   "/firefox/87.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/88.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/88.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/88.0a1/releasenotes/": [
@@ -4481,6 +4493,12 @@
     "en-US"
   ],
   "/firefox/android/87.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/88.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/88.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/browsers/": [
@@ -11947,6 +11965,15 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-13/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-14/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-15/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-16/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
