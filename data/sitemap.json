@@ -119,6 +119,7 @@
     "en-US"
   ],
   "/about/": [
+    "ar",
     "be",
     "bs",
     "cak",
@@ -145,6 +146,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "kab",
     "lt",
@@ -340,6 +342,7 @@
     "en-US"
   ],
   "/about/legal/": [
+    "ar",
     "cs",
     "cy",
     "de",
@@ -359,6 +362,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "ms",
     "nl",
@@ -760,6 +764,7 @@
     "en-US"
   ],
   "/contribute/": [
+    "ar",
     "cak",
     "cy",
     "de",
@@ -781,6 +786,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "ms",
     "nb-NO",
@@ -4551,6 +4557,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "kab",
     "kk",
@@ -4648,6 +4655,7 @@
     "nl",
     "pt-BR",
     "pt-PT",
+    "rm",
     "ru",
     "sq",
     "sv-SE",
@@ -6732,6 +6740,8 @@
     "en-US",
     "fr",
     "hi-IN",
+    "id",
+    "ja",
     "ms"
   ],
   "/firefox/privacy/products/": [
@@ -6912,6 +6922,7 @@
     "ia",
     "id",
     "it",
+    "ja",
     "ka",
     "kab",
     "ko",
