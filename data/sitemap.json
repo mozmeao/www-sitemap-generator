@@ -2984,6 +2984,12 @@
   "/firefox/78.10.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.10.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.10.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/78.2.0/releasenotes/": [
     "en-US"
   ],
@@ -6766,6 +6772,7 @@
     "zh-TW"
   ],
   "/firefox/privacy/book/": [
+    "ar",
     "de",
     "en-US",
     "fr",
@@ -6926,6 +6933,7 @@
     "en-US"
   ],
   "/firefox/set-as-default/": [
+    "ar",
     "be",
     "bg",
     "cak",
@@ -8088,6 +8096,7 @@
     "en-US"
   ],
   "/privacy/faq/": [
+    "ar",
     "az",
     "be",
     "bs",
@@ -8255,6 +8264,7 @@
   ],
   "/privacy/principles/": [
     "an",
+    "ar",
     "ast",
     "az",
     "be",
@@ -12178,6 +12188,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-17/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-18/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-19/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
