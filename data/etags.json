@@ -12117,8 +12117,8 @@
     "etag": "\"3a4c6d5b9fe854b6465a38d2939c6dcb\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2021-05-13T18:07:34.964467+00:00",
-    "etag": "\"43ebeddccc307eab387e0f8bf5857a90\""
+    "date": "2021-05-18T00:06:00.089801+00:00",
+    "etag": "\"2e423d7eafb8abf2e734222d7abcb759\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2021-05-13T18:07:34.964467+00:00",
@@ -16389,8 +16389,8 @@
     "etag": "\"5ea44e4ba75bb49ed920ecdafc09208f\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2021-05-13T18:07:34.964467+00:00",
-    "etag": "\"cba9547df0b23a58a533cff538e6ce2e\""
+    "date": "2021-05-18T00:06:00.089801+00:00",
+    "etag": "\"d8feff2f89aea1481a073f32cb8f0a6a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2021-05-13T18:07:34.964467+00:00",
@@ -16900,6 +16900,10 @@
     "date": "2021-05-13T18:07:34.964467+00:00",
     "etag": "\"c39c84bc3b00e37aed13ed86c09fa821\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2021-22/": {
+    "date": "2021-05-18T00:06:00.089801+00:00",
+    "etag": "\"4b1b3db80c0eea245236746e8b2ffe0f\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2021-05-13T18:07:34.964467+00:00",
     "etag": "\"fd1f362a46f23dbd71d11ee6367465a8\""
@@ -17017,8 +17021,8 @@
     "etag": "\"9da27dd4de987cc953defd76cd18370e\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2021-05-13T18:07:34.964467+00:00",
-    "etag": "\"51ef12dde9eeda8d78c0ebcf23e0f402\""
+    "date": "2021-05-18T00:06:00.089801+00:00",
+    "etag": "\"794e477467348516ec1b7bb643c1fb7c\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2021-05-13T18:07:34.964467+00:00",
