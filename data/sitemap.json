@@ -3326,6 +3326,12 @@
   "/firefox/88.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/89.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/89.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/89.0/releasenotes/": [
     "en-US"
   ],
@@ -12326,6 +12332,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-26/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-27/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
