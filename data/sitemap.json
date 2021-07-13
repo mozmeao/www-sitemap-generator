@@ -3013,6 +3013,12 @@
   "/firefox/78.11.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/78.12.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/78.12.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/78.2.0/releasenotes/": [
     "en-US"
   ],
@@ -3367,6 +3373,12 @@
   "/firefox/89.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/90.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/90.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/90.0a1/releasenotes/": [
     "en-US"
   ],
@@ -3383,6 +3395,12 @@
     "en-US"
   ],
   "/firefox/91.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/91.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/92.0a1/releasenotes/": [
@@ -4610,6 +4628,12 @@
     "en-US"
   ],
   "/firefox/android/89.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/90.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/90.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/browsers/": [
@@ -6621,9 +6645,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/firefox/mobile-promo/": [
-    "en-US"
-  ],
   "/firefox/mobile/": [
     "ar",
     "be",
@@ -6869,12 +6890,6 @@
     "zh-TW"
   ],
   "/firefox/pocket/": [
-    "en-US"
-  ],
-  "/firefox/privacy-by-default/": [
-    "en-US"
-  ],
-  "/firefox/privacy-tools/": [
     "en-US"
   ],
   "/firefox/privacy/": [
@@ -12446,6 +12461,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-27/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-28/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-29/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
