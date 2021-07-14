@@ -318,8 +318,8 @@
     "etag": "\"a83ae69527d19cc44f6d34b56aae0d4c\""
   },
   "https://www.mozilla.org/ar/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"e29a94dadff925d643c50679b5f09467\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"4c82d67d4f477d41d5f8a38613b92b25\""
   },
   "https://www.mozilla.org/ar/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -2524,8 +2524,8 @@
     "etag": "\"6048010bbd083fbc5628b00ec14642d7\""
   },
   "https://www.mozilla.org/cs/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"de1bc98d323555ead5e874ccc9476463\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"0a3754b9ead1e6945013f4a2f69500fa\""
   },
   "https://www.mozilla.org/cs/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -2882,8 +2882,8 @@
     "etag": "\"868c743f7f0460f15998c6f0273b578a\""
   },
   "https://www.mozilla.org/cy/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"486315692b032845ff4e0d1885f091f6\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"da4f7a580ad1b3cc56444dd26a1665aa\""
   },
   "https://www.mozilla.org/cy/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -4300,8 +4300,8 @@
     "etag": "\"7e4232a8f891a25e796ac1e9085f8591\""
   },
   "https://www.mozilla.org/el/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"692b94e63096c6c23831503bea96ace4\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"45da9ef9bebed05ecb9f897101875dbc\""
   },
   "https://www.mozilla.org/el/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -5088,8 +5088,8 @@
     "etag": "\"579b92c45334f6171f74641c0c262363\""
   },
   "https://www.mozilla.org/en-GB/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"495a319422a7664b8aeee3e929692273\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"2fb16da0fd7be9dc5262dcd155e2a229\""
   },
   "https://www.mozilla.org/en-GB/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -5494,8 +5494,8 @@
     "etag": "\"8e0f56ef3e606cb1a6427e91448740f4\""
   },
   "https://www.mozilla.org/en-US/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"d0169205a2d14ad2eff328303d09f6c2\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"d254820fa853836fee1e50167fc5f4ea\""
   },
   "https://www.mozilla.org/en-US/ITU/": {
     "date": "2018-08-15T03:29:18.987358+00:00",
@@ -12433,8 +12433,8 @@
     "etag": "\"0b1c4a39575e1af626fbff25fe012d19\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"d207c1574b2fcd0fe8ebef560caf9b08\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"b362afa5184a36bea07f14daf7425084\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -17248,6 +17248,10 @@
     "date": "2021-07-13T18:03:06.419306+00:00",
     "etag": "\"fb5477a92ffb97f20f4bd08d7895050a\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2021-30/": {
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"3cbfd4acbaa48d44b516804eab95c735\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
     "etag": "\"2b2f5327349bffac1d4621ae4be1b9d8\""
@@ -17365,8 +17369,8 @@
     "etag": "\"d7f3fab457869c740e353d9390d6982e\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"f33c66c8a3f0544757fc6cbab5932104\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"1a4245fe979bec008be13edff520d107\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -17935,8 +17939,8 @@
     "etag": "\"384e300fb0318af81414f37f2148b421\""
   },
   "https://www.mozilla.org/es-CL/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"9016be3f569cd632fad87ad056b7272b\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"68c202565a42c8b368016ae4d9e5ec5e\""
   },
   "https://www.mozilla.org/es-CL/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -18337,8 +18341,8 @@
     "etag": "\"0ced1d75860a10d1c005108cf6199292\""
   },
   "https://www.mozilla.org/es-ES/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"552488df589c7edfe2dc2d6ab0eb8ec6\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"f5ccb77cc46d53367429ecc6c90c3b34\""
   },
   "https://www.mozilla.org/es-ES/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -18795,8 +18799,8 @@
     "etag": "\"6d2882c9677c126a4537da03052fab8e\""
   },
   "https://www.mozilla.org/es-MX/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"24bc028316721f642ec1d20fecc42ff6\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"a0757470f6437a29460368fcd6971ec2\""
   },
   "https://www.mozilla.org/es-MX/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -21199,8 +21203,8 @@
     "etag": "\"247ab108ec5a058b5eaa92f84550e270\""
   },
   "https://www.mozilla.org/gn/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"6c8908aed84929938fc2c8e4ddc21d0e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"58ce8e01f916ffeb0bd7db7a4d4bb403\""
   },
   "https://www.mozilla.org/gn/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -21315,8 +21319,8 @@
     "etag": "\"41d82c722a16551d49eaccfb3fed4247\""
   },
   "https://www.mozilla.org/gn/firefox/faq/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"de79a0927e50b854482c4a59f054105d\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"86d75658334b639ab918ba2a8ff97565\""
   },
   "https://www.mozilla.org/gn/firefox/features/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -21799,8 +21803,8 @@
     "etag": "\"4d44d111d9c1d05e7f983eb455652f6d\""
   },
   "https://www.mozilla.org/hi-IN/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"ccd78dab474c1c672820d1913bfbce04\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"5c87e789abcbac3f7ae6d7ee8f1d70ff\""
   },
   "https://www.mozilla.org/hi-IN/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -22711,8 +22715,8 @@
     "etag": "\"dbcaa197ca1c8ee361354671336a382b\""
   },
   "https://www.mozilla.org/hu/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"5440bac50abcc3121e7f723799c6604e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"1bc5af5d7ab7dff5ed60b8db5671b761\""
   },
   "https://www.mozilla.org/hu/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -23263,8 +23267,8 @@
     "etag": "\"bb50829d1039eea06e9a983494e6a9d4\""
   },
   "https://www.mozilla.org/ia/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"70dda1ef143a5d15eb79c666833e7bab\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"6eb5a65caae83511ab2dbc67be32f8c8\""
   },
   "https://www.mozilla.org/ia/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -23641,8 +23645,8 @@
     "etag": "\"c7bdb78704317e74f792775a368b2476\""
   },
   "https://www.mozilla.org/id/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"808d21c275416b15da6505fcf34ffb31\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"72e76933be6596bceb78681285fcf477\""
   },
   "https://www.mozilla.org/id/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -24629,8 +24633,8 @@
     "etag": "\"850d3e5a61eec54fc112bef4d8623abf\""
   },
   "https://www.mozilla.org/ja/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"4729155b975eb99c4d295afda0fbae7b\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"426754fd39dc9238d378b494e7287453\""
   },
   "https://www.mozilla.org/ja/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -25085,8 +25089,8 @@
     "etag": "\"393ac268054aebec72e203b493d0c477\""
   },
   "https://www.mozilla.org/ka/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"ae98b6819dfc127b7709edc4dec64b17\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"df1a5d43ecc3cfc1da9e35eec0a2fa46\""
   },
   "https://www.mozilla.org/ka/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -25947,8 +25951,8 @@
     "etag": "\"966155e6d473dea270c577c218be31cd\""
   },
   "https://www.mozilla.org/ko/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"d747edf537352177be495100a6cb1b83\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"bc20e4b936e8a2a21b2e746aa8bdf73e\""
   },
   "https://www.mozilla.org/ko/about/": {
     "date": "2018-08-15T03:30:07.783812+00:00",
@@ -27111,8 +27115,8 @@
     "etag": "\"8c0162c4cfed5dfcb2d04497996c9ecb\""
   },
   "https://www.mozilla.org/ms/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8217abc810c7d5056bb5cbd9a743316a\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"52e1a86f02a7e7ce648de8f743332468\""
   },
   "https://www.mozilla.org/ms/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -27945,8 +27949,8 @@
     "etag": "\"0d78f68dcb31b203b18386def27a5e69\""
   },
   "https://www.mozilla.org/nl/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"038ee61ca71f3addc498b6183670b0b8\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"5b93b0c79b8d6c9497d73c2df42e67dd\""
   },
   "https://www.mozilla.org/nl/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -28371,8 +28375,8 @@
     "etag": "\"b2f1cb7e46049ee214f24d117ac0dcac\""
   },
   "https://www.mozilla.org/nn-NO/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"0d5a2fe1eb4205dbd298ad2f05d0a36f\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"a4a50fb32acd5379a9d76b2df7b78a69\""
   },
   "https://www.mozilla.org/nn-NO/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -28697,8 +28701,8 @@
     "etag": "\"5db1b56718462dbdaee4fdc282232cfd\""
   },
   "https://www.mozilla.org/pa-IN/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"780b8477e51feadca6b543e871412bd4\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"8325b5612be8cd730c3c8f835632fc9d\""
   },
   "https://www.mozilla.org/pa-IN/about/": {
     "date": "2018-08-15T03:30:04.072951+00:00",
@@ -28881,8 +28885,8 @@
     "etag": "\"38a49d1e185714b997d15a0f78f84754\""
   },
   "https://www.mozilla.org/pl/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"e56f0e7f3e5641b64371d6ff52c2ef72\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"90227450fbfadd5bc7150c642b760c2b\""
   },
   "https://www.mozilla.org/pl/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -29211,8 +29215,8 @@
     "etag": "\"071ae5bebb3f279f9309b63ffe416060\""
   },
   "https://www.mozilla.org/pt-BR/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"bec10dbc03a0955572be8a98e8889d3a\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"e006a17699a752c15caefe808fa576e7\""
   },
   "https://www.mozilla.org/pt-BR/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -29673,8 +29677,8 @@
     "etag": "\"606ea515d489abe410a48a83f75bd2f9\""
   },
   "https://www.mozilla.org/pt-PT/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"e6ce0329e32843a0c6f0de9a5e5f163b\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"db594a48aec1ee9b2077f86107c78c81\""
   },
   "https://www.mozilla.org/pt-PT/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -29971,8 +29975,8 @@
     "etag": "\"30478942b2e66ada4753a6ba346e6db5\""
   },
   "https://www.mozilla.org/rm/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"36e6fdc644866be0265f26b8fdf0a85d\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"2a4e61af912e68adcf5a48d0c803c9ef\""
   },
   "https://www.mozilla.org/rm/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -30213,12 +30217,12 @@
   "https://www.mozilla.org/ro/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/ro/contribute/task/stumbler/": {},
   "https://www.mozilla.org/ro/firefox/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"6bb02a9d74cb51911e94c2360ba4684e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"92f0e0739aef1dbb77af49c8eece6163\""
   },
   "https://www.mozilla.org/ro/firefox/accounts/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"72b3e2ac80efd4c6f1e4c5fff0365438\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"7e1b2f378051a5462fd92b3b7ad6d63e\""
   },
   "https://www.mozilla.org/ro/firefox/all/": {
     "date": "2018-08-15T03:29:04.968144+00:00",
@@ -30261,8 +30265,8 @@
     "etag": "\"a03b1518e27ef483703b3da922c26541\""
   },
   "https://www.mozilla.org/ro/firefox/browsers/windows-64-bit/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"ee503fdaa91bddf4c791bd65e518ce96\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"e8b7591f0577dff943c26b7373d52bc2\""
   },
   "https://www.mozilla.org/ro/firefox/campaign/": {
     "date": "2020-09-12T18:08:59.950638+00:00",
@@ -30285,12 +30289,12 @@
     "etag": "\"402a9b37f5c9949274f49508639138d2\""
   },
   "https://www.mozilla.org/ro/firefox/enterprise/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8478da6216a7428cdd6b45efcff59fd3\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"cef03160ac21d9adc2aefd3cda374004\""
   },
   "https://www.mozilla.org/ro/firefox/facebookcontainer/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"4c9152a9f716855dda80f77a27ee1584\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"790d1be75238d0909f51ea55e7b3a348\""
   },
   "https://www.mozilla.org/ro/firefox/features/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -30317,12 +30321,12 @@
     "etag": "\"5b7915cd2504c8931c3a089c96f56580\""
   },
   "https://www.mozilla.org/ro/firefox/features/memory/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"efcb84962b8480f17f4c6e3625f8e3f8\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"f28a3e47c09618305456d5b25ff8ed38\""
   },
   "https://www.mozilla.org/ro/firefox/features/password-manager/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"3d78ad2cbe36a9c745c361eec3589612\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"d65405c198d0340bf469f707203a833b\""
   },
   "https://www.mozilla.org/ro/firefox/features/picture-in-picture/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -30349,8 +30353,8 @@
     "etag": "\"01e6f60f158f1184d020bdf59f3699c0\""
   },
   "https://www.mozilla.org/ro/firefox/linux": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"6b141f075c4bbdc804b227068219b712\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"3d0c3e5f8af63095af4aa3393db69ac8\""
   },
   "https://www.mozilla.org/ro/firefox/linux/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -30361,8 +30365,8 @@
     "etag": "\"5a196d7228506a60f91abe55220cee52\""
   },
   "https://www.mozilla.org/ro/firefox/mac": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8f2b2e65bee1ca11edd134f37052e10e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"1ccd51650ef6f165e03afe8b71b0da3a\""
   },
   "https://www.mozilla.org/ro/firefox/mac/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -30373,24 +30377,24 @@
     "etag": "\"88e29fce4e062a947b93b6d0fff97e51\""
   },
   "https://www.mozilla.org/ro/firefox/mobile/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"926f7c468d912deb4a221a1f66c650cb\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"ac267090fcfbff7fae0ca8e116b64ffb\""
   },
   "https://www.mozilla.org/ro/firefox/mobile/get-app/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
     "etag": "\"278f3906e8f148cbae063662074266e8\""
   },
   "https://www.mozilla.org/ro/firefox/new/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"1886d3e5ac6c8a1db8b3b808365045b6\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"4a5ae64633b57006c0c2a2c6756b6d9b\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
     "etag": "\"8bc31e2ec19b1cde2cfef0d5b550b232\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/products/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8bcceb181ab38bf3593fbefe6eb2cf35\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"caf05f1938a39cee9e267992f8da065c\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/safe-passwords/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -30409,20 +30413,20 @@
     "etag": "\"cb439b366c66fe39b7b79230bbf832cb\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/africa/": {
-    "date": "2021-07-09T18:01:35.952036+00:00",
-    "etag": "\"bda088bcd431dcd9b7ced79a184158f0\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"aad04254e0925b74509bebfb12a1e8db\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/china/": {
-    "date": "2021-07-09T18:01:35.952036+00:00",
-    "etag": "\"da6e2a3d858f384a6dc081b70e6b576b\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"47775d4fa2d273372efc4ce2846ad766\""
   },
   "https://www.mozilla.org/ro/firefox/whatsnew/india/": {
-    "date": "2021-07-09T18:01:35.952036+00:00",
-    "etag": "\"e66c2d8670eafaa50318e23a2668f421\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"cc035121d68330ca1a957b7fc189476b\""
   },
   "https://www.mozilla.org/ro/firefox/windows": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"3dcb8452c05d38966db89acc59b55d11\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"90c334356b4cf372d9d11f7c11518808\""
   },
   "https://www.mozilla.org/ro/firefox/windows/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -30453,36 +30457,36 @@
     "etag": "\"2bfcf1f94f7d1971c8fc07b12e61b719\""
   },
   "https://www.mozilla.org/ro/privacy/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8788bc0a99f0835e40241c855e132831\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"f8f9e6b6e1be7fe12be6bb7ea6ab2d6b\""
   },
   "https://www.mozilla.org/ro/privacy/faq/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8005f412bf982f1e12f2ee0ed9650c68\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"9a79e5ce65bf7598da1aa951d029b65e\""
   },
   "https://www.mozilla.org/ro/privacy/firefox-os/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8a7f96719d3be1e60154172f1b351732\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"fb3c1eb98ec935ab82683bd1f588695e\""
   },
   "https://www.mozilla.org/ro/privacy/firefox/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"470821287957fb3a059a0794861b29d5\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"6543e8dd77b85c99ac677a96edb1d4d7\""
   },
   "https://www.mozilla.org/ro/privacy/principles/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"17e95e7f86ce6a2e05be5e1b35c1f92e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"c5d0d8db1e8d56b37dc804f633ed4ed2\""
   },
   "https://www.mozilla.org/ro/privacy/websites/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8e2901f9b81fc45b7973d1ee6d1be033\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"83ad1cf72931779abd8c8fdd3e71c0af\""
   },
   "https://www.mozilla.org/ro/technology/": {
     "date": "2018-08-15T18:00:20.781961+00:00",
     "etag": "\"faaa2c6e2ea03c0f725b7d6ec16c513e\""
   },
   "https://www.mozilla.org/ru/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"d62e56d38357248887827075367f362e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"feca00b468ff7a774a45a1786d48ea62\""
   },
   "https://www.mozilla.org/ru/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -30991,8 +30995,8 @@
     "etag": "\"c901c2b00fcba35987d01f5e812c133f\""
   },
   "https://www.mozilla.org/sk/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"31cda64c9f8ea5f1245f7da81675c919\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"1b92efb405d7b921329926ec6bb8eefe\""
   },
   "https://www.mozilla.org/sk/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -32283,8 +32287,8 @@
     "etag": "\"e5efe192dd5b7171b8f2509a7a4a2501\""
   },
   "https://www.mozilla.org/sv-SE/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"a77401fa556675cc9690d77c8ab63a8c\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"0c940e543fba514a4f6e5e34237d5bbb\""
   },
   "https://www.mozilla.org/sv-SE/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -32967,8 +32971,8 @@
     "etag": "\"ab84bbbf79a45624fee719cfc3ad7615\""
   },
   "https://www.mozilla.org/th/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"26528c3521e8f40e237fdf4a295f8f0e\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"7eead5d9b03d10843ff9cd14c3611fe1\""
   },
   "https://www.mozilla.org/th/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -33693,8 +33697,8 @@
     "etag": "\"2b6884254d56eaced745800ed7e456f4\""
   },
   "https://www.mozilla.org/uk/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"8ac447ceccbfe67287bc00ccc0b6c206\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"985ffdb544077e2869b31748a37f13f5\""
   },
   "https://www.mozilla.org/uk/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -34299,8 +34303,8 @@
     "etag": "\"637d1fd9cac26ad20126da1525a2a2c8\""
   },
   "https://www.mozilla.org/vi/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"62a6de6715c0bba446f8e4e9ae0e2524\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"b416993278da47d245b0abea9fe1d7bf\""
   },
   "https://www.mozilla.org/vi/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
@@ -35165,8 +35169,8 @@
     "etag": "\"39a2220c7b43a478b513b1df13bd34eb\""
   },
   "https://www.mozilla.org/zh-TW/": {
-    "date": "2021-07-13T18:03:06.419306+00:00",
-    "etag": "\"abf6dfc4ce33c2c56f30099f0f2feadd\""
+    "date": "2021-07-14T00:04:02.661606+00:00",
+    "etag": "\"df764a773755c7287e32367084efde39\""
   },
   "https://www.mozilla.org/zh-TW/about/": {
     "date": "2021-07-13T18:03:06.419306+00:00",
