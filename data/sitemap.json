@@ -3416,6 +3416,18 @@
   "/firefox/90.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/91.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/91.0.1esr/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.0.1esr/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/91.0/releasenotes/": [
     "en-US"
   ],
@@ -12426,6 +12438,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-36/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-37/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
