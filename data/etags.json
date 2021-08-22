@@ -318,8 +318,8 @@
     "etag": "\"a83ae69527d19cc44f6d34b56aae0d4c\""
   },
   "https://www.mozilla.org/ar/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"bb85f5b3857b9c707fb8f80d073c1b8d\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"e4951e6ea158c294043eb6c236d7821d\""
   },
   "https://www.mozilla.org/ar/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -593,8 +593,8 @@
     "etag": "\"fe89fc4d3fa10434f76a6de1fbcb4b14\""
   },
   "https://www.mozilla.org/ar/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"5c82fa7a4127d87ae5a8c828469ec783\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"0325b5cb936efa7d6e681e70199557ef\""
   },
   "https://www.mozilla.org/ar/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -1113,8 +1113,8 @@
     "etag": "\"0fe82637fb37d9736a796f7ba01e203e\""
   },
   "https://www.mozilla.org/be/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"bd48a30bd78b235079eb76becfd83fd7\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"d48ad9767bb9b583d24471c46bdf5bdb\""
   },
   "https://www.mozilla.org/be/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -2448,8 +2448,8 @@
     "etag": "\"6495d69e0b7c25896aa8d26e0411ea2f\""
   },
   "https://www.mozilla.org/cak/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"efa1b257ba0e62ecd4d6f934c189e57f\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"1a125bdf46459f9025b543bb48b87470\""
   },
   "https://www.mozilla.org/cak/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -2540,8 +2540,8 @@
     "etag": "\"a09922c9c2b46228cd95b73c9b41585a\""
   },
   "https://www.mozilla.org/cs/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"89451e0ece3eea7d38922bd7f8e86ac4\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"952357a0a7b47cdc00e38339eb069f17\""
   },
   "https://www.mozilla.org/cs/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -2702,8 +2702,8 @@
     "etag": "\"8ed967fca893ff15f740110b42369f54\""
   },
   "https://www.mozilla.org/cs/firefox/features/block-fingerprinting/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"428b8b063588103656e04142b23ee4dc\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"b9e902c3d4437a7e9fa75166c0afdfdd\""
   },
   "https://www.mozilla.org/cs/firefox/features/bookmarks/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -2797,6 +2797,10 @@
     "date": "2021-08-17T14:41:29.208117+00:00",
     "etag": "\"7640bca7a58eeb229007d04b1d1d56bb\""
   },
+  "https://www.mozilla.org/cs/firefox/sync/": {
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"851cc7d1b17127f606b605fa211fdc3d\""
+  },
   "https://www.mozilla.org/cs/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"88602010dffbd3f87d19bbfcaed145ed\""
@@ -2870,8 +2874,8 @@
     "etag": "\"c46dddd11ffb52868fe704fe69728d6e\""
   },
   "https://www.mozilla.org/cs/newsletter/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"3b92f3fd2e75c7998763176a0cdb61c6\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"25cee889241f3b99ca6779cb6cbfb7b1\""
   },
   "https://www.mozilla.org/cs/newsletter/developer/": {
     "date": "2021-08-12T18:02:44.209651+00:00",
@@ -2918,8 +2922,8 @@
     "etag": "\"868c743f7f0460f15998c6f0273b578a\""
   },
   "https://www.mozilla.org/cy/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"5c74992ce2c61f306b56d29f3f5b9fad\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"17bfb3710373b6b495f43ed3a0189342\""
   },
   "https://www.mozilla.org/cy/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -3188,8 +3192,8 @@
     "etag": "\"7e7a988b4b15f5319363d8259db1292b\""
   },
   "https://www.mozilla.org/cy/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"c4d7fdc272a7ba82f66f52b9eee94def\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"5762d0c57e531bddd60f68c8076626a4\""
   },
   "https://www.mozilla.org/cy/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -3874,8 +3878,8 @@
     "etag": "\"791755d1f67f0fbdd4181aabb979e25b\""
   },
   "https://www.mozilla.org/de/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"cdf2382790814f3a644b4160397e88e6\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"a2936387720c59ead1cfb254f1e4cf40\""
   },
   "https://www.mozilla.org/de/firefox/unfck/": {
     "date": "2021-08-12T18:02:44.209651+00:00",
@@ -4312,8 +4316,8 @@
     "etag": "\"7922b610fa72a78b24e533951d0ad72a\""
   },
   "https://www.mozilla.org/dsb/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"781ec20b6e90415ffe6aea82983abfcd\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"d49b06858b7c825dea883d354c217c96\""
   },
   "https://www.mozilla.org/dsb/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -4368,8 +4372,8 @@
     "etag": "\"7e4232a8f891a25e796ac1e9085f8591\""
   },
   "https://www.mozilla.org/el/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"e19f15e987870c0abb5c2e0c61470396\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"d98eb59369248123950bd0e317fcd85a\""
   },
   "https://www.mozilla.org/el/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -4626,8 +4630,8 @@
     "etag": "\"67e0e20f08ca8bbee129aa7bf3d8a8ad\""
   },
   "https://www.mozilla.org/el/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"83447595e8ae91014a47cca3bec9198e\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"2728e004efa9d21b852f63c13bdc51f5\""
   },
   "https://www.mozilla.org/el/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -5020,8 +5024,8 @@
     "etag": "\"d4510998ac43d3f7fe024104e5ace618\""
   },
   "https://www.mozilla.org/en-CA/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"a39e6d5797c9fc6a85f660591c477a0d\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"af9ffbbe3a1a497b04ff6fae974b56fe\""
   },
   "https://www.mozilla.org/en-CA/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -5176,8 +5180,8 @@
     "etag": "\"579b92c45334f6171f74641c0c262363\""
   },
   "https://www.mozilla.org/en-GB/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"c7d64cb9ee5804c850ae0fa6edefcff2\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"5a78de08f982672a1ad9ef1cda562d19\""
   },
   "https://www.mozilla.org/en-GB/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -5446,8 +5450,8 @@
     "etag": "\"191142656ceced0904867c4aa06e2bd8\""
   },
   "https://www.mozilla.org/en-GB/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"7297092e75c3e9d016d6a40cfa0abcf8\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"b12e22317e7e73dd8fc4664b3e6c6cc8\""
   },
   "https://www.mozilla.org/en-GB/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -5574,8 +5578,8 @@
     "etag": "\"f4074bb017d9af34987286acd5ee967f\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/mobile/ios/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"e242a599c6a28562cdb62f14dc67ba3f\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"fb698d957a14d4c8bf003155dc6c063e\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/more/vpn-or-proxy/": {
     "date": "2021-08-18T12:02:15.654890+00:00",
@@ -5590,16 +5594,16 @@
     "etag": "\"d76d709dc40932f7367ba6819ffe96ab\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/more/when-to-use-a-vpn/": {
-    "date": "2021-08-18T12:02:15.654890+00:00",
-    "etag": "\"28625157126c79ca539b8b53e9a9c1f7\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"bb9310a264e5fe729515ed267e5131b4\""
   },
   "https://www.mozilla.org/en-GB/technology/": {
     "date": "2018-08-15T18:00:19.998291+00:00",
     "etag": "\"8e0f56ef3e606cb1a6427e91448740f4\""
   },
   "https://www.mozilla.org/en-US/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"85c310c915ce17456a15221c8e9df81f\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"a4ab6b83c337b3fcba306faad78e5e1d\""
   },
   "https://www.mozilla.org/en-US/ITU/": {
     "date": "2018-08-15T03:29:18.987358+00:00",
@@ -11879,8 +11883,8 @@
     "etag": "\"ef8751c81b7d97b60179383819d75edf\""
   },
   "https://www.mozilla.org/en-US/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"6b496a533ad9e8f9563bf12b2784bcfa\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"806bc8b13075c9aa3aaeb8172cb3f4b6\""
   },
   "https://www.mozilla.org/en-US/firefox/unfck/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -17785,8 +17789,8 @@
     "etag": "\"0e78c47e254ecd1a87a4a3761d30c901\""
   },
   "https://www.mozilla.org/es-AR/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"5de0fe92591a5a3da04ffae5c6ac49f2\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"109717415a25abfcf7f7fb81e2aece94\""
   },
   "https://www.mozilla.org/es-AR/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -18055,8 +18059,8 @@
     "etag": "\"1f81b12c75dfb749332871784876053b\""
   },
   "https://www.mozilla.org/es-AR/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"7f4f0b36f4801ff04b7eba23e843b5ef\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"1fa1cccbc2daa949d0bfa9a5d4809b2a\""
   },
   "https://www.mozilla.org/es-AR/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -18187,8 +18191,8 @@
     "etag": "\"384e300fb0318af81414f37f2148b421\""
   },
   "https://www.mozilla.org/es-CL/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"c66c428a5d7ba96c4de0e3f0756860d3\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"aedb5e0932684e8a4cfbca424769ba0f\""
   },
   "https://www.mozilla.org/es-CL/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -18453,8 +18457,8 @@
     "etag": "\"a2ea4b4a211bf70bac967a0ea65fb996\""
   },
   "https://www.mozilla.org/es-CL/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"48a6fadf4afbe94e7c1fd1fbde91966a\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"5acda99a1133cdae4d10fc6e6d19fccf\""
   },
   "https://www.mozilla.org/es-CL/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -18605,8 +18609,8 @@
     "etag": "\"0ced1d75860a10d1c005108cf6199292\""
   },
   "https://www.mozilla.org/es-ES/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"b98ec752aae8b1b3725b93c46dfa4b13\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"fd1ff68a89261d27172b8209310ca70d\""
   },
   "https://www.mozilla.org/es-ES/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -18903,8 +18907,8 @@
     "etag": "\"2b0ba42a567b5e8f5787e45c4d442c85\""
   },
   "https://www.mozilla.org/es-ES/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"5d2d30d321eda6d131be1204bd5355ba\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"bcab278d7e6817ec5d202dd647373b37\""
   },
   "https://www.mozilla.org/es-ES/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -19063,8 +19067,8 @@
     "etag": "\"6d2882c9677c126a4537da03052fab8e\""
   },
   "https://www.mozilla.org/es-MX/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"e905626c87ebaf11ce41a5c29016ddfd\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"130b31880ac815bbb0b65b07ae964eb4\""
   },
   "https://www.mozilla.org/es-MX/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -19329,8 +19333,8 @@
     "etag": "\"cf352eecaa4e9863603c13ac4637e8e1\""
   },
   "https://www.mozilla.org/es-MX/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"e223b1bebfa406f23ad654b561fb65e4\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"bc996e66697a011807cd03793c7a000b\""
   },
   "https://www.mozilla.org/es-MX/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -20509,8 +20513,8 @@
     "etag": "\"cb85206d709da98d83b410a2c87f188b\""
   },
   "https://www.mozilla.org/fr/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"8dd1edbe11ce856c5eecbc9972d92142\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"15e32635fc7e5bc30efe718f86c8a335\""
   },
   "https://www.mozilla.org/fr/firefox/unfck/": {
     "date": "2021-08-12T18:02:44.209651+00:00",
@@ -20931,8 +20935,8 @@
     "etag": "\"7368c8dd8119142724ee573fa3326597\""
   },
   "https://www.mozilla.org/fy-NL/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"a1762a68e19285c1e456f6048b92e13d\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"4b54b3a9b2c45580fa255bcb4f917075\""
   },
   "https://www.mozilla.org/fy-NL/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -21423,8 +21427,8 @@
     "etag": "\"3b5c3085781dbf3dd414d4312395cb1e\""
   },
   "https://www.mozilla.org/gl/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"01dcd1881ccfae230f8142b157b677f7\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"075e5dbba064907cf808dea9d4512c5c\""
   },
   "https://www.mozilla.org/gl/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -21711,8 +21715,8 @@
     "etag": "\"1f2ece0e8794b7d3d04e9baea03e8cef\""
   },
   "https://www.mozilla.org/gn/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"57448753f1df2d1cba72934685de1dcf\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"37ca34ba90f61e7cf044354a3d42e7f2\""
   },
   "https://www.mozilla.org/gn/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -22381,8 +22385,8 @@
     "etag": "\"a38fd13ca2715681d74a629f91eee8ea\""
   },
   "https://www.mozilla.org/hi-IN/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"d95e36c051bf806cae508fda9c2336b1\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"8c0f14eb9654545060d7fbb26381cfec\""
   },
   "https://www.mozilla.org/hi-IN/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -22733,8 +22737,8 @@
     "etag": "\"2007ad9183f7dcb01088a3553f6bda14\""
   },
   "https://www.mozilla.org/hsb/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"e64e318d719d337dbfa7bf235123459c\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"c85745e805b81aef214d9f260f93b3c7\""
   },
   "https://www.mozilla.org/hsb/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -22959,8 +22963,8 @@
     "etag": "\"8a729fa1e17b095d1c7e3369e2e33bd5\""
   },
   "https://www.mozilla.org/hsb/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"a3b31b30b11ebc64278f256f1a1d65aa\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"fd60581cdf172109d2f2d097f7838c6f\""
   },
   "https://www.mozilla.org/hsb/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -23015,8 +23019,8 @@
     "etag": "\"dbcaa197ca1c8ee361354671336a382b\""
   },
   "https://www.mozilla.org/hu/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"b92324b53cb34392588b525e8e425dd6\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"0c065f092689d85bf26268e5c62aa9bd\""
   },
   "https://www.mozilla.org/hu/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -23283,8 +23287,8 @@
     "etag": "\"b417f99a24c05188233fb74a61d03df9\""
   },
   "https://www.mozilla.org/hu/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"7df42ce28fba705f53c1aa929da76ed2\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"132caf4903cebef22c2c1cc6b4f06a4a\""
   },
   "https://www.mozilla.org/hu/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -23567,8 +23571,8 @@
     "etag": "\"bb50829d1039eea06e9a983494e6a9d4\""
   },
   "https://www.mozilla.org/ia/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"2578e6159b5deabb0362dec0729895d1\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"15dea29eb3e3faaf7f9579590acfc1d0\""
   },
   "https://www.mozilla.org/ia/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -23833,8 +23837,8 @@
     "etag": "\"c228049c0f8e6adb154eaca28bcf1cad\""
   },
   "https://www.mozilla.org/ia/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"5350c40f4d5994b30f5ced2195ea7d1b\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"458cc222d803b5ab8360d1bcb9a0eafc\""
   },
   "https://www.mozilla.org/ia/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -24259,8 +24263,8 @@
     "etag": "\"c6a4f735c1c958d970f8c387a9129445\""
   },
   "https://www.mozilla.org/id/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"4653290f5947dc4e3214d708df804cdb\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"46f87a7c3647995f64c8a8d894dc3e49\""
   },
   "https://www.mozilla.org/id/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -24511,8 +24515,8 @@
     "etag": "\"f2aacb0114de5d11f6cab851c51ed564\""
   },
   "https://www.mozilla.org/it/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"5d896067f09281c76cb6d91ef51e036f\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"8e78c957b1f4953016ac1e4423b3d449\""
   },
   "https://www.mozilla.org/it/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -24809,8 +24813,8 @@
     "etag": "\"aa4a0587a29a9ab9c4a546c08a7f96ee\""
   },
   "https://www.mozilla.org/it/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"ce3957bfc150b23d62bb959db23fe30d\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"55d31ad8095fdcb2cde3a4783c5a25a7\""
   },
   "https://www.mozilla.org/it/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -24981,8 +24985,8 @@
     "etag": "\"850d3e5a61eec54fc112bef4d8623abf\""
   },
   "https://www.mozilla.org/ja/": {
-    "date": "2021-08-21T06:02:52.346560+00:00",
-    "etag": "\"603a5e426f8228a03ee381b9fbce100f\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"efe1deec1a5dde8014ba57ed364b9561\""
   },
   "https://www.mozilla.org/ja/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -25257,8 +25261,8 @@
     "etag": "\"3865dd3d43d026df417beced7071dee2\""
   },
   "https://www.mozilla.org/ja/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"871e940a5dc2992e6d29addea5daccf2\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"3d01ef15193458f06a2e096d6dac84b8\""
   },
   "https://www.mozilla.org/ja/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -25453,8 +25457,8 @@
     "etag": "\"393ac268054aebec72e203b493d0c477\""
   },
   "https://www.mozilla.org/ka/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"474f89793321478cfcad2b0e65d62141\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"37c916ab3cb73a4109b445f59f2aa47e\""
   },
   "https://www.mozilla.org/ka/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -25709,8 +25713,8 @@
     "etag": "\"94ba66bfaaef7a48819f04c9f451f36c\""
   },
   "https://www.mozilla.org/ka/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"38035a1e7ad76ec1bfdabd0e23e151b6\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"8968efc0d2d37cade7b83a7eaefbac76\""
   },
   "https://www.mozilla.org/ka/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -26047,8 +26051,8 @@
     "etag": "\"0a357debf036bb73be7ec75ad496cf53\""
   },
   "https://www.mozilla.org/kab/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"d2fdb109651c201b96840ee31e7a1cbb\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"245bbf4f397db6cb4b77283674b39d7f\""
   },
   "https://www.mozilla.org/kab/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -26315,8 +26319,8 @@
     "etag": "\"aaf12b2a50285307c9eddf4088a69540\""
   },
   "https://www.mozilla.org/ko/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"74fd9b82e05979c50c49e6dfcc4a0c6e\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"ef2237a145847ac7977c1599dd5cdce8\""
   },
   "https://www.mozilla.org/ko/about/": {
     "date": "2018-08-15T03:30:07.783812+00:00",
@@ -27757,8 +27761,8 @@
     "etag": "\"45b76ee6ee9da752cb97abdf0d0fd769\""
   },
   "https://www.mozilla.org/ms/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"690cb38ebdca98f97bde3a64d5caef42\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"ab673d3087b489ec38ea52f7f4b9324a\""
   },
   "https://www.mozilla.org/ms/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -28329,8 +28333,8 @@
     "etag": "\"0d78f68dcb31b203b18386def27a5e69\""
   },
   "https://www.mozilla.org/nl/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"cdc50ef234815dff1568660d00ba7f33\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"401fc5266c8febf1fe2a6dcb6be3c4f1\""
   },
   "https://www.mozilla.org/nl/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -28623,8 +28627,8 @@
     "etag": "\"f7843ebfc8faf6cc7784be202705b619\""
   },
   "https://www.mozilla.org/nl/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"b6e848d9ec9805216c858721939bf605\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"ee1137f09754f7ce422d0e8c418e499a\""
   },
   "https://www.mozilla.org/nl/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -28771,8 +28775,8 @@
     "etag": "\"b2f1cb7e46049ee214f24d117ac0dcac\""
   },
   "https://www.mozilla.org/nn-NO/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"4d4e4931c82af98d1be4cf50b186712a\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"2a3c19b4120d586df08157d5a2e4f6fd\""
   },
   "https://www.mozilla.org/nn-NO/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -29097,8 +29101,8 @@
     "etag": "\"8fdafacf4fbc6a027ba17f67f9ceed3b\""
   },
   "https://www.mozilla.org/pa-IN/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"0fc73e91d758831c7fa4c458c7576c44\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"957798bf103670b3c6ee121b35362941\""
   },
   "https://www.mozilla.org/pa-IN/about/": {
     "date": "2018-08-15T03:30:04.072951+00:00",
@@ -29281,8 +29285,8 @@
     "etag": "\"1ff2effc2b3ef56110fb46c4417a427b\""
   },
   "https://www.mozilla.org/pl/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"f00c1a6408ad13a171bbd1038158a653\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"19e31960e7a26e10034a3586faa21f0d\""
   },
   "https://www.mozilla.org/pl/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -29515,8 +29519,8 @@
     "etag": "\"98d32f398f09a04386a73df22948641d\""
   },
   "https://www.mozilla.org/pl/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"a918e7c0dccc8da66fb75719cf533820\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"0d4908d5f2f5efa3fc343862eedb420f\""
   },
   "https://www.mozilla.org/pl/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -29611,8 +29615,8 @@
     "etag": "\"071ae5bebb3f279f9309b63ffe416060\""
   },
   "https://www.mozilla.org/pt-BR/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"ea0279f82138e70fe52cde3e73e8ae40\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"3d9a3db748f097c6007f87f638d3d94f\""
   },
   "https://www.mozilla.org/pt-BR/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -29905,8 +29909,8 @@
     "etag": "\"7412d16a8902692942264ebd018f8d0a\""
   },
   "https://www.mozilla.org/pt-BR/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"528c04647c87c723677c7139bf088561\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"9c284e81119a1faa553e10d918a425eb\""
   },
   "https://www.mozilla.org/pt-BR/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -30081,8 +30085,8 @@
     "etag": "\"606ea515d489abe410a48a83f75bd2f9\""
   },
   "https://www.mozilla.org/pt-PT/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"0e24620d2f0d4a453d9a7b6613266bb7\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"d11a0691922da8d628d5c8139d7dbd4e\""
   },
   "https://www.mozilla.org/pt-PT/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -30379,8 +30383,8 @@
     "etag": "\"30478942b2e66ada4753a6ba346e6db5\""
   },
   "https://www.mozilla.org/rm/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"dc7c415612df5389e710506c4a25695b\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"c8fd004ab66cf001aa40fb2fb3ce443a\""
   },
   "https://www.mozilla.org/rm/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -30889,8 +30893,8 @@
     "etag": "\"faaa2c6e2ea03c0f725b7d6ec16c513e\""
   },
   "https://www.mozilla.org/ru/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"12077ae9525a7b2f1234abd9142e07f9\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"94bd89a7d72f1898852f40f5c1d25481\""
   },
   "https://www.mozilla.org/ru/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -31183,8 +31187,8 @@
     "etag": "\"34cb72364213a7d29bba8dfa53d1c3e8\""
   },
   "https://www.mozilla.org/ru/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"7ba6af398a2af9a4952f492ea64dfc8a\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"cb81f366f00f0e7054d5796262fc87e9\""
   },
   "https://www.mozilla.org/ru/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -31351,8 +31355,8 @@
     "etag": "\"85f25a2386fc5cf3d1382bc68d8fd4b5\""
   },
   "https://www.mozilla.org/sco/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"124534f4ffef108052e3b1825412073a\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"a8ab422467172394182cd6bfe8c77dac\""
   },
   "https://www.mozilla.org/sco/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -31399,8 +31403,8 @@
     "etag": "\"c901c2b00fcba35987d01f5e812c133f\""
   },
   "https://www.mozilla.org/sk/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"60c095e1045f41a06bc2ec1069faf2e6\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"6dec1708cc6809947f21413ed238f70c\""
   },
   "https://www.mozilla.org/sk/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -31586,8 +31590,8 @@
     "etag": "\"c2724436b3e457667242eb3eed25fb6d\""
   },
   "https://www.mozilla.org/sk/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"2ed29e1b29d3fc383313af2de9acb31b\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"4836a971878dacfad55151d307687127\""
   },
   "https://www.mozilla.org/sk/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -31884,8 +31888,8 @@
     "etag": "\"416a815811853212cdf3801d1d5e44e4\""
   },
   "https://www.mozilla.org/sl/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"6f40b46ed74e88754f942cb00d772edb\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"8a7cc466f588b4453a6dc3c4941c3c64\""
   },
   "https://www.mozilla.org/sl/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -32281,8 +32285,8 @@
     "etag": "\"e815ff6d3d9cb1c147ea373cb3120ec7\""
   },
   "https://www.mozilla.org/sq/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"5651760e499e805c841f57a66a0db1be\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"49978fc19482247c431de7f9d32ac3ee\""
   },
   "https://www.mozilla.org/sq/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -32691,8 +32695,8 @@
     "etag": "\"e5efe192dd5b7171b8f2509a7a4a2501\""
   },
   "https://www.mozilla.org/sv-SE/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"660136e15ebfeef6a75262df5df35628\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"1f912a1227bccc8bcae5260694b9ea76\""
   },
   "https://www.mozilla.org/sv-SE/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -32961,8 +32965,8 @@
     "etag": "\"73a1bc9dc34543b0881c8eb67f35a24a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"1d8e36c8b8e49b1f500777bc06b1edc3\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"0de836bc417cd1633e6cb516a5a7ecde\""
   },
   "https://www.mozilla.org/sv-SE/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -33383,8 +33387,8 @@
     "etag": "\"f1f9435916562600948b40765f7d4cbc\""
   },
   "https://www.mozilla.org/th/": {
-    "date": "2021-08-21T12:01:09.799738+00:00",
-    "etag": "\"e53c6ae34e1b875ef0bbbbc18759fe81\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"45c7829ec7c798499ebbb50ebea1669f\""
   },
   "https://www.mozilla.org/th/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -33683,8 +33687,8 @@
     "etag": "\"4893dc42a2cac9b46ee1be4a12613eee\""
   },
   "https://www.mozilla.org/tr/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"02e864f6eb731af593ad3f7abbcacc29\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"106ca99c7a331f40e50feac3cd45f36d\""
   },
   "https://www.mozilla.org/tr/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -33905,8 +33909,8 @@
     "etag": "\"998e7ce957cf8723f70bd88a7ec32c0d\""
   },
   "https://www.mozilla.org/tr/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"7775e78e15f991335e7cb2396cd26096\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"a1bdbd39e255b62bb40eee2f148c38dd\""
   },
   "https://www.mozilla.org/tr/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -34109,8 +34113,8 @@
     "etag": "\"2b6884254d56eaced745800ed7e456f4\""
   },
   "https://www.mozilla.org/uk/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"428105626004996c9099c5e0d9840e59\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"48eb4f6bb5bba5469cd6801b4f4e1189\""
   },
   "https://www.mozilla.org/uk/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -34379,8 +34383,8 @@
     "etag": "\"1fd2097ec56fc950da97467506e04c25\""
   },
   "https://www.mozilla.org/uk/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"b9c1d6d08a4e7f9ca0bdf8e67f4f3924\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"99a0e7145440e915bcd54129c2ab3838\""
   },
   "https://www.mozilla.org/uk/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -34995,8 +34999,8 @@
     "etag": "\"b487aa450342a8b7a9dbb333877536cb\""
   },
   "https://www.mozilla.org/vi/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"d4a06122bb2807677beff8218e626f1b\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"b65ae7b7b78138d54b4825365b0892c5\""
   },
   "https://www.mozilla.org/vi/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -35477,8 +35481,8 @@
     "etag": "\"b5b25fe794a4c9c0c15f821f63f3a228\""
   },
   "https://www.mozilla.org/zh-CN/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"2a0f7ae4cc73108cbdbabf6c155e5b1a\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"b17522916710b197e5b6407ff8afff4a\""
   },
   "https://www.mozilla.org/zh-CN/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -35617,8 +35621,8 @@
     "etag": "\"39a2220c7b43a478b513b1df13bd34eb\""
   },
   "https://www.mozilla.org/zh-TW/": {
-    "date": "2021-08-21T18:01:11.477126+00:00",
-    "etag": "\"c619a0e8ab9a591cee1f002d3e4c0aaa\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"ebccbe988ad397768c6bfc7776fc7cf3\""
   },
   "https://www.mozilla.org/zh-TW/about/": {
     "date": "2021-08-17T14:41:29.208117+00:00",
@@ -35879,8 +35883,8 @@
     "etag": "\"f8ee36da5705bec54b922fd5294a917e\""
   },
   "https://www.mozilla.org/zh-TW/firefox/sync/": {
-    "date": "2021-08-17T14:41:29.208117+00:00",
-    "etag": "\"6aef26c161f74ed3be88f1f4ffeec2cf\""
+    "date": "2021-08-22T00:03:10.005458+00:00",
+    "etag": "\"44bfade912b38732774f579b40d0720f\""
   },
   "https://www.mozilla.org/zh-TW/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
