@@ -47,6 +47,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"8c243beb83b8d5c1ab47eb0f3b8b5bf6\""
   },
+  "https://www.mozilla.org/ach/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"00275ab4376e966fd65f39c780440558\""
+  },
+  "https://www.mozilla.org/ach/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2bcd5dadd7fe2312ee3b4294fa7b9f31\""
+  },
   "https://www.mozilla.org/ach/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"3b741c1576c0ae4d1812ce51e7ad7cbc\""
@@ -124,6 +132,14 @@
   "https://www.mozilla.org/af/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"86cc78e3e7f92d8c8c467c247005a996\""
+  },
+  "https://www.mozilla.org/af/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"13720420a9cee1f1ef90fa93ed60778f\""
+  },
+  "https://www.mozilla.org/af/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b4f03f9339754fa269222efabbb0ed01\""
   },
   "https://www.mozilla.org/af/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -289,6 +305,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"218ca619c62115c0d5f42c5a9a6783b9\""
   },
+  "https://www.mozilla.org/an/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e3ab7e9297451cab348f0cbebf862095\""
+  },
+  "https://www.mozilla.org/an/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8bc403ed4709345ed7cb4149abc578ce\""
+  },
   "https://www.mozilla.org/an/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"7b7123fd06f0b64042d5b635125dd108\""
@@ -318,8 +342,8 @@
     "etag": "\"a83ae69527d19cc44f6d34b56aae0d4c\""
   },
   "https://www.mozilla.org/ar/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"6c54f53873e8fcbb26d2b08ae0cd6d5a\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9bddbde6820ca975e5e6b40db33161b1\""
   },
   "https://www.mozilla.org/ar/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -604,6 +628,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"22cc2ff94eec07a8215af30b53292959\""
   },
+  "https://www.mozilla.org/ar/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4cfd65152bdbd2c84f562d868ebd7123\""
+  },
+  "https://www.mozilla.org/ar/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"45f75a528800004517318dc919a6f73f\""
+  },
   "https://www.mozilla.org/ar/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"9327a7941d22ee917ca50114588d54b6\""
@@ -673,8 +705,8 @@
     "etag": "\"ebb7bd30093487e644d914a140c93b88\""
   },
   "https://www.mozilla.org/ar/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"a577930a5cc43eb17b736ca408a823f2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"88b8dccf43db07d5fe5d82b771381e7b\""
   },
   "https://www.mozilla.org/ar/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -860,6 +892,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"793f0705c70492b058ba1412cad31e6f\""
   },
+  "https://www.mozilla.org/ast/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d5af934e88ce552bfa4027f02abd5d65\""
+  },
+  "https://www.mozilla.org/ast/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6622e24f4e9698b4c5946a85263d2be1\""
+  },
   "https://www.mozilla.org/ast/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"84cdfcf8c62af9816f85f5d5b35c8b58\""
@@ -1012,6 +1052,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"3824ea6717d7f90c937e2ab059516e63\""
   },
+  "https://www.mozilla.org/az/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"09915387160fbe855fca9f1c12c6c4a2\""
+  },
+  "https://www.mozilla.org/az/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ea86e99560599242b225382653739574\""
+  },
   "https://www.mozilla.org/az/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"d98cc0e47710fa2884d6cec9cc888368\""
@@ -1108,13 +1156,21 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f512c95d5226ee633e41c83eb3ff5d45\""
   },
+  "https://www.mozilla.org/azz/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"33a1b6c5c23939bf27dc5346358ee9bd\""
+  },
+  "https://www.mozilla.org/azz/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ca2a8818be2361089559955db1de3b20\""
+  },
   "https://www.mozilla.org/azz/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0fe82637fb37d9736a796f7ba01e203e\""
   },
   "https://www.mozilla.org/be/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"6ba11dac49b5e4ba31a33151ddeeab1d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"deb2c08b6d905bbdcdaced1c637dba25\""
   },
   "https://www.mozilla.org/be/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -1287,6 +1343,14 @@
   "https://www.mozilla.org/be/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"9321626644cf6ed25608cd2c256bd714\""
+  },
+  "https://www.mozilla.org/be/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"860c9211014b0b07bdaa3fa2c9777900\""
+  },
+  "https://www.mozilla.org/be/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"de17b35f667db2609d1fba5d76faa361\""
   },
   "https://www.mozilla.org/be/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -1469,6 +1533,14 @@
   "https://www.mozilla.org/bg/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"70a6d9f6b285f7f7f5882bbe75e17187\""
+  },
+  "https://www.mozilla.org/bg/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9f2132e8a87ee2b7164eb5631c49079b\""
+  },
+  "https://www.mozilla.org/bg/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1841ff162a5d428ead8129226309f5e8\""
   },
   "https://www.mozilla.org/bg/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -1779,6 +1851,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"2767a0427bb7dfa2ebab79fd902d699a\""
   },
+  "https://www.mozilla.org/bn/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d828233008ac6ec8f92701e75b9bfb90\""
+  },
+  "https://www.mozilla.org/bn/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"55642193db6a26bd87220cbe1b0d4848\""
+  },
   "https://www.mozilla.org/bn/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"256beb0108bc91a77d966e265b9b9ce0\""
@@ -1838,6 +1918,14 @@
   "https://www.mozilla.org/br/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"a248ea992a085dee070adb9113efca07\""
+  },
+  "https://www.mozilla.org/br/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"037044c80fb55bd8b1f557ebe45e9073\""
+  },
+  "https://www.mozilla.org/br/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9a64114d37982fe40fd5a7f0a00c4bc0\""
   },
   "https://www.mozilla.org/br/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -1996,6 +2084,14 @@
   "https://www.mozilla.org/bs/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"99fb698d95123adcefd82aabe08e8159\""
+  },
+  "https://www.mozilla.org/bs/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0b520ca3f8a13335f18b39c55296a9bc\""
+  },
+  "https://www.mozilla.org/bs/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"060cd28aff329f0f83da408d4bae8120\""
   },
   "https://www.mozilla.org/bs/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -2176,6 +2272,14 @@
   "https://www.mozilla.org/ca/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"a20100ddb4b07a69305ede4c996c8599\""
+  },
+  "https://www.mozilla.org/ca/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"81f867d709328c3d0299da2bd30b8917\""
+  },
+  "https://www.mozilla.org/ca/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9755c6074f6621ee2653b2ddeac746a8\""
   },
   "https://www.mozilla.org/ca/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -2459,6 +2563,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"23b0186a9312b2e5534788897a4f46cd\""
   },
+  "https://www.mozilla.org/cak/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"78e75d1361bfe9a74e676b3179d40ac0\""
+  },
+  "https://www.mozilla.org/cak/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8b230690503e545f29f8186853c9b83d\""
+  },
   "https://www.mozilla.org/cak/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"d4d2734a12255248febfee2c00dd4657\""
@@ -2540,44 +2652,44 @@
     "etag": "\"de35a990b24424b47cb4da23b64e7b41\""
   },
   "https://www.mozilla.org/cs/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"7cd6c165bcc3deb798508ed9dd31368f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5b169ea278a296abdc7a287098fe8679\""
   },
   "https://www.mozilla.org/cs/about/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"6ce76d3015ec78bd2adcc1b2f0924462\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1c55fa3ddf7df4af204ef7ed7e0d49f0\""
   },
   "https://www.mozilla.org/cs/about/history/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"bc8572cf953403d46521d5f6e1696d1c\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9a6c52075dd8ca24ff0b33f860988473\""
   },
   "https://www.mozilla.org/cs/about/history/details/": {
     "date": "2018-08-15T03:31:03.402706+00:00",
     "etag": "\"3320de4c9e3b083bca074c1706876487\""
   },
   "https://www.mozilla.org/cs/about/legal/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"77979e8e2b8b274f5d03f3cfadf2a9db\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"98ec1f4a09ec73322195cbb9f47c23e9\""
   },
   "https://www.mozilla.org/cs/about/legal/acceptable-use/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"588a92d3e41fd8334c0c867a6f5de26f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f1ac63f044959d347b47b4da449b2662\""
   },
   "https://www.mozilla.org/cs/about/legal/terms/mozilla/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"291972577c28df52f642bce1bb85ce5a\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9c886b49accc797d93d7c27b49c7106d\""
   },
   "https://www.mozilla.org/cs/about/legal/terms/services/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"0b0a34581c8715e8493229d6eed9eb36\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"36032b94f2a988d68d7380326cbc3317\""
   },
   "https://www.mozilla.org/cs/about/manifesto/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"c1782695aac7917240085868998c8690\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a69284901218a37ea76c210e08354846\""
   },
   "https://www.mozilla.org/cs/about/manifesto/details/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"dda91ad3e725b6b2770caafa767bc045\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"67659dc034c1db1385da883dbfa3f60e\""
   },
   "https://www.mozilla.org/cs/contribute/": {},
   "https://www.mozilla.org/cs/contribute/events/": {},
@@ -2594,144 +2706,144 @@
   "https://www.mozilla.org/cs/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/cs/contribute/task/stumbler/": {},
   "https://www.mozilla.org/cs/firefox/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d3b32eab320c0e4dbe20b181ad6f8a20\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a952c67d7eec2a5fe6c221516cb4df74\""
   },
   "https://www.mozilla.org/cs/firefox/accounts/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"0ee79ad4839c1c32fe49e6b4c52753b7\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"492383cdaa788a7d29d065b9ad433cba\""
   },
   "https://www.mozilla.org/cs/firefox/all/": {
     "date": "2018-08-15T03:29:07.062061+00:00",
     "etag": "\"922382c8b60019499f93ddec85ad2dfd\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"6172cc216657f76b4998154f1b2f8c45\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1a331639d050254dcb4a80fbc6502cb6\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/best-browser/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"3d49611d3e81cb0a4fab41913dece940\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f16dd40e95607d04f72f2a73da5f0f45\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/browser-history/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"aea641dd7160b42f996b08340705d98f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7d1d68c1c7352c7eb8629376dc15473a\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/chromebook/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"2837166e53600bc2949ad637b9bcdeba\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cf2b7d4566082266982cb7f0cf51eb72\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f279d1807e22a97241c0552066f2d466\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"78f162d4aad519879c44e364fef378f8\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/brave/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"4dab1a716f6830a05ccd01f7a17e8a82\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"af7ce32f60b2996131b5492f1a3d2755\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/chrome/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"9da070339c20a860221b0483f192f5b4\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"089f0a2db0be12c7829fcdeef87e0b7c\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/edge/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f45465d190e72231bb20e03f70995bf2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5e61f87113d117d3624dffb6a1b7b813\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/ie/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"ea963399df6586d3967cbf7c8eca0f36\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9b1891c76afa7d4207016479cd9cfc62\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/opera/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"9621fb0697e05ca785a815819c8d893d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8eb2441c88f9c326f73f996e08cad098\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/safari/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"1521c26f1cc5e7181db170a06050e877\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"80e3d8e56dc4e012287299ab1712ae99\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/quantum/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"55e44cc8787390340aca596cd08c990f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"82f52405edcad6ef49c965f0baa01046\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/what-is-a-browser/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"2fca8f90d9bc893e529816bfe5a2be3c\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6d1589276406785f3a93d1cc873664b3\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/windows-64-bit/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"d2ab3d177ce6b63037c4ec0c824848fc\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"12125866c569de558e973e1ffbfe759b\""
   },
   "https://www.mozilla.org/cs/firefox/campaign/": {
     "date": "2020-09-03T00:10:30.281726+00:00",
     "etag": "\"6906d7c5ce9862580bf9c40e606e7c66\""
   },
   "https://www.mozilla.org/cs/firefox/channel/android/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"91343841e85ac28b535855b831292822\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c72cb0f395284fffabf56da791e9d5b9\""
   },
   "https://www.mozilla.org/cs/firefox/channel/desktop/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"9f4d4d7f359490f307c83cb2e3604e3f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d34ef522c2d68a005783b54c77756d5c\""
   },
   "https://www.mozilla.org/cs/firefox/channel/ios/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"b972f42881bcc4e1ae3867e12c995a2e\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"dd4a9aaa86bf688b94fc505078e6d77e\""
   },
   "https://www.mozilla.org/cs/firefox/developer/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"c667fe05de74637e3ee78270a176b77c\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"06f8291c8e6d5ca650ceb7ccbbaacce6\""
   },
   "https://www.mozilla.org/cs/firefox/enterprise/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"26800e948edf886a04fdcc3e14212815\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ca18a6daf29cc5fe7a74c206d19b20e0\""
   },
   "https://www.mozilla.org/cs/firefox/facebookcontainer/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"9bdec8c060f8c498d859f73fad91036f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"315352ac96f8edb4115f00d98000417b\""
   },
   "https://www.mozilla.org/cs/firefox/faq/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"e3d9b782908a10b59dc3eb3ceee948d7\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"66a644f96b7b970bcfda4fa9fc602fc1\""
   },
   "https://www.mozilla.org/cs/firefox/features/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"bc0cfd8076be5c3261ecf6f63d3e536b\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6b61bf27a523edf347d28f3a5f415054\""
   },
   "https://www.mozilla.org/cs/firefox/features/adblocker/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"6a170291b49d3ad91af66369838e3f93\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5c985752c259b83b5d2660b44b0c6507\""
   },
   "https://www.mozilla.org/cs/firefox/features/block-fingerprinting/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"1dfc97d0fc64694c5ce5b6953afcbf39\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"209815398d3ec57e087e106aab84e596\""
   },
   "https://www.mozilla.org/cs/firefox/features/bookmarks/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"8b35747f3b57b097968a9ee8bfbbe575\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8172724e3299c9e3216b2fa9fc849cc5\""
   },
   "https://www.mozilla.org/cs/firefox/features/fast/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"eba635b545687445f5609c9a9c250abf\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5c6e37b2009b6df6faa7e7dc85eaeab5\""
   },
   "https://www.mozilla.org/cs/firefox/features/independent/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"b415c9d300e6081b5259fed4c24dd331\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"18ff0a0238acae02dfb080785626807a\""
   },
   "https://www.mozilla.org/cs/firefox/features/memory/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"a0f1b92b341d308b6c40149e3fbdad7f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4027898dcb8f1214b37553d295408f37\""
   },
   "https://www.mozilla.org/cs/firefox/features/password-manager/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"17566debcf0f6548632d0c3a0efce4ce\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0c5842b3c636b84bd6a919b0433c5076\""
   },
   "https://www.mozilla.org/cs/firefox/features/picture-in-picture/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"12c6cac47cf863d26d206056f2b276ee\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f2ae90485d7aee4e75c342f0d041e11f\""
   },
   "https://www.mozilla.org/cs/firefox/features/private-browsing/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"e5eab2ca49c1bc2b6f6f7796df0863d2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ccda0416a03685134e3aea7c406100b4\""
   },
   "https://www.mozilla.org/cs/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.544553+00:00",
@@ -2742,28 +2854,28 @@
     "etag": "\"85a1eca7a9754e0444b325e62ee4c577\""
   },
   "https://www.mozilla.org/cs/firefox/features/translate/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"6fde0b47a463b1b8a76f8190cd4831d2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f191597677b3c8eadc90d1a2f40b6361\""
   },
   "https://www.mozilla.org/cs/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.294633+00:00",
     "etag": "\"87a5d67d74069d364f80068ae0168d77\""
   },
   "https://www.mozilla.org/cs/firefox/linux": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"b0ed5479648de9fce57f3b8352a34fec\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"722be0620efd72c74abfb0eebaf35410\""
   },
   "https://www.mozilla.org/cs/firefox/linux/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
     "etag": "\"35c7edeb50375935218bcd15b63fc667\""
   },
   "https://www.mozilla.org/cs/firefox/lockwise/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"21e1bc9d0abe9a0cceef1a4e0ee54f23\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"078bdbf3569cc24be6ba897bfe049bdc\""
   },
   "https://www.mozilla.org/cs/firefox/mac": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d1a427e1a17bbdd9eba005004ed0c295\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5d348e16ad9258bea93c746a12a5323c\""
   },
   "https://www.mozilla.org/cs/firefox/mac/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -2774,52 +2886,52 @@
     "etag": "\"37281bcc4a5f557bf6c108544d6671ce\""
   },
   "https://www.mozilla.org/cs/firefox/mobile/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"8f6f52c3eb9342b58f64ee93e1aa47f3\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5e0f6afa2e6e46935a63dce7461fa50a\""
   },
   "https://www.mozilla.org/cs/firefox/mobile/get-app/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"366c5a8f68b5a279a7326d08072c0bb7\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d6bc2985ca7df5793bbd46b8b6551b9b\""
   },
   "https://www.mozilla.org/cs/firefox/more/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f6b7ea6031cb992a245d38ef6f835f60\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9b9888155e0281c71996864dd2f04db5\""
   },
   "https://www.mozilla.org/cs/firefox/more/misinformation/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"d4e53483adb9956741b01cc71810db91\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8a5ae36aa3695919e59369c63e57adad\""
   },
   "https://www.mozilla.org/cs/firefox/new/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"a3124b5256225445b92995ab9588a992\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e4a88c44dbb33ca8d68465a283bc16e4\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f3f554f8909ccd8bf9d45b1eafa56d62\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"59bdfb22425fca356d7cd5eaa423e1a4\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/products/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"1527606397f79e7f296f24432b0926ba\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c1f6e29ed9154610f1810891e77ff5d1\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/safe-passwords/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"5a4bdfc64aaec665c13a47cc17c375eb\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a96a3ca4bfea56cd8dfbbcb162e8795c\""
   },
   "https://www.mozilla.org/cs/firefox/products/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"1762f6cf2df2818971096ff127ef1abb\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"46d8511c2e4d35b5bd8830cd2510feb8\""
   },
   "https://www.mozilla.org/cs/firefox/set-as-default/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"69f3fb4a115029d4a9db7de393f30522\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f72eb19b7ca13f66488a6a29f213f82e\""
   },
   "https://www.mozilla.org/cs/firefox/switch/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"7ae3c3db018d37997a2d295d05e72bc4\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"99ef91e369041c476a3ad450b3369922\""
   },
   "https://www.mozilla.org/cs/firefox/sync/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"b9647c408d6d12d396470efc45838bbd\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3fe86bfdceeaae97b313402548838cb0\""
   },
   "https://www.mozilla.org/cs/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -2829,13 +2941,21 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"6e62d2c2e090b5fb6a40d34da3b0c49d\""
   },
+  "https://www.mozilla.org/cs/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"055decda4907fe8be5bb80c97c0c57f4\""
+  },
+  "https://www.mozilla.org/cs/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d5e80bcf35c1a35f804ef48662df1ec1\""
+  },
   "https://www.mozilla.org/cs/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"a25d4dd38aafef2ad05f711d268cf3ff\""
   },
   "https://www.mozilla.org/cs/firefox/windows": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"7012d2bbc08ad371e0a5055e02bb20ee\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0feeba57284e5c44a3b3505314b8c32b\""
   },
   "https://www.mozilla.org/cs/firefox/windows/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -2850,12 +2970,12 @@
     "etag": "\"cdd58cd36f35a986d8f74959bde01aff\""
   },
   "https://www.mozilla.org/cs/foundation/annualreport/2011/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"41a5d07e6f7ebcf564480f9e7121fc0c\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5015b34ead268a84153f41806fa2e4b4\""
   },
   "https://www.mozilla.org/cs/foundation/annualreport/2011/faq/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"aa095d30017907de3e8afba10a23a579\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"76a57b80ac11ccbf6ee53d81d81fb7df\""
   },
   "https://www.mozilla.org/cs/foundation/issues/": {
     "date": "2018-08-15T03:31:34.087163+00:00",
@@ -2890,12 +3010,12 @@
     "etag": "\"833d8e21183ae3e898b0e88eb2b649bf\""
   },
   "https://www.mozilla.org/cs/mission/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"a803d979c69fe2bb57164cca968acd90\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b5feed1c65c7ca26c29345561f534011\""
   },
   "https://www.mozilla.org/cs/newsletter/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"52ee37712c921efe82991d45b3775738\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a62590e62b3b8dfcaa981490d4e88e63\""
   },
   "https://www.mozilla.org/cs/newsletter/developer/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
@@ -2914,36 +3034,36 @@
     "etag": "\"a9125f7eac089e2d349233702d87a2c2\""
   },
   "https://www.mozilla.org/cs/privacy/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"120f165e042a90572b913c935bdc8d64\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"82a71e272ecfc729b52de87bb63a166b\""
   },
   "https://www.mozilla.org/cs/privacy/faq/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"4c720256ca0a82542b9883fed8062955\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"43dbcc8eb28853db637684b0096736b8\""
   },
   "https://www.mozilla.org/cs/privacy/firefox-os/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f11fa27b54d4f88318342d694f3cd530\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"90d859840b53027afbd74405ecc70961\""
   },
   "https://www.mozilla.org/cs/privacy/firefox/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"53401773661d0e4a28c5cbc9de88a35a\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d8e3681181ab583c07a8e44c88ee5d4e\""
   },
   "https://www.mozilla.org/cs/privacy/principles/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"b5181f4181ab4fdc706d9f804a5f5338\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"41cff135d9903323e24757c5c78dee5b\""
   },
   "https://www.mozilla.org/cs/privacy/websites/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"2c7440ba106fc64d46a38440b0de2641\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"32d5e9f4b3a97eb6134da2dba10044b5\""
   },
   "https://www.mozilla.org/cs/technology/": {
     "date": "2018-08-15T18:00:19.641684+00:00",
     "etag": "\"868c743f7f0460f15998c6f0273b578a\""
   },
   "https://www.mozilla.org/cy/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d6aa100407e0c541512bbbfbb16dd0e3\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"68da159378277974d4c2cc0ed0397364\""
   },
   "https://www.mozilla.org/cy/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -3223,6 +3343,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"b3615ee3d53e45d434f93e6f41b77098\""
   },
+  "https://www.mozilla.org/cy/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9a6e47b760eb85ff489a7833d07897c8\""
+  },
+  "https://www.mozilla.org/cy/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3bb7d2ac650928df75f05ba8fe578ec7\""
+  },
   "https://www.mozilla.org/cy/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0d6040d9c16921d2a6e6b84054859ef1\""
@@ -3312,8 +3440,8 @@
     "etag": "\"d267b0b184147e296f70412e34b76ef4\""
   },
   "https://www.mozilla.org/cy/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"b92d8a91a4a33ef9c6c7a0a23c2b45d3\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f708baf3325981d9ab9ba1193b83f27f\""
   },
   "https://www.mozilla.org/cy/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -3542,6 +3670,14 @@
   "https://www.mozilla.org/da/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"ce3e1a1521c359e269d4bc8227dae615\""
+  },
+  "https://www.mozilla.org/da/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e564bd1f2bc5497ebf4c75b766448e19\""
+  },
+  "https://www.mozilla.org/da/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"8bdbff45958bfa7b264acc27bc238387\""
   },
   "https://www.mozilla.org/da/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -3913,6 +4049,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d37bc851f59811d24657f25376f21ad7\""
   },
+  "https://www.mozilla.org/de/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"44ce0ebf14bdd976da4968c4a56c06e8\""
+  },
+  "https://www.mozilla.org/de/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ee85f85525d7be8a3e9dc4e3029522c3\""
+  },
   "https://www.mozilla.org/de/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"e531f84f3d0b55342a01fdfe9490503a\""
@@ -4054,8 +4198,8 @@
     "etag": "\"1a2d8f659ac5708ef451ae7c8763c379\""
   },
   "https://www.mozilla.org/de/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"5832da8bc3e1a60df84bb20bc024a0fd\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7efef8c66ec0e48722bb5b99758af9c0\""
   },
   "https://www.mozilla.org/de/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -4110,8 +4254,8 @@
     "etag": "\"7fb7eea15c5a4f106f4140402435b1db\""
   },
   "https://www.mozilla.org/dsb/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"59f8eb19658b40b6013eaf8d52c2ad69\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"04456e60120d096e29c57b4f7a6248dc\""
   },
   "https://www.mozilla.org/dsb/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -4347,6 +4491,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"3ba4057e8d9d61fd914dab6c801960a4\""
   },
+  "https://www.mozilla.org/dsb/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1b5d6f5d895cc3c4344c7bcb2f9fafa0\""
+  },
+  "https://www.mozilla.org/dsb/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1403d55c267098aedc3511076dfee1b6\""
+  },
   "https://www.mozilla.org/dsb/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"f003a433032dd5dd7d20114026c854bd\""
@@ -4380,8 +4532,8 @@
     "etag": "\"4d91fb2db740d3b2c4ac592f1e4c6966\""
   },
   "https://www.mozilla.org/dsb/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"e9a247abcf30f119d89dcb7dde8b6969\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2e19e84a16be61cda347948c27979acf\""
   },
   "https://www.mozilla.org/dsb/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -4661,6 +4813,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f9b312547b3d083e03e55a16543cc9e8\""
   },
+  "https://www.mozilla.org/el/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0f0b5e712f6351e33e55ebd989a25b0d\""
+  },
+  "https://www.mozilla.org/el/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5355c839739dae70199715f18f62913f\""
+  },
   "https://www.mozilla.org/el/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"3349007f8a0cf07246f054dad19e56d4\""
@@ -4738,8 +4898,8 @@
     "etag": "\"d4c8febf0d8dc877163f582633deeea5\""
   },
   "https://www.mozilla.org/el/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"671e5755a6827122d41024af880b7d5d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"904c1d2ca94a120625b5f7ab44bcda49\""
   },
   "https://www.mozilla.org/el/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -5055,6 +5215,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f1ee27b47d4628169109acf9922384c1\""
   },
+  "https://www.mozilla.org/en-CA/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6d03d155ef4befa729379bd8bc26d385\""
+  },
+  "https://www.mozilla.org/en-CA/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3db70a9333d0728261c440e82efb3401\""
+  },
   "https://www.mozilla.org/en-CA/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"ab774791a048c40c4f71a74fd57494fc\""
@@ -5144,8 +5312,8 @@
     "etag": "\"9d814e44646f72cfaa98c3cd046048dc\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"e49cc36778adf40a850d4eff4816b4f0\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"81fe16cc707682d09b02bbb953c70ae0\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -5200,8 +5368,8 @@
     "etag": "\"579b92c45334f6171f74641c0c262363\""
   },
   "https://www.mozilla.org/en-GB/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"41094259af03dd716cd43083cf0d0036\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"07a0fa5792745fd34c3295a8be927f11\""
   },
   "https://www.mozilla.org/en-GB/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -5481,6 +5649,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"c3e0ecacadbe804f3fdaa7ad7772989d\""
   },
+  "https://www.mozilla.org/en-GB/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f1d3a2fabdf95008272a47664b03239e\""
+  },
+  "https://www.mozilla.org/en-GB/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cc8c62025795606e60d6b4ff43690ec7\""
+  },
   "https://www.mozilla.org/en-GB/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"6ba8e3fb2fde6ad87a2aad673422d5a1\""
@@ -5566,8 +5742,8 @@
     "etag": "\"6a7e037f9769f256698279c6863ac220\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"aa935d55d70aaad648415a9e1fd31156\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c6503ebdb977ba26e3d65eb68da71057\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -5622,8 +5798,8 @@
     "etag": "\"8e0f56ef3e606cb1a6427e91448740f4\""
   },
   "https://www.mozilla.org/en-US/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"b04dc6b79d1533b7cb0e882221160c80\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9ed8cef48b5e88897e0fd214e8b68225\""
   },
   "https://www.mozilla.org/en-US/ITU/": {
     "date": "2018-08-15T03:29:18.987358+00:00",
@@ -11934,6 +12110,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d4df89023e9a10f7394dba15f13b5d9b\""
   },
+  "https://www.mozilla.org/en-US/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"41ba16d938780dab9de8673ba43da122\""
+  },
+  "https://www.mozilla.org/en-US/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"32740cad7faaed3adbdc44bf68c0dad6\""
+  },
   "https://www.mozilla.org/en-US/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"576a72f55f9ca2447938d6167171d1a9\""
@@ -12617,8 +12801,8 @@
     "etag": "\"66c0f1a4861609338d7b70f20a9cfe3f\""
   },
   "https://www.mozilla.org/en-US/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"b7a5ffb40f20bd266a576b9797a66809\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f3e56367f202b1c02b3bc7593d4248ef\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -17780,6 +17964,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"75f16534e1e7debe88c91a1d42bcce84\""
   },
+  "https://www.mozilla.org/eo/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"051a00ec9dfc8c7368b0d398be6c5b51\""
+  },
+  "https://www.mozilla.org/eo/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1cfd449f49568dd1ec6d78776666e3c9\""
+  },
   "https://www.mozilla.org/eo/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"9692b04f8d9126c5fce9810005f54de7\""
@@ -17821,8 +18013,8 @@
     "etag": "\"0e78c47e254ecd1a87a4a3761d30c901\""
   },
   "https://www.mozilla.org/es-AR/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"9e50cee82df6b6a3e5411ba89b88aca6\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f0982e13b3ec5d0e288a8189d09a47fa\""
   },
   "https://www.mozilla.org/es-AR/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -18102,6 +18294,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"70b55b7ccb8ed09499e114f0b677737d\""
   },
+  "https://www.mozilla.org/es-AR/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5d86339f67ecdf0ede865bc8bcd23b4e\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"57508f95940c2df56cdaa1eb197d4ecb\""
+  },
   "https://www.mozilla.org/es-AR/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"fe5b17f2f2ab3b151ea208aa69719755\""
@@ -18167,8 +18367,8 @@
     "etag": "\"284fb6b6df847bc49506380c537164d5\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"c343b37c02b1c7b633efbc3dc9d7f543\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"18dc903e35e40b4cda5e44a844b4b4fc\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -18223,8 +18423,8 @@
     "etag": "\"384e300fb0318af81414f37f2148b421\""
   },
   "https://www.mozilla.org/es-CL/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"162f700e0111d00e650ce43b58c205a5\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2632eb215848125d51fbd652879f6cae\""
   },
   "https://www.mozilla.org/es-CL/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -18500,6 +18700,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"8fc787662b00487d40a06d98078ea17e\""
   },
+  "https://www.mozilla.org/es-CL/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f8415b213b48886fd2be69cbd49f1255\""
+  },
+  "https://www.mozilla.org/es-CL/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f7ada5a470988856dd9cdd6c7342eefa\""
+  },
   "https://www.mozilla.org/es-CL/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"d0a7b11272a8cf22cc09f1bc59ef98b7\""
@@ -18585,8 +18793,8 @@
     "etag": "\"a80832db1793a3ec84db011435b27017\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"2bc7f185d188cca4a09ec9de1a9d8efb\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5ff3a8e6fa158506efc4e202f54a7e3e\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -18641,8 +18849,8 @@
     "etag": "\"0ced1d75860a10d1c005108cf6199292\""
   },
   "https://www.mozilla.org/es-ES/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"ee76ec66dcccb454c4335150db8aa0a1\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"592525ac3b32cab09748bcc05321f275\""
   },
   "https://www.mozilla.org/es-ES/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -18950,6 +19158,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"0b20830c50cf4edafd98a50d49bb1c30\""
   },
+  "https://www.mozilla.org/es-ES/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6667d9fc625cffe5bc27caef73b0ce1b\""
+  },
+  "https://www.mozilla.org/es-ES/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7b78cc8e16f98a637433cf3d9bb7626e\""
+  },
   "https://www.mozilla.org/es-ES/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"69ca2c9e1085b40713adfc6c99d35698\""
@@ -19059,8 +19275,8 @@
     "etag": "\"a0db721151e4fb5dec03bcefaf44069e\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"9b7d01229d123697722434276c18f1e8\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"843f217e25fa5344e5afb9a890a93082\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -19099,8 +19315,8 @@
     "etag": "\"6d2882c9677c126a4537da03052fab8e\""
   },
   "https://www.mozilla.org/es-MX/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"4b9b778041e88b73c0c88124cf6f23d6\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"46feb1aa29f906d09dfc6a793134f39f\""
   },
   "https://www.mozilla.org/es-MX/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -19376,6 +19592,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f10039b6da511a634689aaa6991ee7ab\""
   },
+  "https://www.mozilla.org/es-MX/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f0daa9b302e7d030f4b950935267d3bc\""
+  },
+  "https://www.mozilla.org/es-MX/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c33568491bc4fd34ec0056d1f94af545\""
+  },
   "https://www.mozilla.org/es-MX/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"a5af8b4e6d66802c4de73dba8b1817cf\""
@@ -19453,8 +19677,8 @@
     "etag": "\"da269ca9ae91fbf9d100c667d249d291\""
   },
   "https://www.mozilla.org/es-MX/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"c269457546423b166a5c6ce5e3e4afac\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e4fef883aafc2e14815df7ebd1d1c056\""
   },
   "https://www.mozilla.org/es-MX/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -19619,6 +19843,14 @@
   "https://www.mozilla.org/et/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"331b4e6fc33356d9c216cf513f994ca9\""
+  },
+  "https://www.mozilla.org/et/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"380a830be4119868ccabd1810166a8c3\""
+  },
+  "https://www.mozilla.org/et/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a192b3f30dc9f3ac0fbaa29d87a44aae\""
   },
   "https://www.mozilla.org/et/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -19796,6 +20028,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1ad519ff2a11deb7d18d8b0d04862ead\""
   },
+  "https://www.mozilla.org/eu/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c26b7846ffafdcacc520f086347fde3d\""
+  },
+  "https://www.mozilla.org/eu/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d1f1bdb2c0cfc2fa98bb0e3cc8651ab4\""
+  },
   "https://www.mozilla.org/eu/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"4e0cde7e117e7500e1b9493948426423\""
@@ -19966,6 +20206,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"bb062af09898a5ae4d61cf79eaf785ce\""
   },
+  "https://www.mozilla.org/fa/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"718d1f776d725979894026baf552e662\""
+  },
+  "https://www.mozilla.org/fa/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4b39ff27168836632ba3034684ec3ecf\""
+  },
   "https://www.mozilla.org/fa/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"77ac0f23c3e740667ed62bdf4ceabdab\""
@@ -20065,6 +20313,14 @@
   "https://www.mozilla.org/ff/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"c24ebcc44c749607a8624e8c5ddca1f1\""
+  },
+  "https://www.mozilla.org/ff/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"beffcf99b3ae91089a37fdf254af6d1d\""
+  },
+  "https://www.mozilla.org/ff/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"74da491972a2b569a21b9387eef79ad2\""
   },
   "https://www.mozilla.org/ff/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -20229,6 +20485,14 @@
   "https://www.mozilla.org/fi/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"2d568922d1219e615b4b7acfd0240c40\""
+  },
+  "https://www.mozilla.org/fi/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"fe7a58e061f348138521a286b9216beb\""
+  },
+  "https://www.mozilla.org/fi/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"65435737fda379e78720b7372c6e4d51\""
   },
   "https://www.mozilla.org/fi/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -20481,8 +20745,8 @@
     "etag": "\"ff2b5cc43ed917d273dfcc58123ca9f7\""
   },
   "https://www.mozilla.org/fr/firefox/linux": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"486fd89796506dcee74affa68ffc3eea\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"dcebee6cdfebb96910a1f09cc5ae00a9\""
   },
   "https://www.mozilla.org/fr/firefox/linux/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -20493,8 +20757,8 @@
     "etag": "\"a8c2674c63278de6d7d9f6704ecdf302\""
   },
   "https://www.mozilla.org/fr/firefox/mac": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"390a2b67bd384a61a26fe518148c1fce\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"86243672933030b834eadee27cef0336\""
   },
   "https://www.mozilla.org/fr/firefox/mac/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -20560,13 +20824,21 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"e4813ba5def57a492daa857e8bc2ee7d\""
   },
+  "https://www.mozilla.org/fr/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c53239db6d486792cf70a18109d8a872\""
+  },
+  "https://www.mozilla.org/fr/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"39bbb54feeb1dc2126c340301d7fe38c\""
+  },
   "https://www.mozilla.org/fr/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"1a9fd9b5831fe9bc5bf8d97aeb3bc153\""
   },
   "https://www.mozilla.org/fr/firefox/windows": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d4d4095636d7016992e9a0c1f224ed13\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0bab402ada7a13fb5c2c2be48ffe6e4f\""
   },
   "https://www.mozilla.org/fr/firefox/windows/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -20685,8 +20957,8 @@
     "etag": "\"ebdd43dd1baba9b3cc3e078424dede20\""
   },
   "https://www.mozilla.org/fr/products/vpn/": {
-    "date": "2021-08-27T12:03:07.097397+00:00",
-    "etag": "\"658f8cd9e6b6725c7be0a941c2b202f3\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"912cc19585311449115a856f96c7916a\""
   },
   "https://www.mozilla.org/fr/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -20697,8 +20969,8 @@
     "etag": "\"4f05761a62048a17dfd532bb08e89576\""
   },
   "https://www.mozilla.org/fy-NL/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"adb7265a84b3a014a5a21c8edb6ab932\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2f2688951f85449c8485a579476069d5\""
   },
   "https://www.mozilla.org/fy-NL/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -20978,6 +21250,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"bcb699aeb7b70a4fce95d6ceedd3b885\""
   },
+  "https://www.mozilla.org/fy-NL/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a6f86413c25b96a3b935678529c7223f\""
+  },
+  "https://www.mozilla.org/fy-NL/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"971186fb91ae5929193d5f62a230f329\""
+  },
   "https://www.mozilla.org/fy-NL/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"b6e6076dd19fac9feb8da2b3865edd4f\""
@@ -21043,8 +21323,8 @@
     "etag": "\"ae0abe5359b9b2394e6df22bef6af2c5\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/": {
-    "date": "2021-09-01T18:01:33.672228+00:00",
-    "etag": "\"784ccf5b2a869e43ce6eb49d04204e72\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a7f33648af1619a0fe0edc77f9b254c4\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -21170,6 +21450,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"534cb6d66150a508e9d22baad459c3f1\""
   },
+  "https://www.mozilla.org/ga-IE/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"49e4e240e797c696b3a9ed1f097ee2bd\""
+  },
+  "https://www.mozilla.org/ga-IE/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"114af79fe974bbc00155fbba40d23cda\""
+  },
   "https://www.mozilla.org/ga-IE/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"efa5afeeba0f2133f426c7823383236e\""
@@ -21229,6 +21517,14 @@
   "https://www.mozilla.org/gd/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"ab2ed4311df84524387d63b0fccd4853\""
+  },
+  "https://www.mozilla.org/gd/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"806c3e954a9b9f1db8efefea23b73e19\""
+  },
+  "https://www.mozilla.org/gd/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9d9393b3504a599756bf884e027a8239\""
   },
   "https://www.mozilla.org/gd/firefox/whatsnew/india/": {
     "date": "2021-07-07T12:03:02.647401+00:00",
@@ -21474,6 +21770,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"62b5aed26373125e465a16d84e783bd9\""
   },
+  "https://www.mozilla.org/gl/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"043e5931ef5b74d092cdaff00dac101a\""
+  },
+  "https://www.mozilla.org/gl/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"aa7ad9762e6f61924b0930883c8ded99\""
+  },
   "https://www.mozilla.org/gl/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"c11c17a049a99425a8336896b0bcd684\""
@@ -21519,8 +21823,8 @@
     "etag": "\"0146732f083b7ea0527b090a2afe4800\""
   },
   "https://www.mozilla.org/gn/about/history/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"5746b65b4792e9f101134ea2b1a2838f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0412f422563ecb1e6a66f77d80279cb0\""
   },
   "https://www.mozilla.org/gn/about/history/details/": {
     "date": "2018-08-15T03:31:01.162649+00:00",
@@ -21762,6 +22066,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"25f6c67b45e25cbd422808b886cf3bbf\""
   },
+  "https://www.mozilla.org/gn/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"23bb1eeeb572a8daa9dcd5bfde1c756a\""
+  },
+  "https://www.mozilla.org/gn/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0cd01ab50da6b675e8ba92aadde45548\""
+  },
   "https://www.mozilla.org/gn/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"91cec452a052cf82e3a8bbf5b0eb3858\""
@@ -21807,8 +22119,8 @@
     "etag": "\"23fafa7d3758ff04be334d8755b8629d\""
   },
   "https://www.mozilla.org/gn/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"ac09a5f7982b3610709b8937bb52b27b\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"38fb48ec7e362de475b5b1881a693f01\""
   },
   "https://www.mozilla.org/gn/products/vpn/desktop/": {
     "date": "2021-08-31T18:01:21.235197+00:00",
@@ -21970,6 +22282,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"9ea3bfedb99aac9f0d4c2304cb52c206\""
   },
+  "https://www.mozilla.org/gu-IN/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1d6719b0ebfb5260702b98f5b683c5ec\""
+  },
+  "https://www.mozilla.org/gu-IN/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"62f7834902000728de98f92866068bae\""
+  },
   "https://www.mozilla.org/gu-IN/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"b32f8ea547c7ee064f59cef771dc0407\""
@@ -22106,6 +22426,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"8510211ab761546212d8891a26df1e8f\""
   },
+  "https://www.mozilla.org/he/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"845f608f5fc1d2ba56883b50f3f994f9\""
+  },
+  "https://www.mozilla.org/he/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"791bf52727f77a9d047092e5181b4ea0\""
+  },
   "https://www.mozilla.org/he/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0a0d2059cf1b83c8ca96344e926782ba\""
@@ -22131,8 +22459,8 @@
     "etag": "\"7a2c0ae57beff438881e2c2b933c7588\""
   },
   "https://www.mozilla.org/hi-IN/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"24199d2766b4c5f9e9343d3831cc2127\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e6f5577b7615ec987840973cfb306651\""
   },
   "https://www.mozilla.org/hi-IN/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -22436,6 +22764,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"9c0525dd14db7423d49c5451bc96b670\""
   },
+  "https://www.mozilla.org/hi-IN/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"fc475a84d227ca68207f2f9e8cf6ae22\""
+  },
+  "https://www.mozilla.org/hi-IN/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c4ecb069cf121edbae5cfedc50a774ba\""
+  },
   "https://www.mozilla.org/hi-IN/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"faf86790fdafaaeed4ab10cd01eb96fe\""
@@ -22517,8 +22853,8 @@
     "etag": "\"7282206c281e3f5ba13c6cc129d6b01e\""
   },
   "https://www.mozilla.org/hi-IN/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"2cd2cbd12a94123e80582d3226b518a2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"769ceb91425c5bc602131ca9959c335a\""
   },
   "https://www.mozilla.org/hi-IN/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -22740,6 +23076,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d9f3501706b78ed126e9cd3b7a0df7f3\""
   },
+  "https://www.mozilla.org/hr/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9c8d433e3e6d6f6c191aadb40e475609\""
+  },
+  "https://www.mozilla.org/hr/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f9a34107cbf35e2daed5ea2e935c6e42\""
+  },
   "https://www.mozilla.org/hr/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"1711b1705d9eb4d363d744356536b773\""
@@ -22777,8 +23121,8 @@
     "etag": "\"8f5920f34fbc153f1d23821927dcc7de\""
   },
   "https://www.mozilla.org/hsb/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"6c53dc317f5f6130624901890b98aa8b\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bd073fcbe93092d3c0dffc18fc3b56ec\""
   },
   "https://www.mozilla.org/hsb/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -23014,6 +23358,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"6c75c4a5ad09968a9f037fc2f2932671\""
   },
+  "https://www.mozilla.org/hsb/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"79c9b10896ea95520d89f875d10ddf4e\""
+  },
+  "https://www.mozilla.org/hsb/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c2f0cd130f419f7bf9fa6bd2212ca704\""
+  },
   "https://www.mozilla.org/hsb/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"2c661abf045d955b99d820e904f1d83c\""
@@ -23047,8 +23399,8 @@
     "etag": "\"5521779e463aea7f834cddac4df991c0\""
   },
   "https://www.mozilla.org/hsb/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"8477a7d4ff4c8a42ca13025ae39cb0a3\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"877eb64887088d547e81f86d5c5cfb14\""
   },
   "https://www.mozilla.org/hsb/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -23059,8 +23411,8 @@
     "etag": "\"dbcaa197ca1c8ee361354671336a382b\""
   },
   "https://www.mozilla.org/hu/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"46523a06ad42927ef56dcb9db9d0186f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"153d096f1e89b0855f80e2b1e2531e19\""
   },
   "https://www.mozilla.org/hu/about/": {
     "date": "2021-09-03T12:03:05.226330+00:00",
@@ -23338,6 +23690,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"5c0d433b30d5da7f9b2cd7a5dea2120d\""
   },
+  "https://www.mozilla.org/hu/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"42427d026508e28fbca19cc82dbda18b\""
+  },
+  "https://www.mozilla.org/hu/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1ab3a97f10f107fc8363a8ed3129e131\""
+  },
   "https://www.mozilla.org/hu/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"2dba8feb531672a481fdd5b03c93ec60\""
@@ -23399,8 +23759,8 @@
     "etag": "\"1855c038dc58d16973eb7c33387a4b13\""
   },
   "https://www.mozilla.org/hu/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"a6354c03284b3323cbb1176d09a825aa\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"baee0097f5def4e7987bac3ee779b86a\""
   },
   "https://www.mozilla.org/hu/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -23586,6 +23946,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"24bb7cd7f18d6396304950726325b004\""
   },
+  "https://www.mozilla.org/hy-AM/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2d4fde0f8798173c3be5637a0d44384f\""
+  },
+  "https://www.mozilla.org/hy-AM/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bbdd88f34be5b84ce9e5badc032f5e7c\""
+  },
   "https://www.mozilla.org/hy-AM/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"99315d2c076cd887ccd5caabd69ac4b2\""
@@ -23615,8 +23983,8 @@
     "etag": "\"bb50829d1039eea06e9a983494e6a9d4\""
   },
   "https://www.mozilla.org/ia/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"b2a406afa23ba1270775a983200f6e30\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3f71a6922d27b2135c01759ef0c810bc\""
   },
   "https://www.mozilla.org/ia/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -23892,6 +24260,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"fa77438b49d73069a2d394795d8469e0\""
   },
+  "https://www.mozilla.org/ia/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b7fd6078ce27366749260c614d43025f\""
+  },
+  "https://www.mozilla.org/ia/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0c0327ebeebe2b24d2e56ae30f27f733\""
+  },
   "https://www.mozilla.org/ia/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"f68aeea726089a7325b335ecd0517866\""
@@ -23953,8 +24329,8 @@
     "etag": "\"9b8b1e861a8d7745799914d8504f25f0\""
   },
   "https://www.mozilla.org/ia/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"77a322cc51cb4cb39257457bcb9be0f7\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4a3f2388105f57388ccf7fd0d6eac4f1\""
   },
   "https://www.mozilla.org/ia/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -24009,8 +24385,8 @@
     "etag": "\"c7bdb78704317e74f792775a368b2476\""
   },
   "https://www.mozilla.org/id/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"551bacd07401540580d2960bc1eecd3d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"876d594a25cee22b182483dd6c8b4c05\""
   },
   "https://www.mozilla.org/id/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -24318,6 +24694,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"4b5c55659df7d6de3514a92e27e08792\""
   },
+  "https://www.mozilla.org/id/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5f894821ecb640de38d317f71aa1ad6b\""
+  },
+  "https://www.mozilla.org/id/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"54e160f3a9c846afc37059798b0a226a\""
+  },
   "https://www.mozilla.org/id/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"af36f3710fae7c8f53c896e3152610ee\""
@@ -24411,8 +24795,8 @@
     "etag": "\"66c5669f8014c0a2f0b391a89a6ef8aa\""
   },
   "https://www.mozilla.org/id/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"26058db4abe2e48f7880d0de561be483\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2f920a038f22f66534efe3810fa5855d\""
   },
   "https://www.mozilla.org/id/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -24530,6 +24914,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"96d297a9b9950bd9cc1e1606530de375\""
   },
+  "https://www.mozilla.org/is/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"845fe0337b605034e12cc7095d7eff7e\""
+  },
+  "https://www.mozilla.org/is/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1c6e2a9f84faff8adb7e1890faf8d012\""
+  },
   "https://www.mozilla.org/is/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"80468a800ac019b532b8bec3259df0d3\""
@@ -24559,8 +24951,8 @@
     "etag": "\"3652afb079988ac6556e0b41df581aaf\""
   },
   "https://www.mozilla.org/it/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"6d2e48340218f656e5c8485c697308bd\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4686ef17c9eb9240a30c19b926c63047\""
   },
   "https://www.mozilla.org/it/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -24868,6 +25260,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"395d73a13860ab041acba57768d2dfa5\""
   },
+  "https://www.mozilla.org/it/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5fca9f98ad49a8385a6e068395acec69\""
+  },
+  "https://www.mozilla.org/it/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"31cc0c6865dfec65e5e2f9e82cae511b\""
+  },
   "https://www.mozilla.org/it/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"f6400eb4ddb1aa846816d2448a3cc1ec\""
@@ -24973,8 +25373,8 @@
     "etag": "\"7cfa163931fb179fa559d8f841e31c1e\""
   },
   "https://www.mozilla.org/it/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"26f93bacd57032274b2d5fcf8d8c8624\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d11283a5ff4b7ce2e31fdb0e9021eb35\""
   },
   "https://www.mozilla.org/it/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -25029,8 +25429,8 @@
     "etag": "\"850d3e5a61eec54fc112bef4d8623abf\""
   },
   "https://www.mozilla.org/ja/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"8137259b151cfd1dca1c86c03d85fd1e\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"20badfc61cd2256a6aed00a735b9f2b9\""
   },
   "https://www.mozilla.org/ja/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -25316,6 +25716,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"c71d298c1935299b0f086923ce113a07\""
   },
+  "https://www.mozilla.org/ja/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"87ee104fec3e37b38a4580e9f2529979\""
+  },
+  "https://www.mozilla.org/ja/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"be390e64ed75893592ec755073ca1b55\""
+  },
   "https://www.mozilla.org/ja/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"138d4dd90de065e15dd9d8fa5fde31c0\""
@@ -25445,8 +25853,8 @@
     "etag": "\"73c408c0ec002c9ccb94cc96948e510d\""
   },
   "https://www.mozilla.org/ja/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"9eb87e57fe80cec492b1e822e8c661ed\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2907ed13c530bedb3b809bfb590da210\""
   },
   "https://www.mozilla.org/ja/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -25501,8 +25909,8 @@
     "etag": "\"393ac268054aebec72e203b493d0c477\""
   },
   "https://www.mozilla.org/ka/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"7dc0080d5613bcab30698b7f9b7c6616\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"52c5c4af7675c1599272c9ac784236fc\""
   },
   "https://www.mozilla.org/ka/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -25768,6 +26176,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"0f7bee2ad75453e35f0b9d3a4ce27600\""
   },
+  "https://www.mozilla.org/ka/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e4237bce5186db065dd750b6b71a0ae0\""
+  },
+  "https://www.mozilla.org/ka/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e61422f32fb6c1c982d4d827aa087ffd\""
+  },
   "https://www.mozilla.org/ka/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"f3b604f4cd0896248ae4a75897e2b779\""
@@ -25817,8 +26233,8 @@
     "etag": "\"1542ff01bd28ae4f8ace37849b6f2f7d\""
   },
   "https://www.mozilla.org/ka/products/vpn/": {
-    "date": "2021-08-27T12:03:07.097397+00:00",
-    "etag": "\"6824232b888c9edbc5c0b0e24a3b81da\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4dd8b524bb839d1a5f1c7ab174e0e7a5\""
   },
   "https://www.mozilla.org/ka/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -26114,6 +26530,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"0e722cab1c1d34ab3684d5ec72335299\""
   },
+  "https://www.mozilla.org/kab/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9b5472c0154955eb02cb40fa476c0e19\""
+  },
+  "https://www.mozilla.org/kab/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5dccf98ff43da6e0eaf8f9ac4b1f3ba0\""
+  },
   "https://www.mozilla.org/kab/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"298b171794cc01560680e3d6dacf37c7\""
@@ -26254,6 +26678,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"2b3394db6ab8d38684d4aa417dfc1476\""
   },
+  "https://www.mozilla.org/kk/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"727cb770adb0fd5a0b6463ca8b405a38\""
+  },
+  "https://www.mozilla.org/kk/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4803453ffb53a8bd8d79541ad9d607c8\""
+  },
   "https://www.mozilla.org/kk/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"dc59b98a796bfa55d69fcee978eb6f00\""
@@ -26301,6 +26733,14 @@
   "https://www.mozilla.org/km/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"66908f3207e67878b40d7f62897a191f\""
+  },
+  "https://www.mozilla.org/km/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ece6966360d5451cb98f2192791c4496\""
+  },
+  "https://www.mozilla.org/km/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"50e44046d312d6399db6a61e6dd78504\""
   },
   "https://www.mozilla.org/km/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -26354,6 +26794,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"dab96715b7a7ebbfe8d3f5f979ac04a4\""
   },
+  "https://www.mozilla.org/kn/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f9e66c704c1d96f2f6b8f1062d90daf8\""
+  },
+  "https://www.mozilla.org/kn/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c7e7d0942136f3d893fb8a3ef0daeba3\""
+  },
   "https://www.mozilla.org/kn/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"9bba0cbacce8cf14a7cf2684feed34dd\""
@@ -26371,8 +26819,8 @@
     "etag": "\"1c9dc589846b364a10cdaafc2e5ecc9c\""
   },
   "https://www.mozilla.org/ko/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d3ea0aa0ae9d8ceb9bf05f37bf3e976a\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ac47994b55e2002c379daa1eea7c91a8\""
   },
   "https://www.mozilla.org/ko/about/": {
     "date": "2018-08-15T03:30:07.783812+00:00",
@@ -26616,6 +27064,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"a4bfc4e51352465b0d7c5dbe1b74222d\""
   },
+  "https://www.mozilla.org/ko/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b01a632cdafc4ed057cc6c13eedf58de\""
+  },
+  "https://www.mozilla.org/ko/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c0d4cc5fda2ad94d596ae2a004474b1b\""
+  },
   "https://www.mozilla.org/ko/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"d144e7750619e913349887f5226bb03b\""
@@ -26803,6 +27259,14 @@
   "https://www.mozilla.org/lij/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"25a50e54165f0deffc0cc7e93ad2935a\""
+  },
+  "https://www.mozilla.org/lij/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"37637c55ee9a42918d43db305eb04f58\""
+  },
+  "https://www.mozilla.org/lij/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"094de1330a7f902f3107ed852b83e6d3\""
   },
   "https://www.mozilla.org/lij/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -27014,6 +27478,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1e8cdb84ea28dd6a12e2ca3457f3d45c\""
   },
+  "https://www.mozilla.org/lt/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1c74b586ad10b3d6bf63c660add090fa\""
+  },
+  "https://www.mozilla.org/lt/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2d098f5b71b8666ec3c8d2d49bd5bbf9\""
+  },
   "https://www.mozilla.org/lt/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"a79b4c8967c858723df6e78680cc53a1\""
@@ -27062,6 +27534,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d61bc8ba5e16531222a7ccb3cffe4e9f\""
   },
+  "https://www.mozilla.org/ltg/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ca9363ff957e302965b71d2db514a761\""
+  },
+  "https://www.mozilla.org/ltg/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7dbc047a05e23c63c37c7526b8310696\""
+  },
   "https://www.mozilla.org/ltg/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0f98abb14ea70819efe8b84595c32784\""
@@ -27097,6 +27577,14 @@
   "https://www.mozilla.org/lv/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"6040ef1c34e9b471357b380a6d0da543\""
+  },
+  "https://www.mozilla.org/lv/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"87dccf91e88a7e3b139c05ccdf734fd5\""
+  },
+  "https://www.mozilla.org/lv/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f1cae81d8085a5f9600c1df19c7f1d0c\""
   },
   "https://www.mozilla.org/lv/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -27165,6 +27653,14 @@
   "https://www.mozilla.org/mk/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"dc0fa57e8db3e0e244557fe74170af2a\""
+  },
+  "https://www.mozilla.org/mk/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"70d09cbf0bf7ef9f6819adf350d7301e\""
+  },
+  "https://www.mozilla.org/mk/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9119b40b8be5901c9a73d6dda57abbe0\""
   },
   "https://www.mozilla.org/mk/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -27329,6 +27825,14 @@
   "https://www.mozilla.org/ml/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f578627c63a27ed9d55743b3fdd33f3d\""
+  },
+  "https://www.mozilla.org/ml/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1ed81fc2dbdd39f655a3efa743f94a72\""
+  },
+  "https://www.mozilla.org/ml/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"24ba3f40b753cf6e6cceb39cfae97bd1\""
   },
   "https://www.mozilla.org/ml/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -27510,6 +28014,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"5801abe1a4ebea82dac90ab7851d74d2\""
   },
+  "https://www.mozilla.org/mr/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"265ee8296720a9e172d450c1348ca9bf\""
+  },
+  "https://www.mozilla.org/mr/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d2abf9aca618a4113239de2c4241f70f\""
+  },
   "https://www.mozilla.org/mr/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"1f085d4fac18f8d4aabad6a5d10aeb8c\""
@@ -27535,8 +28047,8 @@
     "etag": "\"86e430580561074a1a41ba93d6cd98d0\""
   },
   "https://www.mozilla.org/ms/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d1e133d7747a0c3aee16c618f7fa7a10\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"56020b823b74d3e92d7e6c718255f21e\""
   },
   "https://www.mozilla.org/ms/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -27824,6 +28336,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1790ed21a84b58c84ae24df306bdce8e\""
   },
+  "https://www.mozilla.org/ms/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c824813cb6345904a84da7a7cecbf842\""
+  },
+  "https://www.mozilla.org/ms/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9cf961a56e1584a8957319a18bd743cb\""
+  },
   "https://www.mozilla.org/ms/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"195990287c02c7b3439bfc76bc8e5080\""
@@ -27893,8 +28413,8 @@
     "etag": "\"3b78110f9bf6889847b2fa6469de67d1\""
   },
   "https://www.mozilla.org/ms/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"aed277b5c280af774bcd40d649d66da0\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ec068f92cbb489ac610a41441b68d308\""
   },
   "https://www.mozilla.org/ms/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -28067,6 +28587,14 @@
   "https://www.mozilla.org/my/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"cbe8279bb63ac86ac9d1ef7c0e7dda56\""
+  },
+  "https://www.mozilla.org/my/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4a83341d70b536acf696a12c59e506b9\""
+  },
+  "https://www.mozilla.org/my/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"4205e616522dcd1fcf03241f81c03352\""
   },
   "https://www.mozilla.org/my/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -28316,6 +28844,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"e550d96d43299402ee08f6f2d722780d\""
   },
+  "https://www.mozilla.org/nb-NO/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"40c55a86267f14f38ec11b1770f5bade\""
+  },
+  "https://www.mozilla.org/nb-NO/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3d7cb53b8cd28b5218ab3a986618dd9d\""
+  },
   "https://www.mozilla.org/nb-NO/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"fae88e01538a0fd668ed003f3b3fbcaa\""
@@ -28380,13 +28916,21 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"711d678e92097a98c36f38073bb6581b\""
   },
+  "https://www.mozilla.org/ne-NP/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1dd0e4f7ac05acebd98b687a1badc8ea\""
+  },
+  "https://www.mozilla.org/ne-NP/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a315ee0640c96a7ffb832e14e7e32464\""
+  },
   "https://www.mozilla.org/ne-NP/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0d78f68dcb31b203b18386def27a5e69\""
   },
   "https://www.mozilla.org/nl/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"759c70de5a157ffca3464f3b118648b2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bffb6c8a83f52dcf06dc66752a82c9da\""
   },
   "https://www.mozilla.org/nl/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -28690,6 +29234,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f259835fdf5c731f70cdce74eba20fcb\""
   },
+  "https://www.mozilla.org/nl/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9555fe337df1d1dcce7224b4e71498b9\""
+  },
+  "https://www.mozilla.org/nl/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"db0bed50752a06eab26ebf954bfad67d\""
+  },
   "https://www.mozilla.org/nl/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"50c0b4b0ddc72bba417b65748537e114\""
@@ -28771,8 +29323,8 @@
     "etag": "\"9b1946cdf41817af810c91cf99a977ce\""
   },
   "https://www.mozilla.org/nl/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"95308c3811a8a57942de6c0701bb39d5\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9cbbe67fa28fb13900f507f2392e292d\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -28827,8 +29379,8 @@
     "etag": "\"b2f1cb7e46049ee214f24d117ac0dcac\""
   },
   "https://www.mozilla.org/nn-NO/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d7092a7bd5430609692a212e4ebeb469\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d05e1d22b06c0f6b9e1b09416aaccb4c\""
   },
   "https://www.mozilla.org/nn-NO/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -29060,6 +29612,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"3f09e79ad1325d347fe084465d03065c\""
   },
+  "https://www.mozilla.org/nn-NO/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"514e07796afef4b0485f768fc5644f0e\""
+  },
+  "https://www.mozilla.org/nn-NO/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0ab4e47ea6de275f6549372e802bfb75\""
+  },
   "https://www.mozilla.org/nn-NO/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"e58b15409218c2ed501137670e68a905\""
@@ -29140,6 +29700,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"e21b6472e92ea1b11c3fe258c63211af\""
   },
+  "https://www.mozilla.org/oc/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"10ac7327e2549470cf84fabee4b9dc34\""
+  },
+  "https://www.mozilla.org/oc/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"136eec188e3155c119dd7ce86e72dda0\""
+  },
   "https://www.mozilla.org/oc/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"96e09ae6534130a1d2a7f5c52eec6706\""
@@ -29153,8 +29721,8 @@
     "etag": "\"4acd68c42d863104b7908e742dedeb39\""
   },
   "https://www.mozilla.org/pa-IN/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"bad08d52628eae98e3eed6b06ada0957\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7eaa3da20898f00f7667b1d8906e6517\""
   },
   "https://www.mozilla.org/pa-IN/about/": {
     "date": "2018-08-15T03:30:04.072951+00:00",
@@ -29299,6 +29867,14 @@
   "https://www.mozilla.org/pa-IN/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f999bda63634f8b2be749991ac374b6e\""
+  },
+  "https://www.mozilla.org/pa-IN/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7eb8e1dc646e834ba171b1b0f5d42445\""
+  },
+  "https://www.mozilla.org/pa-IN/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"32b2a520af99ea2eaecee95e92a6cb25\""
   },
   "https://www.mozilla.org/pa-IN/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -29582,6 +30158,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"055d070bb4b0bb7369d49e5ed76e8b27\""
   },
+  "https://www.mozilla.org/pl/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0e1c6fc141790d95081f225dc9a77016\""
+  },
+  "https://www.mozilla.org/pl/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"faf6676b183b6d34b15a4b980367a429\""
+  },
   "https://www.mozilla.org/pl/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"bb3e0ecbf5a19e888c4fd2b6d4de9a3e\""
@@ -29667,8 +30251,8 @@
     "etag": "\"071ae5bebb3f279f9309b63ffe416060\""
   },
   "https://www.mozilla.org/pt-BR/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"646dc6128390f6dae99b1ea1bb0e33dc\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1344ae3c26b12d2d5d919291b59ee212\""
   },
   "https://www.mozilla.org/pt-BR/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -29972,6 +30556,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"2819207c03d54bba84789164caee9cf0\""
   },
+  "https://www.mozilla.org/pt-BR/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"01bec819b8cc3db5f13565fdee465b7c\""
+  },
+  "https://www.mozilla.org/pt-BR/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e386168d7997b608faa22083ce89a0ac\""
+  },
   "https://www.mozilla.org/pt-BR/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"02149b5bc77f9c24bb21fe75152d4f20\""
@@ -30089,8 +30681,8 @@
     "etag": "\"e9f7e9314d301bc1aad83a18d58785cf\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"335d06c8b8921de8d65edb56f6425ac2\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"da104fe07730a0c5aee70017edae2a1a\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -30145,8 +30737,8 @@
     "etag": "\"606ea515d489abe410a48a83f75bd2f9\""
   },
   "https://www.mozilla.org/pt-PT/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"46935e16f087e0622192a845760a7dab\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7628c27f1b763f463a536683f19061a6\""
   },
   "https://www.mozilla.org/pt-PT/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -30295,32 +30887,32 @@
     "etag": "\"68891454e9fc80421c78db98422de7da\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/bookmarks/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"c9c21a70c9f69db13d3c84950eda0289\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b24e76b880c834d0a28e86a7bec1f056\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/fast/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"09e327aa5f8fa70618cdc2488592bb9b\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2d8d061f31e2be8c0e6cb1292c8aea44\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/independent/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"33c2edb0ace55d2ee629e9d26eb9706d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5994261aaf4c5d588c3b78ec4e230dfe\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/memory/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"f486906cd09af1baa1f5ef28fcf780fc\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f56ad7d133970403472f929b592602aa\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/password-manager/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"245fb462e0b350566eaad623f92eac4b\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bc4757125ce184f26ca3f381c84bc31f\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/picture-in-picture/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
     "etag": "\"59d9a217a4541f3ec4954aac2db2bea6\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/private-browsing/": {
-    "date": "2021-09-02T18:03:14.670868+00:00",
-    "etag": "\"beaede1550ab5f8d92e6d4bedcb3190f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a97893538ddbafc0d873410f392477cd\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.564747+00:00",
@@ -30406,6 +30998,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"a2335c515532751e23ee4c4156c6caa2\""
   },
+  "https://www.mozilla.org/pt-PT/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"28e5c05a022f3093234c023f235a64cb\""
+  },
+  "https://www.mozilla.org/pt-PT/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ffd729f5e9a5a77fec8a14a05881ecde\""
+  },
   "https://www.mozilla.org/pt-PT/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"a27dd5544ba3fb8aa7c6c5a14db98014\""
@@ -30443,8 +31043,8 @@
     "etag": "\"30478942b2e66ada4753a6ba346e6db5\""
   },
   "https://www.mozilla.org/rm/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"deddf3ec2af8d1692dd8e43927e5982e\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"db7425d142233e901c292dfd93e32329\""
   },
   "https://www.mozilla.org/rm/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -30593,6 +31193,14 @@
   "https://www.mozilla.org/rm/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"033c62fb4df32639b63d7915ccdda0f3\""
+  },
+  "https://www.mozilla.org/rm/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2f3839c783c37696fb4186e2f46a8a2b\""
+  },
+  "https://www.mozilla.org/rm/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0262d0719c60a78e6ab24905e70e6531\""
   },
   "https://www.mozilla.org/rm/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -30888,6 +31496,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"48b93796c384785c4409855183fb38ed\""
   },
+  "https://www.mozilla.org/ro/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6f53f03437ef7a5f6ba6a5be02ab5545\""
+  },
+  "https://www.mozilla.org/ro/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7b2dfc12095be842587ad8d1c4e51918\""
+  },
   "https://www.mozilla.org/ro/firefox/whatsnew/india/": {
     "date": "2021-07-14T00:04:02.661606+00:00",
     "etag": "\"cc035121d68330ca1a957b7fc189476b\""
@@ -30953,8 +31569,8 @@
     "etag": "\"faaa2c6e2ea03c0f725b7d6ec16c513e\""
   },
   "https://www.mozilla.org/ru/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"dcb2bb57fc42b23cefd592849e03e129\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c32d6eb633f5e6fc7dcd00fd1195a19f\""
   },
   "https://www.mozilla.org/ru/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -31258,6 +31874,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d0edaa636e367154fa09377320906db9\""
   },
+  "https://www.mozilla.org/ru/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9f7ffe03b36567ec79ef62b3f585a447\""
+  },
+  "https://www.mozilla.org/ru/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d5d32a45cf6ece4f162e5266e9d808ab\""
+  },
   "https://www.mozilla.org/ru/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"2e5383c42e5cc73b4f764250c252c6c5\""
@@ -31319,8 +31943,8 @@
     "etag": "\"339df2badb042fea8627b0947877fecd\""
   },
   "https://www.mozilla.org/ru/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"2b79b72ff2cec7ba3496f39101e9dcc8\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d1af3a6d72ce8ee6ab2a650c95f97cc9\""
   },
   "https://www.mozilla.org/ru/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -31426,6 +32050,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1e075d3fb6b0fa4437624c32a86a117f\""
   },
+  "https://www.mozilla.org/sco/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9452f763484681702d838d96648e1428\""
+  },
+  "https://www.mozilla.org/sco/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f9efe4f9f70f33aba40d3ae5692fc1ee\""
+  },
   "https://www.mozilla.org/sco/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"33e9e424eb84b5d3d73d107b1a2e12c1\""
@@ -31458,13 +32090,21 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"70644762924fab1c6401e6f4f6c83d02\""
   },
+  "https://www.mozilla.org/si/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cff861627b10741353f1fcfeb61a9708\""
+  },
+  "https://www.mozilla.org/si/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0009eb2294a805b8394659e2ff74024c\""
+  },
   "https://www.mozilla.org/si/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"c901c2b00fcba35987d01f5e812c133f\""
   },
   "https://www.mozilla.org/sk/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"c57c837a08f604d82c49f28830944237\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"b81de97a602773a6a8c5520b6047d65f\""
   },
   "https://www.mozilla.org/sk/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -31661,6 +32301,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"d4590679a5a18c65b718e75ec7f564fe\""
   },
+  "https://www.mozilla.org/sk/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3db407e3d442d81633a88bf9da5e2884\""
+  },
+  "https://www.mozilla.org/sk/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"3c935852c5ad7741ef86f7e72d2c9a4b\""
+  },
   "https://www.mozilla.org/sk/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"c0a1c16c85af26479ebd112a5eeaabec\""
@@ -31726,8 +32374,8 @@
     "etag": "\"32a8950809d2067db6e7d94e47c4dfc6\""
   },
   "https://www.mozilla.org/sk/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"728e2381c4defdd86d4739da02a8cc75\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9ba381264dda1dc2b686009bbd75ca06\""
   },
   "https://www.mozilla.org/sk/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -31738,8 +32386,8 @@
     "etag": "\"95afdbc3b6a0d0056a5df284ce719455\""
   },
   "https://www.mozilla.org/sl/": {
-    "date": "2021-09-03T06:01:43.473983+00:00",
-    "etag": "\"cf54f54008a810c7dc7c55cb930df359\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9c05f623d85ba07a685d5de65bbdf2d9\""
   },
   "https://www.mozilla.org/sl/about/": {
     "date": "2021-09-03T00:03:14.324456+00:00",
@@ -31959,6 +32607,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"90556e2f636969dd82570c142567920d\""
   },
+  "https://www.mozilla.org/sl/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"927d021cb07a9475ed3be81da8172794\""
+  },
+  "https://www.mozilla.org/sl/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"34ce234b7e40c08bc3dc1f1fb5d974b6\""
+  },
   "https://www.mozilla.org/sl/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"d7a73d64b5c608ea75097a8f934dece5\""
@@ -32062,6 +32718,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"b1f7fe7ec12bd7e6c0e7e44fc4f4db5f\""
   },
+  "https://www.mozilla.org/son/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"55d0c9b257b6716444b0a480a82c3b15\""
+  },
+  "https://www.mozilla.org/son/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"653c4a7c7032109d2ebe2e093924b34e\""
+  },
   "https://www.mozilla.org/son/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"6f4d9f86981902767041316058e659c5\""
@@ -32075,8 +32739,8 @@
     "etag": "\"8b5c8a8221602c4988d1bdc7fa5dbd39\""
   },
   "https://www.mozilla.org/sq/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"e061d48a58833b449e197c77fa19d764\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"a4a58deb5ce2d8779417f7577f401e03\""
   },
   "https://www.mozilla.org/sq/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -32356,6 +33020,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"157bc280ad60efc0b34ebe5b3634e86b\""
   },
+  "https://www.mozilla.org/sq/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bf65d402ed4eb1a0ec57d6cd62918a82\""
+  },
+  "https://www.mozilla.org/sq/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ecf0f5d1a51992701259ed6c069297d8\""
+  },
   "https://www.mozilla.org/sq/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"ab7e81e7f3491ef62792b16ea2ec128a\""
@@ -32457,8 +33129,8 @@
     "etag": "\"5cfdb08063a8a87c61b2a3cd704f6a79\""
   },
   "https://www.mozilla.org/sq/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"91a42878b03a445edbd8e2bdd091df60\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"89ca8d4831308df39d3966a486e2717c\""
   },
   "https://www.mozilla.org/sq/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -32702,6 +33374,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"9c51e95f9bba93e3cc360868db9607ae\""
   },
+  "https://www.mozilla.org/sr/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"6869bf9f92c6c629e387cda95f796983\""
+  },
+  "https://www.mozilla.org/sr/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d3c52793f89ba4441c4680506ce4405e\""
+  },
   "https://www.mozilla.org/sr/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"4eaa8d5b910c90da4dd22d90c63f5f3e\""
@@ -32767,8 +33447,8 @@
     "etag": "\"e5efe192dd5b7171b8f2509a7a4a2501\""
   },
   "https://www.mozilla.org/sv-SE/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"8d67cf5a0b6f80346dc894c0973dd37a\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"be0e838f43d50651b5e5dfe744e1bceb\""
   },
   "https://www.mozilla.org/sv-SE/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -33048,6 +33728,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1c585b988b27b572ee54649b3970c599\""
   },
+  "https://www.mozilla.org/sv-SE/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"370d01135ad3b085bb43d9e1c8484420\""
+  },
+  "https://www.mozilla.org/sv-SE/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d4bdf89a6571840192275b361fb5f03e\""
+  },
   "https://www.mozilla.org/sv-SE/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"f161b9fd8b87ae123d6b63978c84a24a\""
@@ -33137,8 +33825,8 @@
     "etag": "\"c30abca53d60c094937d8ab848ee05a4\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"25e9ecc8ad71ca88359e2c1572a1000f\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ebd522cad3d9ca2cbefc5e7f8f6e80d6\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -33346,6 +34034,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"699b27961f907d2bf379833b26bdac87\""
   },
+  "https://www.mozilla.org/ta/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"5aa2f82f2a2b4561a99e38135a3e7a5c\""
+  },
+  "https://www.mozilla.org/ta/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"af62ff5519321973d6644a1f0ae91c68\""
+  },
   "https://www.mozilla.org/ta/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"5094851207095278d018b5934b925c52\""
@@ -33446,6 +34142,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"b9913235cbfa78df3c7eb7654d886794\""
   },
+  "https://www.mozilla.org/te/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"803d7d3ba564bb080a7b9cb8e9ce0755\""
+  },
+  "https://www.mozilla.org/te/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"1d6efa30cf7a3e2fb71ec93c8cb9d0f1\""
+  },
   "https://www.mozilla.org/te/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0805ad3e1e34fba88e8802db109fe823\""
@@ -33459,8 +34163,8 @@
     "etag": "\"433aed65441f64c06f73a242fc054a0c\""
   },
   "https://www.mozilla.org/th/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"d17ad04e61511e30add6e3b97c89a5dc\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d9a484101deb1e77ef790fac15ba860f\""
   },
   "https://www.mozilla.org/th/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -33666,6 +34370,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"7575b3ffd41a35856974afc48f18fbd1\""
   },
+  "https://www.mozilla.org/th/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f7b8b776db9f8badb7cedf7ebaccc4bc\""
+  },
+  "https://www.mozilla.org/th/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"ead69768584e9715cebdb57270e5c023\""
+  },
   "https://www.mozilla.org/th/firefox/whatsnew/india/": {
     "date": "2021-07-09T06:01:52.615489+00:00",
     "etag": "\"8d5e294f1c8efe3d449a06827386fa97\""
@@ -33742,6 +34454,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"699d6c7acebee6ed3aefbe517af93323\""
   },
+  "https://www.mozilla.org/tl/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d2a9c12d28fe2e42232247a3c355a96a\""
+  },
+  "https://www.mozilla.org/tl/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"21ddcd20afb7f6b365ae44e81d782030\""
+  },
   "https://www.mozilla.org/tl/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"0bba9c3b573f2c16fc34fe048de3c40a\""
@@ -33759,8 +34479,8 @@
     "etag": "\"1e6c516217d27c550ebef1cc49b0ef46\""
   },
   "https://www.mozilla.org/tr/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"432d23dda43db63f631cf3213cb16489\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"eb7e20dbbdd90e73bc72313625cb0ad0\""
   },
   "https://www.mozilla.org/tr/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -33992,6 +34712,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"483649768d2d87c005c705f4bca83deb\""
   },
+  "https://www.mozilla.org/tr/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bce287ee2ec036880312ca10dcfee522\""
+  },
+  "https://www.mozilla.org/tr/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9143fea2c67bd9857c33d26bb7ae3a62\""
+  },
   "https://www.mozilla.org/tr/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"022fb854719f52e10280daa8d34919db\""
@@ -34037,8 +34765,8 @@
     "etag": "\"c43d0c99d283498b7915eddfa3a03aba\""
   },
   "https://www.mozilla.org/tr/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"bd1e3e022d8ea17cbc0da3e3c0e66ed5\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bc48991391cafc8edc00ba3af1238123\""
   },
   "https://www.mozilla.org/tr/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -34160,6 +34888,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f52387df83872334f9d280cfe2768406\""
   },
+  "https://www.mozilla.org/trs/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"2d531abc7a9d2ba88cd083e32fd57b0a\""
+  },
+  "https://www.mozilla.org/trs/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"10b1faba530930ded51c67a28f94d354\""
+  },
   "https://www.mozilla.org/trs/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"1f0fda56724ceb0041e0f2bd91a3cf19\""
@@ -34185,8 +34921,8 @@
     "etag": "\"2b6884254d56eaced745800ed7e456f4\""
   },
   "https://www.mozilla.org/uk/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"83fe1e0bfe7383c16bfd0e603dac7207\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9ce6aed434a2953c665f19002a45cbea\""
   },
   "https://www.mozilla.org/uk/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -34466,6 +35202,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"b80ad10c63a212f1d0ef98a241efd910\""
   },
+  "https://www.mozilla.org/uk/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"caf1733e4ca04820c86685da100b8f74\""
+  },
+  "https://www.mozilla.org/uk/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9946a478807f62c1c2e90d9755015592\""
+  },
   "https://www.mozilla.org/uk/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"2dfe85c8c7aa67166eae5c901c4b5aae\""
@@ -34543,8 +35287,8 @@
     "etag": "\"ea9bbf2c04ced95d979ee6ecf9de2a28\""
   },
   "https://www.mozilla.org/uk/products/vpn/": {
-    "date": "2021-09-01T00:01:58.311192+00:00",
-    "etag": "\"52c69f1530e9c698bd9598fee6495bc9\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"9ee41ea38355c1df599e7ff7ff159fdd\""
   },
   "https://www.mozilla.org/uk/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -34738,6 +35482,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"748289e3cb596c64ffc75b463a7837a4\""
   },
+  "https://www.mozilla.org/ur/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cc7a7f270b54bae7e4d443fb1571ec10\""
+  },
+  "https://www.mozilla.org/ur/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"baa2a1d601c880934f944275c0cab82f\""
+  },
   "https://www.mozilla.org/ur/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"dd89c1563f1b315e785c56504a55c321\""
@@ -34794,6 +35546,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"728c220ce79a5f4d5a2ebd907e9dc791\""
   },
+  "https://www.mozilla.org/uz/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cb9de0b24ee7087a67581c20719f7e0f\""
+  },
+  "https://www.mozilla.org/uz/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d332868f35d67c851e1e85ef9e77d17f\""
+  },
   "https://www.mozilla.org/uz/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"dd9d5acd173bd802e314d3bdaf5de8e6\""
@@ -34807,8 +35567,8 @@
     "etag": "\"97ef79856c3b5b0490b74aa170caf93b\""
   },
   "https://www.mozilla.org/vi/": {
-    "date": "2021-09-03T00:03:14.324456+00:00",
-    "etag": "\"890287a9b349c04943d97306c3f68db6\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"f222458343ea252b3d0d6fe4b56681c3\""
   },
   "https://www.mozilla.org/vi/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -35082,6 +35842,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"ce7c1bf3a7130bbdfd6a75b57712a2ba\""
   },
+  "https://www.mozilla.org/vi/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"7e6b218c1957513b23a4cc614af935e5\""
+  },
+  "https://www.mozilla.org/vi/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"73696c2ea17c9747c5d1dc932a41f9b6\""
+  },
   "https://www.mozilla.org/vi/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"97535a4bf1c394eb2b1cc97d767ad1d2\""
@@ -35147,8 +35915,8 @@
     "etag": "\"c6e7ac56c06aa41e364aefde643e0b19\""
   },
   "https://www.mozilla.org/vi/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"747fbed36d4fc21b747ac971bedd8b89\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"c753ba9d1c551f8b77e3acb0c3c2b2ca\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -35249,6 +36017,14 @@
   "https://www.mozilla.org/xh/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"1b09f2d9b4837250e93ad0b392bed859\""
+  },
+  "https://www.mozilla.org/xh/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"83c63de69904936c41dcfbea71c50c4f\""
+  },
+  "https://www.mozilla.org/xh/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"cd3bf3c49ba7840e97a1529573802f80\""
   },
   "https://www.mozilla.org/xh/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -35564,6 +36340,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"f55fc824dd88cabc9aa60a0b297826ef\""
   },
+  "https://www.mozilla.org/zh-CN/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"75c6be0c8557bf8d13a0259df58d458d\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bea11db382466a91721f55a097d79e90\""
+  },
   "https://www.mozilla.org/zh-CN/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"47f105203f5fd532e3497a8db18c9133\""
@@ -35649,8 +36433,8 @@
     "etag": "\"d735a351411e57db2b56d27df155a9b6\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"463ac602d40b2908b22cb8d2fc85ec46\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"699410df4da59c0feb909be9af4eb502\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -35705,8 +36489,8 @@
     "etag": "\"39a2220c7b43a478b513b1df13bd34eb\""
   },
   "https://www.mozilla.org/zh-TW/": {
-    "date": "2021-09-03T12:03:05.226330+00:00",
-    "etag": "\"93d1c22921663bfd834b78dafdead523\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"0a0084e069297158e5feddc070c056ea\""
   },
   "https://www.mozilla.org/zh-TW/about/": {
     "date": "2021-09-02T18:03:14.670868+00:00",
@@ -35978,6 +36762,14 @@
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"36b6ab424ba5109364965351c2a4c346\""
   },
+  "https://www.mozilla.org/zh-TW/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"bb121766fc221a8b9bdc7b2f43ccaaba\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"880b1348f0d83a58c243af1f2fbb2a9b\""
+  },
   "https://www.mozilla.org/zh-TW/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
     "etag": "\"4d9c23fbcb0fa974c4c2b2d5847e23f3\""
@@ -36071,8 +36863,8 @@
     "etag": "\"80f683c251bdde7c4c35dc9deac37db0\""
   },
   "https://www.mozilla.org/zh-TW/products/vpn/": {
-    "date": "2021-08-26T00:03:17.806314+00:00",
-    "etag": "\"24c7734db80456d00b10f4ff2f1ebb2d\""
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"47345bc1d12d727d1e8cce51aa933435\""
   },
   "https://www.mozilla.org/zh-TW/products/vpn/invite/": {
     "date": "2021-08-24T18:01:35.732536+00:00",
@@ -36097,6 +36889,14 @@
   "https://www.mozilla.org/zu/firefox/whatsnew/china/": {
     "date": "2021-08-23T18:02:45.906345+00:00",
     "etag": "\"cebefd6ee64d1090ae6ec06d8524ce14\""
+  },
+  "https://www.mozilla.org/zu/firefox/whatsnew/en/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"d864920c3a05665a318de68f7b635b3b\""
+  },
+  "https://www.mozilla.org/zu/firefox/whatsnew/france/": {
+    "date": "2021-09-03T18:02:56.877524+00:00",
+    "etag": "\"e9086e75478e20e245983b341c5994a8\""
   },
   "https://www.mozilla.org/zu/firefox/whatsnew/india/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
