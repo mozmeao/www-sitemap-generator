@@ -5283,20 +5283,27 @@
   ],
   "/firefox/browsers/mobile/android/": [
     "de",
-    "en-US"
+    "en-GB",
+    "en-US",
+    "uk"
   ],
   "/firefox/browsers/mobile/compare/": [
     "de",
-    "en-US"
+    "en-GB",
+    "en-US",
+    "uk"
   ],
   "/firefox/browsers/mobile/focus/": [
     "de",
+    "en-GB",
     "en-US",
     "uk"
   ],
   "/firefox/browsers/mobile/ios/": [
     "de",
-    "en-US"
+    "en-GB",
+    "en-US",
+    "uk"
   ],
   "/firefox/browsers/quantum/": [
     "ar",
