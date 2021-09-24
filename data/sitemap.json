@@ -3471,6 +3471,12 @@
   "/firefox/91.1.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/92.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/92.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/92.0/releasenotes/": [
     "en-US"
   ],
@@ -5302,6 +5308,7 @@
   ],
   "/firefox/browsers/mobile/compare/": [
     "ar",
+    "cs",
     "cy",
     "de",
     "en-GB",
