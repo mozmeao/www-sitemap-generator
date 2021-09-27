@@ -342,8 +342,8 @@
     "etag": "\"a83ae69527d19cc44f6d34b56aae0d4c\""
   },
   "https://www.mozilla.org/ar/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"d854a49e82bfca2df6210c3b9b3c711b\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"563aba103f5fa4822f29d675fbc949cd\""
   },
   "https://www.mozilla.org/ar/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -457,8 +457,8 @@
     "etag": "\"85ba56dbfe2e4399113d378a6778cb9a\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"7564ebe32736d6900b58d9e90a9ed351\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"1dc0b2c84b190333f9617bedd64f1e4d\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -1201,8 +1201,8 @@
     "etag": "\"0fe82637fb37d9736a796f7ba01e203e\""
   },
   "https://www.mozilla.org/be/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"052382661f5accae5bdfb40c4faa4af6\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"b15ba3ca90a9f9ad9242dfa28edf67ba\""
   },
   "https://www.mozilla.org/be/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -2692,8 +2692,8 @@
     "etag": "\"0fa127b0ac8f3d3364f71e6ef26284a1\""
   },
   "https://www.mozilla.org/cs/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"6b55252de3d98afe9ad36e077a0a3237\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"31ff68d247f99968032b8599ea860793\""
   },
   "https://www.mozilla.org/cs/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -2804,6 +2804,10 @@
   "https://www.mozilla.org/cs/firefox/browsers/mobile/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
     "etag": "\"887b415ff0cb6f5e2544d0bbf8175e01\""
+  },
+  "https://www.mozilla.org/cs/firefox/browsers/mobile/android/": {
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"084138a0d03a0e2269899bbf4cfb4c68\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -3134,8 +3138,8 @@
     "etag": "\"868c743f7f0460f15998c6f0273b578a\""
   },
   "https://www.mozilla.org/cy/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"691f5e9f8d0e558243d4982da20aa5b2\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"660e6edeb0a1e06ad2d3c26c3da6ff7b\""
   },
   "https://www.mozilla.org/cy/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -3240,8 +3244,8 @@
     "etag": "\"27c11409d92b1dba4e3039e0ac9b4661\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"28267ae397870cfc97e1644a8073ce5d\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"0f126e1e164baa9609cf3f5bef3b2f0d\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -3966,8 +3970,8 @@
     "etag": "\"86f0931bf3f10a5a5168f85166508b09\""
   },
   "https://www.mozilla.org/de/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"e485b778ca486c374ac9f67a20211e8e\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"f8c04537956237b37352249559b8acce\""
   },
   "https://www.mozilla.org/de/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -4700,8 +4704,8 @@
     "etag": "\"7e4232a8f891a25e796ac1e9085f8591\""
   },
   "https://www.mozilla.org/el/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"f531f7af92683349570e8529cfb42b4b\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"602fe22ee9cbd180bca0751fbb30ce46\""
   },
   "https://www.mozilla.org/el/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -5110,8 +5114,8 @@
     "etag": "\"51fd9ac00a2bb3857b4043103455d283\""
   },
   "https://www.mozilla.org/en-CA/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"bfdad6d8a35819841da73074754b2736\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"ab930016afcbdfa841fa5115e3a8b0b1\""
   },
   "https://www.mozilla.org/en-CA/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -5556,8 +5560,8 @@
     "etag": "\"579b92c45334f6171f74641c0c262363\""
   },
   "https://www.mozilla.org/en-GB/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"6420dd79e75c50f725372df3ad3cbb61\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"d884c9f87d6d5d8e1577825a5dd0f649\""
   },
   "https://www.mozilla.org/en-GB/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -5662,8 +5666,8 @@
     "etag": "\"6e05cd23ffe2ca187c226cda17813500\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"f3d0e07ccd513e2e13e77ce9f6b61343\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"80f64857814ddf9240f7298733d4ad5a\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -11987,8 +11991,8 @@
     "etag": "\"107bd1625894f04960e9e8250fa80efc\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"b08bd3dd301f73130e0ef64510a1b9a5\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"4335477fc5bd716b4a7edb4d8b845afd\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -18349,8 +18353,8 @@
     "etag": "\"0e78c47e254ecd1a87a4a3761d30c901\""
   },
   "https://www.mozilla.org/es-AR/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"114559e5069e6b6b50c3aa90171f5c60\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"128c1cff33c327698a55b643cae0d9dc\""
   },
   "https://www.mozilla.org/es-AR/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -18455,8 +18459,8 @@
     "etag": "\"618d3a9e03368a5fcd9ce9028e3cc193\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"3807b3813d72aa48eb1e8bf04e5562c4\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"b185de21defff7c97b58d730dc1a43a0\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -18893,8 +18897,8 @@
     "etag": "\"4b8415906b90b376a40d071c700d593d\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"82eb70c1eef17287f3d54332aa4a04cf\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"99f2d5d1c6b126dd28c570bab0df5630\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/quantum/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19237,8 +19241,8 @@
     "etag": "\"0ced1d75860a10d1c005108cf6199292\""
   },
   "https://www.mozilla.org/es-ES/": {
-    "date": "2021-09-26T06:01:14.986361+00:00",
-    "etag": "\"aa4c8bb3e18fbc653b311899f2519af0\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"b3ccf580dd348796d773c333c098afd6\""
   },
   "https://www.mozilla.org/es-ES/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19311,8 +19315,8 @@
   "https://www.mozilla.org/es-ES/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/es-ES/contribute/task/stumbler/": {},
   "https://www.mozilla.org/es-ES/firefox/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"9cfd006ae1e4baffeb96ca75e40aee50\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"2fabe2716acdf48cbeef1210f19b83d3\""
   },
   "https://www.mozilla.org/es-ES/firefox/accounts/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19323,8 +19327,8 @@
     "etag": "\"2655df50d19a71b1e145c43ba32c9ee3\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"6ec74a9c7874a4a64b98464d22870438\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"59207e9e2e72b0cf46909e1761502f5e\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/best-browser/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19367,8 +19371,12 @@
     "etag": "\"be8f509e57596fccb53329811ecd7854\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/mobile/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"ab5d0ddacd27ab657b1c59a8a2d0702f\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"4e83fe97b30d38941aa902c27c07099c\""
+  },
+  "https://www.mozilla.org/es-ES/firefox/browsers/mobile/android/": {
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"f4bb34c60302ef24de3925d7ca92c7bf\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/quantum/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19471,8 +19479,8 @@
     "etag": "\"a9ff88b335090ccc2d5c9389db19a986\""
   },
   "https://www.mozilla.org/es-ES/firefox/linux": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"3e6bedad03856d7c1ec4b4da4af95131\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"3b107b336fd9ba9bfe8ce038055a0fc8\""
   },
   "https://www.mozilla.org/es-ES/firefox/linux/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -19483,8 +19491,8 @@
     "etag": "\"0d6ef354803f9e936510bb5d802f5b96\""
   },
   "https://www.mozilla.org/es-ES/firefox/mac": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"63eafebf3cdf16ce4dd4058afc4bcc03\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"168347aed6513eadbe5da22a394c876b\""
   },
   "https://www.mozilla.org/es-ES/firefox/mac/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -19527,8 +19535,8 @@
     "etag": "\"f46e6ee8a37db5350ff8573d33879838\""
   },
   "https://www.mozilla.org/es-ES/firefox/products/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"f5299398c97358fb3ff9da1397c5a02a\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"d751942718c8627873bbdd0f3b95e8a8\""
   },
   "https://www.mozilla.org/es-ES/firefox/set-as-default/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -19563,8 +19571,8 @@
     "etag": "\"69ca2c9e1085b40713adfc6c99d35698\""
   },
   "https://www.mozilla.org/es-ES/firefox/windows": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"0fe13435df62ac1738acd3da17d3d384\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"492f198d6bea53f7e7f5cdcf840c23f2\""
   },
   "https://www.mozilla.org/es-ES/firefox/windows/": {
     "date": "2021-07-01T00:01:26.347511+00:00",
@@ -19719,8 +19727,8 @@
     "etag": "\"6d2882c9677c126a4537da03052fab8e\""
   },
   "https://www.mozilla.org/es-MX/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"af855b7665164a79da1bc8fb95cc82e1\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"0a5258e41562e75ece75c0450c87fe68\""
   },
   "https://www.mozilla.org/es-MX/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -22363,8 +22371,8 @@
     "etag": "\"14d9ac5f120539598f88d0c9681003d9\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"0494a7d76ff9917973fbd44f715f43f4\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"4fdce26e6a9e7746d08fc2c51a461919\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/mobile/focus/": {
     "date": "2021-09-25T00:03:30.451107+00:00",
@@ -23085,8 +23093,8 @@
     "etag": "\"9774932a206adf74638916320909628a\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"cff0d90a33603a47a5b0689a422aea74\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"ca32a58538245f77fbed473f580585bc\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -23649,8 +23657,8 @@
     "etag": "\"169a103ae78b68ced5e40f3d4e583bed\""
   },
   "https://www.mozilla.org/hsb/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"68343e2642a7906e0928a552692ecf47\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"3191e01ccbc4c4a043f2aff9e7f8e608\""
   },
   "https://www.mozilla.org/hsb/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -23955,8 +23963,8 @@
     "etag": "\"dbcaa197ca1c8ee361354671336a382b\""
   },
   "https://www.mozilla.org/hu/": {
-    "date": "2021-09-26T12:03:39.390498+00:00",
-    "etag": "\"6a0c2660d737b289f9c6921bc5081058\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"210c341d20e6ef2f9d5a401b11046da8\""
   },
   "https://www.mozilla.org/hu/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -24645,8 +24653,8 @@
     "etag": "\"1339cf6b7fe40fa8d7cb2e2181e25230\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"aafc2d1840128a3102c9d5cd1e4b089c\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"1d9c2b3e9678ebff518525a0d0fe686b\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -24733,8 +24741,8 @@
     "etag": "\"019d23bcb2d7b443b379bcfed71f02b4\""
   },
   "https://www.mozilla.org/ia/firefox/features/password-manager/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"5716b196718aa3223c26e90bb3e395cf\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"7472a40fbe3de111ae18cea67a52a51f\""
   },
   "https://www.mozilla.org/ia/firefox/features/picture-in-picture/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -24977,8 +24985,8 @@
     "etag": "\"c7bdb78704317e74f792775a368b2476\""
   },
   "https://www.mozilla.org/id/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"64f964a59b509268f788ba43d2d62042\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"48b4f60929f46f3b323f676c1eb53eb5\""
   },
   "https://www.mozilla.org/id/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -25107,8 +25115,8 @@
     "etag": "\"05ee192ddfae2e7451ff5878db9006f1\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"375f750e470ca45101a7c62abfdef4d9\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"8674be3808edff5735ea8b045a766148\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -25575,8 +25583,8 @@
     "etag": "\"f1bff5c8113cb1542329740cd2d1ec60\""
   },
   "https://www.mozilla.org/it/": {
-    "date": "2021-09-26T12:03:39.390498+00:00",
-    "etag": "\"cfaa4d70253e990080a1a7b07af32073\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"08a4c96fda531f551bc752c5595ac7c3\""
   },
   "https://www.mozilla.org/it/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -25709,8 +25717,8 @@
     "etag": "\"a73ce6b8a2f6942841a54555882fe9cb\""
   },
   "https://www.mozilla.org/it/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"58b76f75a4748070562c2d3a511ec3bd\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"7970c4da8b84039b3ab4154f7a838699\""
   },
   "https://www.mozilla.org/it/firefox/browsers/mobile/compare/": {
     "date": "2021-09-26T12:03:39.390498+00:00",
@@ -26201,8 +26209,8 @@
     "etag": "\"f9c64f39b34426735c1fcff6005dfcc6\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"a96d90810d058b36868e29efe97c9da9\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"833b2815d4501c637538f665d14f2a3e\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -26597,8 +26605,8 @@
     "etag": "\"393ac268054aebec72e203b493d0c477\""
   },
   "https://www.mozilla.org/ka/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"74a83be3e157fba82234fb613ca86459\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"d2a9724502cc32c79d05cdbacacc91ee\""
   },
   "https://www.mozilla.org/ka/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -28787,8 +28795,8 @@
     "etag": "\"01c695c352a74fa279811fad798f690e\""
   },
   "https://www.mozilla.org/ms/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"65d83f946ba8441e949d8fa2b7e7fdc0\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"41cb50575ed17629177eafdcef674f74\""
   },
   "https://www.mozilla.org/ms/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -28905,8 +28913,8 @@
     "etag": "\"d0c5732a1a8d1993771280eb64196402\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"dae3a1450147ec0435eeee514d1f9124\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"2475df89615c2e45c33f0af897e58982\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -30171,8 +30179,8 @@
     "etag": "\"b2f1cb7e46049ee214f24d117ac0dcac\""
   },
   "https://www.mozilla.org/nn-NO/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"54a18cbb88f24c51d8fab7b462411612\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"971a4084b0dbf7fe63da202f49949983\""
   },
   "https://www.mozilla.org/nn-NO/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -30709,8 +30717,8 @@
     "etag": "\"4ecabc3cb8bbef8dfe627765995ef8c7\""
   },
   "https://www.mozilla.org/pl/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"46d4bc336c4d93a2e9f3a741cdd10691\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"e7c4b82b6bdb4d7ca9645428d756d3a5\""
   },
   "https://www.mozilla.org/pl/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -31051,8 +31059,8 @@
     "etag": "\"071ae5bebb3f279f9309b63ffe416060\""
   },
   "https://www.mozilla.org/pt-BR/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"8d674d0d07a6aa5f0a90e433b71634c2\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"d76a44675e465d89811c0432f15a2f50\""
   },
   "https://www.mozilla.org/pt-BR/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -31149,8 +31157,8 @@
     "etag": "\"84301f7f2b0ae2cf5d0029ab34ff865f\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"7799fdfb1e1a4204eb39dc619349bc1c\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"4f74c2a4ab96b7554d45ab98c3cecf49\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/brave/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -31553,8 +31561,8 @@
     "etag": "\"606ea515d489abe410a48a83f75bd2f9\""
   },
   "https://www.mozilla.org/pt-PT/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"0c997915c43687fd037fdffea1258e33\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"0b452c1515e3290a0139f9c0ad9b610e\""
   },
   "https://www.mozilla.org/pt-PT/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -31619,8 +31627,8 @@
     "etag": "\"4994cdab3e1cd2764136d8de8034ff29\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/compare/": {
-    "date": "2021-09-24T00:01:41.426721+00:00",
-    "etag": "\"0e066f27ca69a2aa53d9710499be0679\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"45137c18fce63eddec51336bc24d4a54\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/compare/brave/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -32393,8 +32401,8 @@
     "etag": "\"faaa2c6e2ea03c0f725b7d6ec16c513e\""
   },
   "https://www.mozilla.org/ru/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"cf441cc724f5733d809a51d1c842a304\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"7759b991e5d7e34687eb7f5f2faa8f9f\""
   },
   "https://www.mozilla.org/ru/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -32799,8 +32807,8 @@
     "etag": "\"5ec36ad5a9a6fb0df732508ed9a12ba5\""
   },
   "https://www.mozilla.org/sco/": {
-    "date": "2021-09-26T12:03:39.390498+00:00",
-    "etag": "\"b7a943bb7f1ce575652656ad11042511\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"891b412fa1d441539ff9fd33596388e4\""
   },
   "https://www.mozilla.org/sco/firefox/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -32943,8 +32951,8 @@
     "etag": "\"c901c2b00fcba35987d01f5e812c133f\""
   },
   "https://www.mozilla.org/sk/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"a1cd199641500aa464af78a556d896f4\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"83e3331affacf4fc36ec1635bc11aa16\""
   },
   "https://www.mozilla.org/sk/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -33242,8 +33250,8 @@
     "etag": "\"95afdbc3b6a0d0056a5df284ce719455\""
   },
   "https://www.mozilla.org/sl/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"581c63f0ded919237b725c5b62ffc7ae\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"487395f8a76724e8cef728d256ed6d99\""
   },
   "https://www.mozilla.org/sl/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -33615,8 +33623,8 @@
     "etag": "\"8b5c8a8221602c4988d1bdc7fa5dbd39\""
   },
   "https://www.mozilla.org/sq/": {
-    "date": "2021-09-26T12:03:39.390498+00:00",
-    "etag": "\"7f883b75fce894b4793811a3ffced5cb\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"65c3508bd18138ce9ca7095c8c19be29\""
   },
   "https://www.mozilla.org/sq/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -34343,8 +34351,8 @@
     "etag": "\"e5efe192dd5b7171b8f2509a7a4a2501\""
   },
   "https://www.mozilla.org/sv-SE/": {
-    "date": "2021-09-26T12:03:39.390498+00:00",
-    "etag": "\"60bfc712373290a6fc42ccf972947a28\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"45d1ab2bc79c76a951787b89cd18b425\""
   },
   "https://www.mozilla.org/sv-SE/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -34449,8 +34457,8 @@
     "etag": "\"358fa5839a150a6148133ffd168ea61b\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"00bcd44c8dbb9cf2b8633b0fb43a1b2e\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"9d222de09ca757a218338200ef32455d\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/mobile/compare/": {
     "date": "2021-09-26T18:01:15.197221+00:00",
@@ -35091,8 +35099,8 @@
     "etag": "\"339d61b79b742c13fde6c2376b0327aa\""
   },
   "https://www.mozilla.org/th/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"7635d892300dd2d9134d0c467b249d2d\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"9248d26a1d77303e5d2ae837ad0a0382\""
   },
   "https://www.mozilla.org/th/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -35869,8 +35877,8 @@
     "etag": "\"2b6884254d56eaced745800ed7e456f4\""
   },
   "https://www.mozilla.org/uk/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"ac133b43cac1fce2583fb6cb22cdcf65\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"a06ba2fce2f2e4f8b9f3594641bd8236\""
   },
   "https://www.mozilla.org/uk/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -35975,8 +35983,8 @@
     "etag": "\"6122582b7f670d1b9a0e069ca767134b\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"1bfa01e5650622bac24abfadd1505669\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"1fd99501f766ba0791b9c32f30cf2399\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -36551,8 +36559,8 @@
     "etag": "\"fd2b43ab3bfbb8a3b6813fa6d0958069\""
   },
   "https://www.mozilla.org/vi/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"bc533c17e95646e5c109d78020cf2d5b\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"69d35e005f3397333bbca5743d6e82eb\""
   },
   "https://www.mozilla.org/vi/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -36651,8 +36659,8 @@
     "etag": "\"d3dc67954b97032f4a40c1522ad97c6b\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"4b39545552e22fdf23554f008fba4e98\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"6b5a85395efedd531730aec490e6e14f\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/mobile/compare/": {
     "date": "2021-09-25T18:03:10.935889+00:00",
@@ -37181,8 +37189,8 @@
     "etag": "\"d316682b294152b25d2213091a88ed08\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/mobile/android/": {
-    "date": "2021-09-25T18:03:10.935889+00:00",
-    "etag": "\"6a6c814b9a0a875e401177455b202a67\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"4e00d031ff18b0ece4cb6c3671884a4a\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/quantum/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
@@ -37525,8 +37533,8 @@
     "etag": "\"39a2220c7b43a478b513b1df13bd34eb\""
   },
   "https://www.mozilla.org/zh-TW/": {
-    "date": "2021-09-26T18:01:15.197221+00:00",
-    "etag": "\"17bf639d559afa29e814129b1b3d2898\""
+    "date": "2021-09-27T00:03:27.007318+00:00",
+    "etag": "\"df2eb32170c108e15ae187fa37895c26\""
   },
   "https://www.mozilla.org/zh-TW/about/": {
     "date": "2021-09-24T00:01:41.426721+00:00",
