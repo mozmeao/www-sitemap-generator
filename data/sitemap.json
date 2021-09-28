@@ -5347,6 +5347,7 @@
     "it",
     "ja",
     "ms",
+    "pt-BR",
     "sv-SE",
     "uk",
     "vi",
@@ -8589,7 +8590,25 @@
     "zh-TW"
   ],
   "/privacy/firefox-monitor/": [
-    "en-US"
+    "ar",
+    "de",
+    "en-US",
+    "es-ES",
+    "es-MX",
+    "fr",
+    "hi-IN",
+    "id",
+    "it",
+    "ja",
+    "ko",
+    "nl",
+    "pl",
+    "pt-BR",
+    "ru",
+    "tr",
+    "vi",
+    "zh-CN",
+    "zh-TW"
   ],
   "/privacy/firefox-os/": [
     "af",
