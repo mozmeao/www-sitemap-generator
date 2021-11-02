@@ -3521,6 +3521,12 @@
   "/firefox/91.2.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/91.3.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.3.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/92.0.1/releasenotes/": [
     "en-US"
   ],
@@ -3563,6 +3569,12 @@
   "/firefox/93.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/94.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/94.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/94.0a1/releasenotes/": [
     "en-US"
   ],
@@ -3579,6 +3591,18 @@
     "en-US"
   ],
   "/firefox/95.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/95.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/95.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/96.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/96.0a1/system-requirements/": [
     "en-US"
   ],
   "/firefox/accounts/": [
@@ -4826,6 +4850,12 @@
   "/firefox/android/93.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/94.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/94.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/browsers/": [
     "ar",
     "be",
@@ -5379,6 +5409,7 @@
     "es-CL",
     "es-ES",
     "fr",
+    "fy-NL",
     "gn",
     "hi-IN",
     "hu",
@@ -6804,6 +6835,12 @@
     "en-US"
   ],
   "/firefox/ios/37.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/39.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/39.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/4.0/releasenotes/": [
@@ -12892,6 +12929,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2021-47/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-48/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2021-49/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
