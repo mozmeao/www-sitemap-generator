@@ -3570,6 +3570,12 @@
   "/firefox/93.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/94.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/94.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/94.0/releasenotes/": [
     "en-US"
   ],
@@ -4997,6 +5003,7 @@
     "pt-PT",
     "rm",
     "ru",
+    "sk",
     "sq",
     "sv-SE",
     "uk",
@@ -5441,6 +5448,7 @@
     "en-US",
     "es-AR",
     "es-CL",
+    "fy-NL",
     "gn",
     "hi-IN",
     "hu",
@@ -5589,6 +5597,7 @@
     "pt-PT",
     "rm",
     "ru",
+    "sk",
     "sq",
     "sr",
     "sv-SE",
