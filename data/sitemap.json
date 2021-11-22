@@ -6990,59 +6990,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/firefox/lockwise/": [
-    "ar",
-    "ca",
-    "cak",
-    "cs",
-    "cy",
-    "de",
-    "dsb",
-    "el",
-    "en-CA",
-    "en-GB",
-    "en-US",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "es-MX",
-    "fr",
-    "fy-NL",
-    "gl",
-    "gn",
-    "he",
-    "hi-IN",
-    "hsb",
-    "hu",
-    "hy-AM",
-    "ia",
-    "id",
-    "it",
-    "ja",
-    "ka",
-    "kab",
-    "ko",
-    "ms",
-    "nb-NO",
-    "nl",
-    "nn-NO",
-    "pl",
-    "pt-BR",
-    "pt-PT",
-    "ro",
-    "ru",
-    "sk",
-    "sl",
-    "sq",
-    "sv-SE",
-    "th",
-    "tr",
-    "uk",
-    "ur",
-    "vi",
-    "zh-CN",
-    "zh-TW"
-  ],
   "/firefox/mac": [
     "an",
     "ar",
@@ -7794,143 +7741,31 @@
     "en-US"
   ],
   "/foundation/annualreport/2010/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/annualreport/2010/ahead/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/annualreport/2010/faq/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/annualreport/2010/opportunities/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/annualreport/2010/people/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/annualreport/2011/": [
-    "ast",
-    "cs",
-    "de",
-    "el",
-    "en-US",
-    "eo",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "es-MX",
-    "fr",
-    "fy-NL",
-    "is",
-    "it",
-    "ja",
-    "ko",
-    "ms",
-    "nl",
-    "pa-IN",
-    "pl",
-    "pt-BR",
-    "sq",
-    "sr",
-    "sv-SE",
-    "uk",
-    "zh-CN",
-    "zh-TW"
+    "en-US"
   ],
   "/foundation/annualreport/2011/faq/": [
-    "ast",
-    "cs",
-    "de",
-    "el",
-    "en-US",
-    "eo",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "es-MX",
-    "fr",
-    "fy-NL",
-    "is",
-    "it",
-    "ja",
-    "ko",
-    "ms",
-    "nl",
-    "pa-IN",
-    "pl",
-    "pt-BR",
-    "sq",
-    "sr",
-    "sv-SE",
-    "uk",
-    "zh-CN",
-    "zh-TW"
+    "en-US"
   ],
   "/foundation/annualreport/2012/": [
-    "ar",
-    "ast",
-    "de",
-    "el",
-    "en-US",
-    "eo",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "es-MX",
-    "fr",
-    "fy-NL",
-    "is",
-    "it",
-    "ja",
-    "ko",
-    "lij",
-    "ms",
-    "nl",
-    "pa-IN",
-    "pl",
-    "pt-BR",
-    "sq",
-    "sr",
-    "sv-SE",
-    "uk",
-    "zh-CN",
-    "zh-TW"
+    "en-US"
   ],
   "/foundation/annualreport/2012/faq/": [
-    "ar",
-    "ast",
-    "de",
-    "el",
-    "en-US",
-    "eo",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "es-MX",
-    "fr",
-    "fy-NL",
-    "is",
-    "it",
-    "ja",
-    "ko",
-    "lij",
-    "ms",
-    "nl",
-    "oc",
-    "pa-IN",
-    "pl",
-    "pt-BR",
-    "sq",
-    "sr",
-    "sv-SE",
-    "uk",
-    "zh-CN",
-    "zh-TW"
+    "en-US"
   ],
   "/foundation/annualreport/2013/": [
     "en-US"
@@ -7987,12 +7822,10 @@
     "en-US"
   ],
   "/foundation/feed-icon-guidelines/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/feed-icon-guidelines/faq/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/licensing/": [
     "en-US"
@@ -8025,16 +7858,13 @@
     "en-US"
   ],
   "/foundation/trademarks/distribution-policy/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/trademarks/list/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/foundation/trademarks/policy/": [
-    "en-US",
-    "ja"
+    "en-US"
   ],
   "/keymaster/gatekeeper/there.is.only.xul": [],
   "/locales/": [],
@@ -9248,6 +9078,9 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/products/vpn/resource-center/": [
+    "en-US"
   ],
   "/security/": [
     "en-US"
