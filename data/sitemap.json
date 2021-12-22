@@ -6991,7 +6991,7 @@
   "/firefox/ios/testflight/": [
     "en-US"
   ],
-  "/firefox/linux": [
+  "/firefox/linux/": [
     "an",
     "ar",
     "be",
@@ -7061,7 +7061,7 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/firefox/mac": [
+  "/firefox/mac/": [
     "an",
     "ar",
     "be",
@@ -7730,7 +7730,7 @@
   "/firefox/unsupported-systems/": [
     "en-US"
   ],
-  "/firefox/windows": [
+  "/firefox/windows/": [
     "an",
     "ar",
     "be",
