@@ -10651,12 +10651,20 @@
     "etag": "\"0661c25d5ea7565b69cf21ddcc79f4e6\""
   },
   "https://www.mozilla.org/en-US/firefox/97.0a1/releasenotes/": {
-    "date": "2022-01-01T12:03:17.358503+00:00",
-    "etag": "\"010dd0da475c882639ce777f2764ccd1\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"56f36dcc6c70d76d76f7acca9e925c08\""
   },
   "https://www.mozilla.org/en-US/firefox/97.0a1/system-requirements/": {
     "date": "2022-01-01T12:03:17.358503+00:00",
     "etag": "\"a469cb3eff88f243cf8c620301ffaf6c\""
+  },
+  "https://www.mozilla.org/en-US/firefox/98.0a1/releasenotes/": {
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"4cabf513c93952a0d2383c1727cc318f\""
+  },
+  "https://www.mozilla.org/en-US/firefox/98.0a1/system-requirements/": {
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"5f309732bdbdc34e6335b440a9032f8a\""
   },
   "https://www.mozilla.org/en-US/firefox/accounts/": {
     "date": "2022-01-01T12:03:17.358503+00:00",
@@ -32807,8 +32815,8 @@
     "etag": "\"a02d2da8bbd326c98611fed11c027ce4\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"fd175842b30377afcdbc889a998bc0ba\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"a34df6734772c8281619f5485687a2f0\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/best-browser/": {
     "date": "2022-01-01T12:03:17.358503+00:00",
@@ -32851,24 +32859,24 @@
     "etag": "\"d56c6eb045985f1aa9753bbc059451e3\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"755a986d7cb83680d01aea73ac84451b\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"b88a4170efc03593feafaf006e61fb67\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/android/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"48cb63dbde9736fa0fc409fb6f7760f4\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"9e65713517d3a8acbb4c085b5fd6f209\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/compare/": {
     "date": "2022-01-05T18:02:09.197826+00:00",
     "etag": "\"e40ca230313d8c4e564b594f826def4e\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/focus/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"b7be6d93f3549fcb2579e681acc9ba2c\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"91af8736cc7cf2ee89a1ad7614973fe4\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/ios/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"2c02fbe3e4a92c96a9ceee41796710a3\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"347235b07043d81a2cb48fc1b806c468\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/quantum/": {
     "date": "2022-01-05T18:02:09.197826+00:00",
@@ -32959,16 +32967,16 @@
     "etag": "\"8985b3cc657b6a015db3f614fef672e6\""
   },
   "https://www.mozilla.org/rm/firefox/linux/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"348efc58a66dbb8b8fab678c4d8e676f\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"c8c497377c2c5e48598581927548eedf\""
   },
   "https://www.mozilla.org/rm/firefox/mac": {
     "date": "2021-12-19T18:02:17.130737+00:00",
     "etag": "\"2e58b956921809814a4396bf1f13530c\""
   },
   "https://www.mozilla.org/rm/firefox/mac/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"9fbce0f72e0271b63bc834b0f4481305\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"493c662ac0872a8a720b67911b13fb93\""
   },
   "https://www.mozilla.org/rm/firefox/mobile/": {
     "date": "2018-08-15T03:32:07.183833+00:00",
@@ -33015,8 +33023,8 @@
     "etag": "\"43bb01cce27222a637de9fefb411dbb8\""
   },
   "https://www.mozilla.org/rm/firefox/windows/": {
-    "date": "2022-01-05T18:02:09.197826+00:00",
-    "etag": "\"a43f7b63a87eb7a487bf5cabf44e0ab1\""
+    "date": "2022-01-11T12:02:30.441448+00:00",
+    "etag": "\"857173e50c189929268d2397f6f71efb\""
   },
   "https://www.mozilla.org/rm/mission/": {
     "date": "2022-01-01T12:03:17.358503+00:00",
