@@ -3658,6 +3658,12 @@
   "/firefox/96.0.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/96.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/96.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/96.0/releasenotes/": [
     "en-US"
   ],
@@ -8997,6 +9003,7 @@
   ],
   "/products/vpn/more/vpn-or-proxy/": [
     "ar",
+    "cs",
     "cy",
     "de",
     "en-CA",
