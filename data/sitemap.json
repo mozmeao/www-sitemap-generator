@@ -3733,6 +3733,12 @@
   "/firefox/98.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/99.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/99.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/accounts/": [
     "ar",
     "be",
@@ -7318,6 +7324,7 @@
     "rm",
     "ru",
     "sk",
+    "sl",
     "sq",
     "sv-SE",
     "tr",
