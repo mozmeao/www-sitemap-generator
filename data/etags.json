@@ -10711,8 +10711,8 @@
     "etag": "\"988786f4e1e790186d80226e438e3ff5\""
   },
   "https://www.mozilla.org/en-US/firefox/97.0/releasenotes/": {
-    "date": "2022-02-10T00:01:26.426276+00:00",
-    "etag": "\"9cf4fe5b272e5e603d1cb520ed032b29\""
+    "date": "2022-02-16T00:01:35.837266+00:00",
+    "etag": "\"3c42d3d8dfaf5fa7cd58c98187779658\""
   },
   "https://www.mozilla.org/en-US/firefox/97.0/system-requirements/": {
     "date": "2022-02-08T18:03:23.258134+00:00",
@@ -13649,8 +13649,8 @@
     "etag": "\"8f990c1c3437f80c1714b82d41af7a84\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2022-02-11T18:01:12.114189+00:00",
-    "etag": "\"10554a3f0551c5414f0e2a8b8e3e8428\""
+    "date": "2022-02-16T00:01:35.837266+00:00",
+    "etag": "\"379a61783a1a58c30181e6d08560fe0f\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2022-02-08T18:03:23.258134+00:00",
@@ -17921,8 +17921,8 @@
     "etag": "\"c8cce47f463efcc9bdc1236bd1bc323b\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2022-02-11T18:01:12.114189+00:00",
-    "etag": "\"74249516a7233bcc9b52390e495a4146\""
+    "date": "2022-02-16T00:01:35.837266+00:00",
+    "etag": "\"a00d5781957e2f7417cc237e27542c06\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2022-02-08T18:03:23.258134+00:00",
@@ -18592,6 +18592,10 @@
     "date": "2022-02-11T18:01:12.114189+00:00",
     "etag": "\"3a1bd1fb0e5c6b7f54571dc3836c9e3f\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2022-07/": {
+    "date": "2022-02-16T00:01:35.837266+00:00",
+    "etag": "\"054632155c16499aa4f9870adf7c3b97\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2022-02-08T18:03:23.258134+00:00",
     "etag": "\"c0f47573e2451865eb35b27e9f20d70f\""
@@ -18709,8 +18713,8 @@
     "etag": "\"4d6dd582d63ecd546971020d7809e548\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2022-02-11T18:01:12.114189+00:00",
-    "etag": "\"f263a3d68ddc59b520c7f7e7ffafacb6\""
+    "date": "2022-02-16T00:01:35.837266+00:00",
+    "etag": "\"c19fd8a39127b7759e995288fbae2c60\""
   },
   "https://www.mozilla.org/en-US/security/web-bug-bounty/": {
     "date": "2022-02-08T18:03:23.258134+00:00",
