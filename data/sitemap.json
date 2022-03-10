@@ -7393,6 +7393,7 @@
     "cs",
     "cy",
     "de",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -12994,6 +12995,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2022-11/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2022-12/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
