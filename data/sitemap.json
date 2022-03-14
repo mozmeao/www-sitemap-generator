@@ -3586,6 +3586,12 @@
   "/firefox/91.7.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/91.7.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.7.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/92.0.1/releasenotes/": [
     "en-US"
   ],
@@ -3752,6 +3758,12 @@
     "en-US"
   ],
   "/firefox/97.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/98.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/98.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/98.0/releasenotes/": [
@@ -9081,6 +9093,7 @@
     "ms",
     "nl",
     "pt-BR",
+    "rm",
     "ru",
     "sq",
     "sv-SE",
@@ -9164,6 +9177,7 @@
     "cs",
     "cy",
     "de",
+    "el",
     "en-CA",
     "en-GB",
     "en-US",
@@ -9206,6 +9220,7 @@
     "es-MX",
     "fr",
     "fy-NL",
+    "gn",
     "hi-IN",
     "hu",
     "ia",
