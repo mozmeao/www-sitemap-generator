@@ -533,6 +533,15 @@
     "zh-CN",
     "zh-TW"
   ],
+  "/about/legal/terms/mdn-plus/": [
+    "de",
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ms",
+    "nl"
+  ],
   "/about/legal/terms/mozilla-vpn/": [
     "de",
     "en-US",
@@ -873,6 +882,27 @@
   ],
   "/credits/": [],
   "/credits/faq/": [],
+  "/diversity/2021/": [
+    "en-US"
+  ],
+  "/diversity/2021/beyond-our-products/": [
+    "en-US"
+  ],
+  "/diversity/2021/mozilla-corporation-data/": [
+    "en-US"
+  ],
+  "/diversity/2021/mozilla-foundation-data/": [
+    "en-US"
+  ],
+  "/diversity/2021/racial-justice-commitments/": [
+    "en-US"
+  ],
+  "/diversity/2021/what-we-build/": [
+    "en-US"
+  ],
+  "/diversity/2021/who-we-are/": [
+    "en-US"
+  ],
   "/firefox/": [
     "ar",
     "be",
@@ -8695,6 +8725,15 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/privacy/mdn-plus/": [
+    "de",
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ms",
+    "nl"
   ],
   "/privacy/mozilla-vpn/": [
     "de",
