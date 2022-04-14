@@ -725,8 +725,8 @@
     "etag": "\"1e1c87c41846a259b5b748c0e14e5377\""
   },
   "https://www.mozilla.org/ar/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"eb0f146cb5eb339acad8940cc63560a2\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"ca99b7c1120f5b63ab028aadb27fb421\""
   },
   "https://www.mozilla.org/ar/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -3964,8 +3964,8 @@
     "etag": "\"3c55612782bdb8b74b366a32d89a8d7a\""
   },
   "https://www.mozilla.org/de/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"64544648effbe7c3011f1d72db156937\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"ee79357b9907a750bae8a23bd08ac994\""
   },
   "https://www.mozilla.org/de/about/legal/terms/mozilla/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -4406,12 +4406,12 @@
     "etag": "\"97b5232e6e7d878bf0379a9ee6f49e06\""
   },
   "https://www.mozilla.org/de/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"5674a7388c56c862fe22ce70c04220ca\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"654d9eae28d5fbc41d4580b401fb5c4f\""
   },
   "https://www.mozilla.org/de/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"14e4deb7fc61866478b2343acdc95e2c\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"31f7b49bbbee7e63fd3915f5afd081c8\""
   },
   "https://www.mozilla.org/de/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -6419,12 +6419,12 @@
     "etag": "\"7fd9e4e0de291417f224c21997c120d9\""
   },
   "https://www.mozilla.org/en-US/about/legal/terms/firefox-private-network/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"962b55dd5a82bb54da4291d29a9c781f\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"b4e538a50e4c3e07608e7e334b4cd224\""
   },
   "https://www.mozilla.org/en-US/about/legal/terms/firefox-reality/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"6fe5d625db1f4145d08252ae9e9f2516\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"55daee1de7d35aef414205911bad6d36\""
   },
   "https://www.mozilla.org/en-US/about/legal/terms/firefox-relay/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -6439,8 +6439,8 @@
     "etag": "\"e4a602b8e0e263825ec34316e68910f8\""
   },
   "https://www.mozilla.org/en-US/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"6f99652176244b86fb5f097d85676188\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"8eb214ed855fd7457d38077b4a34676b\""
   },
   "https://www.mozilla.org/en-US/about/legal/terms/mozilla/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -6583,8 +6583,8 @@
     "etag": "\"70d410c7fabb17e0c1c4cfe2cd85e326\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2022-04-14T00:03:03.336379+00:00",
-    "etag": "\"2ea3fcffa1ef1951ff467e6c3616ed39\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"101cc0fe34ddc958ea2f07fde0fd490b\""
   },
   "https://www.mozilla.org/en-US/contact/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -12958,6 +12958,14 @@
     "date": "2022-04-12T18:02:27.268057+00:00",
     "etag": "\"37986971e263b70f51a2aae7be75fecb\""
   },
+  "https://www.mozilla.org/en-US/firefox/ios/99.0/releasenotes/": {
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"645adb69436ca0421cb62409498985f3\""
+  },
+  "https://www.mozilla.org/en-US/firefox/ios/99.0/system-requirements/": {
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"0517ba39708e9e2c7eb5aae56af7204d\""
+  },
   "https://www.mozilla.org/en-US/firefox/ios/testflight/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
     "etag": "\"12ebe57fdbfddfaff66ca4332bf5a0e6\""
@@ -13725,8 +13733,8 @@
     "etag": "\"4470ad4226182ed07223d6ad90b02113\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"9531f49c7d019e0af974b0b95dbe567d\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"0d4f12a5c0c3facecd977fd74b5f889d\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox-monitor/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -13741,20 +13749,20 @@
     "etag": "\"08dffcdc9923fd3599cc5509b8569be0\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox-reality/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"e555e5f8d15bd166e8e6c7d200402e25\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"bc38ba74fcedeb12954a64df8258e81a\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"13e0fdcd26b84d0a1633feb833a6e839\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"9e4c0f4552b1d62e96544aaaf7161d0b\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox-rocket/": {
     "date": "2018-08-15T03:30:03.880663+00:00",
     "etag": "\"87f494e19a67d630fe43c6035dd3a38f\""
   },
   "https://www.mozilla.org/en-US/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"147ff102ba1318bfdaf6c34eb35c9727\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"121bd78dc75d0682bf00ec417954546e\""
   },
   "https://www.mozilla.org/en-US/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -20129,8 +20137,8 @@
     "etag": "\"2fe3565a1f3b467a99c08868f5758652\""
   },
   "https://www.mozilla.org/es-ES/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"748b1dd1f82bea15c422f1104f0c505c\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"8dce617a17028628ff5d95059992a36d\""
   },
   "https://www.mozilla.org/es-ES/about/legal/terms/mozilla/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -20527,12 +20535,12 @@
     "etag": "\"a3f15d3ecd1be1785caf22300f6d958f\""
   },
   "https://www.mozilla.org/es-ES/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"a54653faf8f0f5b8dccaa036c9db2730\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"e10a663d6f69fff36240441b8dbb6377\""
   },
   "https://www.mozilla.org/es-ES/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"843ab827a386a65466bb2b074cef6026\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"37b91dd9e54862ca9279e0e7ad28e5e3\""
   },
   "https://www.mozilla.org/es-ES/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -21005,8 +21013,8 @@
     "etag": "\"36e921f1f1a1c02a4f0c197853b0f444\""
   },
   "https://www.mozilla.org/es-MX/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"929bc2d71e323d19d8a3c600c4826787\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"e1e4df9c13324ca55f01ffb05d9299c1\""
   },
   "https://www.mozilla.org/es-MX/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -21959,8 +21967,8 @@
     "etag": "\"26b07d676d2ac7c09f2bb1e910bdb6d5\""
   },
   "https://www.mozilla.org/fr/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"ca9ddc404fa3c149a10a030702891b48\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"a0aa04607e67cad7a801b57312259b5c\""
   },
   "https://www.mozilla.org/fr/about/legal/terms/mozilla/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -22389,12 +22397,12 @@
     "etag": "\"6364196d743f9592a91ce035c2c16522\""
   },
   "https://www.mozilla.org/fr/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"9e14e75b7b04732226e06c424407545f\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"809ca9d6fd5f80f2c810ddd600b28062\""
   },
   "https://www.mozilla.org/fr/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"352d37ed2b47f3c5ba8c789189169f5b\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"f86ea5469fc0629a6afa8c10c1c318ca\""
   },
   "https://www.mozilla.org/fr/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -24477,8 +24485,8 @@
     "etag": "\"5659ac152c9af89a9f95e7078fe2f0a1\""
   },
   "https://www.mozilla.org/hi-IN/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"0d26c50e61462fb285faf89b89533f52\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"154378726d53edc6014b46f32a6c0e67\""
   },
   "https://www.mozilla.org/hi-IN/privacy/firefox-monitor/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -24493,8 +24501,8 @@
     "etag": "\"a13308da619d4280d1af9714f6a8518c\""
   },
   "https://www.mozilla.org/hi-IN/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"a27d6afc8aeedeb275cd444a15b0a456\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"29fa0640db730d1827c9c60ee4e2c3aa\""
   },
   "https://www.mozilla.org/hi-IN/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -26575,8 +26583,8 @@
     "etag": "\"f117ceadfd2069404661653a6421271f\""
   },
   "https://www.mozilla.org/id/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"19ec308df40ebb17065d998d2dbc1427\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"9c0df2768b58921230a0f0b1465f954b\""
   },
   "https://www.mozilla.org/id/privacy/firefox-monitor/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -26591,8 +26599,8 @@
     "etag": "\"f55e646fcace68f43238a461e21dfbfc\""
   },
   "https://www.mozilla.org/id/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"fb7285aa13ca4c11594027d073737297\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"1da1344e66284a9a4070cbd66a5c7675\""
   },
   "https://www.mozilla.org/id/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -26823,8 +26831,8 @@
     "etag": "\"5835b12a6a3875ebf08dddbe303aed23\""
   },
   "https://www.mozilla.org/it/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"4d00c77c6ebbe5fd43324f8df8af139a\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"4e7571a7babc7e8b2ebe7808301b6eef\""
   },
   "https://www.mozilla.org/it/about/legal/terms/mozilla/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -27217,12 +27225,12 @@
     "etag": "\"fd0e102ecf426c8347b8dfa7caf314e2\""
   },
   "https://www.mozilla.org/it/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"f1552412f727f14d6435c6c07785c672\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"9ab25fa0c3d2f856ae792bf640aee36e\""
   },
   "https://www.mozilla.org/it/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"6944dc6d539c493744daf552530ba607\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"ac86086dcac4bfa74fd6c961e000402c\""
   },
   "https://www.mozilla.org/it/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -27753,8 +27761,8 @@
     "etag": "\"75fe4870a749a4d1e49476ad66264093\""
   },
   "https://www.mozilla.org/ja/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"8ca10d10e57891b20118f0c2c74f2c0e\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"20207ab36f7d74240fde0fc45976f3d9\""
   },
   "https://www.mozilla.org/ja/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -28795,8 +28803,8 @@
     "etag": "\"128676b17b3fc70e7fb913b479b869d0\""
   },
   "https://www.mozilla.org/kn/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"f5ac4cccc10ab3eb6b477f93dd05b22b\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"e8872296c43cb25fc8dbd37ffce97e1c\""
   },
   "https://www.mozilla.org/kn/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -29125,8 +29133,8 @@
     "etag": "\"fba7a8f24109d829b7ca7808dc674c42\""
   },
   "https://www.mozilla.org/ko/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"f778b1825136f70f46c7a19a4fab007b\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"147e00095958b871750c75852aeb7b6a\""
   },
   "https://www.mozilla.org/ko/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -29851,8 +29859,8 @@
     "etag": "\"82ed044425c37631e2b11cd8714bb80d\""
   },
   "https://www.mozilla.org/ml/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"4018ad332117189db050ca2de89007c4\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"1142079380acecf21cb1c1324ff12962\""
   },
   "https://www.mozilla.org/ml/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -30091,8 +30099,8 @@
     "etag": "\"320db9468f20539e53bc133649965c86\""
   },
   "https://www.mozilla.org/ms/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"7244cdbf2c54d7a2490af6bb6f169fc0\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"1a22ad73e7c6e95b36bc2b6b19a91136\""
   },
   "https://www.mozilla.org/ms/about/manifesto/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -30437,8 +30445,8 @@
     "etag": "\"96cd4c827753ec5e5048d3f5f6370fc9\""
   },
   "https://www.mozilla.org/ms/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"78c8824acc7462ac17e18a1cb2fd1a96\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"d3778095e73ad4862249a413b7c79ee0\""
   },
   "https://www.mozilla.org/ms/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -31037,8 +31045,8 @@
     "etag": "\"7db7e61dc711d7d29a10b5f75b80b136\""
   },
   "https://www.mozilla.org/nl/about/legal/terms/mozilla-vpn/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"02679ba8db01a99bddca667e0e9f2b3e\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"d3abe17d8108c5b82a3027e771d6703c\""
   },
   "https://www.mozilla.org/nl/about/legal/terms/services/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -31403,12 +31411,12 @@
     "etag": "\"8192a35e4587a0a030e52d2aabfb51a4\""
   },
   "https://www.mozilla.org/nl/privacy/firefox-relay/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"9e2d2eb0d99d963126743a18e16e42d6\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"1d46d5a2eafcc73bcddbe518f29b4f83\""
   },
   "https://www.mozilla.org/nl/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"fc9e7ac0d57081eaa6cc9a0333b551ea\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"a098f94a37bddc47f53d61fc0a6717d1\""
   },
   "https://www.mozilla.org/nl/privacy/mdn-plus/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -32371,8 +32379,8 @@
     "etag": "\"b8a1b087f308680b6896f0f691170d74\""
   },
   "https://www.mozilla.org/pl/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"d4cd8d7387010d5fb45df2c26c27bbf7\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"c14de49c436fb185fb116e42101efa70\""
   },
   "https://www.mozilla.org/pl/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -32837,8 +32845,8 @@
     "etag": "\"17f25fc894c1561fbb817009d875a6b9\""
   },
   "https://www.mozilla.org/pt-BR/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"cd94957db72fac460fae1fb977d91abd\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"13a6ee927f4986f986cb5392efa7bd4c\""
   },
   "https://www.mozilla.org/pt-BR/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -34367,8 +34375,8 @@
     "etag": "\"5f7f9245e4da62da49e228d21bfd7bf3\""
   },
   "https://www.mozilla.org/ru/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"95d5540ea961b469f8e765630c9166b2\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"2cb936e2f4a9a851e35790fe6b6d7094\""
   },
   "https://www.mozilla.org/ru/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -36755,8 +36763,8 @@
     "etag": "\"bb04dae247418b043aca286f81c57416\""
   },
   "https://www.mozilla.org/ta/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"849374d1484ef6d938d3af51489cb63e\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"a1c75d07958c0b9f1d2be5c06dd0ce94\""
   },
   "https://www.mozilla.org/ta/privacy/firefox-os/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -37111,8 +37119,8 @@
     "etag": "\"47c3763e09821e823066b15f95ac6fe0\""
   },
   "https://www.mozilla.org/th/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"d419cc2f7246fa627362d25182724293\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"7a9d212fd4f62179998b3290414c209f\""
   },
   "https://www.mozilla.org/th/privacy/firefox-os/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -37175,8 +37183,8 @@
     "etag": "\"aff03ad8393333d25c218e8c3d8d7f5f\""
   },
   "https://www.mozilla.org/tl/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"ea263ebf2fcc49171ab54c735d83e007\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"765e5944cccfce65d305dbe8cbc574cd\""
   },
   "https://www.mozilla.org/tl/privacy/websites/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -38727,8 +38735,8 @@
     "etag": "\"8daec5abe7a8a4d2d0212baaba3a8e14\""
   },
   "https://www.mozilla.org/vi/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"f8847a2b558d334547bf64b703572fcb\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"0374535d93a012ab64355456afb18a20\""
   },
   "https://www.mozilla.org/vi/privacy/firefox-monitor/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -38739,8 +38747,8 @@
     "etag": "\"1ba21747019a98eef7f39bedc568b5d6\""
   },
   "https://www.mozilla.org/vi/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"9deccc81ef275babe681ab480d2c5cc1\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"0dd424b3b5998c0efcef930f284ac527\""
   },
   "https://www.mozilla.org/vi/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -39301,8 +39309,8 @@
     "etag": "\"ecc333f0c4c90295a69993effbe281fc\""
   },
   "https://www.mozilla.org/zh-CN/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"88789b5a82f6fad70c737f3e82c57537\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"6beb4ae6028efcc62d2672e58188c322\""
   },
   "https://www.mozilla.org/zh-CN/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -39747,8 +39755,8 @@
     "etag": "\"b526e6244327f8800b7ef30f12e4083b\""
   },
   "https://www.mozilla.org/zh-TW/privacy/firefox-lite/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"69900ec2b2cf9cea9d09f24fbd591dff\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"17b1a9e258a235c81368ebf5e0f41d9c\""
   },
   "https://www.mozilla.org/zh-TW/privacy/firefox-monitor/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
@@ -39759,8 +39767,8 @@
     "etag": "\"f1115a8c7d7deef94f21d4cdb425563d\""
   },
   "https://www.mozilla.org/zh-TW/privacy/firefox/": {
-    "date": "2022-04-12T18:02:27.268057+00:00",
-    "etag": "\"6d0db6f71aaadb08e1decfd0c2dae69e\""
+    "date": "2022-04-14T18:01:13.927697+00:00",
+    "etag": "\"4aedb4c5a242fc1b8717b6f1810dcd3d\""
   },
   "https://www.mozilla.org/zh-TW/privacy/principles/": {
     "date": "2022-04-12T18:02:27.268057+00:00",
