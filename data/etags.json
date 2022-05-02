@@ -6591,8 +6591,8 @@
     "etag": "\"6887e303f19a3b02a54c269ff65de501\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2022-04-30T00:01:17.475762+00:00",
-    "etag": "\"298f36e6afa51f2ebe41d73255575925\""
+    "date": "2022-05-02T18:02:27.682006+00:00",
+    "etag": "\"3b501914429842e855aefdc6820bff0c\""
   },
   "https://www.mozilla.org/en-US/contact/": {
     "date": "2022-04-29T18:02:07.244300+00:00",
@@ -7115,12 +7115,20 @@
     "etag": "\"16c7902df4d0a4ac1edf1a1042c1bd74\""
   },
   "https://www.mozilla.org/en-US/firefox/101.0a1/releasenotes/": {
-    "date": "2022-04-29T18:02:07.244300+00:00",
-    "etag": "\"8e1b84c4f4b7e108dec058e4d51d11dd\""
+    "date": "2022-05-02T18:02:27.682006+00:00",
+    "etag": "\"9431a5cbabc55942c8bb0e8ad502d30d\""
   },
   "https://www.mozilla.org/en-US/firefox/101.0a1/system-requirements/": {
     "date": "2022-04-29T18:02:07.244300+00:00",
     "etag": "\"941e084aceffbea8c3dc9f7e258f4fcf\""
+  },
+  "https://www.mozilla.org/en-US/firefox/102.0a1/releasenotes/": {
+    "date": "2022-05-02T18:02:27.682006+00:00",
+    "etag": "\"ea1039163adb317bfc1aa7e510e42b75\""
+  },
+  "https://www.mozilla.org/en-US/firefox/102.0a1/system-requirements/": {
+    "date": "2022-05-02T18:02:27.682006+00:00",
+    "etag": "\"fbd269b71a10bd35de47f2ca0bc9aff4\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
     "date": "2022-04-29T18:02:07.244300+00:00",
