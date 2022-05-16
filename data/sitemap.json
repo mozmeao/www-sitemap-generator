@@ -441,30 +441,6 @@
   "/about/legal/report-infringement/": [
     "en-US"
   ],
-  "/about/legal/terms/firefox-lite/": [
-    "en-US",
-    "hi-IN",
-    "id",
-    "kn",
-    "ml",
-    "ta",
-    "th",
-    "tl",
-    "vi",
-    "zh-TW"
-  ],
-  "/about/legal/terms/firefox-lite/reward/": [
-    "en-US",
-    "hi-IN",
-    "id",
-    "kn",
-    "ml",
-    "ta",
-    "th",
-    "tl",
-    "vi",
-    "zh-TW"
-  ],
   "/about/legal/terms/firefox-private-network/": [
     "en-US"
   ],
@@ -804,6 +780,7 @@
   ],
   "/contribute/": [
     "ar",
+    "be",
     "cak",
     "cs",
     "cy",
@@ -937,6 +914,12 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/firefox/100.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/100.0.1/system-requirements/": [
+    "en-US"
   ],
   "/firefox/100.0/releasenotes/": [
     "en-US"
@@ -8482,48 +8465,20 @@
     "en-US"
   ],
   "/privacy/": [
-    "af",
-    "ar",
-    "bg",
-    "bn",
     "cs",
-    "da",
     "de",
-    "el",
     "en-US",
     "es-ES",
-    "et",
-    "fa",
-    "fi",
     "fr",
-    "he",
-    "hi-IN",
-    "hr",
     "hu",
     "id",
     "it",
     "ja",
-    "ko",
-    "mk",
-    "my",
-    "nb-NO",
     "nl",
     "pl",
     "pt-BR",
-    "ro",
     "ru",
-    "sk",
-    "sl",
-    "sr",
-    "ta",
-    "th",
-    "tl",
-    "tr",
-    "vi",
-    "xh",
-    "zh-CN",
-    "zh-TW",
-    "zu"
+    "zh-CN"
   ],
   "/privacy/archive/": [
     "en-US"
@@ -8534,6 +8489,9 @@
   ],
   "/privacy/archive/firefox-marketplace/2015-01/": [
     "de",
+    "en-US"
+  ],
+  "/privacy/archive/firefox-os/2022-05/": [
     "en-US"
   ],
   "/privacy/archive/firefox/2006-10/": [
@@ -8679,19 +8637,6 @@
   "/privacy/firefox-klar/": [
     "de"
   ],
-  "/privacy/firefox-lite/": [
-    "en-US",
-    "hi-IN",
-    "id",
-    "kn",
-    "ml",
-    "ta",
-    "th",
-    "tl",
-    "vi",
-    "zh-CN",
-    "zh-TW"
-  ],
   "/privacy/firefox-monitor/": [
     "ar",
     "de",
@@ -8713,48 +8658,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/privacy/firefox-os/": [
-    "af",
-    "ar",
-    "bg",
-    "bn",
-    "cs",
-    "da",
-    "de",
-    "el",
-    "en-US",
-    "es-ES",
-    "et",
-    "fa",
-    "fi",
-    "fr",
-    "he",
-    "hi-IN",
-    "hr",
-    "hu",
-    "id",
-    "it",
-    "ja",
-    "mk",
-    "my",
-    "nb-NO",
-    "nl",
-    "pl",
-    "pt-BR",
-    "ro",
-    "ru",
-    "sk",
-    "sl",
-    "sr",
-    "ta",
-    "th",
-    "tr",
-    "vi",
-    "xh",
-    "zh-CN",
-    "zh-TW",
-    "zu"
-  ],
   "/privacy/firefox-private-network/": [
     "en-US"
   ],
@@ -8772,29 +8675,22 @@
   ],
   "/privacy/firefox/": [
     "ar",
-    "bn",
     "cs",
     "de",
-    "el",
     "en-US",
     "es-ES",
     "es-MX",
     "fr",
     "hi-IN",
-    "hr",
     "hu",
     "id",
     "it",
     "ja",
     "ko",
-    "mk",
     "nl",
     "pl",
     "pt-BR",
-    "ro",
     "ru",
-    "sr",
-    "ta",
     "tr",
     "vi",
     "zh-CN",
