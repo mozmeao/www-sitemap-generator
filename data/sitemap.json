@@ -921,6 +921,12 @@
   "/firefox/100.0.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/100.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/100.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/100.0/releasenotes/": [
     "en-US"
   ],
@@ -3613,6 +3619,12 @@
     "en-US"
   ],
   "/firefox/91.9.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/91.9.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/91.9.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/92.0.1/releasenotes/": [
@@ -13044,6 +13056,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2022-18/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2022-19/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
