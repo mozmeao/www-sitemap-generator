@@ -471,6 +471,9 @@
     "zh-CN",
     "zh-TW"
   ],
+  "/about/legal/terms/hubs/": [
+    "en-US"
+  ],
   "/about/legal/terms/mdn-plus/": [
     "cs",
     "de",
@@ -7520,6 +7523,7 @@
   ],
   "/firefox/more/": [
     "ar",
+    "be",
     "cak",
     "cs",
     "cy",
@@ -8761,6 +8765,9 @@
     "pt-BR",
     "ru",
     "zh-CN"
+  ],
+  "/privacy/hubs/": [
+    "en-US"
   ],
   "/privacy/mdn-plus/": [
     "cs",
