@@ -748,7 +748,9 @@
     "en-US"
   ],
   "/about/this-site/": [
-    "en-US"
+    "en-US",
+    "es-MX",
+    "ia"
   ],
   "/about/webvision/": [
     "en-US"
@@ -8129,11 +8131,6 @@
     "vi",
     "zh-CN",
     "zh-TW"
-  ],
-  "/firefox/unfck/": [
-    "de",
-    "en-US",
-    "fr"
   ],
   "/firefox/unsupported-systems/": [
     "en-US"
