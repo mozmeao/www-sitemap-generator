@@ -1111,6 +1111,12 @@
   "/firefox/103.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/104.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/104.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/104.0/releasenotes/": [
     "en-US"
   ],
@@ -9143,7 +9149,26 @@
     "zh-CN"
   ],
   "/privacy/websites/data-preferences/": [
-    "en-US"
+    "ar",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "es-CL",
+    "es-MX",
+    "fy-NL",
+    "hi-IN",
+    "hu",
+    "ia",
+    "id",
+    "ja",
+    "ms",
+    "nl",
+    "pt-BR",
+    "sk",
+    "sv-SE",
+    "uk",
+    "vi"
   ],
   "/products/vpn/": [
     "ar",
