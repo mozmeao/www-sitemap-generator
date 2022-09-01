@@ -14413,8 +14413,8 @@
     "etag": "\"fb94fa9551a438351e49a448d288ed44\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"84fd2aad3cf976f5fec25032d4c84789\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"762b0f0e453fcf0c74ae73a5f2e2b830\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
@@ -18685,8 +18685,8 @@
     "etag": "\"1a412ce41d9f8f120680e67055f2fa0a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"c70de552057d5ab0eb5a9606675bded6\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"371d2ba35056f73706d5cb4eb973bbe5\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
@@ -19480,6 +19480,10 @@
     "date": "2022-08-30T18:01:59.858407+00:00",
     "etag": "\"88536ed0b882bb9b0a6f3682a7eafddc\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2022-38/": {
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"c4c0ce2ba16739053f33abb224e14a57\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
     "etag": "\"f9449cff2c0517ea3827b57a01b4f129\""
@@ -19605,8 +19609,8 @@
     "etag": "\"fbf3d504509d4b6f014c2f0387243440\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"f8df9889f354a5bb86fba6a332ef3aba\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"f6b620c3657eabe1b4e863a3f67847ad\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
@@ -24279,8 +24283,8 @@
     "etag": "\"fe2882fea3e4f8a3ee24d0a8f6455b75\""
   },
   "https://www.mozilla.org/gn/firefox/features/block-fingerprinting/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"1f51e91bf70ae9b045073de0feaa778c\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"a361dd9b09ee2aa04af5758923eca567\""
   },
   "https://www.mozilla.org/gn/firefox/features/bookmarks/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
@@ -24463,8 +24467,8 @@
     "etag": "\"046191b17efe5005702cbc03cd31e9ba\""
   },
   "https://www.mozilla.org/gn/products/vpn/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"84d481e780935019de9bbef3b8ef5b16\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"8b7c5e2d63c5e0c9892d9d88f41259e4\""
   },
   "https://www.mozilla.org/gn/products/vpn/desktop/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
@@ -24727,8 +24731,8 @@
     "etag": "\"1a084260e07535a9ea601d3b447b86d6\""
   },
   "https://www.mozilla.org/he/firefox/developer/": {
-    "date": "2022-08-30T18:01:59.858407+00:00",
-    "etag": "\"b2948f1fe5f0279bc8ce4b102bf0c5d5\""
+    "date": "2022-09-01T06:01:06.745691+00:00",
+    "etag": "\"4396aa21f071aa8b8f2543d193818020\""
   },
   "https://www.mozilla.org/he/firefox/features/": {
     "date": "2022-08-30T18:01:59.858407+00:00",
