@@ -1117,6 +1117,12 @@
   "/firefox/104.0.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/104.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/104.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/104.0/releasenotes/": [
     "en-US"
   ],
@@ -6687,6 +6693,9 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/firefox/family/": [
+    "en-US"
   ],
   "/firefox/faq/": [
     "ar",
