@@ -1088,6 +1088,12 @@
   "/firefox/102.2.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/102.3.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/102.3.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/103.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1148,6 +1154,12 @@
   "/firefox/104.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/105.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/105.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/105.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1164,6 +1176,12 @@
     "en-US"
   ],
   "/firefox/106.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/106.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/106.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/107.0a1/releasenotes/": [
@@ -4179,6 +4197,12 @@
     "en-US"
   ],
   "/firefox/android/104.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/105.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/105.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -7453,6 +7477,12 @@
   "/firefox/ios/104.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/ios/105.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/105.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/ios/11.0/releasenotes/": [
     "en-US"
   ],
@@ -9211,6 +9241,7 @@
     "ms",
     "nl",
     "pt-BR",
+    "ru",
     "sk",
     "sv-SE",
     "uk",
@@ -9286,6 +9317,7 @@
     "pt-BR",
     "pt-PT",
     "rm",
+    "ru",
     "sk",
     "sq",
     "sv-SE",
@@ -9320,6 +9352,7 @@
     "nl",
     "pt-BR",
     "rm",
+    "ru",
     "sk",
     "sq",
     "sv-SE",
@@ -9355,6 +9388,7 @@
     "pt-BR",
     "pt-PT",
     "rm",
+    "ru",
     "sk",
     "sq",
     "sv-SE",
@@ -9576,6 +9610,7 @@
     "pt-BR",
     "pt-PT",
     "rm",
+    "ru",
     "sk",
     "sq",
     "sv-SE",
@@ -13553,6 +13588,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2022-39/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2022-40/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2022-41/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
