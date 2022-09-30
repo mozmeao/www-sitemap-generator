@@ -485,8 +485,8 @@
     "etag": "\"9f992fe3196c6826082a4e50e4003b04\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"75011d2d32a565da8743932600fd1598\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"7540ceeee046376d997ec9fb9f964143\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -1269,24 +1269,28 @@
     "etag": "\"b86a3d48cd266a761a192d5409bdf166\""
   },
   "https://www.mozilla.org/be/firefox/browsers/best-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"a717690c5da8731705eb9d1f22718937\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"1fac6bee804e6d7101cfe23c172941c4\""
   },
   "https://www.mozilla.org/be/firefox/browsers/chromebook/": {
     "date": "2022-09-29T00:01:07.158662+00:00",
     "etag": "\"5e968e7e634eca0b8fcae6c67fed68a9\""
   },
   "https://www.mozilla.org/be/firefox/browsers/compare/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"8a7c866530b97f6c96cf6e16aa6a608c\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"5ada3d3aa5fbfffb89ee7c9f26b8c42d\""
   },
   "https://www.mozilla.org/be/firefox/browsers/compare/ie/": {
-    "date": "2022-09-28T12:02:33.930275+00:00",
-    "etag": "\"7eb462e9d74bb6dc456474a4185e39b5\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"bb3ee34e23398100ac354fe33afff8a4\""
   },
   "https://www.mozilla.org/be/firefox/browsers/mobile/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
     "etag": "\"4f2b252730efed12be14ccbf70d3e0f1\""
+  },
+  "https://www.mozilla.org/be/firefox/browsers/what-is-a-browser/": {
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"7b41ac88c8979e8d7269a726ed1443f8\""
   },
   "https://www.mozilla.org/be/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -1329,8 +1333,8 @@
     "etag": "\"5b84a79e6d7e4e9deb11d57d23da6122\""
   },
   "https://www.mozilla.org/be/firefox/features/adblocker/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"fc38dbc943b19afc55f0fed30b0c208d\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"ba90ba3ff6b2a1f14b6ac1e76a59f2ed\""
   },
   "https://www.mozilla.org/be/firefox/features/block-fingerprinting/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -1385,16 +1389,16 @@
     "etag": "\"ec3107754896e2651e0ffb4d1963fa88\""
   },
   "https://www.mozilla.org/be/firefox/linux/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"68281ac0755c525f1b70a2ba3aeadca2\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"2714e8e92a2db6bf0cd21cf9cfd36bb2\""
   },
   "https://www.mozilla.org/be/firefox/mac": {
     "date": "2021-12-19T18:02:17.130737+00:00",
     "etag": "\"3697bcf327ebc5295ed70f300eeb8aaf\""
   },
   "https://www.mozilla.org/be/firefox/mac/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"d75580238b168cfd403e4c06c2cb3d61\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"f1956ab99c5f0bf20203623ad7a34fd2\""
   },
   "https://www.mozilla.org/be/firefox/mobile-promo/": {
     "date": "2020-07-01T21:07:28.589824+00:00",
@@ -1409,12 +1413,12 @@
     "etag": "\"eb6556e03326b90ca415f803a20e1dd0\""
   },
   "https://www.mozilla.org/be/firefox/more/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"d0e7357d7e662c52f1ef214e89d905ac\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"3acb9f8e22ba9c75ffcc2a3eea83babc\""
   },
   "https://www.mozilla.org/be/firefox/new/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"5f96b7d4a2ceec01a06ee7fb77a7cd5f\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"116c979f5ee790beada3ac534f75bd24\""
   },
   "https://www.mozilla.org/be/firefox/products/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -2910,8 +2914,8 @@
     "etag": "\"4df0b33a398844ae507e81450ac63aa0\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"fb7c939f91788eafccca9ec529090c60\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"e36bc08b4d8f7aed26599c3f582d49bd\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -3416,8 +3420,8 @@
     "etag": "\"03972703e57f5cd348c213fdfc2a4e7b\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"afe9ca5c866b6b775c7c73bc6fb92a29\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"acddf051bcdb76b3fde1f3bf444d22e1\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -4174,8 +4178,8 @@
     "etag": "\"eeb07a8c61a69abebf7fa702ab89fdd8\""
   },
   "https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"9e205df2ca266838f27b02f9562e2efa\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"ca7abae9743f136ee17632bb4824f18c\""
   },
   "https://www.mozilla.org/de/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -5070,8 +5074,8 @@
     "etag": "\"a6164f9f394414ce481babeb2880cd9e\""
   },
   "https://www.mozilla.org/el/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"efa9b2cd3a22c8f893ff66b40955babd\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"20cea8d165a8d89a691bbef1b1e8aacb\""
   },
   "https://www.mozilla.org/el/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -5532,8 +5536,8 @@
     "etag": "\"a1d2e7091ad0041cc258441e578c1527\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"4f1aab3a23bc387286353cf02d8c9b07\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"7e1a307a9613f90f58aae28322c3403b\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -6014,8 +6018,8 @@
     "etag": "\"a97942cabf8a76263f8c99f6397f0148\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"a0f47bd7e7345d3e246b2018b48ee97c\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"6cde74f18571e08ff243d4ccd7c67462\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -13215,8 +13219,8 @@
     "etag": "\"c14d34a4f419f9a8c43a07c39ec6b50c\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"3fe77672dd9d3383bd0286e612ffef0a\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"c7e17531334fb650de59028dae78ca59\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -20063,8 +20067,8 @@
     "etag": "\"d92e042ba88893b67defa677dee2c9e9\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"90e91a9ae605c82a06352fba0c6055e6\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"8affeb20b16b8a927b38b7da8a4175fd\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -20521,8 +20525,8 @@
     "etag": "\"2b5b6907b8a9b5e5385b15f569ae8e74\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"f64e51225627033df7f16f16465b1e15\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"36f6cd6c6b3da1f512b4ba7bc198c252\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -21039,8 +21043,8 @@
     "etag": "\"dd182d46d236d7c4f2dfaba0893b112a\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"c9667fe5c1ee838a45d4d73562ef0af3\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"10fae7369ff53286443b37a0e99bbea9\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -21557,8 +21561,8 @@
     "etag": "\"b3340b1020888729816438c5d1056711\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"3d23abdf8207a32be1f12bca7e3f1476\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"b02c533f5fe4313499922b28ab9ab89c\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -22913,8 +22917,8 @@
     "etag": "\"cfd34c9700517bd88fff1970e5bafe28\""
   },
   "https://www.mozilla.org/fr/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"7b266c17fbf207211483eb7eba07dc65\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"5a223c32e90e7bf4267c75a3f8332f3d\""
   },
   "https://www.mozilla.org/fr/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -23467,8 +23471,8 @@
     "etag": "\"da14927a6e7684a14e1f60b2d353adbc\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"a0bbcdfbb3bd81a9e02b43554b5b54f7\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"20066879ca6b15f8f695398a555bfc2c\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -24051,8 +24055,8 @@
     "etag": "\"dfb42bd2cd2b08a8aabdcaaa287fd489\""
   },
   "https://www.mozilla.org/gl/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"ab88826e9109816019c20e924fb068c6\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"ee7737632b19ea47930d17b795904397\""
   },
   "https://www.mozilla.org/gl/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -24367,8 +24371,8 @@
     "etag": "\"a4e95b461831cad323c3812a83cbdb04\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"e20285469d8f66c602d41ba5588d6485\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"f24afaab9c3161cf874bb143d64bf7c3\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -25125,8 +25129,8 @@
     "etag": "\"6400ce0673f735f01e1ad7b6ff968afd\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"6734cf38d9c0473a47f8695f83d9c2ff\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"2718d96a12565a301cd81827267793ba\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -26143,8 +26147,8 @@
     "etag": "\"6b250a967b594ce7b83675263ac5786c\""
   },
   "https://www.mozilla.org/hu/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"003eea0a13ef9646a71567b8223a7434\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"2bd4e91e6d62b01ca56ca0467860d25e\""
   },
   "https://www.mozilla.org/hu/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -26781,8 +26785,8 @@
     "etag": "\"084915771c6b73a79e54c29a95f5bf19\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"76aab0be0fb4e07698988df64985a5b0\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"b30b3e4418cf2f6f5ede13976ec04f37\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -27263,8 +27267,8 @@
     "etag": "\"5764a52befd8ab91662ac02e37f07a83\""
   },
   "https://www.mozilla.org/id/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"e6d2e6b13d54ec1a84e1f1b49eb9569f\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"e246bf45ba00395370d95f31f800b06f\""
   },
   "https://www.mozilla.org/id/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -27957,8 +27961,8 @@
     "etag": "\"80854515a221b763c1824e4b235799ce\""
   },
   "https://www.mozilla.org/it/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"d2ed4c6877626d35bd3bb360763ce421\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"1ab89d42be8e91152c01ef7e617638db\""
   },
   "https://www.mozilla.org/it/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -28489,8 +28493,8 @@
     "etag": "\"7514abf119bb997588905856473b8cd3\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"6351c592aa59ac799eeede594300f24b\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"e5705da4a35340c1f880503036fd525d\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -29009,8 +29013,8 @@
     "etag": "\"846e82c2e6aa1fd195897ac08cdc2dbb\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"cd49d0a28f34d56700291cb443e8d8a8\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"d703e895c1de73a9865c000ae5738ca7\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -29411,8 +29415,8 @@
     "etag": "\"e502ea7c4524519a0ae2025b4175d503\""
   },
   "https://www.mozilla.org/kab/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"5863298431ac525d22f9b06fbc025987\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"a824994d8451634d0664fccaca1e5509\""
   },
   "https://www.mozilla.org/kab/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -31289,8 +31293,8 @@
     "etag": "\"9ab37db16db56b946141cdda4a7ea00e\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"da57cc72ae12c6120ae85801c763fddf\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"c62b710ffb8a18d2d20502342754b853\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -32255,8 +32259,8 @@
     "etag": "\"42382be37050a90b19799668393340c5\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"274e1b6ccf5bb2cd24d4d0864fbd2c83\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"239f6e9170c48d6df224691d077d67ba\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -33713,8 +33717,8 @@
     "etag": "\"7e771090b5739afc86e250f2d5c750d9\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"977a22eea0035455086b603d076603f3\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"59a3d5fa79bc25fe0c0f939e93064a02\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -34219,8 +34223,8 @@
     "etag": "\"1ac625d06b1777755b73d00a979f0b83\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"c3907f3472be29aa1a9af520aa3669f2\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"b40204cc75f98890e3c168587ce84586\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -34567,8 +34571,8 @@
     "etag": "\"834aa65e35fa71b9998659cc73691fe4\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"af2d2dc7625ed37f2eed2c3662e67ffa\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"ed367913db2270caed8dff89d4bdbdaf\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -35323,8 +35327,8 @@
     "etag": "\"5b490de6368a9aae54285769647153fc\""
   },
   "https://www.mozilla.org/ru/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"ad74ef006d4923f0b242071fed6cd663\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"82f64c70a79123994e8caa7e1841bfe2\""
   },
   "https://www.mozilla.org/ru/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -35982,8 +35986,8 @@
     "etag": "\"3c2a1013630ea8e3d31e635a330ca4ef\""
   },
   "https://www.mozilla.org/sk/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"433c7f944e168fb59418c152db1b278e\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"caa384fc3a9bb5abeb2b81c432db7371\""
   },
   "https://www.mozilla.org/sk/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -36845,8 +36849,8 @@
     "etag": "\"19f2d75177b83e480cf997bc64e0ba96\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"e8572b7162d94a4b1faa1f0e7dd55116\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"1b796491226367c2767de956fa67ca32\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -37283,8 +37287,8 @@
     "etag": "\"d4a8aa5b7d969213cf211f83cb67f648\""
   },
   "https://www.mozilla.org/sr/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"eaa7236ffc4586e733d7c53ce10c5d31\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"0f3ec5c979867344c1578ac8cf79f02e\""
   },
   "https://www.mozilla.org/sr/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -37617,8 +37621,8 @@
     "etag": "\"a614ebb91f19885a8d662adeb48b3d86\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"e0b81ca2ced9647e8fd5ee185524da49\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"4b6b3695ca4e6eb4dd53ffae7ff204ad\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -39227,8 +39231,8 @@
     "etag": "\"5a12803b6ade110eb4ee407a976b0b3f\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"c6d2df853e641cafdc6a9361e1ae2d22\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"41b099d069d87ae4bb659e4327244d5c\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -39935,8 +39939,8 @@
     "etag": "\"5ac73ea5fe8e1efc0ce5f8a4f4940f25\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"cc22a370c0ebbd5fcf773ff2ed84e1be\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"b45d77cdea1bf18fdd9fe46bc7ae3064\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
@@ -40497,8 +40501,8 @@
     "etag": "\"a610182a0a03f52f6e8973c743652ee2\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/what-is-a-browser/": {
-    "date": "2022-09-23T18:00:59.343936+00:00",
-    "etag": "\"0b09204f2fd6c74740e39b8a39400025\""
+    "date": "2022-09-30T18:01:03.553549+00:00",
+    "etag": "\"f59ffcc6ebc46986de1986a5b2dc1a75\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/windows-64-bit/": {
     "date": "2022-09-23T18:00:59.343936+00:00",
