@@ -1162,6 +1162,12 @@
   "/firefox/105.0.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/105.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/105.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/105.0/releasenotes/": [
     "en-US"
   ],
@@ -8354,6 +8360,7 @@
     "sl",
     "sq",
     "sv-SE",
+    "th",
     "tr",
     "uk",
     "vi",
