@@ -364,6 +364,7 @@
   ],
   "/about/legal/": [
     "ar",
+    "be",
     "cs",
     "cy",
     "de",
@@ -462,15 +463,6 @@
   "/about/legal/terms/firefox-reality/": [
     "en-US"
   ],
-  "/about/legal/terms/firefox-relay/": [
-    "de",
-    "en-US",
-    "es-ES",
-    "fr",
-    "it",
-    "ms",
-    "nl"
-  ],
   "/about/legal/terms/firefox/": [
     "de",
     "en-US",
@@ -505,15 +497,6 @@
     "pt-BR",
     "ru",
     "zh-CN"
-  ],
-  "/about/legal/terms/mozilla-vpn/": [
-    "de",
-    "en-US",
-    "es-ES",
-    "fr",
-    "it",
-    "ms",
-    "nl"
   ],
   "/about/legal/terms/mozilla/": [
     "ar",
@@ -769,6 +752,7 @@
   ],
   "/about/this-site/": [
     "ar",
+    "be",
     "cs",
     "cy",
     "de",
@@ -8917,6 +8901,9 @@
   "/privacy/archive/firefox-os/2022-05/": [
     "en-US"
   ],
+  "/privacy/archive/firefox-relay/2022-10/": [
+    "en-US"
+  ],
   "/privacy/archive/firefox/2006-10/": [
     "en-US"
   ],
@@ -8957,6 +8944,9 @@
     "en-US"
   ],
   "/privacy/archive/hello/2016-03/": [
+    "en-US"
+  ],
+  "/privacy/archive/mozilla-vpn/2022-10/": [
     "en-US"
   ],
   "/privacy/archive/persona/2017-07/": [
@@ -9087,15 +9077,6 @@
   "/privacy/firefox-reality/": [
     "en-US"
   ],
-  "/privacy/firefox-relay/": [
-    "de",
-    "en-US",
-    "es-ES",
-    "fr",
-    "it",
-    "ms",
-    "nl"
-  ],
   "/privacy/firefox/": [
     "cs",
     "de",
@@ -9131,15 +9112,6 @@
     "pt-BR",
     "ru",
     "zh-CN"
-  ],
-  "/privacy/mozilla-vpn/": [
-    "de",
-    "en-US",
-    "es-ES",
-    "fr",
-    "it",
-    "ms",
-    "nl"
   ],
   "/privacy/principles/": [
     "an",
@@ -9278,7 +9250,8 @@
     "tr",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/": [
     "ar",
