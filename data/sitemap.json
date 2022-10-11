@@ -536,7 +536,13 @@
     "zh-CN"
   ],
   "/about/legal/terms/subscription-services/": [
-    "en-US"
+    "de",
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ms",
+    "nl"
   ],
   "/about/legal/terms/thunderbird/": [
     "en-US"
@@ -9199,7 +9205,13 @@
     "zh-TW"
   ],
   "/privacy/subscription-services/": [
-    "en-US"
+    "de",
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ms",
+    "nl"
   ],
   "/privacy/thunderbird/": [
     "en-US"
@@ -9287,6 +9299,7 @@
     "rm",
     "ru",
     "sk",
+    "sl",
     "sq",
     "sv-SE",
     "tr",
@@ -9511,6 +9524,7 @@
     "rm",
     "ru",
     "sk",
+    "sl",
     "sq",
     "sv-SE",
     "tr",
@@ -9731,6 +9745,7 @@
     "rm",
     "ru",
     "sk",
+    "sl",
     "sq",
     "sv-SE",
     "uk",
