@@ -1191,6 +1191,12 @@
   "/firefox/105.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/106.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/106.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/106.0/releasenotes/": [
     "en-US"
   ],
@@ -5618,6 +5624,7 @@
     "cak",
     "cs",
     "cy",
+    "da",
     "de",
     "el",
     "en-CA",
