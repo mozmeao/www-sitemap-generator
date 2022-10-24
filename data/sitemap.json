@@ -832,9 +832,6 @@
   "/contact/spaces/paris/": [
     "en-US"
   ],
-  "/contact/spaces/portland/": [
-    "en-US"
-  ],
   "/contact/spaces/san-francisco/": [
     "en-US"
   ],
@@ -8810,6 +8807,9 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/newsletter/family/": [
+    "en-US"
   ],
   "/newsletter/firefox/": [
     "ar",
