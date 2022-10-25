@@ -6823,8 +6823,8 @@
     "etag": "\"be34168686c3256c9ddcab1d3c6bd6b4\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2022-10-24T18:02:04.418791+00:00",
-    "etag": "\"b5becb5b6289b1f3c95237b619a0b86e\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"07f4b9ea17b4f9310d9aa43c428db955\""
   },
   "https://www.mozilla.org/en-US/contact/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
@@ -7619,8 +7619,8 @@
     "etag": "\"ecac8c6328f1b031ee8efbc7fdece690\""
   },
   "https://www.mozilla.org/en-US/firefox/106.0/releasenotes/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"a42e413843f7d541a67e93fcfbb20118\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"7d9946dd6467640d551ea813c2b76415\""
   },
   "https://www.mozilla.org/en-US/firefox/106.0/system-requirements/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
@@ -14633,8 +14633,8 @@
     "etag": "\"d67e2a1a2d5b28faa29fb80c86bf7157\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"ec6be0602825cde59fec271bd174b6bc\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"58849858f9d9d9827caff4736c4c3d14\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
@@ -18905,8 +18905,8 @@
     "etag": "\"bb3fb8e8601fbfa53a54fbfbb50bf322\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"20ff78e9c3ed314dd132e12227981c23\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"ae4ac69a22aa934b64257c0725d87820\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
@@ -19732,6 +19732,10 @@
     "date": "2022-10-20T18:02:25.303760+00:00",
     "etag": "\"e74df8175f50c7870e9fb6975112caf7\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2022-46/": {
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"ce73ec7933883f2bc9b8d92dca43707d\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
     "etag": "\"c4522669cb93d9c61f935edbb3ef08ae\""
@@ -19857,8 +19861,8 @@
     "etag": "\"cb04fb66bc82cfda0278abb6bca843eb\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"ce39928ca520354e1dec20b46c2eca75\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"03d4a21c7068bf88a084b79bcffdcd8f\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
@@ -22405,16 +22409,16 @@
     "etag": "\"a937470d0dd7bb0cce02e6faa5d36640\""
   },
   "https://www.mozilla.org/fa/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"a2a70cc2e85d47c59562a97b39de3b63\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"d9ae5ada7f3c72aa625a18c2a24038ae\""
   },
   "https://www.mozilla.org/fa/about/": {
     "date": "2018-08-15T03:30:07.486485+00:00",
     "etag": "\"93d785ed622ae38cfdbc9261b6be8d68\""
   },
   "https://www.mozilla.org/fa/about/history/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"4b5cc25638e5babfcc348723119ce82e\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"d1858ec019e4e441f4e3d02021d7486c\""
   },
   "https://www.mozilla.org/fa/about/history/details/": {
     "date": "2018-08-15T03:31:05.172300+00:00",
@@ -22425,12 +22429,12 @@
     "etag": "\"2668b2bffaf5878d798122e4e4a6395b\""
   },
   "https://www.mozilla.org/fa/about/manifesto/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"194342c5016d9094d40c3bfb3e9cccea\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"cb45e7e9abc23a7aa4b67a41fbb3a6a2\""
   },
   "https://www.mozilla.org/fa/about/manifesto/details/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"c81812cc480557a1c3c65ca556297f0b\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"fea40634675c8bea429b64c722f5143c\""
   },
   "https://www.mozilla.org/fa/contribute/": {},
   "https://www.mozilla.org/fa/contribute/events/": {},
@@ -22459,24 +22463,24 @@
     "etag": "\"56c3eff2536c514b6c25ddad28b48124\""
   },
   "https://www.mozilla.org/fa/firefox/channel/android/": {
-    "date": "2022-10-24T18:02:04.418791+00:00",
-    "etag": "\"1706d9095c2560df154a8c1cf790a9f0\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"57ef57cb3d97df61bad556256e3b698f\""
   },
   "https://www.mozilla.org/fa/firefox/channel/desktop/": {
-    "date": "2022-10-24T18:02:04.418791+00:00",
-    "etag": "\"77589b005d10e99baac9e6f38886ba1d\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"7cade16b5cce6169b945549173adbaa5\""
   },
   "https://www.mozilla.org/fa/firefox/channel/ios/": {
-    "date": "2022-10-24T18:02:04.418791+00:00",
-    "etag": "\"a1566f3905493a684b4d0910ff2ae95f\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"95d665d86792844655af1a36b6d80b42\""
   },
   "https://www.mozilla.org/fa/firefox/developer/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"a2004d763e9a4988eae863dd9ef23533\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"e9deb964e794bf7519979f5f89e4b91d\""
   },
   "https://www.mozilla.org/fa/firefox/facebookcontainer/": {
-    "date": "2022-10-24T18:02:04.418791+00:00",
-    "etag": "\"174141398e9f8ec605ae354103994b59\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"e45d163bc22c0043efb5723fe7bb5971\""
   },
   "https://www.mozilla.org/fa/firefox/features/": {
     "date": "2020-07-08T00:09:18.271930+00:00",
@@ -22571,8 +22575,8 @@
     "etag": "\"cc5980ba06f73ff841e6417ae74bf879\""
   },
   "https://www.mozilla.org/fa/mission/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"91a30d22792bbecdb54fbe33c24608b4\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"9b1b23c08d0bcfc1abdf425bf1c827a1\""
   },
   "https://www.mozilla.org/fa/plugincheck/": {
     "date": "2018-08-15T03:28:57.290416+00:00",
@@ -22587,8 +22591,8 @@
     "etag": "\"3ff44225172f56e65d87a7a7a6dc2f4c\""
   },
   "https://www.mozilla.org/fa/privacy/principles/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"99b339058b6bdb7fb565fe7a12e3de78\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"d0c87fe70c9466d52d4564ced42736b9\""
   },
   "https://www.mozilla.org/fa/technology/": {
     "date": "2018-08-15T18:00:21.606232+00:00",
@@ -39029,8 +39033,8 @@
     "etag": "\"693c9e58755cf13186cd32019878a458\""
   },
   "https://www.mozilla.org/tr/firefox/privacy/safe-passwords/": {
-    "date": "2022-10-20T18:02:25.303760+00:00",
-    "etag": "\"fc0fe33285572f31a8fe71bd731c59f0\""
+    "date": "2022-10-25T00:02:21.763239+00:00",
+    "etag": "\"d9c0f042648159b81c9589499f77620d\""
   },
   "https://www.mozilla.org/tr/firefox/products/": {
     "date": "2022-10-20T18:02:25.303760+00:00",
