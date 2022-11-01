@@ -1200,6 +1200,12 @@
   "/firefox/106.0.2/system-requirements/": [
     "en-US"
   ],
+  "/firefox/106.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/106.0.3/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/106.0/releasenotes/": [
     "en-US"
   ],
@@ -9285,6 +9291,7 @@
   ],
   "/privacy/websites/data-preferences/": [
     "ar",
+    "cs",
     "cy",
     "de",
     "el",
