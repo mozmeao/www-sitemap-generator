@@ -385,6 +385,10 @@
     "date": "2021-11-22T23:18:35.964515+00:00",
     "etag": "\"b6bf7e4ab0e9574eef3a5ce714d20a52\""
   },
+  "https://www.mozilla.org/ar/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b8a970f9bf0078d3f32d8ef2a3deb325\""
+  },
   "https://www.mozilla.org/ar/about/manifesto/": {
     "date": "2022-11-10T06:02:29.105759+00:00",
     "etag": "\"fec21b10b9777813a550b09ac18db253\""
@@ -769,8 +773,8 @@
     "etag": "\"6812e50685ee45dd480303a676be7520\""
   },
   "https://www.mozilla.org/ar/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"2f3c7513dbce2f2186fbeecfa14ff7bf\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"1af63467bdf478ec80e89e233057f845\""
   },
   "https://www.mozilla.org/ar/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -1248,6 +1252,10 @@
     "date": "2022-11-08T12:01:42.559894+00:00",
     "etag": "\"eeca457c1d04aea890e7bff7dd85247b\""
   },
+  "https://www.mozilla.org/be/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b81ba945cb150bea20fb6f3b77251bd6\""
+  },
   "https://www.mozilla.org/be/about/manifesto/": {
     "date": "2022-11-14T12:01:23.092075+00:00",
     "etag": "\"c4fda2d82ae6259bcde601583fa52dfe\""
@@ -1365,8 +1373,8 @@
     "etag": "\"e22be0b789e5150addd0858653cae626\""
   },
   "https://www.mozilla.org/be/firefox/features/block-fingerprinting/": {
-    "date": "2022-11-12T00:01:15.708007+00:00",
-    "etag": "\"e1ce2252e9b215f02a2ed3a6a14e0f3e\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"cd290b97c433c2e240c068dd5b923998\""
   },
   "https://www.mozilla.org/be/firefox/features/bookmarks/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -1511,6 +1519,10 @@
   "https://www.mozilla.org/be/privacy/principles/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"7ad6d2379eec3d8f6adce2d1b89ab186\""
+  },
+  "https://www.mozilla.org/be/products/vpn/download/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"cb12412876d5488188ee4bbb00e7bf53\""
   },
   "https://www.mozilla.org/be/technology/": {
     "date": "2018-08-15T18:00:21.079929+00:00",
@@ -2835,6 +2847,10 @@
     "date": "2021-11-22T23:18:35.964515+00:00",
     "etag": "\"348ef1aef29dc795857296c964e13e39\""
   },
+  "https://www.mozilla.org/cs/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"ff8dc10d060b0fbc9f4c823b1e100e9f\""
+  },
   "https://www.mozilla.org/cs/about/manifesto/": {
     "date": "2022-11-07T00:01:29.675409+00:00",
     "etag": "\"c0cd8ecfe35f4b3cd0892a4f43ca39fa\""
@@ -3266,8 +3282,8 @@
     "etag": "\"fd0ea8f4dc5490e3f68e8aa37b7abe6b\""
   },
   "https://www.mozilla.org/cs/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"7d35219de8f264a83b64f45edc32fbcf\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"efce44d9c99bb42308d311b3a7add3d6\""
   },
   "https://www.mozilla.org/cs/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -3344,6 +3360,10 @@
   "https://www.mozilla.org/cy/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"f9dca5b49e75e1458b674c325fda3bb8\""
+  },
+  "https://www.mozilla.org/cy/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"43a52529af99c273ae2e34cb90889e0f\""
   },
   "https://www.mozilla.org/cy/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
@@ -3752,8 +3772,8 @@
     "etag": "\"e5fb7002c41082127effd656a658eae0\""
   },
   "https://www.mozilla.org/cy/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"ee649d28148ca7bcd0892568c732c4ea\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"4efc39fd0d91b365ebfe40923cc4a068\""
   },
   "https://www.mozilla.org/cy/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -4106,6 +4126,10 @@
   "https://www.mozilla.org/de/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"6108b0e37949d57650ff069bd72bdd76\""
+  },
+  "https://www.mozilla.org/de/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"8fa161f9c785f7ea364f957247bef88e\""
   },
   "https://www.mozilla.org/de/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -4602,8 +4626,8 @@
     "etag": "\"10440aa9180c2f33de62ce8e53ef46d6\""
   },
   "https://www.mozilla.org/de/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"6ddd6445b5557bb5ac5650ca79bd2ea3\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"2ffcb7aa532421821aaaeb83ef3ac1df\""
   },
   "https://www.mozilla.org/de/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -4676,6 +4700,10 @@
   "https://www.mozilla.org/dsb/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"b24bd2353bf8694a10008987c3a59fd4\""
+  },
+  "https://www.mozilla.org/dsb/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"21d3a568b08ed4b8c08677383f904f2e\""
   },
   "https://www.mozilla.org/dsb/about/manifesto/": {
     "date": "2022-11-10T12:01:21.597152+00:00",
@@ -4948,8 +4976,8 @@
     "etag": "\"eb5679f38c2054c0675f548f403f0e09\""
   },
   "https://www.mozilla.org/dsb/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"611aca30ac7711927c07fbc8ded37a0d\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"8f71f61719697bd23a3abd820c465ef7\""
   },
   "https://www.mozilla.org/dsb/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -5010,6 +5038,10 @@
   "https://www.mozilla.org/el/about/legal/terms/services/": {
     "date": "2021-11-24T18:03:18.757393+00:00",
     "etag": "\"f59f6d94b20bd31de11e342845d6948a\""
+  },
+  "https://www.mozilla.org/el/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7f4e90abc05ba025a41bdcd92aab61c3\""
   },
   "https://www.mozilla.org/el/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
@@ -5398,8 +5430,8 @@
     "etag": "\"78f1fce183a26c32a2999b48a9b76f64\""
   },
   "https://www.mozilla.org/el/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"9d90abd96190027ed4ba27947727925b\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"e5dbae9e2c911fadc284b893d9db2977\""
   },
   "https://www.mozilla.org/el/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -5472,6 +5504,10 @@
   "https://www.mozilla.org/en-CA/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"aaf2de529aafd396d8cf33459df8765a\""
+  },
+  "https://www.mozilla.org/en-CA/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"95448f90bd479e007b5dfa1f4f73111d\""
   },
   "https://www.mozilla.org/en-CA/about/manifesto/": {
     "date": "2022-11-10T06:02:29.105759+00:00",
@@ -5880,8 +5916,8 @@
     "etag": "\"017eadc5c87848546c6b114beb3cac3c\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"1c05883875967bfcd29cfd0e837dedb7\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"0681803e9b5b42ae3cd617eda25607b2\""
   },
   "https://www.mozilla.org/en-CA/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -5958,6 +5994,10 @@
   "https://www.mozilla.org/en-GB/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"10b1b3025f405cc3096d0e50ab2ac6d7\""
+  },
+  "https://www.mozilla.org/en-GB/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7a19827c6bce548c72afcb78a34f9d35\""
   },
   "https://www.mozilla.org/en-GB/about/manifesto/": {
     "date": "2022-11-05T18:01:05.242329+00:00",
@@ -6362,8 +6402,8 @@
     "etag": "\"ef678fc9f5f7d7f47f2efa10210719df\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"aad1f514f4d07ebec10c122ef0772a70\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"17491ba8364eb4eb0b2840b2723b1f12\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -6678,6 +6718,10 @@
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"f7988b980124e2744a270721c5e3abf9\""
   },
+  "https://www.mozilla.org/en-US/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"89054c1fce953d14c8383a156612c6de\""
+  },
   "https://www.mozilla.org/en-US/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"d3c2191b704594148e98ffcc25eef4bd\""
@@ -6835,8 +6879,8 @@
     "etag": "\"706d2eaddea5ada5a2ede9d17eae7b24\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2022-11-11T00:01:17.389081+00:00",
-    "etag": "\"0c49757dd8b57b92ef4ffa4d6f56ccad\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"3ac97634150ea6fe348cf2d447d8cc55\""
   },
   "https://www.mozilla.org/en-US/contact/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -14597,8 +14641,8 @@
     "etag": "\"3e3e6d71037dcf4e69575c9f3ee86a97\""
   },
   "https://www.mozilla.org/en-US/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"30547faece3e6346d86f3c031af12139\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b700da32a010bb196e91a1c51d503ebf\""
   },
   "https://www.mozilla.org/en-US/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -20148,6 +20192,10 @@
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"8b5f040e924225f5872abfdafaae2145\""
   },
+  "https://www.mozilla.org/es-AR/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"13b46dbd974e0c976aece761bb48e374\""
+  },
   "https://www.mozilla.org/es-AR/about/manifesto/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"dab74257b5e38e6ece3856d17808faf7\""
@@ -20531,8 +20579,8 @@
     "etag": "\"290946bdbb168d093f49ce385823ce31\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"62b5f9430bc759d2f402fa7101f3888e\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"a63da62f054e3d2af866e5b7050e7fc2\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -20605,6 +20653,10 @@
   "https://www.mozilla.org/es-CL/about/legal/firefox/": {
     "date": "2022-03-25T18:02:15.526539+00:00",
     "etag": "\"33ecf0b8c30c2941796d904b79d5ba0b\""
+  },
+  "https://www.mozilla.org/es-CL/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"e32d157d7a1f278cab5fb32e64cf7549\""
   },
   "https://www.mozilla.org/es-CL/about/manifesto/": {
     "date": "2022-11-10T12:01:21.597152+00:00",
@@ -21009,8 +21061,8 @@
     "etag": "\"5e3d5a2c05ddf6a1162850554aef4e00\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"17d0383ce053d2b3d35f4dbe83343927\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"d14749e13eaa6cdb2c6dc78a3b7f4c07\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -21123,6 +21175,10 @@
   "https://www.mozilla.org/es-ES/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"fa1c9c1ede7b0a3e94542a00f958f364\""
+  },
+  "https://www.mozilla.org/es-ES/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"61832a6edd0dc2dc357a8f5cad5a23f4\""
   },
   "https://www.mozilla.org/es-ES/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -21575,8 +21631,8 @@
     "etag": "\"26378d881232a9d51e9e5f07a8359bea\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"e6dc28701740c1bd482f1ed2105d38bf\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"34f5532a9a25762a73e2bb9e53df5bac\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -21649,6 +21705,10 @@
   "https://www.mozilla.org/es-MX/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"5d04c7da5d225a6759908ae9ed727ae9\""
+  },
+  "https://www.mozilla.org/es-MX/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"08c8e17a894559981a26f61bacb4f68b\""
   },
   "https://www.mozilla.org/es-MX/about/manifesto/": {
     "date": "2022-11-14T12:01:23.092075+00:00",
@@ -22049,8 +22109,8 @@
     "etag": "\"a09433e2548f55bcfce8b768b77036f9\""
   },
   "https://www.mozilla.org/es-MX/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"540b6a8c79bec3fa37a1de287c7589b1\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"d4b06648c247ba0a63a1b685f1e0f7e9\""
   },
   "https://www.mozilla.org/es-MX/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -22935,8 +22995,8 @@
     "etag": "\"2fd615642df620aa31b51e7ae00493b7\""
   },
   "https://www.mozilla.org/fi/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"910e82b09632ca8d28df50190642e08f\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"1d0a04bb8e1a270d159a58860234a09c\""
   },
   "https://www.mozilla.org/fi/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -23005,6 +23065,10 @@
   "https://www.mozilla.org/fr/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"faa0b6f351ad5456048323d59414146f\""
+  },
+  "https://www.mozilla.org/fr/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"a233120338f1816cb806f2981ca2e1d4\""
   },
   "https://www.mozilla.org/fr/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -23489,8 +23553,8 @@
     "etag": "\"6be5f87d588c522c641159247f717d3c\""
   },
   "https://www.mozilla.org/fr/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"e7919125d31d7e55374bfb115538f94a\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"faae0e59fa6c54fe7c676a6a9bb3e484\""
   },
   "https://www.mozilla.org/fr/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -23567,6 +23631,10 @@
   "https://www.mozilla.org/fy-NL/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"3c547965a3440fd461179baf4cbc0ccb\""
+  },
+  "https://www.mozilla.org/fy-NL/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"e281d9d19e5a1fa78c9436ef7147843c\""
   },
   "https://www.mozilla.org/fy-NL/about/manifesto/": {
     "date": "2022-11-14T12:01:23.092075+00:00",
@@ -23951,8 +24019,8 @@
     "etag": "\"c459cbb22fba10eecf18223731edab7b\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"f47a729d5ee26da174df02350fbb5c8f\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7c3131f15f2fedf946241f8d6b161404\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -24482,6 +24550,10 @@
     "date": "2022-03-25T18:02:15.526539+00:00",
     "etag": "\"19c3ccfb6f282b5069cfbaf05ecb9b9b\""
   },
+  "https://www.mozilla.org/gn/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"916b0a0d22338737c239f61351e73303\""
+  },
   "https://www.mozilla.org/gn/about/manifesto/": {
     "date": "2022-11-08T12:01:42.559894+00:00",
     "etag": "\"e61b79ec3749ea979cf297cb2a7bf828\""
@@ -24827,8 +24899,8 @@
     "etag": "\"02df505f74677343403e9b914557de92\""
   },
   "https://www.mozilla.org/gn/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"c15df1151f3fb6d28d0851d30951a714\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"4bf0e221befc5334b309ae12902b2f8b\""
   },
   "https://www.mozilla.org/gn/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -25229,6 +25301,10 @@
   "https://www.mozilla.org/hi-IN/about/legal/terms/services/": {
     "date": "2021-11-22T23:18:35.964515+00:00",
     "etag": "\"4372897c1f357dc79a796a2efc140eed\""
+  },
+  "https://www.mozilla.org/hi-IN/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"1481488123ad39d9695a29bff220fd3c\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/": {
     "date": "2022-11-09T18:01:32.773896+00:00",
@@ -25633,8 +25709,8 @@
     "etag": "\"c2194ed831181a9220da9f7e3a948888\""
   },
   "https://www.mozilla.org/hi-IN/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"56bb9a4717360329b613f7c36bc2fcfa\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"47fd29891e1d7664da5a755192371a90\""
   },
   "https://www.mozilla.org/hi-IN/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -25924,6 +26000,10 @@
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"0895c1179544d8aacb9cd726b6a5c0b7\""
   },
+  "https://www.mozilla.org/hsb/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"a0e6329eba5797271d1375c2ff0c05c7\""
+  },
   "https://www.mozilla.org/hsb/about/manifesto/": {
     "date": "2022-11-10T06:02:29.105759+00:00",
     "etag": "\"cf13f9b87fc84528e98174aad750b68e\""
@@ -26195,8 +26275,8 @@
     "etag": "\"88dd4d9f35c5ff3cd28535fe1dc28bca\""
   },
   "https://www.mozilla.org/hsb/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"7e2160eabf1eb3017ab44451390c90f6\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"e016731cc39a611f63065eaac23140f8\""
   },
   "https://www.mozilla.org/hsb/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -26261,6 +26341,10 @@
   "https://www.mozilla.org/hu/about/legal/terms/services/": {
     "date": "2021-11-22T23:18:35.964515+00:00",
     "etag": "\"eb8c87d49d8d5acb1136a3442f60e68b\""
+  },
+  "https://www.mozilla.org/hu/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"2c51aac5f00dfb240820640b6aab846d\""
   },
   "https://www.mozilla.org/hu/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
@@ -26631,8 +26715,8 @@
     "etag": "\"dd94735fa3fa68acbdfbe3290dbec0a3\""
   },
   "https://www.mozilla.org/hu/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"b1ef588e6574b3bc434b8926e678f790\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"01ecc6b3fbb3dc779402afb7dde44910\""
   },
   "https://www.mozilla.org/hu/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -26885,6 +26969,10 @@
   "https://www.mozilla.org/ia/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"b9970ba9bbee9e5313ab3872d0827e75\""
+  },
+  "https://www.mozilla.org/ia/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"ab691459172651075bfb15f1dc3b3b07\""
   },
   "https://www.mozilla.org/ia/about/manifesto/": {
     "date": "2022-11-11T18:01:08.224900+00:00",
@@ -27261,8 +27349,8 @@
     "etag": "\"9cc5af35fdbb0d65a27a730eb64e0c68\""
   },
   "https://www.mozilla.org/ia/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"6ff8b47c81d5802039059782dbcc0b5b\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"36a7473f834b27f2396d45d6df055838\""
   },
   "https://www.mozilla.org/ia/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -27367,6 +27455,10 @@
   "https://www.mozilla.org/id/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"5b1c0f030d187395b9d117870ac12a21\""
+  },
+  "https://www.mozilla.org/id/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"664e08a2015f875a0db98b36cd623ed5\""
   },
   "https://www.mozilla.org/id/about/manifesto/": {
     "date": "2022-11-09T18:01:32.773896+00:00",
@@ -27795,8 +27887,8 @@
     "etag": "\"f5b0b57e22dbde5c298180564f50cea0\""
   },
   "https://www.mozilla.org/id/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"b461bc5707a41756ebd720fc69b78cc3\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"bf54bd524f69f89ba086b3cd093c571a\""
   },
   "https://www.mozilla.org/id/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -28061,6 +28153,10 @@
   "https://www.mozilla.org/it/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"6feca90c77bf253fc5c44504bceca747\""
+  },
+  "https://www.mozilla.org/it/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"6ae751082751d9d344cbd899e24e494e\""
   },
   "https://www.mozilla.org/it/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -28509,8 +28605,8 @@
     "etag": "\"5b83bc688f23c2031fd6d288983a4ada\""
   },
   "https://www.mozilla.org/it/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"6862dfafccb8b51b64e22056cb1b69fd\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"0c1a5975f8ae3920a49ceaf8e3e8eafd\""
   },
   "https://www.mozilla.org/it/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -28615,6 +28711,10 @@
   "https://www.mozilla.org/ja/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"59d47ae5f33fca96d51cd753776f8f60\""
+  },
+  "https://www.mozilla.org/ja/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"cf971ec6725246c5306ea7c60b772c03\""
   },
   "https://www.mozilla.org/ja/about/manifesto/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -29057,8 +29157,8 @@
     "etag": "\"ff4d890b460a98090adda89811ad3ef7\""
   },
   "https://www.mozilla.org/ja/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"8dcafa8c0720269db69d0d5f81560370\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"9b39ac57cd4df1faef6e342179144f96\""
   },
   "https://www.mozilla.org/ja/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -29135,6 +29235,10 @@
   "https://www.mozilla.org/ka/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"b24e00d18adb292bcdff740cf46a1dbf\""
+  },
+  "https://www.mozilla.org/ka/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"27c3247438e9a9aafcc44da8f59c5756\""
   },
   "https://www.mozilla.org/ka/about/manifesto/": {
     "date": "2022-11-11T18:01:08.224900+00:00",
@@ -29489,8 +29593,8 @@
     "etag": "\"7e1f76d53501d6a511a8c491985d7a1f\""
   },
   "https://www.mozilla.org/ka/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"3e971ac30634e08914e241a27f8f185a\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"67a5019dcaea2935fda3faa1e455d627\""
   },
   "https://www.mozilla.org/ka/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -31402,6 +31506,10 @@
     "date": "2022-10-10T18:02:21.208891+00:00",
     "etag": "\"cb8c60975f7b2b2b809703867402a5d5\""
   },
+  "https://www.mozilla.org/ms/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"f19a398b3012cdfe6c3c92d4e2b36078\""
+  },
   "https://www.mozilla.org/ms/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"5481c2bfe7ac68aff26d727d91c547b1\""
@@ -31801,8 +31909,8 @@
     "etag": "\"bc982337614bcea40b09dc4f0e6f414b\""
   },
   "https://www.mozilla.org/ms/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"ea24f9b5b757ef61a7a08b49cfa7ccca\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b899d3903b4d474597e1c03e9b10eae5\""
   },
   "https://www.mozilla.org/ms/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -32376,6 +32484,10 @@
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"5345d9a984dcdb4f8733fc9b0283df0c\""
   },
+  "https://www.mozilla.org/nl/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7e67017971d1a40fe3f0cdc2a3338f31\""
+  },
   "https://www.mozilla.org/nl/about/legal/terms/subscription-services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"496a9b7269878641201222f2f87126df\""
@@ -32799,8 +32911,8 @@
     "etag": "\"6f8a6b93db1fd76a42834a8629119925\""
   },
   "https://www.mozilla.org/nl/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"44e63d3accef90b66658cb56dd5fe82a\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"5d72bb09f174a69d11f35961fde1247a\""
   },
   "https://www.mozilla.org/nl/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -33216,6 +33328,10 @@
     "date": "2022-11-10T06:02:29.105759+00:00",
     "etag": "\"70537326d4527bc84ae3a6329c7af31b\""
   },
+  "https://www.mozilla.org/pa-IN/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"2d1b7cb2fa32809dfa67179167ece179\""
+  },
   "https://www.mozilla.org/pa-IN/about/manifesto/": {
     "date": "2022-11-11T18:01:08.224900+00:00",
     "etag": "\"182a65c8c9c80d2430ad7b15a3369a84\""
@@ -33417,8 +33533,8 @@
     "etag": "\"d04676b0e1c1af3fc8cece54db5bed05\""
   },
   "https://www.mozilla.org/pa-IN/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"ac712cf8f8106ff8c33de30f194044ed\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"a87bea7ab433a6d2a5fe2737786dbb09\""
   },
   "https://www.mozilla.org/pl/": {
     "date": "2022-11-10T12:01:21.597152+00:00",
@@ -33475,6 +33591,10 @@
   "https://www.mozilla.org/pl/about/legal/terms/services/": {
     "date": "2022-11-05T18:01:05.242329+00:00",
     "etag": "\"bf1a2eb35e3e699ba262983dcf9d32cf\""
+  },
+  "https://www.mozilla.org/pl/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"03c36b8d511b8839bbf296f8fcd654b5\""
   },
   "https://www.mozilla.org/pl/about/manifesto/": {
     "date": "2022-11-14T12:01:23.092075+00:00",
@@ -33841,6 +33961,10 @@
   "https://www.mozilla.org/pt-BR/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"b8be76def5298890f708237dc3905162\""
+  },
+  "https://www.mozilla.org/pt-BR/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"d3b4cc8ca6934e30ab09cb478b8c47e1\""
   },
   "https://www.mozilla.org/pt-BR/about/manifesto/": {
     "date": "2022-11-10T06:02:29.105759+00:00",
@@ -34289,8 +34413,8 @@
     "etag": "\"2a0fef64c9794f38ebd22dfc08eaeaed\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"6ac43d07d565fcbae4985868d789e18a\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"ce1cd4693e7e42355314d38d311f8d7a\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -34713,6 +34837,10 @@
   "https://www.mozilla.org/rm/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"3954106a2c8d1fe343dbc6081275f357\""
+  },
+  "https://www.mozilla.org/rm/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"8e5c1e57ed22c5c082bb87837007e485\""
   },
   "https://www.mozilla.org/rm/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
@@ -35452,6 +35580,10 @@
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"4f936d2c96ef8f35bdced9081fc3a27d\""
   },
+  "https://www.mozilla.org/ru/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7fd633201e9415236ceb2301925872b1\""
+  },
   "https://www.mozilla.org/ru/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
     "etag": "\"0e32a38f3ad67e0f7fa4209fb5cbe9e3\""
@@ -35843,8 +35975,8 @@
     "etag": "\"418519cf794f5900ca3b8c101d754177\""
   },
   "https://www.mozilla.org/ru/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"17c374203d152d124d5b0640907b5795\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"65eee61a03f7256b6c1f6f3f11e2645f\""
   },
   "https://www.mozilla.org/ru/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -36117,6 +36249,10 @@
   "https://www.mozilla.org/sk/about/legal/firefox/": {
     "date": "2022-03-25T00:01:44.083611+00:00",
     "etag": "\"5555896365b63f2c6b856f26f43bdac2\""
+  },
+  "https://www.mozilla.org/sk/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"014f9351175d7e6fb28bf8a5a53315ce\""
   },
   "https://www.mozilla.org/sk/about/manifesto/": {
     "date": "2022-11-14T12:01:23.092075+00:00",
@@ -36490,8 +36626,8 @@
     "etag": "\"a6cdc91af1091cbae0c9782a3744b6f9\""
   },
   "https://www.mozilla.org/sk/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"a8c69f13c372b68e16f4a28fdbcf1e22\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"2a8705006efdf2b402b27ad1f021c54f\""
   },
   "https://www.mozilla.org/sk/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -36564,6 +36700,10 @@
   "https://www.mozilla.org/sl/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"47efe3999b241d6db2438c8d3ff1c62e\""
+  },
+  "https://www.mozilla.org/sl/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"03c8ca3ffad7b30f886db2c41dc43655\""
   },
   "https://www.mozilla.org/sl/about/manifesto/": {
     "date": "2022-11-09T00:02:24.327335+00:00",
@@ -36868,8 +37008,8 @@
     "etag": "\"3e3c2de3aa47509d09142f4c8fb606e1\""
   },
   "https://www.mozilla.org/sl/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"9891145e18677308b9181ac44045723b\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"7ae0c90733bd3a2c796de679096af560\""
   },
   "https://www.mozilla.org/sl/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -36989,6 +37129,10 @@
   "https://www.mozilla.org/sq/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"4772666da5854966595f7ca707fec136\""
+  },
+  "https://www.mozilla.org/sq/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"38abb2ff78f87479036962ca5ac26604\""
   },
   "https://www.mozilla.org/sq/about/manifesto/": {
     "date": "2022-11-14T00:01:14.698290+00:00",
@@ -37401,8 +37545,8 @@
     "etag": "\"789db1e3695a53fe818e428447b309f8\""
   },
   "https://www.mozilla.org/sq/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"cb9da7b1de4c09923f4ce36e9c22e878\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"bd7564758cb24fb03087378b8e42c8e2\""
   },
   "https://www.mozilla.org/sq/products/vpn/invite/": {
     "date": "2022-11-14T00:01:14.698290+00:00",
@@ -37761,6 +37905,10 @@
   "https://www.mozilla.org/sv-SE/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
     "etag": "\"fc66cc531efdd4802a73d586ae8e1b00\""
+  },
+  "https://www.mozilla.org/sv-SE/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"8bf85f4bf41e03e95e44811266f2b56b\""
   },
   "https://www.mozilla.org/sv-SE/about/manifesto/": {
     "date": "2022-11-09T00:02:24.327335+00:00",
@@ -38169,8 +38317,8 @@
     "etag": "\"ab3a02fca0257c57d6e59216a97a4e41\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"21fcdbb43e4b8a72440646b85d3b0660\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b8dafe6acd1f858f8a2502e47cfb5b93\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -38542,6 +38690,10 @@
     "date": "2022-05-11T18:02:10.044261+00:00",
     "etag": "\"a5106cf800cff9dda0d11bbc76ea61dc\""
   },
+  "https://www.mozilla.org/th/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"b72d1d18b294026527f163089570c89d\""
+  },
   "https://www.mozilla.org/th/about/manifesto/": {
     "date": "2022-11-11T18:01:08.224900+00:00",
     "etag": "\"b4d1c2c864a9f3e95322fa42f575b7ed\""
@@ -38882,6 +39034,10 @@
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"bde8d8d12176fd2291631e4427dcfedd\""
   },
+  "https://www.mozilla.org/tr/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"a42f92b4e7f10d2b9797cfdc99080640\""
+  },
   "https://www.mozilla.org/tr/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
     "etag": "\"6a271bcb63958e5b2d1f2351fda82461\""
@@ -39181,8 +39337,8 @@
     "etag": "\"51fd56a5e242584b90d8c0c583427916\""
   },
   "https://www.mozilla.org/tr/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"7c74a3a9ef297c985c27dd86cb384314\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"76d137bfc4dce326c0869e17302279f9\""
   },
   "https://www.mozilla.org/tr/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -39375,6 +39531,10 @@
   "https://www.mozilla.org/uk/about/legal/firefox/": {
     "date": "2022-03-25T00:01:44.083611+00:00",
     "etag": "\"d737ba51ccdfd4839f7b0813f65b5857\""
+  },
+  "https://www.mozilla.org/uk/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"22c94199fcd312eb25dd67d95a1191c5\""
   },
   "https://www.mozilla.org/uk/about/manifesto/": {
     "date": "2022-11-08T12:01:42.559894+00:00",
@@ -39771,8 +39931,8 @@
     "etag": "\"b5dd74dc8bb2fe5388515b80d6b85009\""
   },
   "https://www.mozilla.org/uk/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"e283b521c699d0b6ee475c179822720f\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"38b50eb8c0a0cc95e79581c95b40602c\""
   },
   "https://www.mozilla.org/uk/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -40097,6 +40257,10 @@
   "https://www.mozilla.org/vi/about/legal/terms/firefox-lite/reward/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
     "etag": "\"342eb4c861a3f831a1e321e438c4fd19\""
+  },
+  "https://www.mozilla.org/vi/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"d003318d559054ea66ee2a840725b7fd\""
   },
   "https://www.mozilla.org/vi/about/manifesto/": {
     "date": "2022-11-11T18:01:08.224900+00:00",
@@ -40475,8 +40639,8 @@
     "etag": "\"c05d89c4ec0f0198359b6fa7f8819f24\""
   },
   "https://www.mozilla.org/vi/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"92bce9e710294831c31324af4f773894\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"eb9f580e20df6025e48a82106216da7e\""
   },
   "https://www.mozilla.org/vi/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -40645,6 +40809,10 @@
   "https://www.mozilla.org/zh-CN/about/legal/terms/services/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"69e26ae7b5bc01e8ed0b8e2c782e2346\""
+  },
+  "https://www.mozilla.org/zh-CN/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"d3400222d9735f9609805b65c44501db\""
   },
   "https://www.mozilla.org/zh-CN/about/manifesto/": {
     "date": "2022-11-07T00:01:29.675409+00:00",
@@ -41061,8 +41229,8 @@
     "etag": "\"da65b3562470e966c136b3fcd1bc8d93\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"8c8bd1da3476ece19bb9fe128585a66f\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"2d9e36baaecfc990bad75771bfac48a2\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
@@ -41159,6 +41327,10 @@
   "https://www.mozilla.org/zh-TW/about/legal/terms/firefox/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
     "etag": "\"8f2619215b482199bd391650affc4323\""
+  },
+  "https://www.mozilla.org/zh-TW/about/legal/terms/staycation/": {
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"826d71bf6d2cf830bd6428f953b6119e\""
   },
   "https://www.mozilla.org/zh-TW/about/manifesto/": {
     "date": "2022-11-13T06:02:17.867252+00:00",
@@ -41519,8 +41691,8 @@
     "etag": "\"0f5ca056c9cc1a9f3d7cfd862d2a585a\""
   },
   "https://www.mozilla.org/zh-TW/products/vpn/download/": {
-    "date": "2022-11-14T00:01:14.698290+00:00",
-    "etag": "\"c90bdadd4ab185b8bfbf7762f5cd88e5\""
+    "date": "2022-11-14T18:02:26.960381+00:00",
+    "etag": "\"19c5b79edc460e04c75b026102a49c7f\""
   },
   "https://www.mozilla.org/zh-TW/products/vpn/invite/": {
     "date": "2022-11-05T00:02:30.602574+00:00",
