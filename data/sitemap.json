@@ -1292,6 +1292,12 @@
   "/firefox/106.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/107.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/107.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/107.0/releasenotes/": [
     "en-US"
   ],
@@ -9984,32 +9990,55 @@
     "en-US"
   ],
   "/products/vpn/resource-center/": [
-    "de",
     "en-US"
   ],
   "/products/vpn/resource-center/5-reasons-you-should-use-a-vpn/": [
-    "de",
     "en-US"
   ],
   "/products/vpn/resource-center/do-you-need-a-vpn-at-home-here-are-5-reasons-you-might/": [
     "de",
-    "en-US"
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ja",
+    "nl",
+    "pl",
+    "pt-BR",
+    "ru",
+    "zh-CN"
   ],
   "/products/vpn/resource-center/how-your-location-is-tracked-and-how-you-can-limit-sharing-it/": [
-    "de",
     "en-US"
   ],
   "/products/vpn/resource-center/the-difference-between-a-vpn-and-a-web-proxy/": [
-    "de",
     "en-US"
   ],
   "/products/vpn/resource-center/what-is-a-vpn/": [
     "de",
-    "en-US"
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ja",
+    "nl",
+    "pl",
+    "pt-BR",
+    "ru",
+    "zh-CN"
   ],
   "/products/vpn/resource-center/what-is-an-ip-address/": [
     "de",
-    "en-US"
+    "en-US",
+    "es-ES",
+    "fr",
+    "it",
+    "ja",
+    "nl",
+    "pl",
+    "pt-BR",
+    "ru",
+    "zh-CN"
   ],
   "/security/": [
     "en-US"
