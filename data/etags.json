@@ -1465,8 +1465,8 @@
     "etag": "\"683c5e0829d3e5a491731d5f0e4f4f6e\""
   },
   "https://www.mozilla.org/be/firefox/privacy/products/": {
-    "date": "2022-11-30T12:02:21.003476+00:00",
-    "etag": "\"42e642f0f54a6d8374c63a6465962c6b\""
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"b7311caa371b408d7b057dceffe12d27\""
   },
   "https://www.mozilla.org/be/firefox/privacy/safe-passwords/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
@@ -6927,8 +6927,8 @@
     "etag": "\"d234254ba949753303e419d465ccc03a\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2022-11-30T00:02:24.593908+00:00",
-    "etag": "\"a8e38a77b91320423991027e9303fa9c\""
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"c695c75aaf2f69343541debc207c77bf\""
   },
   "https://www.mozilla.org/en-US/contact/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
@@ -14853,8 +14853,8 @@
     "etag": "\"4392a1687876c7b5cddb7b158f973131\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2022-11-29T18:02:09.202973+00:00",
-    "etag": "\"0632375051d0df9e0a0675ae62468810\""
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"20a60b71bfdea646a2e84bec9d550f71\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
@@ -19125,8 +19125,8 @@
     "etag": "\"80db36cb62938aa78c58677ec4ee2c21\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2022-11-29T18:02:09.202973+00:00",
-    "etag": "\"abc516179614cb62fff9e87f419cef14\""
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"73cfb854e4cd3ec980d4729bb56dce1d\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
@@ -19968,6 +19968,10 @@
     "date": "2022-11-29T18:02:09.202973+00:00",
     "etag": "\"0ae81b8feff19e0c1b6bd661507bdbc7\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2022-50/": {
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"efd84bc50139b1dd88a2fbd864a133c9\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
     "etag": "\"86f3b229e7be03fa8fb6ec26b19a6a8c\""
@@ -20093,8 +20097,8 @@
     "etag": "\"ff0c20694827c3d42cfe0ff86561e251\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2022-11-29T18:02:09.202973+00:00",
-    "etag": "\"78ad188d8469c81641ac6f1fc44841dd\""
+    "date": "2022-12-01T00:01:33.263767+00:00",
+    "etag": "\"91363f99bfbba2d53d370dc46fd9f7d4\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2022-11-29T18:02:09.202973+00:00",
