@@ -7927,12 +7927,20 @@
     "etag": "\"ffeb45ca61d35e4e7cfe92d9f1668b47\""
   },
   "https://www.mozilla.org/en-US/firefox/110.0a1/releasenotes/": {
-    "date": "2023-01-13T00:03:08.444471+00:00",
-    "etag": "\"1c31935b87edbd25911b2234110de948\""
+    "date": "2023-01-16T18:02:27.096117+00:00",
+    "etag": "\"27718ba47ddd70ccb783aea665177d58\""
   },
   "https://www.mozilla.org/en-US/firefox/110.0a1/system-requirements/": {
     "date": "2023-01-13T00:03:08.444471+00:00",
     "etag": "\"00bcc2967616ec2a9f6d117542d4a3b2\""
+  },
+  "https://www.mozilla.org/en-US/firefox/111.0a1/releasenotes/": {
+    "date": "2023-01-16T18:02:27.096117+00:00",
+    "etag": "\"c1b0299ecfbcd4983bec3fa876559705\""
+  },
+  "https://www.mozilla.org/en-US/firefox/111.0a1/system-requirements/": {
+    "date": "2023-01-16T18:02:27.096117+00:00",
+    "etag": "\"ee23eb6a4121f5a207e4df9dc1b3c5a6\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
     "date": "2023-01-05T18:02:19.280710+00:00",
