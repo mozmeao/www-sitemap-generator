@@ -1170,6 +1170,12 @@
   "/firefox/102.6.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/102.7.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/102.7.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/103.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1368,6 +1374,12 @@
   "/firefox/108.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/109.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/109.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/109.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1384,6 +1396,12 @@
     "en-US"
   ],
   "/firefox/110.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/110.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/110.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/111.0a1/releasenotes/": [
@@ -4424,6 +4442,12 @@
     "en-US"
   ],
   "/firefox/android/108.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/109.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/109.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -7797,6 +7821,12 @@
     "en-US"
   ],
   "/firefox/ios/108.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/109.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/109.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/11.0/releasenotes/": [
@@ -14142,6 +14172,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2022-54/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-01/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-02/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
