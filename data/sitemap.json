@@ -1411,6 +1411,12 @@
   "/firefox/109.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/110.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/110.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/110.0/releasenotes/": [
     "en-US"
   ],
@@ -4493,6 +4499,12 @@
   "/firefox/android/110.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/110.1.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/110.1.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -5734,6 +5746,7 @@
     "hy-AM",
     "ia",
     "id",
+    "is",
     "it",
     "ja",
     "ka",
@@ -14252,6 +14265,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-07/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-08/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
