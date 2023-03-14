@@ -287,6 +287,9 @@
   "/about/governance/policies/security-group/membership/": [
     "en-US"
   ],
+  "/about/governance/policies/social-content-policies/": [
+    "en-US"
+  ],
   "/about/governance/roles/": [
     "en-US"
   ],
@@ -1190,6 +1193,12 @@
   "/firefox/102.8.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/102.9.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/102.9.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/103.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1436,6 +1445,12 @@
   "/firefox/110.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/111.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/111.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/111.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1452,6 +1467,12 @@
     "en-US"
   ],
   "/firefox/112.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/112.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/112.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/113.0a1/releasenotes/": [
@@ -4510,6 +4531,12 @@
     "en-US"
   ],
   "/firefox/android/110.1.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/111.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/111.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -7903,6 +7930,12 @@
     "en-US"
   ],
   "/firefox/ios/11.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/111.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/111.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/12.0/releasenotes/": [
@@ -14279,6 +14312,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-08/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-09/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-10/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
