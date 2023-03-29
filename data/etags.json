@@ -15185,8 +15185,8 @@
     "etag": "\"b63da0719e84e4641d47349a1feb183d\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2023-03-21T18:00:52.287407+00:00",
-    "etag": "\"8f83930a9fa3030ed9a284c16b308805\""
+    "date": "2023-03-29T06:01:33.087292+00:00",
+    "etag": "\"d1e396234b985db7359cd809ece0a569\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2023-03-21T18:00:52.287407+00:00",
@@ -19457,8 +19457,8 @@
     "etag": "\"82d603cb8523b851c7fb2ceb429b2d1f\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2023-03-21T18:00:52.287407+00:00",
-    "etag": "\"57b1958e12f18c469b79e483ab330545\""
+    "date": "2023-03-29T06:01:33.087292+00:00",
+    "etag": "\"646d91fc8408481c17f68e3e8e0777b6\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2023-03-21T18:00:52.287407+00:00",
@@ -20364,6 +20364,10 @@
     "date": "2023-03-21T18:00:52.287407+00:00",
     "etag": "\"a142993825ba0661d1e2456a2300b14f\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2023-12/": {
+    "date": "2023-03-29T06:01:33.087292+00:00",
+    "etag": "\"aea31c7148f5a6679feee522d299201b\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2023-03-21T18:00:52.287407+00:00",
     "etag": "\"5a1f118f0f084384d9d419852b2ba417\""
@@ -20489,8 +20493,8 @@
     "etag": "\"415fafffe6ddfeabc81129bcad43ce2b\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2023-03-21T18:00:52.287407+00:00",
-    "etag": "\"3c35a78f20ee898790accc2d8202d287\""
+    "date": "2023-03-29T06:01:33.087292+00:00",
+    "etag": "\"d20f7a287ca14ab02709b985723bd18d\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2023-03-21T18:00:52.287407+00:00",
@@ -22637,8 +22641,8 @@
     "etag": "\"14609749b0a35dce992f9cb37156572f\""
   },
   "https://www.mozilla.org/es-MX/mission/": {
-    "date": "2023-03-28T18:02:00.881711+00:00",
-    "etag": "\"81b2a88128979028b9b07dda15ace608\""
+    "date": "2023-03-29T06:01:33.087292+00:00",
+    "etag": "\"7d293c2ad811f54ca0c1e1c25037ebda\""
   },
   "https://www.mozilla.org/es-MX/plugincheck/": {
     "date": "2018-08-15T03:28:57.957280+00:00",
