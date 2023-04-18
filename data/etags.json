@@ -713,8 +713,12 @@
     "etag": "\"6dce9b97e0a84eb72e008cb33b56bebf\""
   },
   "https://www.mozilla.org/ar/newsletter/newsletter-strings.json": {
-    "date": "2023-03-16T18:02:40.662914+00:00",
-    "etag": "\"992ea94324679d221932ec75f8ff84c9\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"42dd3b433916e2ed98a515cc48304aeb\""
+  },
+  "https://www.mozilla.org/ar/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"38db302ea73b83959192885f08e8f038\""
   },
   "https://www.mozilla.org/ar/plugincheck/": {
     "date": "2018-08-15T03:28:55.617831+00:00",
@@ -3274,8 +3278,12 @@
     "etag": "\"143349a6993d3bd4bc401006b4a0e4d2\""
   },
   "https://www.mozilla.org/cs/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"704db756e1369d6c65af24a9944e2a90\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"5d068c747d78170850a6b6534703b6f7\""
+  },
+  "https://www.mozilla.org/cs/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"1b85a648b58ecb0e3e6e27aaf461c3c3\""
   },
   "https://www.mozilla.org/cs/plugincheck/": {
     "date": "2018-08-15T03:28:55.828248+00:00",
@@ -3788,8 +3796,12 @@
     "etag": "\"6ae7e7ec9a073259fdc21a5b4f19ed0e\""
   },
   "https://www.mozilla.org/cy/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"fa53c82306fb383bc09cc49c848dfd73\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"e1f9d833407a03953524d128926d9d1c\""
+  },
+  "https://www.mozilla.org/cy/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"b30302d2c88fafe688a9cbaebab13058\""
   },
   "https://www.mozilla.org/cy/plugincheck/": {
     "date": "2018-08-15T03:28:55.577869+00:00",
@@ -4606,12 +4618,16 @@
     "etag": "\"17344ebddf41fd8954a2c7abc93f4369\""
   },
   "https://www.mozilla.org/de/newsletter/newsletter-strings.json": {
-    "date": "2023-03-16T18:02:40.662914+00:00",
-    "etag": "\"241dc837960902c0f469bbc4a90e966b\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"86600e7952bbc63bdc145be6f8600b15\""
   },
   "https://www.mozilla.org/de/newsletter/opt-out-confirmation/": {
     "date": "2018-08-15T03:30:11.854289+00:00",
     "etag": "\"a605c48527bbdf14001cddb46402c908\""
+  },
+  "https://www.mozilla.org/de/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"036a85d3c1adf309475fd3a695f123e9\""
   },
   "https://www.mozilla.org/de/plugincheck/": {
     "date": "2018-08-15T03:28:57.162552+00:00",
@@ -5490,8 +5506,12 @@
     "etag": "\"03583c519a54ac7607f02f8481393cc8\""
   },
   "https://www.mozilla.org/el/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"b2172e84ac7d3db284a8a20e069c6f3d\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"f1acc5fc2ddf0c7319a1b4bfc3f732ef\""
+  },
+  "https://www.mozilla.org/el/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"db257109db250ef28802df7b3bd80b3c\""
   },
   "https://www.mozilla.org/el/plugincheck/": {
     "date": "2018-08-15T03:28:55.239349+00:00",
@@ -5996,8 +6016,12 @@
     "etag": "\"f2aea0f32773e3cce7ef29871dd1a43e\""
   },
   "https://www.mozilla.org/en-CA/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"6a9cf80849ae14c5adc2f68ddfa64543\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"d61aeffacf3161556e5e4078f3d8bfb9\""
+  },
+  "https://www.mozilla.org/en-CA/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"d6550479ddbf19e1531890dc83629b41\""
   },
   "https://www.mozilla.org/en-CA/plugincheck/": {
     "date": "2018-08-15T03:28:56.049605+00:00",
@@ -6494,8 +6518,12 @@
     "etag": "\"46fb2fe8320a4bd1f4b632848197ce19\""
   },
   "https://www.mozilla.org/en-GB/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"6a9cf80849ae14c5adc2f68ddfa64543\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"d61aeffacf3161556e5e4078f3d8bfb9\""
+  },
+  "https://www.mozilla.org/en-GB/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"7a5cf1c7939c94ec811520aa0b2f9432\""
   },
   "https://www.mozilla.org/en-GB/plugincheck/": {
     "date": "2018-08-15T03:28:56.101979+00:00",
@@ -7035,8 +7063,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2023-04-18T12:00:57.742588+00:00",
-    "etag": "\"0f8a2511181c7cae25e60975ef2f9304\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"7777290fc052fc8564c552a053e226e8\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2023-04-17T18:00:45.784862+00:00",
@@ -8159,8 +8187,8 @@
     "etag": "\"6168e6ceb8859f66e7815d300ce1988e\""
   },
   "https://www.mozilla.org/en-US/firefox/114.0a1/releasenotes/": {
-    "date": "2023-04-17T18:00:45.784862+00:00",
-    "etag": "\"3a00e9893e04b6fc02972c29db1f91df\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"c922c5da9f5f043ff86a73d8df571018\""
   },
   "https://www.mozilla.org/en-US/firefox/114.0a1/system-requirements/": {
     "date": "2023-04-17T18:00:45.784862+00:00",
@@ -14967,12 +14995,16 @@
     "etag": "\"3a743150adf6626d0162bb4cc0114975\""
   },
   "https://www.mozilla.org/en-US/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"1d987b0e58e7382d0d2afdf46b9eda51\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"afa5c3411f55425b267c7be4afc819e3\""
   },
   "https://www.mozilla.org/en-US/newsletter/opt-out-confirmation/": {
     "date": "2018-08-15T03:30:11.831346+00:00",
     "etag": "\"c997e2ec73c90f1a38f8974cca9627f7\""
+  },
+  "https://www.mozilla.org/en-US/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"e459e410e3a0b900361870790055731a\""
   },
   "https://www.mozilla.org/en-US/plugincheck/": {
     "date": "2018-08-15T03:28:56.655351+00:00",
@@ -15277,8 +15309,8 @@
     "etag": "\"1b5fdc493c7142f4cb1113257b0bd85e\""
   },
   "https://www.mozilla.org/en-US/rise25/": {
-    "date": "2023-04-17T18:00:45.784862+00:00",
-    "etag": "\"966c3429339c853c1439196c2ed4a078\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ac1fb7eddd554add85f091fd042302b0\""
   },
   "https://www.mozilla.org/en-US/santalocator/": {
     "date": "2023-04-17T18:00:45.784862+00:00",
@@ -21207,8 +21239,12 @@
     "etag": "\"17540e7bfa1c1314b9a4b0c7965036fd\""
   },
   "https://www.mozilla.org/es-AR/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"8d049920964472fa8819d1d6dd873ba2\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"6cfc791713ff9d140202813700f72bc7\""
+  },
+  "https://www.mozilla.org/es-AR/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"1219710c5058ab419384389a34495966\""
   },
   "https://www.mozilla.org/es-AR/plugincheck/": {
     "date": "2018-08-15T03:28:57.791928+00:00",
@@ -21701,8 +21737,12 @@
     "etag": "\"dd930b9f8b147b99949d875ff281348d\""
   },
   "https://www.mozilla.org/es-CL/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"aa9290167d9fd52a57c38c0ae881da3b\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"b3df89a45aff019a035035a212f0cd83\""
+  },
+  "https://www.mozilla.org/es-CL/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"16cec59ea83e5d2da82c13da15f47c37\""
   },
   "https://www.mozilla.org/es-CL/plugincheck/": {
     "date": "2018-08-15T03:28:58.040453+00:00",
@@ -22239,8 +22279,12 @@
     "etag": "\"a295125320e71d87b8af99d743997026\""
   },
   "https://www.mozilla.org/es-ES/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"3b9f794a7cdaaaac4491b5eddcffeaf4\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"c1adba8ccee2ee2d6e23d9e24ccc46ec\""
+  },
+  "https://www.mozilla.org/es-ES/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"d9839a8d94b31904a0b17bc1eab1b906\""
   },
   "https://www.mozilla.org/es-ES/plugincheck/": {
     "date": "2018-08-15T03:28:55.953439+00:00",
@@ -24381,8 +24425,12 @@
     "etag": "\"b3c441da7e8b6616fcbdf517143d71fd\""
   },
   "https://www.mozilla.org/fr/newsletter/newsletter-strings.json": {
-    "date": "2023-03-16T18:02:40.662914+00:00",
-    "etag": "\"e1042a3d77668aa89901fc83c86efde0\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"cbd95d5cf3b48505ad7f5290de94320f\""
+  },
+  "https://www.mozilla.org/fr/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"49e7ebc605bf0a0779da04f004a838d4\""
   },
   "https://www.mozilla.org/fr/plugincheck/": {
     "date": "2018-08-15T03:28:56.989630+00:00",
@@ -24923,8 +24971,12 @@
     "etag": "\"067b89257b0755bbab0dff0b49d6206e\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"96c504f79193325f6591b9fed0529f5b\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"f13159947fe6badf3ffefa1b4d0e0872\""
+  },
+  "https://www.mozilla.org/fy-NL/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"0ae83a7adc8bad29e042d267e5949bcf\""
   },
   "https://www.mozilla.org/fy-NL/plugincheck/": {
     "date": "2018-08-15T03:28:58.169802+00:00",
@@ -25475,8 +25527,12 @@
     "etag": "\"4cf9ff9c46af55ca6a2604a1f23f97db\""
   },
   "https://www.mozilla.org/gl/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"c0ad895d5543aa66f823a1ed89b6e821\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ee0a583558c7356230d17e4932dd04b7\""
+  },
+  "https://www.mozilla.org/gl/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"6db3e5abaea606c0d52e9cc3a9218f4f\""
   },
   "https://www.mozilla.org/gl/privacy/principles/": {
     "date": "2023-04-17T18:00:45.784862+00:00",
@@ -25823,8 +25879,12 @@
     "etag": "\"d2a5358122ddc825f3b2fc742d0c5825\""
   },
   "https://www.mozilla.org/gn/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"6747adfe26e4c122c5150303c31dfc9d\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"e36f76157c1aa9eb7f43027ede2ec03a\""
+  },
+  "https://www.mozilla.org/gn/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"49368a85aebace2972d392c99a8b7bc9\""
   },
   "https://www.mozilla.org/gn/plugincheck/": {
     "date": "2018-08-15T03:28:55.787127+00:00",
@@ -26613,8 +26673,12 @@
     "etag": "\"aeab8b93512775a1f8ef74cdf54784a0\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/newsletter-strings.json": {
-    "date": "2023-03-16T18:02:40.662914+00:00",
-    "etag": "\"03c29d38fd18a28bba38dee554344dcb\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"16f689ffa215ad5e89806fe4ea10db53\""
+  },
+  "https://www.mozilla.org/hi-IN/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"811053c7ff056cb16a4bfb820d60c852\""
   },
   "https://www.mozilla.org/hi-IN/plugincheck/": {
     "date": "2018-08-15T03:28:56.485234+00:00",
@@ -27643,8 +27707,12 @@
     "etag": "\"1b89a05422a3b05919f25adae109f3e8\""
   },
   "https://www.mozilla.org/hu/newsletter/newsletter-strings.json": {
-    "date": "2023-03-20T18:02:35.176396+00:00",
-    "etag": "\"edb5af103ae9a5ac5c9178e11fde28b8\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"8f34a4128520bf58b59e2af6b9b11336\""
+  },
+  "https://www.mozilla.org/hu/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"fe72ac3c1d313883b746946f59b47d71\""
   },
   "https://www.mozilla.org/hu/plugincheck/": {
     "date": "2018-08-15T03:28:57.502684+00:00",
@@ -28811,8 +28879,12 @@
     "etag": "\"354ed33df3674584b800823149057575\""
   },
   "https://www.mozilla.org/id/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"84e4fe364e5228db45aa02208c5fb668\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"450f78816d7587d6de092479fc3835e3\""
+  },
+  "https://www.mozilla.org/id/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"531c878e78022dc77acd14765209aec4\""
   },
   "https://www.mozilla.org/id/plugincheck/": {
     "date": "2018-08-15T03:28:55.996495+00:00",
@@ -29541,8 +29613,12 @@
     "etag": "\"9cd06772a79de438fa1279f4e243155b\""
   },
   "https://www.mozilla.org/it/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"ad0fcfe480ed28241245a001b4f5574f\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"348ed9e1504c2807dd856a55537322f9\""
+  },
+  "https://www.mozilla.org/it/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"1d4feb8e3eb3921cc3d386885b0da371\""
   },
   "https://www.mozilla.org/it/plugincheck/": {
     "date": "2018-08-15T03:28:55.451626+00:00",
@@ -30137,8 +30213,12 @@
     "etag": "\"eeda8b0f837df8e2c13335ca7c274e53\""
   },
   "https://www.mozilla.org/ja/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"a2da1228b8efdf1186770fb03612e3f0\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ea05c3f91694acaec700ee4a6e107537\""
+  },
+  "https://www.mozilla.org/ja/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"e085529846f60524dd95c3d52794c373\""
   },
   "https://www.mozilla.org/ja/plugincheck/": {
     "date": "2018-08-15T03:28:57.542850+00:00",
@@ -30629,8 +30709,12 @@
     "etag": "\"ae6cc5b4931a299ea0727d7702b266ec\""
   },
   "https://www.mozilla.org/ka/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"fad730891a1bf27e344f324a6474a842\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"539f2f9c00f7d60e76818ed926a9436c\""
+  },
+  "https://www.mozilla.org/ka/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"3cdae83b0deb516716a0cc01f089d2c3\""
   },
   "https://www.mozilla.org/ka/plugincheck/": {
     "date": "2018-08-15T03:28:57.666308+00:00",
@@ -32953,8 +33037,12 @@
     "etag": "\"26385e4d504bdffe6dd1c65e5d9b047a\""
   },
   "https://www.mozilla.org/ms/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"d78cdd06ba7a8d601ff41d926f4b5622\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ba72c19421c5f83e284af470bd32125c\""
+  },
+  "https://www.mozilla.org/ms/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"9141b8fc27fe92468386afd696de95e0\""
   },
   "https://www.mozilla.org/ms/plugincheck/": {
     "date": "2018-08-15T03:28:58.127297+00:00",
@@ -33943,8 +34031,12 @@
     "etag": "\"1a9a5208c66cbcb6b2aa9fdbf6f5f401\""
   },
   "https://www.mozilla.org/nl/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"0a1fd8696c5dc08add81fee3e47d2107\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"a7f3ac2a466633601d470b7a57917da5\""
+  },
+  "https://www.mozilla.org/nl/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"5c7a7399d57142a0bf9e316b94cc4810\""
   },
   "https://www.mozilla.org/nl/plugincheck/": {
     "date": "2018-08-15T03:28:56.230316+00:00",
@@ -35007,8 +35099,12 @@
     "etag": "\"c06baa7bb7f6f452c74278d6b7e17d22\""
   },
   "https://www.mozilla.org/pl/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"06224e935ee15111c8558b13316505e8\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"933a008260d2d9ad647646465ada552e\""
+  },
+  "https://www.mozilla.org/pl/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"2631151a215be33778fe1cb1d17261e2\""
   },
   "https://www.mozilla.org/pl/plugincheck/": {
     "date": "2018-08-15T03:28:56.817554+00:00",
@@ -35521,8 +35617,12 @@
     "etag": "\"e732e3276024c85344211a46dc7cc491\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/newsletter-strings.json": {
-    "date": "2023-03-24T18:02:36.067835+00:00",
-    "etag": "\"84790fbddcc44a777083578b6b9bdb3f\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"233a1ed4e69f20ed72b15d87d83e8a15\""
+  },
+  "https://www.mozilla.org/pt-BR/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ff99884f9a14115b0909a1065a035e30\""
   },
   "https://www.mozilla.org/pt-BR/plugincheck/": {
     "date": "2018-08-15T03:28:57.333335+00:00",
@@ -37123,8 +37223,12 @@
     "etag": "\"001cca22a23a95c35b9c93cbaa60dbcf\""
   },
   "https://www.mozilla.org/ru/newsletter/newsletter-strings.json": {
-    "date": "2023-03-26T18:02:24.812167+00:00",
-    "etag": "\"b9f77c97fd844b844f16b89df39150b2\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"2ecc9fc47a19cfaf16955dd5476a82e2\""
+  },
+  "https://www.mozilla.org/ru/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"bdf71a625ca8a10b3373f6bf2bf3ebc0\""
   },
   "https://www.mozilla.org/ru/plugincheck/": {
     "date": "2018-08-15T03:28:56.143785+00:00",
@@ -39101,8 +39205,12 @@
     "etag": "\"dcfce69d599e174b59199ac3eb6e1d1b\""
   },
   "https://www.mozilla.org/sq/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"9c1f6473a84e4b39ca3d51c9b1c19aff\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"6fecc8032015a952c7b15adaa5c9ac1f\""
+  },
+  "https://www.mozilla.org/sq/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"c03c5edc60ee71530c0af8431c720bf8\""
   },
   "https://www.mozilla.org/sq/plugincheck/": {
     "date": "2018-08-15T03:28:57.833221+00:00",
@@ -40045,8 +40153,12 @@
     "etag": "\"5329e22395df0e21248be9dcb98e14e1\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"baaf0fa6d6b967e7c46afd0aea55c815\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"2f42bfdf9945c2e9008139729313399e\""
+  },
+  "https://www.mozilla.org/sv-SE/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"84549afc621852142d532eada201393e\""
   },
   "https://www.mozilla.org/sv-SE/plugincheck/": {
     "date": "2018-08-15T03:28:57.073239+00:00",
@@ -41707,8 +41819,12 @@
     "etag": "\"184b12719834fff470f9d5a16037720c\""
   },
   "https://www.mozilla.org/uk/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"17e282d040255652645a6bb735c9706a\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"467a7c62083dc40c0b76ef7d19eab7f6\""
+  },
+  "https://www.mozilla.org/uk/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"ea500dab8b92576c7479075a94ab9d09\""
   },
   "https://www.mozilla.org/uk/plugincheck/": {
     "date": "2018-08-15T03:28:55.702406+00:00",
@@ -42395,8 +42511,12 @@
     "etag": "\"d9d522eeeef9e999af415b0653e110df\""
   },
   "https://www.mozilla.org/vi/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"2712fb419bea47dfa37833723de5b2cb\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"9f9f71d4929aefdda18468611864e5a1\""
+  },
+  "https://www.mozilla.org/vi/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"01f23101a67a00d2930d2b0a9fdfe15a\""
   },
   "https://www.mozilla.org/vi/plugincheck/": {
     "date": "2018-08-15T03:28:55.408381+00:00",
@@ -42985,8 +43105,12 @@
     "etag": "\"5fa9ac8c71537b38cc3ee44e14b46b09\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"2041bba819c29e800f5bba4a332f2b2d\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"c0cb58740a601d9298c8ce528a2e1918\""
+  },
+  "https://www.mozilla.org/zh-CN/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"466c274a2f6c95bd3c12e0b4f2f30495\""
   },
   "https://www.mozilla.org/zh-CN/plugincheck/": {
     "date": "2018-08-15T03:28:56.311210+00:00",
@@ -43523,8 +43647,12 @@
     "etag": "\"a0ed2c82686786d36c08ff165f6a6638\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/newsletter-strings.json": {
-    "date": "2023-03-14T18:03:12.789736+00:00",
-    "etag": "\"52a52d2308b618896415bece2f14f1d8\""
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"7c5bb9487dcb020c0d5d6d23136c7e55\""
+  },
+  "https://www.mozilla.org/zh-TW/newsletter/security-and-privacy/": {
+    "date": "2023-04-18T18:02:04.810859+00:00",
+    "etag": "\"8df9e30c55a9d2da7e0598b3a3da0c52\""
   },
   "https://www.mozilla.org/zh-TW/plugincheck/": {
     "date": "2018-08-15T03:28:56.525961+00:00",
