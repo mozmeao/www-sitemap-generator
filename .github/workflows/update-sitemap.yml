@@ -16,11 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - id: set-git-identity
-        shell: bash
-        run: |
-          git config --global user.email "meao-bots@mozilla.com"
-          git config --global user.name "MozMEAORobot"
       - id: trigger-processing
         shell: bash
-        run: ./generate_sitemap_docker.sh commit
+        run: |
+          git config user.email "meao-bots@mozilla.com"
+          git config user.name "MozMEAORobot"
+          ./generate_sitemap_docker.sh commit
