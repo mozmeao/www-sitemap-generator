@@ -10,14 +10,17 @@ concurrency:
 
 env:
   SNITCH_ID: ${{ secrets.SNITCH_ID }}
-  GIT_AUTHOR_NAME: MozMEAORobot
-  GIT_AUTHOR_EMAIL: meao-bots@mozilla.com
 
 jobs:
   sitemap_processing:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - id: set-git-identity
+        shell: bash
+        run: |
+          git config --global user.email "meao-bots@mozilla.com"
+          git config --global user.name "MozMEAORobot"
       - id: trigger-processing
         shell: bash
         run: ./generate_sitemap_docker.sh commit
