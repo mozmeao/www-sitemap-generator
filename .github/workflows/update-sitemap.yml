@@ -1,0 +1,21 @@
+name: "Run Sitemap updater"
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Every 6th hour
+  workflow_dispatch:
+
+concurrency:
+  group: run-sitemap-update
+  cancel-in-progress: true
+
+env:
+  SNITCH_ID: ${{ secrets.SNITCH_ID }}
+
+jobs:
+  sitemap_processing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - id: trigger-processing
+        shell: bash
+        run: ./generate_sitemap_docker.sh commit
