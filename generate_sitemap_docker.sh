@@ -22,7 +22,7 @@ if [[ "$1" == "commit" ]]; then
     if git status --porcelain | grep -E "\.json\$"; then
         git add data
         git commit -m "Update sitemaps data"
-        git push git@github.com:mozmeao/www-sitemap-generator.git HEAD:master
+        git push https://github.com/mozmeao/www-sitemap-generator.git HEAD:master
         echo "Sitemap data update committed"
     else
         echo "No new sitemap data"
