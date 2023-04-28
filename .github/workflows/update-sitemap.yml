@@ -9,7 +9,7 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  SNITCH_ID: ${{ secrets.SNITCH_ID }}
+  SNITCH_URL: ${{ secrets.SNITCH_URL }}
 
 jobs:
   sitemap_processing:
