@@ -1570,6 +1570,12 @@
   "/firefox/114.0.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/114.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/114.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/114.0/releasenotes/": [
     "en-US"
   ],
@@ -10095,6 +10101,7 @@
     "zh-TW"
   ],
   "/products/vpn/desktop/": [
+    "en-GB",
     "en-US",
     "es-AR",
     "nl",
@@ -10103,18 +10110,21 @@
     "zh-CN"
   ],
   "/products/vpn/desktop/linux/": [
+    "en-GB",
     "en-US",
     "nl",
     "ru",
     "zh-CN"
   ],
   "/products/vpn/desktop/mac/": [
+    "en-GB",
     "en-US",
     "nl",
     "ru",
     "zh-CN"
   ],
   "/products/vpn/desktop/windows/": [
+    "en-GB",
     "en-US",
     "es-CL",
     "nl",
@@ -10215,18 +10225,21 @@
     "zh-TW"
   ],
   "/products/vpn/ipad/": [
+    "en-GB",
     "en-US",
     "nl",
     "ru",
     "zh-CN"
   ],
   "/products/vpn/mobile/": [
+    "en-GB",
     "en-US",
     "nl",
     "ru",
     "zh-CN"
   ],
   "/products/vpn/mobile/android/": [
+    "en-GB",
     "en-US",
     "es-CL",
     "es-ES",
@@ -10237,6 +10250,7 @@
     "zh-CN"
   ],
   "/products/vpn/mobile/ios/": [
+    "en-GB",
     "en-US",
     "nl",
     "ru",
