@@ -10097,6 +10097,7 @@
   "/products/vpn/desktop/": [
     "en-US",
     "nl",
+    "pt-BR",
     "ru",
     "zh-CN"
   ],
@@ -10109,12 +10110,15 @@
   "/products/vpn/desktop/mac/": [
     "en-US",
     "nl",
-    "ru"
+    "ru",
+    "zh-CN"
   ],
   "/products/vpn/desktop/windows/": [
     "en-US",
+    "es-CL",
     "nl",
-    "ru"
+    "ru",
+    "zh-CN"
   ],
   "/products/vpn/download/": [
     "ar",
@@ -10218,13 +10222,17 @@
   "/products/vpn/mobile/": [
     "en-US",
     "nl",
-    "ru"
+    "ru",
+    "zh-CN"
   ],
   "/products/vpn/mobile/android/": [
     "en-US",
+    "es-CL",
     "es-ES",
     "nl",
+    "pt-BR",
     "ru",
+    "sv-SE",
     "zh-CN"
   ],
   "/products/vpn/mobile/ios/": [
