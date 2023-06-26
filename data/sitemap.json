@@ -472,12 +472,6 @@
   "/about/legal/terms/builders-challenge/": [
     "en-US"
   ],
-  "/about/legal/terms/firefox-private-network/": [
-    "en-US"
-  ],
-  "/about/legal/terms/firefox-reality/": [
-    "en-US"
-  ],
   "/about/legal/terms/firefox/": [
     "de",
     "en-US",
@@ -9671,8 +9665,14 @@
   "/privacy/archive/facebook/2023-04/": [
     "en-US"
   ],
+  "/privacy/archive/firefox-betterweb/2023-06/": [
+    "en-US"
+  ],
   "/privacy/archive/firefox-cliqz/2018-06/": [
     "de",
+    "en-US"
+  ],
+  "/privacy/archive/firefox-fire-tv/2023-06/": [
     "en-US"
   ],
   "/privacy/archive/firefox-marketplace/2015-01/": [
@@ -9680,6 +9680,18 @@
     "en-US"
   ],
   "/privacy/archive/firefox-os/2022-05/": [
+    "en-US"
+  ],
+  "/privacy/archive/firefox-private-network/notice-2023-06/": [
+    "en-US"
+  ],
+  "/privacy/archive/firefox-private-network/tos-2023-06/": [
+    "en-US"
+  ],
+  "/privacy/archive/firefox-reality/notice-2023-06/": [
+    "en-US"
+  ],
+  "/privacy/archive/firefox-reality/tos-2023-06/": [
     "en-US"
   ],
   "/privacy/archive/firefox-relay/2022-10/": [
@@ -9737,9 +9749,6 @@
     "en-US"
   ],
   "/privacy/archive/websites/2013-08/": [
-    "en-US"
-  ],
-  "/privacy/betterweb/": [
     "en-US"
   ],
   "/privacy/email/": [
@@ -9804,9 +9813,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/privacy/firefox-fire-tv/": [
-    "en-US"
-  ],
   "/privacy/firefox-focus/": [
     "ar",
     "en-US",
@@ -9850,12 +9856,6 @@
     "vi",
     "zh-CN",
     "zh-TW"
-  ],
-  "/privacy/firefox-private-network/": [
-    "en-US"
-  ],
-  "/privacy/firefox-reality/": [
-    "en-US"
   ],
   "/privacy/firefox/": [
     "cs",
