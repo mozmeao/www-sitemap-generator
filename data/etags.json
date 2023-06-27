@@ -1584,6 +1584,10 @@
     "date": "2023-06-20T12:05:10.321979+00:00",
     "etag": "\"9245b892d2ba418266d0bf5db3b678ef\""
   },
+  "https://www.mozilla.org/be/products/vpn/mobile/": {
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7e35022a07948329bb007069858aaa55\""
+  },
   "https://www.mozilla.org/be/products/vpn/mobile/android/": {
     "date": "2023-06-14T00:11:01.569671+00:00",
     "etag": "\"094bde9b3d7a5bacc3c0e3b69e90aef7\""
@@ -2928,8 +2932,8 @@
     "etag": "\"60fe9fab1669967b1b34086f08226e08\""
   },
   "https://www.mozilla.org/cs/about/manifesto/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"a13afe834ed55a6071e200381b1899c2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"45f7088308bdb0dd681d4a5a61195681\""
   },
   "https://www.mozilla.org/cs/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -3928,8 +3932,8 @@
     "etag": "\"73d626ef015558aaf26f09f7ca017927\""
   },
   "https://www.mozilla.org/da/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"7d3e7d8c22e7ea26f543126d5b5071d3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a43821df5da84c201d0c8768688f411c\""
   },
   "https://www.mozilla.org/da/about/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -4248,8 +4252,8 @@
     "etag": "\"8f79436df24f25c2a371dd6c8ca30c2e\""
   },
   "https://www.mozilla.org/de/about/manifesto/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"60149cae667e04760ef9fcd60ae364bf\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5befe041f3ab247cbaaa2a6fa579597a\""
   },
   "https://www.mozilla.org/de/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -5586,8 +5590,8 @@
     "etag": "\"86cd97062556fc7f822fa41fbc8ecd1a\""
   },
   "https://www.mozilla.org/el/products/vpn/desktop/mac/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"5802b5a597312e373d8c86a0de2692b0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6d02f8f33a5534c228b2c2569394acdb\""
   },
   "https://www.mozilla.org/el/products/vpn/desktop/windows/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -6024,8 +6028,8 @@
     "etag": "\"0c4260e7eeca4816e4ab1fbe25e9849e\""
   },
   "https://www.mozilla.org/en-CA/newsletter/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4ba60e654b49e1f63b51aa521ca293dc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8b9310fa96065182cc80f74cc170f238\""
   },
   "https://www.mozilla.org/en-CA/newsletter/developer/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -6156,8 +6160,8 @@
     "etag": "\"0528edac6a533aad1df0bff2f2a71204\""
   },
   "https://www.mozilla.org/en-GB/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"a0b25535b7369825e28e68bac5b591bb\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f78425385effa83b0a8a969f969b0d39\""
   },
   "https://www.mozilla.org/en-GB/about/history/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -6574,20 +6578,20 @@
     "etag": "\"8dbde65117a7e00d89b71b290462ed0c\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"3b9c4ba5d88e97088b4112f83a6f8a61\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"729433efce2dcf9cb83997bce262c326\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"2a7fe52dfffb42b433fd69bb638ff7ca\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"74c9644cf42942f801ded83c678b9944\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"c7de23fa041f382535391f2d6e25b5b3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7b4d6ca37e7b50cb55ed872a43bc3ca5\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"a08028305d6b3f6e5e919d81f982526d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"df451dbe3a04e257803f9023234ea0a6\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -6598,20 +6602,20 @@
     "etag": "\"b53bc1782aab7243c164d683d49b8d57\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"87db922aa58b9f0dee500e58ceff34f0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f610ce6a7dc5812bef7cee3f585faade\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"90359647efbda2a3822fa52a2212b396\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"90d18e7928dcad38a977dc4c6c915b07\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"5fec4d549e1081d8933552712a6727f4\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3755471bd5b786e006aec114040bee99\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"f28bb47834a12e9c80b7ae5c32c74af2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"be64c3bded995c26aa7431c64a52b7d5\""
   },
   "https://www.mozilla.org/en-GB/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -6682,8 +6686,8 @@
     "etag": "\"8ef9bfe82c6c455899d664f09bf4197d\""
   },
   "https://www.mozilla.org/en-US/MPL/2.0/Revision-FAQ/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"cdf82d43a809e2884c666dec577207bd\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e64e2f32165c6e3fd81700aa9f9be87e\""
   },
   "https://www.mozilla.org/en-US/MPL/2.0/combining-mpl-and-gpl/": {
     "date": "2023-06-23T06:04:52.308564+00:00",
@@ -6706,8 +6710,8 @@
     "etag": "\"196da003f80fbc840e8fb5d7aadbe0c9\""
   },
   "https://www.mozilla.org/en-US/MPL/license-policy/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"8c78dbbebfd238291b941d23eb2ccce8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"25f208dec03975e88d377f31ad34defb\""
   },
   "https://www.mozilla.org/en-US/about/": {
     "date": "2023-06-23T00:14:40.602816+00:00",
@@ -6750,8 +6754,8 @@
     "etag": "\"e785f0ea249a7c44d0100f040360d63d\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/module-ownership/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"217a89a9ffb597f0ad3211df57cd38fe\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4a50b059af5ea3ef1b01f95816038169\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/participation/": {
     "date": "2023-06-24T18:04:51.400987+00:00",
@@ -6979,8 +6983,8 @@
     "etag": "\"e54f0db634522656a237e11bf74b2ccf\""
   },
   "https://www.mozilla.org/en-US/about/policy/patents/guide/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"c4c00e96aa4b3a31fd9746887a1190b2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b05b76927d1880687ee98edf20c6bec4\""
   },
   "https://www.mozilla.org/en-US/about/policy/patents/license/": {
     "date": "2023-06-21T18:04:30.953541+00:00",
@@ -14631,8 +14635,8 @@
     "etag": "\"e4f30b8cebb742a2aed716b62f3e4c51\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2009/broadening-our-scope/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"dc2b49b283bb172a91bbf6f2556c90c5\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"de1da4e4c9e7e1e05f018f6b5ab149ed\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2009/faq/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -14643,20 +14647,20 @@
     "etag": "\"6e76759a8dd361de1503e4930191a9dc\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"fc688f5d4cb7c25a781396db30e463c2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d392d3d8cafd70c53af4a67599286c1c\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/ahead/": {
     "date": "2023-06-21T18:04:30.953541+00:00",
     "etag": "\"dd6d271ba5dd81e13790ee6f04115c03\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/faq/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"b38c69d78d49742a94246bdb513c08c2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"49dc388631757bf86ded09a42bdc6ae2\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/opportunities/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"d2173a1ed259d0fc2e00ffcbe8459890\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"497177c95184317a714634834b44e021\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/people/": {
     "date": "2023-06-25T12:05:03.088751+00:00",
@@ -14771,8 +14775,8 @@
     "etag": "\"e0baaadbfc8bfc7c15a735c6621ebe94\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/bylaws-amendment-1/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"1a1d910fad1cc6e14703f4ca41b3472e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3201586c6c4b1ec43ad0a3f41c027a0e\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/bylaws-amendment-2/": {
     "date": "2023-06-24T18:04:51.400987+00:00",
@@ -14783,16 +14787,16 @@
     "etag": "\"2c3493b9110b27d0b03ac5e3259c469f\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/mozilla-2006-financial-faq/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"e8261543a956cb2369e3459dbfa0d910\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"32a0eb03d73e5a99b4e0d65bc3a5654c\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/mozilla-2007-financial-faq/": {
     "date": "2023-06-26T12:05:30.665685+00:00",
     "etag": "\"097db402121a9038d30fc6547f814eaf\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/mozilla-2008-financial-faq/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"ae49d19e3053bd263671bcc9f77ca7cf\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1df0a2e0bd4dfc4a3fecec30eafb60c5\""
   },
   "https://www.mozilla.org/en-US/foundation/feed-icon-guidelines/": {
     "date": "2023-06-23T12:05:27.330262+00:00",
@@ -14851,8 +14855,8 @@
     "etag": "\"8236ca98b211e3332b5d59c841ddab03\""
   },
   "https://www.mozilla.org/en-US/foundation/trademarks/community-edition-policy/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"545eaba8d38de776f66d0f5c13e295df\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d47f3be60a8f8cdf8e4b7f62d7dcc217\""
   },
   "https://www.mozilla.org/en-US/foundation/trademarks/distribution-policy/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -15115,8 +15119,8 @@
     "etag": "\"1f413f05de8ac92a690b8b6c8eaea830\""
   },
   "https://www.mozilla.org/en-US/mission/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"3fc04f034a70e71669ea86fcf4e7c044\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"eb4992d3795b5d17dea4ad6ae1db832f\""
   },
   "https://www.mozilla.org/en-US/moss/": {
     "date": "2023-06-25T12:05:03.088751+00:00",
@@ -15155,8 +15159,8 @@
     "etag": "\"ef435a8ad01150ff6e6c615f8673f6ae\""
   },
   "https://www.mozilla.org/en-US/newsletter/firefox/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"4d41d77921b10aaf20623e06f521b288\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"127217fda20195c95aeaea601989b7e1\""
   },
   "https://www.mozilla.org/en-US/newsletter/knowledge-is-power/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -15409,20 +15413,20 @@
     "etag": "\"ce5d85ff1d0dbbc384eb887748d2ba84\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"bc7ab2059c4379fd54156709f73c1ced\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"01b631d013d08577e04ee417acf7b01c\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"1b9858e6a0519ada62481c4fb92bb6b0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"0430636365b6092f2d8ce70c2f875757\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"38c789e9ae2d804627170b868fefb1f3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"42ecca323dca3614824c12689fcfca3a\""
   },
   "https://www.mozilla.org/en-US/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"d22a49a5de00bb9c067f6ccf1173e3ef\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"05026b9ffa898bc372bf5b853567ff0b\""
   },
   "https://www.mozilla.org/en-US/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -15433,20 +15437,20 @@
     "etag": "\"fe301f0413910dc82296f84b62457ee1\""
   },
   "https://www.mozilla.org/en-US/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"6c34563e11fddce65d594b516cf9fb91\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"99207e21e6493ae96df2d39101f68ae7\""
   },
   "https://www.mozilla.org/en-US/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"fbf66196e40e6a68fd4294c3cc30210e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"aa1f796fa0d8f034641eb60fe4df8a3d\""
   },
   "https://www.mozilla.org/en-US/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"2fefa294ee8cebb256f90ab5fd86487c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a170b54a642b8e8260be67500ff0d391\""
   },
   "https://www.mozilla.org/en-US/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"47ae9c080bc277a82b3bb62680fd0d98\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2bf17764430fd60a24e91cd6733216f2\""
   },
   "https://www.mozilla.org/en-US/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2023-04-25T18:02:11.667552+00:00",
@@ -21443,8 +21447,8 @@
     "etag": "\"cff37450a74bad73508b0deecf0cd133\""
   },
   "https://www.mozilla.org/es-AR/newsletter/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"0f6b11056027ab7d1f330ac29db20cee\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c86dc15baa94d8f0a3809aeef11e973b\""
   },
   "https://www.mozilla.org/es-AR/newsletter/developer/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -21495,20 +21499,20 @@
     "etag": "\"f54250e3bb30e6bfaa7dff6ff2db45df\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"77b3f0027d1d4ab0fcff17358977e826\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ba5820024524b39c74e8ac5e9cfe5649\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"1af21ca9131d4521559126f8746e1280\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ed2de22c5cf59c57e3a99377d3c339d1\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"d92c43929b9f5c3bf92ce438bd771644\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"eaf1f4c7d85d625154626118453892a1\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"ca5eb63cf41f65979135d4f728370365\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"50265f2c3facf2c5f979beee9a274f92\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -21519,20 +21523,20 @@
     "etag": "\"023b95a81e7dc7d1604878d562aaf619\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"5ae1dd04dd4cefa4ba59a8575b45ee3d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2a0914546c9b0e6c73c2b9b3628a46dd\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"1ec92cc8b02348047be3372449763010\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"abce50a0e76b2dd5059ef536831155e5\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"2919d733b18d029e99b48910ce6eba74\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7de15c3075f4df89a8dba7130f2491b9\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"63501ea2c7cdfeedd33f32c04dde22e8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c8194d8f57c1a17150e324470fb38508\""
   },
   "https://www.mozilla.org/es-AR/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -21945,16 +21949,16 @@
     "etag": "\"195653d8dc680f98702001aabc4f111c\""
   },
   "https://www.mozilla.org/es-CL/newsletter/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"32f5f5051e71876eafeffa36ca154947\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"0b9fd48946ab71eea2cfb46a0dd666a8\""
   },
   "https://www.mozilla.org/es-CL/newsletter/developer/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
     "etag": "\"3370e7f76ea1b1799d47ba500f606232\""
   },
   "https://www.mozilla.org/es-CL/newsletter/firefox/": {
-    "date": "2023-06-21T06:04:40.895378+00:00",
-    "etag": "\"1497359bddb5681eace7b59b57d04dad\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"853afe936d22750ef7002b711ebdd977\""
   },
   "https://www.mozilla.org/es-CL/newsletter/knowledge-is-power/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -22005,8 +22009,8 @@
     "etag": "\"e3e1e8ec4d1ff7d7808234916e1f5ebf\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"3be26cd42f3e111a4da7cf0ca4f5b656\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"08555a946113d97070a428f34a96dd55\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -22021,8 +22025,8 @@
     "etag": "\"f8d3b6d5730a53871e9e1960e97a67b0\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"9ebd8c4f3fbc5701949f38e4334903bf\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ffa7a24b79760635be6d58a57303aff9\""
   },
   "https://www.mozilla.org/es-CL/products/vpn/mobile/ios/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -22503,8 +22507,8 @@
     "etag": "\"990943651ea3bf015ef5548de7d5e02b\""
   },
   "https://www.mozilla.org/es-ES/newsletter/mozilla/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"55f2329ccbc7a6768f1462a577e5fbf9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5518683699c463644e89d554da058991\""
   },
   "https://www.mozilla.org/es-ES/newsletter/newsletter-strings.json": {
     "date": "2023-04-24T00:01:02.050302+00:00",
@@ -22575,8 +22579,8 @@
     "etag": "\"aa84344ffbdf5e5ee489a073f6f72bbf\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/desktop/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"3629deeb9928d975322b70366589da73\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7f74c0653f93b15cf497b337f77dc79c\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/desktop/linux/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -22587,8 +22591,8 @@
     "etag": "\"b2ced764ca3478e9961f92db0752bf99\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/desktop/windows/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"de44ea453ef5951085cecfd876e35ba1\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b339bfcf429c6b9e4ba15bda4d20dd12\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -22599,12 +22603,12 @@
     "etag": "\"0aa4f05ae23f92b019ec964803ee002f\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/mobile/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"e108d134933d3d06951dbc2c301e29ec\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"0e6b9abeebf4eadfa08b9f68261167f6\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"e0ca25826186dbeb30d7916d4ac00ffc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3debda27b51b93b1da7eb9cc7ace3c86\""
   },
   "https://www.mozilla.org/es-ES/products/vpn/mobile/ios/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -23795,8 +23799,8 @@
     "etag": "\"1fda74664a0a28f6f9017d0d31a6e10c\""
   },
   "https://www.mozilla.org/fi/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"12c99014524cbd640a4f67fbe93d1315\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6f9bd2885b3165e211e0f2c321b308b6\""
   },
   "https://www.mozilla.org/fi/about/": {
     "date": "2023-06-23T00:14:40.602816+00:00",
@@ -24123,20 +24127,20 @@
     "etag": "\"fe7057909b2b56644592c04952889559\""
   },
   "https://www.mozilla.org/fi/products/vpn/desktop/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"f9e701e82a095b03b5b8d6e6bc7bc7a2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b3dee2c1eca5e7987fe3a7c190c35bea\""
   },
   "https://www.mozilla.org/fi/products/vpn/desktop/linux/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"7670e40303bf21ecfe65db87d0f69b12\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"82cb666e368467a1b19f59dd42e7d7d8\""
   },
   "https://www.mozilla.org/fi/products/vpn/desktop/mac/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
     "etag": "\"b19b48056e141bcd631e3e55515ff092\""
   },
   "https://www.mozilla.org/fi/products/vpn/desktop/windows/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"ce64530015299652cfb8ddbbb54c03a0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"58f9a17d378a854930efbd5f7f443acd\""
   },
   "https://www.mozilla.org/fi/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -24147,8 +24151,8 @@
     "etag": "\"06a17aed1dfa0da55bb1baa8625dd115\""
   },
   "https://www.mozilla.org/fi/products/vpn/mobile/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"4c7609af2c07b0f395cbc24fdec5b97d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a2e05325c8c0b5cf99fee97e251fd24a\""
   },
   "https://www.mozilla.org/fi/products/vpn/mobile/android/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -24629,8 +24633,8 @@
     "etag": "\"1d881b648dbf6800a5ee1a223e2c6063\""
   },
   "https://www.mozilla.org/fr/mission/": {
-    "date": "2023-06-21T06:04:40.895378+00:00",
-    "etag": "\"ab8d075742704e7101ea627a33ca59eb\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4dc1f4dc785c7427e19d654aee50d5ed\""
   },
   "https://www.mozilla.org/fr/newsletter/": {
     "date": "2023-06-23T12:05:27.330262+00:00",
@@ -24857,8 +24861,8 @@
     "etag": "\"04655a2aff15d8d5afd7a792c02cfeb4\""
   },
   "https://www.mozilla.org/fy-NL/about/manifesto/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"68a08c0b81440b5b565ac0a62174373c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ef3502886d9a10f12abf116e8be050d7\""
   },
   "https://www.mozilla.org/fy-NL/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -25231,20 +25235,20 @@
     "etag": "\"c9dfcba17f89bf38356bc08ac94c29d3\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"0ce66298e139f30a28b044fd860e9990\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2019df6c444f3d5ca47a9b5037e79633\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/desktop/linux/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"dba68d5fc4cf3c19844f01ab3a0aae83\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ae6707e3951224579e56297f2ef5da88\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/desktop/mac/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"f7ae8db129770beba7cb9b367c0ab863\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f600105b1cbbfdedc6612ad5afce7afb\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"c98cc6922575b141f83e8016d87fc56a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1cf0b6a2f634b1e13e7686d4d30b60bf\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -25255,20 +25259,20 @@
     "etag": "\"54e5a5243b61694b670384c375aa7d70\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/ipad/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"f967de133a888a3bc2c1b2842a4eb2fd\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"70fbc2bdadbbd0e81bdee28ed3b9e6ce\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"adc7b744cca6f43e056966616fbad1c5\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4e0cf7a257ed1fa8b1d335a9780176c2\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/mobile/android/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"3c5d9f885163fe55c2588c493dcc01fe\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e5d4d5f3a5bcffbf0a84cbc5de526f9e\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/mobile/ios/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"4f6252bf9a54bb15290443bb1671fa08\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"11636d2794cc7d4888aa3bcc72d937e6\""
   },
   "https://www.mozilla.org/fy-NL/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -25739,8 +25743,8 @@
     "etag": "\"bdb77307af8295862a086b02e5f8652c\""
   },
   "https://www.mozilla.org/gl/newsletter/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"8aa0e5afc366692153e66abec790b748\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"013984ba66a24c3dcdf973d3d8b84eb8\""
   },
   "https://www.mozilla.org/gl/newsletter/developer/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -25755,8 +25759,8 @@
     "etag": "\"53a728570add7f4f33d4165808ddbb95\""
   },
   "https://www.mozilla.org/gl/newsletter/mozilla/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"9b757fa1b800e8bba8be33c6204f7eb7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a5252cb9505600eb92725a8a48b35352\""
   },
   "https://www.mozilla.org/gl/newsletter/newsletter-strings.json": {
     "date": "2023-04-18T18:02:04.810859+00:00",
@@ -25799,8 +25803,8 @@
     "etag": "\"1fb3c2b84f2b0beaed450e7d0fc17688\""
   },
   "https://www.mozilla.org/gn/about/manifesto/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"b8ad0e8388929ac3b4b055646138a4e5\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2cf1d1dfc4eeef7d914aa9453bd78371\""
   },
   "https://www.mozilla.org/gn/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -26571,8 +26575,8 @@
     "etag": "\"fab6051d73a5c3977c2ba955c5deb6f5\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"40abcfb4be0ae69f53958d1858e8ebf5\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1c53f3517bd999da431e72f29ab97763\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -27631,8 +27635,8 @@
     "etag": "\"7d97884b045465d06a49a0eb5b3df96a\""
   },
   "https://www.mozilla.org/hu/about/manifesto/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"3088cca05576a2daab0c8246b34dd011\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"784da5ead2cd3333dbabc6927b567bfe\""
   },
   "https://www.mozilla.org/hu/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -28705,40 +28709,40 @@
     "etag": "\"c7bdb78704317e74f792775a368b2476\""
   },
   "https://www.mozilla.org/id/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"3f166e013d5f6e56b7cd64dd53a1154a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b726f5e4bcd02295588fdbb5ee3af841\""
   },
   "https://www.mozilla.org/id/about/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"3e5425bd1071ef10917f05e3a275ff33\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"295f10982d97604fb0e4d42c1fd055cc\""
   },
   "https://www.mozilla.org/id/about/governance/policies/participation/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"fdf0f87fdbb4209f28b28f5878e6bb45\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"104d5a617e87859a2e25d207e9a4f008\""
   },
   "https://www.mozilla.org/id/about/governance/policies/participation/reporting/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"abd416852f829db6384cf87732e042d6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"920b3f49934bc5f48f50f9525a9ff691\""
   },
   "https://www.mozilla.org/id/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8e3c450920d2f5832897cbb2366dd64d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"08e122f4918b33b0d7888dc7f665fc6d\""
   },
   "https://www.mozilla.org/id/about/history/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"adae4aa6b423d044db3b33716dc6f415\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b720bccfaca6a836557d286688749f57\""
   },
   "https://www.mozilla.org/id/about/history/details/": {
     "date": "2018-08-15T03:31:04.881424+00:00",
     "etag": "\"6f5e54d88aaa195226fe9f527f2271a9\""
   },
   "https://www.mozilla.org/id/about/legal/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"add53debecdafb256222dd7f37943568\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ace62b1f56d6821514095f605c6f15be\""
   },
   "https://www.mozilla.org/id/about/legal/acceptable-use/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"c9bd1bf0a2ba1b94c3fd56d20a525b2e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fe76c5c5ca6f752b4884501c42b33c0c\""
   },
   "https://www.mozilla.org/id/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
@@ -28753,28 +28757,28 @@
     "etag": "\"9d57b4c585289246d8041bee3c54c8f2\""
   },
   "https://www.mozilla.org/id/about/legal/terms/mdn-plus/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"cf27ffebfe8b5b8d048ae9908e97a0cf\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a0c2e63da4c448a0a36000223e35643d\""
   },
   "https://www.mozilla.org/id/about/legal/terms/services/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"6f118b787cc7e0f94823a4a374b2b7a2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3bcc6e8bf3c6f8fe380c0a857f62c7e0\""
   },
   "https://www.mozilla.org/id/about/legal/terms/staycation/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"7a9251577fa2c99df264aaabca2fb803\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"beaf240f2e130f802daf73568848f22c\""
   },
   "https://www.mozilla.org/id/about/manifesto/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ba11480c3ee6934031319222fbdd1a14\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d0b1ca01f4de119e2856cc816b6dfba7\""
   },
   "https://www.mozilla.org/id/about/manifesto/details/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"e03dc8b7f47cb0a7f08f0df2ce3857a1\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c5c5310d07a385d84c8a670d33d169e5\""
   },
   "https://www.mozilla.org/id/about/this-site/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"8d89df0a878720661c846803e559a2c4\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"df7b43d537590bb82414fcb242582ab3\""
   },
   "https://www.mozilla.org/id/contribute/": {},
   "https://www.mozilla.org/id/contribute/events/": {},
@@ -28791,164 +28795,164 @@
   "https://www.mozilla.org/id/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/id/contribute/task/stumbler/": {},
   "https://www.mozilla.org/id/firefox/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"d0033107c5d8034b101242ed27b9dede\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"aca724fb3b7c9f5d0e9d5be15f284684\""
   },
   "https://www.mozilla.org/id/firefox/accounts/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"fc6ca97eafa4fa0760c3e0db258c4598\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c3fa620cee266f8fcc348265de5f6455\""
   },
   "https://www.mozilla.org/id/firefox/all/": {
     "date": "2018-08-15T03:29:07.704487+00:00",
     "etag": "\"3f178c2b497a5c34be67e746883b5082\""
   },
   "https://www.mozilla.org/id/firefox/browsers/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"043f1cc97ad51d7a02b3eecbdcf1a955\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d74bc19e9eac99dcbae108b131678684\""
   },
   "https://www.mozilla.org/id/firefox/browsers/best-browser/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4a3b0a217420ebec8b5042b734e02553\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8be2fea6d1ece5d4a093821fd4ec9b12\""
   },
   "https://www.mozilla.org/id/firefox/browsers/browser-history/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8165e2f099de32db6eb2730b3aadc1d3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8766ca643a105629a0cdbbe7576b38da\""
   },
   "https://www.mozilla.org/id/firefox/browsers/chromebook/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"2f1c761f126ba1678f64f8c4dc40caf9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"dfc60aebb6ed0fd23bff9172d04b80c0\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"2751a9280e86718123644286e23315bb\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3ce1900e3f0230df43ffa635014ef8b4\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/brave/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a37f664dcd66932bdb9116ea1ca2c393\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"bf517662dbd965163c2e1c3787966fcd\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/chrome/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8b50cfd7b4a18736b142356fcd307b60\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8a3550f5c3443737463284afc65484b7\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/edge/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"51bb7328988427e07e19d9e999d6b86c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ef697e135708bc43db01bbda9306fdfb\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/ie/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8992e7b610b2cced5ea1d11dcede0150\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"366f4802c4ad72c236ef4b85f9c44b34\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/opera/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a22f03f1c2cf375fca78d9a8adc18254\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"23f3e7a0c1f06a0d12090ad1fbf76e22\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/safari/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"3c9b158f886b8e46fb3e58d553c36143\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f9cb489449d7d2536da9b40370e6c584\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"df0b60d9e0125619a93dcd18f5c8ad76\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7983896350806c0be4627a4d2d74debb\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/android/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"85411e87e4b93f93ca1c08ec81371d0f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6254f19e296bd32aee4a2bd1c7fed717\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/compare/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"c56e7402be2732e4fe73dd631df75730\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"835e2188b0bf68e76a72f527ef3ce8fe\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/focus/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"33baddb4028f8b285b73f3b6cf9288ec\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e761ff70eba428268896eab841b7dc65\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/ios/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"2f93f34715bdf83be8006f3a17f0038a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f618f3c4bc34aaf158f22643b2e1c807\""
   },
   "https://www.mozilla.org/id/firefox/browsers/quantum/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4f7fc6956c4684d9fc1f0710941355ae\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"0d72fcd9a2f874698e5d8a50110ccd2a\""
   },
   "https://www.mozilla.org/id/firefox/browsers/what-is-a-browser/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"6b497059801d75f197db7eb69b4af85d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d5c63fadfa287183b5e088309fb6c60e\""
   },
   "https://www.mozilla.org/id/firefox/browsers/windows-64-bit/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"3f62222a75f09d28fbd7db6460d56fb6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"107cac381ae8b07ffc018cff8a1ab3a8\""
   },
   "https://www.mozilla.org/id/firefox/campaign/": {
     "date": "2020-09-03T00:10:31.852139+00:00",
     "etag": "\"a2ae299fb8de3bafdda5c7a2e35f688a\""
   },
   "https://www.mozilla.org/id/firefox/channel/android/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"acddaf88ec8bb45b80aa0ab35520c5b5\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"de8555deb2a37cae342303f9d58cd302\""
   },
   "https://www.mozilla.org/id/firefox/channel/desktop/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"0b51b9a96200fe999ccfc987792ba651\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fa4e88705fefc4df2de3a376daefbeb5\""
   },
   "https://www.mozilla.org/id/firefox/channel/ios/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"5dcd6f76c07190058e91cf330b89da14\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a4f4434b181036f816f44e631bf05ab6\""
   },
   "https://www.mozilla.org/id/firefox/developer/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"ade4e3b1933e5841baf5ce03ee257c25\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e5efefbac2cd94f2fab3da754746b8c0\""
   },
   "https://www.mozilla.org/id/firefox/enterprise/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"284acfb35b61a5e91f7d75133baaf539\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6b4b62cd6c8ec81b5783954e36f5aa87\""
   },
   "https://www.mozilla.org/id/firefox/facebookcontainer/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ec3ab6ffdd0b1bc0532200689e73d0df\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e7e063da34a563f387266bd08ab9c161\""
   },
   "https://www.mozilla.org/id/firefox/faq/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"e1a5b70a7ce6b1795354f98df9ad1675\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c940ec9202efe777d29a72aaf97e913d\""
   },
   "https://www.mozilla.org/id/firefox/features/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a4bc4a0b5fb7ad47e7b7c2aac64383b9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f7d97e8df035d8e71a326c4658d9837c\""
   },
   "https://www.mozilla.org/id/firefox/features/adblocker/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4c7c59f71d5d8fdc4dfe9c76dcdb7870\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"40dfe87d81885343db8b70733e3c5b38\""
   },
   "https://www.mozilla.org/id/firefox/features/block-fingerprinting/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"faa9e2f7c0a93033ef5af49fda428501\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7e2ee26f9f6c0e80fe946ded4f01efbb\""
   },
   "https://www.mozilla.org/id/firefox/features/bookmarks/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"6423ea701e6ff1822cd71845f36a823d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2e89496016153c742f1857b760fd2216\""
   },
   "https://www.mozilla.org/id/firefox/features/fast/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"9d871311fab4cafb360d5097ff2436ab\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f38a2ab09f52a91e8aaef6fa945d983c\""
   },
   "https://www.mozilla.org/id/firefox/features/independent/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"6e33fe665fd8f1f0e1adbe6a57ff09f7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"cf78849d1ee9a18c5caac957262e2fab\""
   },
   "https://www.mozilla.org/id/firefox/features/memory/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"b1273dbc144dd73c020ad60449c99bf6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ce84e066297686ecbbc3f55f594fa8c6\""
   },
   "https://www.mozilla.org/id/firefox/features/password-manager/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ce9f1128f728bd3a912c7b5d58a315f7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c282ba1a73f724b295234550c7c0be8e\""
   },
   "https://www.mozilla.org/id/firefox/features/picture-in-picture/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"e4bc33ff197a39df505e8552959e7a6d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c807e98420d08cdcf8dee70fe2fc7f6b\""
   },
   "https://www.mozilla.org/id/firefox/features/private-browsing/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"127f8f54666fa14592cb8908768ff36b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"973f92be167043add68b9cd6cb4f1293\""
   },
   "https://www.mozilla.org/id/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.754059+00:00",
@@ -28959,8 +28963,8 @@
     "etag": "\"29bcd680a241a3434f7c819de1c0ce9d\""
   },
   "https://www.mozilla.org/id/firefox/features/translate/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"b0bbf4778258b1d59dea0187a204c12c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6bf7670f8e3a0b8edbca5efff9e34951\""
   },
   "https://www.mozilla.org/id/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.921512+00:00",
@@ -28971,8 +28975,8 @@
     "etag": "\"f0b0c7af3fb3dbdb3144d32506e675c9\""
   },
   "https://www.mozilla.org/id/firefox/linux/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"090565805d06a7b23e05ddb41166365f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"efb9b88944316197d6bc9cea76826f1e\""
   },
   "https://www.mozilla.org/id/firefox/lockwise/": {
     "date": "2021-11-22T18:04:38.630716+00:00",
@@ -28983,8 +28987,8 @@
     "etag": "\"c851aeeb1c7449ce6ec9c5c02beece55\""
   },
   "https://www.mozilla.org/id/firefox/mac/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ec6c820b31f59ddba74ddcc47c2639f8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"126d267db2a78e9352d32cd1118331a6\""
   },
   "https://www.mozilla.org/id/firefox/mobile-promo/": {
     "date": "2020-07-01T21:07:28.241937+00:00",
@@ -28995,52 +28999,52 @@
     "etag": "\"dd4b05f32b82cdab433b776aa89e21d7\""
   },
   "https://www.mozilla.org/id/firefox/mobile/get-app/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"082fc542d3b112cb9cb8ffafbe525210\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"792dbba9c1008fc2f32d937cfee270b2\""
   },
   "https://www.mozilla.org/id/firefox/more/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a4b8cabef09b5f757bf552813eaba2a1\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f7e57417598e843a23ed08492c417e0f\""
   },
   "https://www.mozilla.org/id/firefox/more/misinformation/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"fe047ecd5db03cbc0db0f5a48d603d7e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5bafcf0e76da15ac894f7173635614dd\""
   },
   "https://www.mozilla.org/id/firefox/new/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"3955b551d1539a1bedc837091a935c63\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7d350e579dc772dbcc46a9d524e96d53\""
   },
   "https://www.mozilla.org/id/firefox/privacy/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4ab79ba145abc2644b7ee85730cef546\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9f153a2bb491f1e5409a187b25744469\""
   },
   "https://www.mozilla.org/id/firefox/privacy/book/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ad149c70a4275f5f8d5ed4601774125b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c6871d4e86b66809de086d23b22e0652\""
   },
   "https://www.mozilla.org/id/firefox/privacy/products/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"d78734882677a6a98e01f1e9ba93bbc1\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a8dca7dc09205e357929350d532acb65\""
   },
   "https://www.mozilla.org/id/firefox/privacy/safe-passwords/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"dc83cc82cf9486fbc2cbb3f16fa37712\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6057a4e2f516f2cb7a558a3546578202\""
   },
   "https://www.mozilla.org/id/firefox/products/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"b851c32402093b8e07497920114b643f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6b7822d2eb9f9427e9880e7c3bea71c5\""
   },
   "https://www.mozilla.org/id/firefox/set-as-default/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"081547f117130a368314bf0d5bfbc1e8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"33083d3ce87311b5a41ad419c0d2f963\""
   },
   "https://www.mozilla.org/id/firefox/switch/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"1df7fac91f6530430031e0eb320f6843\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a04f1cc674a5479f871ef04d535bbbd0\""
   },
   "https://www.mozilla.org/id/firefox/sync/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8f1ac570199c4cdc3fea9bc42ff11b51\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7a567911474931b32cd89e527f29c573\""
   },
   "https://www.mozilla.org/id/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -29067,8 +29071,8 @@
     "etag": "\"6e1c4c0cb1939ea250b02606d6f371cc\""
   },
   "https://www.mozilla.org/id/firefox/windows/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"55544fedc8d91d48859c2328089a0ce0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4001e2a27d2acc98c5433576588cddcf\""
   },
   "https://www.mozilla.org/id/internet-health/": {
     "date": "2018-08-15T18:00:41.417951+00:00",
@@ -29095,60 +29099,60 @@
     "etag": "\"4bbee4bcb161aa6ef8f8a49ccde9a8ca\""
   },
   "https://www.mozilla.org/id/mission/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"7e1fe6d12101600eee056608ce526457\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"02d77bd11b580f9129892bca9024137e\""
   },
   "https://www.mozilla.org/id/newsletter/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"a9032a90ef377f6a322219e90b8418ef\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6ae405b255f0b5e80a8dbcf6d6002608\""
   },
   "https://www.mozilla.org/id/newsletter/developer/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"8a1d6d0b479675380bad830945cd0459\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5b3f346cb78a94160d36f3feb406b4d7\""
   },
   "https://www.mozilla.org/id/newsletter/firefox/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"28e76e9c32d5bd2e6d7dd3c7987b92e2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4f99c13c1f29d01ad0fdc251a1ecbe71\""
   },
   "https://www.mozilla.org/id/newsletter/knowledge-is-power/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"2f318d0a2d270ad0f75f4c2bfcec3264\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3d490e048ec9075886276c3f9898e8fb\""
   },
   "https://www.mozilla.org/id/newsletter/mozilla/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"f7f86661d6a6e759d91985d3055b0135\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fc81974223489bbea4e30c62692bd5ad\""
   },
   "https://www.mozilla.org/id/newsletter/newsletter-strings.json": {
     "date": "2023-04-20T12:03:40.772227+00:00",
     "etag": "\"73ff4dd511516993099d445a49459c96\""
   },
   "https://www.mozilla.org/id/newsletter/security-and-privacy/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"face52311e0efaa47b36ca5014a9fb59\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9c418bd2a149727f16b75e7d5d6a88d0\""
   },
   "https://www.mozilla.org/id/plugincheck/": {
     "date": "2018-08-15T03:28:55.996495+00:00",
     "etag": "\"4ee95d1b2b26f8bc35c8d8738bf4a228\""
   },
   "https://www.mozilla.org/id/privacy/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"6aa14e3f1ea53a685589760946b94728\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f0740c56797494619914eec6a409203b\""
   },
   "https://www.mozilla.org/id/privacy/faq/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"56be3e06b940532d733337367e6fcfc7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e731c223688893a31952681f0520b226\""
   },
   "https://www.mozilla.org/id/privacy/firefox-focus/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"77d2e0d58c3e7e19426148d3763d71c0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6dd19ed8f6c5b6ce14c155865f3381a3\""
   },
   "https://www.mozilla.org/id/privacy/firefox-lite/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
     "etag": "\"cf0a6ef3d4c9ba768ad52e381a599f69\""
   },
   "https://www.mozilla.org/id/privacy/firefox-monitor/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"69b4aa3d9100348b14ba471b46ae9d82\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"937cd73d477fa29413b55f38795c26cf\""
   },
   "https://www.mozilla.org/id/privacy/firefox-os/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
@@ -29159,64 +29163,68 @@
     "etag": "\"f55e646fcace68f43238a461e21dfbfc\""
   },
   "https://www.mozilla.org/id/privacy/firefox/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"e67f013c2311aed28135f41607ebdf5b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4d48601f238dd255c2984f09e42eea9e\""
   },
   "https://www.mozilla.org/id/privacy/mdn-plus/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"825ebe1f668c7ede340cebe9e43abab7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8e8aa852e81ada6edda3b501515a1591\""
   },
   "https://www.mozilla.org/id/privacy/principles/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"755a42877743e27df3cff2ca571e92e4\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e6d7635861b26a0643f9f3233090f7cb\""
   },
   "https://www.mozilla.org/id/privacy/websites/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"5e3c4f316506f49f70fe49c67e6de07c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"67e39f9f1469de076b72a658c7b8c725\""
   },
   "https://www.mozilla.org/id/privacy/websites/data-preferences/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"c401e96b48acab84a7436c3f9034543d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a877ba78d3b55cba91dd058e2588e08c\""
   },
   "https://www.mozilla.org/id/products/vpn/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a854f4ca843548eb061d8237ec490828\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a40117ad023b80ae3ec48ac1de9eeeac\""
   },
   "https://www.mozilla.org/id/products/vpn/desktop/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"a6d13960b2d14619896e337e1b4b2e13\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c3d9b23df0f0813dca25593ced0577e2\""
   },
   "https://www.mozilla.org/id/products/vpn/desktop/linux/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"741feb115eea43647f05de9cbb5a46c1\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"36bdc0e0c5311e13107d3e051a13e1e6\""
   },
   "https://www.mozilla.org/id/products/vpn/desktop/mac/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"32d7d0ba278c783613703f6d1b3354f7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b3468bbed878d6a6f54bec2e961d2800\""
   },
   "https://www.mozilla.org/id/products/vpn/desktop/windows/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"f3d93c0964e1ef8a670cd802bcded449\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5fcd0a43af018bea943432b9b4add28f\""
   },
   "https://www.mozilla.org/id/products/vpn/download/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"513f87490f79f73bab4f2f9ce41c4742\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1b161ce0c7a6a8e69ab3d3445fd2180c\""
   },
   "https://www.mozilla.org/id/products/vpn/invite/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"33f8b80cef4fa278738afdf89bfec859\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9ae53a8e60ebdb1213e52244f2e3e0c3\""
+  },
+  "https://www.mozilla.org/id/products/vpn/ipad/": {
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2104d58d1ec45b45efd6ec2625ca03de\""
   },
   "https://www.mozilla.org/id/products/vpn/mobile/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"87552f1fc79f0b24b49fb76aca440fc2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1122954ed43e4623319951daca0e9215\""
   },
   "https://www.mozilla.org/id/products/vpn/mobile/android/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"ee2bd5dd93227da69531089cd4dd4c82\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"83842da6dd2652f28f23fce19f594d15\""
   },
   "https://www.mozilla.org/id/products/vpn/mobile/ios/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"c440a1de31e96cad27adb5d98372ffec\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"bb3480987026dc75915769d6e08ce0a7\""
   },
   "https://www.mozilla.org/id/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -29247,8 +29255,8 @@
     "etag": "\"c95938e4ab56644139b12314236b4dc7\""
   },
   "https://www.mozilla.org/id/products/vpn/pricing/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"1cdd4a092cb9d74afb1586038dff2c64\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5ed525f6895bde594ccf00a42c859e57\""
   },
   "https://www.mozilla.org/id/technology/": {
     "date": "2018-08-15T18:00:19.866028+00:00",
@@ -29841,8 +29849,8 @@
     "etag": "\"3017686894400c03814a3362fb738127\""
   },
   "https://www.mozilla.org/it/newsletter/firefox/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"c382e8e348dd8ce32e57082b16648acc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1d773615f1116b700bcddc4260832b58\""
   },
   "https://www.mozilla.org/it/newsletter/knowledge-is-power/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -29921,8 +29929,8 @@
     "etag": "\"f925ef9f0a455fc1c12b0c207f3072aa\""
   },
   "https://www.mozilla.org/it/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"c04f89e44fdedb8eec28fd582edb9311\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"52cf59a8dc98de931ac37bba52eae252\""
   },
   "https://www.mozilla.org/it/products/vpn/desktop/linux/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -29949,8 +29957,8 @@
     "etag": "\"3a7e25805f10f45156c3eb532d9eb723\""
   },
   "https://www.mozilla.org/it/products/vpn/mobile/android/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"bb0c8248ed5a02c4f89064471cf65e10\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"716412ec8a354218e361f511c0024355\""
   },
   "https://www.mozilla.org/it/products/vpn/mobile/ios/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -30637,8 +30645,8 @@
     "etag": "\"ceef1749a94ba89b7250e3a0fe3ec944\""
   },
   "https://www.mozilla.org/ka/about/manifesto/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"a233919af5133e3516ecda5b7a41ac64\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ca7112e393f18ba445f38d76081d9909\""
   },
   "https://www.mozilla.org/ka/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -31371,8 +31379,8 @@
     "etag": "\"f8a744efd461c6de3aafb274308364e8\""
   },
   "https://www.mozilla.org/kab/mission/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"78a45c149351df41ac0ca68f9de6bc84\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c2a5914b059f3eb668f1a48c6ae9e2e3\""
   },
   "https://www.mozilla.org/kab/plugincheck/": {
     "date": "2018-08-15T03:28:55.367149+00:00",
@@ -34351,20 +34359,20 @@
     "etag": "\"eb0eabb9c697efc6c5cb9d7f79cd80a8\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"bd7f1140931b28514f680aab04310137\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"72294d43d9e5512e09e8309c27014523\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"4c30c169e5052323e6fccdaff520056a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4c789eb9fca2db87b02f564b6627b24f\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"ce12734875e5c9a063db74ace425e079\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"86e8ee0d1a5af8f1a4c89858c8c39c70\""
   },
   "https://www.mozilla.org/nl/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"56fa411af38443ded7c71a14e00f0c4e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"74b145824e13a57130bff5ba9b2cc826\""
   },
   "https://www.mozilla.org/nl/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -34375,20 +34383,20 @@
     "etag": "\"13c2d716088f9e953ec83946d1c2c707\""
   },
   "https://www.mozilla.org/nl/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"86d72439a0a4914a3a22a2358babb4bc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ade725b8e7597aba5f2c68933c50facb\""
   },
   "https://www.mozilla.org/nl/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"4a5530bd4112c74deb39d9d065d17785\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c2db32c46b99aa9b88675867a34a9a1d\""
   },
   "https://www.mozilla.org/nl/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"54835698665297f25265fd77d4fd92f0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5da1458f9dfa0275847bac233868ffa5\""
   },
   "https://www.mozilla.org/nl/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"bbc103fe73369578f129a2a03ae9534f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b06649527222617e89c10020de4ea151\""
   },
   "https://www.mozilla.org/nl/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -34801,8 +34809,8 @@
     "etag": "\"d6057e26503fe9c7265161e5fa1f993a\""
   },
   "https://www.mozilla.org/pa-IN/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"f9d53cf9ae3f82434e16b36512b8cd88\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"04f28a1116ba19803efe28171788de14\""
   },
   "https://www.mozilla.org/pa-IN/about/": {
     "date": "2018-08-15T03:30:04.072951+00:00",
@@ -35033,24 +35041,24 @@
     "etag": "\"ff56df7e6701aaef5e1a2bbcfc1f5e95\""
   },
   "https://www.mozilla.org/pl/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"47b1ad3745b7cfd5a6ba0f6b1c9b507b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ec06ae22aa7366a429084302c757fa15\""
   },
   "https://www.mozilla.org/pl/about/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"491cf98561275681da44fb13a869b4b6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"37c6611f61a9859dd884b1d97d2b2011\""
   },
   "https://www.mozilla.org/pl/about/governance/policies/participation/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"8d17050791d7dbc42ffd8e53459aaf9a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fef5644e67f7c1bce31a43b1ef121384\""
   },
   "https://www.mozilla.org/pl/about/governance/policies/participation/reporting/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"6af975123243fb12ca7fa6ada929cc36\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"95db9122903520c7fad7b9ee0be4cff0\""
   },
   "https://www.mozilla.org/pl/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"94880f91046324e05fd98ac89fe52100\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"659d4697855c669986174b5570e6df45\""
   },
   "https://www.mozilla.org/pl/about/history/": {
     "date": "2018-08-15T03:28:36.947561+00:00",
@@ -35061,48 +35069,48 @@
     "etag": "\"abd3d491d3fc5968c36a80d02f244656\""
   },
   "https://www.mozilla.org/pl/about/legal/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"201eca08ca91670c2e42b9834c3ea443\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ad87019fff427a2153bbd2f77375dd77\""
   },
   "https://www.mozilla.org/pl/about/legal/acceptable-use/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4566cccdebe80ffe11d4da84e1a5b1aa\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b68557293179f3a4bb10f2a4c7540ced\""
   },
   "https://www.mozilla.org/pl/about/legal/firefox/": {
     "date": "2022-03-26T18:03:53.312178+00:00",
     "etag": "\"3d4190d7cd2c95222c5d6907e729d07b\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/firefox/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"3ed5e0aedb58a28b9f1c7bbbbe36eb75\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6999a3ce7e391477786d2a58ab3067b5\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/mdn-plus/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"b772be971835ca6260687269ca656881\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"74635c1521393c4f5b6922af00bafee6\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/mozilla/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ff2318b5af8dddcdd07a133891db3856\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6377fee5caaa95565053ba7ed0a56881\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/services/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"fedcdd40dacb0158c64646c0262c89e6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a0095afe19d5142a431193a83efdd624\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/staycation/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"f6f577a3587ed5d08b068239f1ebd417\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"95235e2a9a6a30b55d2ef2168a4b9e56\""
   },
   "https://www.mozilla.org/pl/about/legal/terms/subscription-services/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"872a4619c70bbed2984c39a0be5e3b1b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"64d3a88ca500526efe393fd72e2848c7\""
   },
   "https://www.mozilla.org/pl/about/manifesto/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"c823b46f473a18204501382746b156c7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"be880d9af84ba69f0e426ba9c607bdf1\""
   },
   "https://www.mozilla.org/pl/about/manifesto/details/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"5eef654ee7262f6e6148322750a927ff\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ef2b790358232febd8c46bdc06c87be2\""
   },
   "https://www.mozilla.org/pl/contribute/": {},
   "https://www.mozilla.org/pl/contribute/events/": {},
@@ -35119,108 +35127,108 @@
   "https://www.mozilla.org/pl/contribute/task/joy-of-coding/": {},
   "https://www.mozilla.org/pl/contribute/task/stumbler/": {},
   "https://www.mozilla.org/pl/firefox/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"93ff431119083c39de9dff7dfbb45ed2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ccfc85e51b9d151306ebd7d300ecbb49\""
   },
   "https://www.mozilla.org/pl/firefox/accounts/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"70a1571aa77b2ebe73ff114896dec504\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3c5904c1eaa154b07c81f3eb71379c8f\""
   },
   "https://www.mozilla.org/pl/firefox/all/": {
     "date": "2018-08-15T03:29:11.192260+00:00",
     "etag": "\"3c7034c25d1361d462119e240a92ee40\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ca137541401d36ce16286e9e949ea403\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3a0b6885b1661a9e946787119228399c\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/best-browser/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ac04cb89cd62c5256def5b30c70d449d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"38461d620ef75351d8d84295d34286c2\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/chromebook/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a4052d5be2bf95c50e3d59159895a36d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"30c1a1870ce0a316a9a771ad839bc26c\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/mobile/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"08d568c7d7c1530387eb7b459cae9d83\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"cd377067d5d5795be5b51af336d298e1\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/quantum/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"81c23cfc57fba60b764851030ee0bb16\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"41e24a08246fe323b196a5dddd24d697\""
   },
   "https://www.mozilla.org/pl/firefox/browsers/windows-64-bit/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ffa3d7ab05047c9bf2677eb7f4889347\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f7c43c9678a1b23a41d5929173dd1ffd\""
   },
   "https://www.mozilla.org/pl/firefox/campaign/": {
     "date": "2020-09-03T00:10:28.673431+00:00",
     "etag": "\"a50805b1ed06a26e5ffa850e6767ca30\""
   },
   "https://www.mozilla.org/pl/firefox/channel/android/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"629a22acde0506acec822b432c9e9ce0\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"732a9a42f3dc680c3e4c9985cf0ea4fb\""
   },
   "https://www.mozilla.org/pl/firefox/channel/desktop/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"dd97b426e63871383e37ed994a8e4912\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"882e4fe0813a39522a77218bd6efd70a\""
   },
   "https://www.mozilla.org/pl/firefox/channel/ios/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"3e1ef8899cb24f4c33d1066e2ef2444a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8b2bd68671ebb24ec5f54ccddcc993eb\""
   },
   "https://www.mozilla.org/pl/firefox/developer/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"4d8007e07a4202e4ef4b8fde26300bea\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3692e46f2fd286bb8671cff0af7ef30a\""
   },
   "https://www.mozilla.org/pl/firefox/enterprise/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a3207b86a2c183f6f7cf5e7a3e7ab7d7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c288534734e02bf93a7f4db35cfd46d3\""
   },
   "https://www.mozilla.org/pl/firefox/facebookcontainer/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"202f052d131d553871697c7b1e28cecd\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c0f3de00924f53eb59480c375580730e\""
   },
   "https://www.mozilla.org/pl/firefox/features/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"7f16781564a315e16d166e3c20bdeebf\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3de149615695613e0e0aad41152a6c22\""
   },
   "https://www.mozilla.org/pl/firefox/features/adblocker/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"d65f604ecd36f28bb1cef774fdf9f57a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c1a39fb1046b3ddec5d36cffc3231608\""
   },
   "https://www.mozilla.org/pl/firefox/features/block-fingerprinting/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"7cc9b55450e28ccdb6a7c6e68659bcf7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5f798e9570e10e3abb908ceb888d53fb\""
   },
   "https://www.mozilla.org/pl/firefox/features/bookmarks/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"fd099874c015edecaf365a334d5c860f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9eee8794eaef3bcdea593772fc8cd966\""
   },
   "https://www.mozilla.org/pl/firefox/features/fast/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"2ac746fa1905f0ead31949244ca1c3b9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"df97d32207fc1d83c04d014b89f8800a\""
   },
   "https://www.mozilla.org/pl/firefox/features/independent/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"409524fcac2c1290b264b905568d4e6c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4f90bf6fb06d39493313322d9922aa19\""
   },
   "https://www.mozilla.org/pl/firefox/features/memory/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"cf4372415e9dd379160e3b4617a5aa89\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"de05f5443151280a55e0faec3be15d61\""
   },
   "https://www.mozilla.org/pl/firefox/features/password-manager/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"f2b06b137c24c767b73f911629948f2a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e600fd0ca8c432b042aa9eaaedda0a82\""
   },
   "https://www.mozilla.org/pl/firefox/features/picture-in-picture/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ac47750f6251b5ff124f69097181c280\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"7b018e1715e69b62cc154bc4d30b876d\""
   },
   "https://www.mozilla.org/pl/firefox/features/private-browsing/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"bb4c9923b618d4263b3670bdf045082f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4f6e066862c80acb3eed471daa6aa88c\""
   },
   "https://www.mozilla.org/pl/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.669286+00:00",
@@ -35231,8 +35239,8 @@
     "etag": "\"465e6c7e9bec6eef60ef7d32d4b39b6b\""
   },
   "https://www.mozilla.org/pl/firefox/features/translate/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"a277dc234c4c4aca4e97dab840456cbd\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a3f7623e9fab39f81c64652fd6b51866\""
   },
   "https://www.mozilla.org/pl/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.446597+00:00",
@@ -35243,8 +35251,8 @@
     "etag": "\"ccc41a10df814464af27894038b1b31a\""
   },
   "https://www.mozilla.org/pl/firefox/linux/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"af231b409ce4d140da0c8b41a4428620\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b949a367b6a4ef043b44159aefbdf241\""
   },
   "https://www.mozilla.org/pl/firefox/lockwise/": {
     "date": "2021-11-22T18:04:38.630716+00:00",
@@ -35255,8 +35263,8 @@
     "etag": "\"8ae485dd5641b2abe7a2972b31928a01\""
   },
   "https://www.mozilla.org/pl/firefox/mac/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"0451d8197cf6a52db6fc153fd98798ff\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d9db5c16593d16e510e5ec2af9e8814d\""
   },
   "https://www.mozilla.org/pl/firefox/mobile-promo/": {
     "date": "2020-07-01T21:07:24.150654+00:00",
@@ -35267,28 +35275,28 @@
     "etag": "\"b4d17e617fedf8967cbd6efce9027f75\""
   },
   "https://www.mozilla.org/pl/firefox/mobile/get-app/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"ab11de7886795125de99d8ebe3ab1a21\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ab25619fd314312724c116b01b61d0fb\""
   },
   "https://www.mozilla.org/pl/firefox/new/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"49ca642a6631ec0607c7116fe4ca6b25\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"337737917a04cc605a09c689be2bd68c\""
   },
   "https://www.mozilla.org/pl/firefox/products/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"b90737647ac12b33c060939c2e4e9f11\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b3d903a53c16380113e52f14bc7444c4\""
   },
   "https://www.mozilla.org/pl/firefox/set-as-default/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"5eff0eb4f2485fc67420b4d72e4772f2\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"71e9d53431a494fd8a89d3ae195c3550\""
   },
   "https://www.mozilla.org/pl/firefox/switch/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"c984b7120d1d5614e456282778fff935\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6435e65c3d2f4e74a1e5639fcda155c6\""
   },
   "https://www.mozilla.org/pl/firefox/sync/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"d89fa6e012a11ee355aa963712edfbb9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6433a91975fa23fbcd6a883c7182b626\""
   },
   "https://www.mozilla.org/pl/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -35315,8 +35323,8 @@
     "etag": "\"989fd4b90a9ebb6105c0236507d47745\""
   },
   "https://www.mozilla.org/pl/firefox/windows/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"092d17d76fbfc9e234722745130aee38\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"cce9a236bfa4896539b6f4173f268a1c\""
   },
   "https://www.mozilla.org/pl/foundation/annualreport/2011/": {
     "date": "2021-11-22T18:04:38.630716+00:00",
@@ -35339,104 +35347,104 @@
     "etag": "\"f9e7dbe5b20b4c1f25081edf439782f5\""
   },
   "https://www.mozilla.org/pl/mission/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"f383fbd47c58476dc66fb36d73a74a11\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4af964ebcbd515e8deb59703e32746da\""
   },
   "https://www.mozilla.org/pl/newsletter/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"4637080e17845eb010772b7d144ed011\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"28cd01043d0532a5015b347a210943b4\""
   },
   "https://www.mozilla.org/pl/newsletter/developer/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"f5e508a7e99ebe7f34b2419fee61b75e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f7b9a09d99163457cc3daa41120ae688\""
   },
   "https://www.mozilla.org/pl/newsletter/firefox/": {
-    "date": "2023-06-24T18:04:51.400987+00:00",
-    "etag": "\"0a3aad469c21ac296dbdbcdf5fdc3ca3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"50a29f20b5d63d15ef328c493f4a7185\""
   },
   "https://www.mozilla.org/pl/newsletter/knowledge-is-power/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"09041f38117047f4be903873c077114d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"afb6b0cae71a81f3519ac80c9b7fecba\""
   },
   "https://www.mozilla.org/pl/newsletter/mozilla/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"0dbf6aba41d6a8e7d9233ddbd9d96842\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"835a609289c0a3cf30d894f5fb2bdede\""
   },
   "https://www.mozilla.org/pl/newsletter/newsletter-strings.json": {
     "date": "2023-04-30T12:04:36.217451+00:00",
     "etag": "\"65897000a625874cdd80923cef1029f7\""
   },
   "https://www.mozilla.org/pl/newsletter/security-and-privacy/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"9572d0c2e3c2db54a87082150adafbed\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a23f6745a760e27fd755edf103fc6a87\""
   },
   "https://www.mozilla.org/pl/plugincheck/": {
     "date": "2018-08-15T03:28:56.817554+00:00",
     "etag": "\"19473c34d6ece4d7e411d5080c8238e4\""
   },
   "https://www.mozilla.org/pl/privacy/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"3a5b522cbb563e73340b05981e7d0b0c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a9757bd83e5c7bb8c4d99851edaa9972\""
   },
   "https://www.mozilla.org/pl/privacy/faq/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"1fa5bd7835d00f4a4c7b98cfb59b0243\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6a8efc40641542df2b977b947bf26a20\""
   },
   "https://www.mozilla.org/pl/privacy/firefox-focus/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"a0b0010086fe1e3e7f2bc2c5d1fedfa6\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"4bf2fd1043fdc7d7d3ee5a9255008b69\""
   },
   "https://www.mozilla.org/pl/privacy/firefox-monitor/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"b99bb84bb925f40849df928938d32b19\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c447c85d7bd6f881eb5bbd6079e4faa6\""
   },
   "https://www.mozilla.org/pl/privacy/firefox-os/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
     "etag": "\"2441bfe6e256a87056b6202fbef7df12\""
   },
   "https://www.mozilla.org/pl/privacy/firefox/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"8f8a0cc0564b0d91c9ee9a9e02b4cc4b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"f1bb26381b719c8a83ea68f8dd1fb41e\""
   },
   "https://www.mozilla.org/pl/privacy/mdn-plus/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"fd29131cb337e36fcdb98dc62640908a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fbee9ae5e49a9fd79751cb423651a79e\""
   },
   "https://www.mozilla.org/pl/privacy/principles/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"e1529678eeeb473ee40f5348d6db2729\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"426a6576271cb0422a8058ac43b39995\""
   },
   "https://www.mozilla.org/pl/privacy/subscription-services/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"07ee6335069b9c24d0312cac64b56281\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"bca28f3ed00115b868c7a19ffcdc6da2\""
   },
   "https://www.mozilla.org/pl/privacy/websites/": {
-    "date": "2023-06-26T18:04:36.694556+00:00",
-    "etag": "\"adff56ed1009e4e077942881e4f0a40c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"bb56f47ed89783cb6e1b9666f846570e\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"1362dd9afa21e5d3e755b941d7f22732\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"070d999bdc79a5064b76ed38b46f338d\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/do-you-need-a-vpn-at-home-here-are-5-reasons-you-might/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"4c6272a31ac305d39fb077f6b0b30401\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"dc7a2ddb5020c7adc99235565171f28a\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/how-your-location-is-tracked-and-how-you-can-limit-sharing-it/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"5671e3ccc6c79413760a7ee18ed32051\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"abbd7bd03698046731157ec2bec8d11a\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/the-difference-between-a-vpn-and-a-web-proxy/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"afb459d91eb25039c33ba60f945225c8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"88a0880bae549a0e66faf9dbdf38c751\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/what-is-a-vpn/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"05206e5918655cf9e0c3e36b3e4088e9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b38782ad5ce2c1396d5e5c6751bf3189\""
   },
   "https://www.mozilla.org/pl/products/vpn/resource-center/what-is-an-ip-address/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"25a529602a2afe6a11ac0f953a6357fc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c980e3537d10050a0680dd835f43afe9\""
   },
   "https://www.mozilla.org/pl/technology/": {
     "date": "2018-08-15T18:00:20.931424+00:00",
@@ -35881,8 +35889,8 @@
     "etag": "\"54709f06bcc8483852264b5c1a7bb446\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/mozilla/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"aca97b67c47510a6157dd20164def0f8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"016ca04a5ecc7bb44ce3ebe453b06eb3\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/newsletter-strings.json": {
     "date": "2023-04-20T18:00:58.426017+00:00",
@@ -35941,8 +35949,8 @@
     "etag": "\"9182bd6bb22f8c9af7c196b7f752f274\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"3c91a1cdf5c64c2815003fe4c59769b7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"ae3ede66e78168f27fc3e4ead7d390a1\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/desktop/linux/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -35969,8 +35977,8 @@
     "etag": "\"175300d547af6ef07715f7ea81c901c0\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"80e538b73354b6ede19beaeccdb6ff0b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"6a809e6185ad834256311519440d3647\""
   },
   "https://www.mozilla.org/pt-BR/products/vpn/mobile/ios/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -36037,8 +36045,8 @@
     "etag": "\"606ea515d489abe410a48a83f75bd2f9\""
   },
   "https://www.mozilla.org/pt-PT/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"db86bed788617340bd4fb9a53825a5cd\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"2004ec561ed8ff8de2ed9b092d6c5207\""
   },
   "https://www.mozilla.org/pt-PT/about/": {
     "date": "2023-06-24T18:04:51.400987+00:00",
@@ -36419,8 +36427,8 @@
     "etag": "\"ebd126725071a20907f6c33618fb614a\""
   },
   "https://www.mozilla.org/rm/about/manifesto/": {
-    "date": "2023-06-21T18:04:30.953541+00:00",
-    "etag": "\"cdcc42bdadc5620eec21479114cab6a8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1d4690223216ed0fafafd30828dc5adb\""
   },
   "https://www.mozilla.org/rm/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -37555,20 +37563,20 @@
     "etag": "\"b8967a09aa1a7cfb116561b507485fc1\""
   },
   "https://www.mozilla.org/ru/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"4a11edd00cdb6665e13cca48f79e7632\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b158b522b4cee9eb43e6f5bb1cc56e63\""
   },
   "https://www.mozilla.org/ru/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"efdd757b88283d9e48af813ad9633ad3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5f1754c59bb100eacf91669506e3e246\""
   },
   "https://www.mozilla.org/ru/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"59d8a77751ca0ec3e62445c6bd2237ec\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"d80879db01c3b02e1c6728c9964aa66c\""
   },
   "https://www.mozilla.org/ru/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"0ecedf8e0c5274c93a0006dd1d9de13d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"adc9befbdda4573a5c08664183c096b7\""
   },
   "https://www.mozilla.org/ru/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -37579,20 +37587,20 @@
     "etag": "\"743953c71d246bd5a3af4f6080bc8845\""
   },
   "https://www.mozilla.org/ru/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"91f0aae85bbc310677a3e2c617371583\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5d86b06be8053b201a5015183be781e3\""
   },
   "https://www.mozilla.org/ru/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"64f8dda9be2c453540800315b907748c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"51881f4b318f37e5684a6393760c45cb\""
   },
   "https://www.mozilla.org/ru/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"5b64eca77d7edc120be459866e368cba\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"cc92ad5e126b43c03a3509d7856e3fa6\""
   },
   "https://www.mozilla.org/ru/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"38c3fee328d944218da1cf6de637a589\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1d4790220ae4f6da46b29ea212caf45f\""
   },
   "https://www.mozilla.org/ru/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -37883,8 +37891,8 @@
     "etag": "\"330630bc11590456f6f3a9b47b07c60d\""
   },
   "https://www.mozilla.org/sk/about/manifesto/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"d4d9288eac51f4922cbf2cc2669dd9c9\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"285377da85d5ef99b053d45e4e13a262\""
   },
   "https://www.mozilla.org/sk/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -39071,8 +39079,8 @@
     "etag": "\"8b5c8a8221602c4988d1bdc7fa5dbd39\""
   },
   "https://www.mozilla.org/sq/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"ec6005947fef13feebd814241faa8f9c\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1aef09ddfb065d4266a76243b0e25b09\""
   },
   "https://www.mozilla.org/sq/about/": {
     "date": "2023-06-26T12:05:30.665685+00:00",
@@ -39585,8 +39593,8 @@
     "etag": "\"d3e77761eef0f5ddf11849f29b694f74\""
   },
   "https://www.mozilla.org/sr/": {
-    "date": "2023-06-23T00:14:40.602816+00:00",
-    "etag": "\"091a720838dcc3b0e4564c5bd7b6cf22\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"800efa728763aa36118aba437bbe7330\""
   },
   "https://www.mozilla.org/sr/about/": {
     "date": "2023-06-23T12:05:27.330262+00:00",
@@ -39621,8 +39629,8 @@
     "etag": "\"3354864b42da553506e3e32236b7c9a9\""
   },
   "https://www.mozilla.org/sr/about/manifesto/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"a4acff283ac13a90a75d32890a2aad88\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"0055ff0c59c6a22be85fbce92e6f201a\""
   },
   "https://www.mozilla.org/sr/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -40465,20 +40473,20 @@
     "etag": "\"fae14c6242d3319fdb713dcb97017bc8\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"2ec5482740953e2f06e12c129b7fc39a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fd2bae82a7ec03ebf08aaa51577abd7e\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/linux/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"518b2de096229fa2cd984cc8ef28de9b\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a80f99cee27a39de918579b370f6007c\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/mac/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
     "etag": "\"b2d6d349a8841a6a26e435a6644f7e24\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/desktop/windows/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"72283a0ed30d2a1197c9d141618f09a8\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9eb388e7826a8f4ab26430b5b60a5ac8\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -40489,12 +40497,12 @@
     "etag": "\"00a48d897f9c7db8a75f1e950747a98e\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/mobile/": {
-    "date": "2023-06-09T18:04:48.151907+00:00",
-    "etag": "\"55e4e1a367e5cbb89d0e42d8a55a4dad\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"c200b1ee4dcf834b4dc1af4d47025ead\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"9cfd840df4cb0b7fea8902ed0fe3cc05\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"84db32149fca7a3012efbda3b9d80de6\""
   },
   "https://www.mozilla.org/sv-SE/products/vpn/mobile/ios/": {
     "date": "2023-06-09T18:04:48.151907+00:00",
@@ -41725,8 +41733,8 @@
     "etag": "\"2b6884254d56eaced745800ed7e456f4\""
   },
   "https://www.mozilla.org/uk/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"eacd77be82a4fe04e86d4ec05c10e648\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"9162ffe9d763d799242871843c90b621\""
   },
   "https://www.mozilla.org/uk/about/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -41757,8 +41765,8 @@
     "etag": "\"6fa732b25d96cc869637ac68466168e0\""
   },
   "https://www.mozilla.org/uk/about/manifesto/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"3ff64d35d45acb2b5280b1e4c5fdec5f\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5e25a6b66fae88cb8e899ee12a4d63c0\""
   },
   "https://www.mozilla.org/uk/about/manifesto/details/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -42095,16 +42103,16 @@
     "etag": "\"0f449b04eb27f6e37e16328327423d77\""
   },
   "https://www.mozilla.org/uk/newsletter/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"be827e5f5383548db9049d229a7fa7e7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"8b14479df087a275b6def960611eab57\""
   },
   "https://www.mozilla.org/uk/newsletter/developer/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
     "etag": "\"58246d8bb607c8059378610d7eb01981\""
   },
   "https://www.mozilla.org/uk/newsletter/firefox/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"8302ec5998105da43bcfb1e2980cc1bb\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"1951496393a4ab6a157bb2add5bf7615\""
   },
   "https://www.mozilla.org/uk/newsletter/knowledge-is-power/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -42783,8 +42791,8 @@
     "etag": "\"7fb0653944548ea8d93abfc16095181c\""
   },
   "https://www.mozilla.org/vi/mission/": {
-    "date": "2023-06-20T12:05:10.321979+00:00",
-    "etag": "\"dc29f291df2b1204d542036c86514180\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"07fbe8ecb9df72eee6071a07ba7a372e\""
   },
   "https://www.mozilla.org/vi/newsletter/": {
     "date": "2023-06-23T12:05:27.330262+00:00",
@@ -42863,20 +42871,20 @@
     "etag": "\"554faad35c3f2223426992be16240f5f\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"9f9c15c29e2456d2f0ae9cf331190b61\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e3933e361e58cc6909bbb6bff40e2deb\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"8fe376d491b1bdce1fafc9574d8728dc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"285e9725ffbddabe33b24fa18fa64a9f\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"5d7215e67cde39dd00abf2e845e5fd9d\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"333e2784a42ded3fe4c3935ac03bf230\""
   },
   "https://www.mozilla.org/vi/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"a62789d9d4bb52aafce4a2566e5164db\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a458edecf00645a3ced21a41d7da70d8\""
   },
   "https://www.mozilla.org/vi/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -42887,20 +42895,20 @@
     "etag": "\"1513990193899eb0cd941be3addd057f\""
   },
   "https://www.mozilla.org/vi/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"0ecdefe0361e4317e1fc327e4f7a2e45\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a4863a715f5d76ccc4c8f75df9d1e555\""
   },
   "https://www.mozilla.org/vi/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"70acb7245e8f1577e25d9f4776a21158\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b814f0fa0c730d69b18127eb028a7133\""
   },
   "https://www.mozilla.org/vi/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"a1daed2c5053ce8d3216940dc128b470\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"bbb8caa7e4ddd8c03b7ec74f01d2b270\""
   },
   "https://www.mozilla.org/vi/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"ae14d613ffab994ee9db2cedba8b73d7\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"fa4660e9eb8f59711ec8984d8c696987\""
   },
   "https://www.mozilla.org/vi/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -43381,8 +43389,8 @@
     "etag": "\"980151c7e8f20df8da2922627163ae38\""
   },
   "https://www.mozilla.org/zh-CN/mission/": {
-    "date": "2023-06-25T12:05:03.088751+00:00",
-    "etag": "\"104043dcbf5c409ca499934192c4609e\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a60398581ce2cc6e8fbf059ef25ba4f1\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/": {
     "date": "2023-06-26T12:05:30.665685+00:00",
@@ -43469,20 +43477,20 @@
     "etag": "\"431fc6d9e4fe173a8b637400b8a99243\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"e66bbcdc1a0d630cddbd4484297bfd63\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"cb80a877c14405a674587b6fae621c42\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/linux/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"570bab5edfeeaa6b9c973451b1870b99\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"e26435d0867524123ab147a074ee0d53\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/mac/": {
-    "date": "2023-06-23T18:04:55.449463+00:00",
-    "etag": "\"3ba14ea9ab6deadf20b96784a660be21\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"3025e3f67886fb8aa58a1f6c6447fa30\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/desktop/windows/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"016a861e8f87b23ffe4571c8a7b20593\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a8a55e4d9c4abfd9dc627c08945994f5\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/download/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
@@ -43493,20 +43501,20 @@
     "etag": "\"d10273ff0602cdc95274368a0fe908d8\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/ipad/": {
-    "date": "2023-06-23T12:05:27.330262+00:00",
-    "etag": "\"b88e5cc9d6b9355c399614282d575801\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"80777899d09ccbaa838aea8f10fc26af\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/mobile/": {
-    "date": "2023-06-24T00:13:26.357760+00:00",
-    "etag": "\"d9e9d56985c354ad9b172e45721534e3\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"5a1949057f957dba32314e94edda5371\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/mobile/android/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"8a7aeb6976374783f4e6ecc6fce02997\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"b36e7e9ccef5bcf1a0e1d87fb131b6f8\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/mobile/ios/": {
-    "date": "2023-06-23T06:04:52.308564+00:00",
-    "etag": "\"edbe5d63c03053dabf80edebd07ad7dc\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"a351da93454ffa3fd37360dd66edad6e\""
   },
   "https://www.mozilla.org/zh-CN/products/vpn/more/do-i-need-a-vpn/": {
     "date": "2021-12-13T18:02:50.174127+00:00",
@@ -43939,16 +43947,16 @@
     "etag": "\"7acb95a4da43097e18efcbdf8d1589f3\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/firefox/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"b6cc7208e47c81b8259d9a4ac02b6d6a\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"316baadaae7cbc6b69435485870d4d0c\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/knowledge-is-power/": {
     "date": "2023-06-20T12:05:10.321979+00:00",
     "etag": "\"a97fdb3d2a92505039a6264ab2cc06a5\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/mozilla/": {
-    "date": "2023-06-26T12:05:30.665685+00:00",
-    "etag": "\"8b184a858051dbfe18fc52154e340350\""
+    "date": "2023-06-27T00:12:57.846509+00:00",
+    "etag": "\"38b8a582f94b5d290d9a863c714c29b1\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/newsletter-strings.json": {
     "date": "2023-05-05T18:04:29.501218+00:00",
