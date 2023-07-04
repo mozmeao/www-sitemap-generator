@@ -1181,6 +1181,12 @@
   "/firefox/102.12.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/102.13.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/102.13.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/102.2.0/releasenotes/": [
     "en-US"
   ],
@@ -1589,6 +1595,12 @@
   "/firefox/114.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1605,6 +1617,12 @@
     "en-US"
   ],
   "/firefox/115.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/115.0esr/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.0esr/system-requirements/": [
     "en-US"
   ],
   "/firefox/116.0a1/releasenotes/": [
@@ -4695,6 +4713,12 @@
   "/firefox/android/114.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/115.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/115.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -6269,7 +6293,8 @@
     "th",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/browsers/compare/edge/": [
     "ar",
@@ -6364,7 +6389,8 @@
     "sv-SE",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/browsers/compare/opera/": [
     "ar",
@@ -6410,7 +6436,8 @@
     "sv-SE",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/browsers/compare/safari/": [
     "ar",
@@ -6456,7 +6483,8 @@
     "sv-SE",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/browsers/incognito-browser/": [
     "en-US"
@@ -6801,7 +6829,8 @@
     "sv-SE",
     "uk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/browsers/windows-64-bit/": [
     "ar",
@@ -8144,6 +8173,12 @@
     "en-US"
   ],
   "/firefox/ios/114.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/115.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/115.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/12.0/releasenotes/": [
@@ -10116,6 +10151,7 @@
   "/products/vpn/desktop/": [
     "ar",
     "be",
+    "cy",
     "de",
     "en-GB",
     "en-US",
@@ -10125,6 +10161,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hu",
     "ia",
     "id",
     "it",
@@ -10136,10 +10173,12 @@
     "sk",
     "sv-SE",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/desktop/linux/": [
     "ar",
+    "cy",
     "de",
     "en-GB",
     "en-US",
@@ -10148,6 +10187,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hu",
     "ia",
     "id",
     "it",
@@ -10155,12 +10195,15 @@
     "ms",
     "nl",
     "ru",
+    "sk",
     "sv-SE",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/desktop/mac/": [
     "ar",
+    "cy",
     "de",
     "el",
     "en-GB",
@@ -10169,6 +10212,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hu",
     "ia",
     "id",
     "it",
@@ -10176,12 +10220,15 @@
     "ms",
     "nl",
     "ru",
+    "sk",
     "sv-SE",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/desktop/windows/": [
     "ar",
+    "cy",
     "de",
     "en-GB",
     "en-US",
@@ -10192,8 +10239,10 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hu",
     "ia",
     "id",
+    "it",
     "ja",
     "ms",
     "nl",
@@ -10201,7 +10250,8 @@
     "sk",
     "sv-SE",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/download/": [
     "ar",
@@ -10299,6 +10349,7 @@
   "/products/vpn/ipad/": [
     "ar",
     "cs",
+    "cy",
     "de",
     "en-GB",
     "en-US",
@@ -10306,70 +10357,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
-    "ia",
-    "id",
-    "it",
-    "ja",
-    "ms",
-    "nl",
-    "ru",
-    "vi",
-    "zh-CN"
-  ],
-  "/products/vpn/mobile/": [
-    "ar",
-    "be",
-    "de",
-    "en-GB",
-    "en-US",
-    "es-AR",
-    "es-ES",
-    "fi",
-    "fr",
-    "fy-NL",
-    "hi-IN",
-    "ia",
-    "id",
-    "ja",
-    "ms",
-    "nl",
-    "ru",
-    "sv-SE",
-    "vi",
-    "zh-CN"
-  ],
-  "/products/vpn/mobile/android/": [
-    "ar",
-    "de",
-    "en-GB",
-    "en-US",
-    "es-AR",
-    "es-CL",
-    "es-ES",
-    "fr",
-    "fy-NL",
-    "hi-IN",
-    "ia",
-    "id",
-    "it",
-    "ja",
-    "ms",
-    "nl",
-    "pt-BR",
-    "ru",
-    "sv-SE",
-    "vi",
-    "zh-CN"
-  ],
-  "/products/vpn/mobile/ios/": [
-    "ar",
-    "de",
-    "en-GB",
-    "en-US",
-    "es-AR",
-    "fr",
-    "fy-NL",
-    "hi-IN",
+    "hu",
     "ia",
     "id",
     "it",
@@ -10379,7 +10367,85 @@
     "ru",
     "sk",
     "vi",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
+  ],
+  "/products/vpn/mobile/": [
+    "ar",
+    "be",
+    "cy",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "es-ES",
+    "fi",
+    "fr",
+    "fy-NL",
+    "hi-IN",
+    "hu",
+    "ia",
+    "id",
+    "it",
+    "ja",
+    "ms",
+    "nl",
+    "ru",
+    "sk",
+    "sv-SE",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "/products/vpn/mobile/android/": [
+    "ar",
+    "cy",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "es-CL",
+    "es-ES",
+    "fr",
+    "fy-NL",
+    "hi-IN",
+    "hu",
+    "ia",
+    "id",
+    "it",
+    "ja",
+    "ms",
+    "nl",
+    "pt-BR",
+    "ru",
+    "sk",
+    "sv-SE",
+    "vi",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "/products/vpn/mobile/ios/": [
+    "ar",
+    "cy",
+    "de",
+    "en-GB",
+    "en-US",
+    "es-AR",
+    "fr",
+    "fy-NL",
+    "hi-IN",
+    "hu",
+    "ia",
+    "id",
+    "it",
+    "ja",
+    "ms",
+    "nl",
+    "ru",
+    "sk",
+    "vi",
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/pricing/": [
     "ar",
@@ -14427,6 +14493,15 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-21/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-22/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-23/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-24/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
