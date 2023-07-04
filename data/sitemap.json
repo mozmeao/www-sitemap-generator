@@ -1613,6 +1613,12 @@
   "/firefox/116.0a1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/117.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/117.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -10144,6 +10150,7 @@
     "hi-IN",
     "ia",
     "id",
+    "it",
     "ja",
     "ms",
     "nl",
@@ -10164,6 +10171,7 @@
     "hi-IN",
     "ia",
     "id",
+    "it",
     "ja",
     "ms",
     "nl",
