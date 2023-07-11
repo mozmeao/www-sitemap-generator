@@ -1615,6 +1615,18 @@
   "/firefox/115.0.1esr/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.0.2/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/115.0.2esr/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.0.2esr/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.0/releasenotes/": [
     "en-US"
   ],
@@ -10489,6 +10501,7 @@
     "ja",
     "ms",
     "nl",
+    "pt-BR",
     "ru",
     "sk",
     "sv-SE",
@@ -14554,6 +14567,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-25/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-26/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
