@@ -15677,8 +15677,8 @@
     "etag": "\"890a1915ea90409cf652e259bce9d58b\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2023-07-20T18:04:40.159566+00:00",
-    "etag": "\"3da4c40a1e4be11e5f09cd589d83836e\""
+    "date": "2023-07-21T12:05:02.404372+00:00",
+    "etag": "\"47cec1a2293cb860d6d03eaedbe7db69\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2023-07-20T18:04:40.159566+00:00",
@@ -19949,8 +19949,8 @@
     "etag": "\"4b4702dda1fb8b936ad8177a1c672b25\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2023-07-20T18:04:40.159566+00:00",
-    "etag": "\"02ef91425121dace618b0c5d8209aacc\""
+    "date": "2023-07-21T12:05:02.404372+00:00",
+    "etag": "\"9b90942725ada0fa7f8879d3733499f1\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2023-07-20T18:04:40.159566+00:00",
@@ -20916,6 +20916,10 @@
     "date": "2023-07-20T18:04:40.159566+00:00",
     "etag": "\"c1722259263fba13d76d3c6ec7acc70a\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2023-27/": {
+    "date": "2023-07-21T12:05:02.404372+00:00",
+    "etag": "\"ca5216565ca7bac88b9923d1cf028bc2\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2023-07-20T18:04:40.159566+00:00",
     "etag": "\"4b3c1189ed2ff1b5bfa9bf626f54d2ac\""
@@ -21041,8 +21045,8 @@
     "etag": "\"25641adbcd069bf0f9d8175a9d606109\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2023-07-20T18:04:40.159566+00:00",
-    "etag": "\"73d4ec7d6458bec38efcc46238bf4c22\""
+    "date": "2023-07-21T12:05:02.404372+00:00",
+    "etag": "\"92f9cef3736bb8a812ac95801a030ea9\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2023-07-20T18:04:40.159566+00:00",
