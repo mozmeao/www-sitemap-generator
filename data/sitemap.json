@@ -7541,11 +7541,13 @@
   ],
   "/firefox/features/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
@@ -7607,11 +7609,13 @@
   ],
   "/firefox/features/add-ons/": [
     "cy",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
@@ -7662,50 +7666,59 @@
   ],
   "/firefox/features/bookmarks/": [
     "cy",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/customize/": [
     "cy",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/eyedropper/": [
     "cy",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/fast/": [
     "cy",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/password-manager/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
@@ -7715,10 +7728,12 @@
   ],
   "/firefox/features/pdf-editor/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
     "ka",
+    "pt-BR",
     "zh-CN",
     "zh-TW"
   ],
@@ -7774,15 +7789,18 @@
   ],
   "/firefox/features/pinned-tabs/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/private-browsing/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
@@ -7792,19 +7810,23 @@
   ],
   "/firefox/features/private/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
   "/firefox/features/sync/": [
     "cy",
+    "en-CA",
     "en-US",
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
