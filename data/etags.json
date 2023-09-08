@@ -557,8 +557,8 @@
     "etag": "\"aac4857f1d32109f6315a458b2a7dec8\""
   },
   "https://www.mozilla.org/ar/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"60101b846cbb139c511faebedda21931\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"cb7d3a9d0d9635469bf355e00d2e8182\""
   },
   "https://www.mozilla.org/ar/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -573,8 +573,8 @@
     "etag": "\"469f6fe2d19757170edcbe150c020160\""
   },
   "https://www.mozilla.org/ar/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"83c08fe5355d57278e92fd5ee1d102b6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a31fbfaeb4275decfe455c8716a30045\""
   },
   "https://www.mozilla.org/ar/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.607413+00:00",
@@ -1461,8 +1461,8 @@
     "etag": "\"a6ca9a47d3d21375d07be18908c75b5c\""
   },
   "https://www.mozilla.org/be/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"f95eb4a623e0a970ced849be4b79820b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e51a696af654695ed6e6ed17a83f7cd2\""
   },
   "https://www.mozilla.org/be/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.306765+00:00",
@@ -2752,8 +2752,8 @@
     "etag": "\"2e30c222f0c06386ad9e9df100a7cd18\""
   },
   "https://www.mozilla.org/cak/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"5a999edd8d623228820c40067b74e6e7\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f07d74aa4d24fa378918756f5f7db390\""
   },
   "https://www.mozilla.org/cak/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.904654+00:00",
@@ -3166,8 +3166,8 @@
     "etag": "\"85a1eca7a9754e0444b325e62ee4c577\""
   },
   "https://www.mozilla.org/cs/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"b6e7b8e32908c76e4d5a7b1f4da00d06\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4d564e56cedb250e4959c98a022c4658\""
   },
   "https://www.mozilla.org/cs/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.294633+00:00",
@@ -3660,24 +3660,36 @@
     "etag": "\"d52bd2ae2a6c7fa65b4a75d163c114ff\""
   },
   "https://www.mozilla.org/cy/firefox/features/": {
-    "date": "2023-08-23T12:04:59.510656+00:00",
-    "etag": "\"10ec49fed8ed5695ca15ba44d761a06f\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8bbf9c8a40c44bdfcaeab42a4b370027\""
   },
   "https://www.mozilla.org/cy/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"c296944e72cbfd9e9adc02ac6a2be0ed\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"21f72cccf32211e34f25ca02b40e21a4\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"5a14a0bee3568b23ecd32440de9cf844\""
   },
   "https://www.mozilla.org/cy/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"ea04af05080ff9b90df448ae3659ddc6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8ad25232133df4c9be6885fe9ac94623\""
   },
   "https://www.mozilla.org/cy/firefox/features/bookmarks/": {
-    "date": "2023-08-23T12:04:59.510656+00:00",
-    "etag": "\"83b6b0a9eecf84207597dd0482f5200c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c2053f933b910782ea744d0c403ae19b\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c3d3f8b261648a8a837f6e3044793271\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"172d8c322a197d867fe4c94be12d12c3\""
   },
   "https://www.mozilla.org/cy/firefox/features/fast/": {
-    "date": "2023-08-23T12:04:59.510656+00:00",
-    "etag": "\"d7894d9c29409126c96316374a4b2fcf\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"61e1335483b3e90dfd48b65223f3fa84\""
   },
   "https://www.mozilla.org/cy/firefox/features/independent/": {
     "date": "2023-08-23T12:04:59.510656+00:00",
@@ -3688,28 +3700,40 @@
     "etag": "\"216828dd47280c807ffabdd38410abac\""
   },
   "https://www.mozilla.org/cy/firefox/features/password-manager/": {
-    "date": "2023-08-23T12:04:59.510656+00:00",
-    "etag": "\"753cc6a52729ff5e03746ca861afe229\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"51a7a158a18cb77893b3ce27af85ad95\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c94d35770ce28a2c2a4d3239f237572b\""
   },
   "https://www.mozilla.org/cy/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1c7ee9e7025c0bffa1630772c28f04c5\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8819700ed76d6b30389e77d1824e9751\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f9a7739125d6e1a314fa67fc3eaa0dea\""
   },
   "https://www.mozilla.org/cy/firefox/features/private-browsing/": {
-    "date": "2023-08-23T12:04:59.510656+00:00",
-    "etag": "\"9c26a47c95122f1ed285a0dd55829ae8\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e0f03020506c723a2754285b7a586428\""
+  },
+  "https://www.mozilla.org/cy/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"6e4f0b7a1a490f0d8b7d26528e1be9eb\""
   },
   "https://www.mozilla.org/cy/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:24.295872+00:00",
     "etag": "\"415bda51e531c711273cacb07ebe1798\""
   },
   "https://www.mozilla.org/cy/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:01.377784+00:00",
-    "etag": "\"33c119ef55ab148017c1538e9078e04d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"97b5233d7a68b39dc49bc01767c7e01a\""
   },
   "https://www.mozilla.org/cy/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"30ee67af668e2d3ac52b6020d4ce41bf\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"fcf0654eb375d31cf5eb59086a15a8a6\""
   },
   "https://www.mozilla.org/cy/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.236209+00:00",
@@ -3748,8 +3772,8 @@
     "etag": "\"171f7a6cf217e2c9045febad94e5d603\""
   },
   "https://www.mozilla.org/cy/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"7143d5ceb60aae7c8f5f2319ea92ad63\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"50d5ba72bca5a23dc2f13dd36739f8aa\""
   },
   "https://www.mozilla.org/cy/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -4128,8 +4152,8 @@
     "etag": "\"3f21b9c8ac02ffbf19d05c4300598dd8\""
   },
   "https://www.mozilla.org/da/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d6d28ffe15e5580a27b50db28ff1d410\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8aefc0224cf835d3e716533da9bd1206\""
   },
   "https://www.mozilla.org/da/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.516788+00:00",
@@ -4502,8 +4526,8 @@
     "etag": "\"2c0e16f83f3f0eece1d7ce6c6d30992c\""
   },
   "https://www.mozilla.org/de/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"faaf0a4fa5300303817b8608abc33f84\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3ccd96d353c0763c30283f185a95ed54\""
   },
   "https://www.mozilla.org/de/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -4518,8 +4542,8 @@
     "etag": "\"2fe4018aa9ca54bfa727b9ad5b6a2944\""
   },
   "https://www.mozilla.org/de/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"773bf2aa2209434c73d8e551f83827a8\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f4f97f6de5baca61bbdf18cfb0ac734e\""
   },
   "https://www.mozilla.org/de/firefox/flashback/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -5088,8 +5112,8 @@
     "etag": "\"8412ccef8aaf0003c2906c37471a1206\""
   },
   "https://www.mozilla.org/dsb/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"96862e7de604a13790720b828071fd92\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"38f1ec584f86f160d9838f0e5ed86408\""
   },
   "https://www.mozilla.org/dsb/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.198732+00:00",
@@ -5486,8 +5510,8 @@
     "etag": "\"945f4a463d79796100d9cd4102d1c12c\""
   },
   "https://www.mozilla.org/el/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"7902995a1f280d6a46a8497256723508\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3c706e1ed6d32a338e0ec4a180660729\""
   },
   "https://www.mozilla.org/el/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.834382+00:00",
@@ -5980,8 +6004,8 @@
     "etag": "\"10c0e872499f69f500b22a214b73ddf0\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d9ed478f4a1d8b48f6977bea17186afe\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"003c4b90274799d3f23ae71879ade150\""
   },
   "https://www.mozilla.org/en-CA/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.344818+00:00",
@@ -6490,8 +6514,8 @@
     "etag": "\"81e14f5a2e17da56d5ed6e12a1b9677d\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"205eaf4c8c968b9a49de3dc9316121fb\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7fd82ae2ddf62064b78bfe232c9ee3e0\""
   },
   "https://www.mozilla.org/en-GB/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.040142+00:00",
@@ -7115,68 +7139,72 @@
     "etag": "\"feff5f67ff93f5a630b31e218349afd2\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"5a528b828998bdbd2bed108a1c995e3e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"69e57b5f8df8cca124321a67bf07d8ca\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-dec-2015/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"77d3e059ad1fde0440e76d724631b7cd\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"22056767543aabeaa911d6f97ef64c53\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2016/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"11f8d8998ae1082813cbae925d3eff26\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"581508236ec48939a432e1fe1e2341e2\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2017/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"13b04837f3fa329dc7475465297d4935\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"db5c6a696df155549b3cafcb76c54d4f\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2018/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"26c1b7a5ee1dcb794c4ca464fdaa0f0e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"1b99001d9ec2a4db51554f83052370f8\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2019/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"437d672d15262281b27ef3b15b0dd9e4\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ec0bcdc8915d55eab6f4f1faaa35b7ed\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2020/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"cf33e554805d3d2d58ef93e05923f337\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8e2a013ea412fd45054d1c587af43697\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2021/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"093f99724f2e0eb31d33eaa382b238a8\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8725d0aa548079cca0bc65313db724f1\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2022/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"ce7c74e51319a5d52e1ff2bd307df9c6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b1dfe30e2c5e6be167f55f6d34f448e1\""
+  },
+  "https://www.mozilla.org/en-US/about/policy/transparency/jan-jun-2023/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2535072d09760ec8de7b64694268c808\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2016/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6031acfaa7b16e7169823c0ce45b6ad2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2418f8472b792339b456a72d6c61cafd\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2017/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0c124224ddabcb18da5b10bfb8344108\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"5b2047f6bf9cbc58acd57cfce7a1edb2\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2018/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"111c8f3167bda439564b74fe7ac37cd9\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"fe4c9eef390e37358ed530aee63f6e06\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2019/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"38760a783be2700bb6617bb65c7d9d52\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3d8682e23d88c2b4c23ea9dc1ff39434\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2020/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6b1df6e9920141096cfcd2d88c1ccf63\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0a679a9ffc75756c8c140c6fc7028a03\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2021/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"9560503a255221d596e87039053946b4\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"1cc8872dc77cbcd97186e86f0e157889\""
   },
   "https://www.mozilla.org/en-US/about/policy/transparency/jul-dec-2022/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d76e9d92ccb3b4e675468c0f604539b8\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"26085f9dfed5e71ce4523e72f5267d17\""
   },
   "https://www.mozilla.org/en-US/about/powered-by/": {
     "date": "2018-08-15T03:28:58.385866+00:00",
@@ -14491,36 +14519,36 @@
     "etag": "\"59858438784ea34922598956f6f2f750\""
   },
   "https://www.mozilla.org/en-US/firefox/features/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"4ec1301f0713da0669548012bf95b3b4\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3c7f92f49d72bc4aec40b8ec5a4d19fd\""
   },
   "https://www.mozilla.org/en-US/firefox/features/adblocker/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
     "etag": "\"3fb3713070b1c25c0ea4375019ffb965\""
   },
   "https://www.mozilla.org/en-US/firefox/features/add-ons/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"66c0ad541916028c2fecedea679f6209\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0d6adf4c15b13cbaecae8949f9f9c9d5\""
   },
   "https://www.mozilla.org/en-US/firefox/features/block-fingerprinting/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
     "etag": "\"760bddb0f61949f6793cc9fe7e4b8a56\""
   },
   "https://www.mozilla.org/en-US/firefox/features/bookmarks/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"e3f3b96bb5a4c93564e31fb5729e3568\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"79dac0d06f347cb36fedb20ca23934fc\""
   },
   "https://www.mozilla.org/en-US/firefox/features/customize/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"3017dcecedf84c89a35e18629150114c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"64b33757dffa5f452f702b1bf255df67\""
   },
   "https://www.mozilla.org/en-US/firefox/features/eyedropper/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"675ad0db1de5de61e2895e82fcc8f4d6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"720abc801f3d3b070b947548b3519871\""
   },
   "https://www.mozilla.org/en-US/firefox/features/fast/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"42ba1a5add43ed667257ed1ece5a817a\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ac0b2ab2185e307059cef7699a05da90\""
   },
   "https://www.mozilla.org/en-US/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -14531,28 +14559,28 @@
     "etag": "\"33988e2b891c9b8fe6494c5c497c3e6f\""
   },
   "https://www.mozilla.org/en-US/firefox/features/password-manager/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"c8429e4d3a8cffb5bb15106595b3bacb\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3c58d3666b63e9b38668827bef08e7cd\""
   },
   "https://www.mozilla.org/en-US/firefox/features/pdf-editor/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d231ceca0427b6ac04894ae39e494894\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c038bacd8b19a1f5fc84f427c6203682\""
   },
   "https://www.mozilla.org/en-US/firefox/features/picture-in-picture/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
     "etag": "\"22925e13faed1f2b211de0b2c2ac6f19\""
   },
   "https://www.mozilla.org/en-US/firefox/features/pinned-tabs/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0629a785a6d1dfda9071355e041dbc34\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"fdb0ea88d72be3e8226d8049176d9708\""
   },
   "https://www.mozilla.org/en-US/firefox/features/private-browsing/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"f7ed48207e88e109ee1b8e67a9c963c1\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ea2e3521e9eab36de6d512f8c6502b7e\""
   },
   "https://www.mozilla.org/en-US/firefox/features/private/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"dd3ab92c170631b436ec98f0d0ff1b58\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ebb2b7099d25d972b696c150016d8429\""
   },
   "https://www.mozilla.org/en-US/firefox/features/safebrowser/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -14563,16 +14591,16 @@
     "etag": "\"411c32bbaca8c10e00015c32b588ab43\""
   },
   "https://www.mozilla.org/en-US/firefox/features/sync/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1c285c1bc9bc35fa10f8ae8b259cec42\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f14cb9344f5cd1446fa368cae3d38af4\""
   },
   "https://www.mozilla.org/en-US/firefox/features/tips/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
     "etag": "\"5f27c20ddddd39d20eb858c63ff31b1f\""
   },
   "https://www.mozilla.org/en-US/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"4e8dcd5f459b5e3c1aa4cf6b45f880d1\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2c396df6cbcf0e95bf15f5e7d6d93bfc\""
   },
   "https://www.mozilla.org/en-US/firefox/flashback/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -21791,24 +21819,36 @@
     "etag": "\"a9c351410b58508e36b468b5aac29d8c\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"ee2c13c36536e7cabb3dc13403348a90\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"92f2ede8cbe4c1e37589fa5797212cda\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"cf75114eaefb62fcc2970646da256390\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ce0d6f296979bf9a21a7fbfc63ff8bf9\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7f0ab9db0858796768f87fc06b058310\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"c07dc5a36db5bbe5ee472bb68e252bd2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"76e8dd84315e23d96b00dff088cac4b0\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/bookmarks/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"c93b80c6a2bb497c19a0c7fb8a66c635\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ffaf3aa325086cc1e6521ef19017a9f2\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a40b7be608271ca27b85faff6c11745b\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7ba70d2a21ec81f716ee94aa42257ce9\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/fast/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"e8124c0652fe12ef35f8e4e0fffaf113\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2ba39af196112ef54e8f5e5cad08ec59\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -21819,28 +21859,40 @@
     "etag": "\"bf6af45a3add6cc2ce4e6275252222bb\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/password-manager/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"5c13e29fcecd87f4e27f1af0d45df39d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"40b5bb10696c4e7e0954895918655ff8\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7aae57e9534906dfce3f9761f4c5b765\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"72757ee0c4d8ad78bc66910b2306a196\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"44515063f43ef82562f00bb0b9be64bd\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e0d1f6e3998ddeed99ce7f42d09e6d1a\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/private-browsing/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"e36108530bdb861839a8d1da7cb5c802\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2b401620338d79dc98fe696d89286698\""
+  },
+  "https://www.mozilla.org/es-AR/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"d4128b7f6fd27edca46e757624dab3b6\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.914890+00:00",
     "etag": "\"4dac2b29fa96adeccbb4bc2350906bf1\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:03.913754+00:00",
-    "etag": "\"82514a86f2a2069c6309f941b13b921d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"79172a44012ade00c53d2edafd7608fc\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"de776a5b28b252169f6f2bab6b10a907\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b4ee1f6c1a355d1e59f05297bc1866ea\""
   },
   "https://www.mozilla.org/es-AR/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.748278+00:00",
@@ -21879,8 +21931,8 @@
     "etag": "\"2f798258a87d6aaaae4a3aee43b2f7f4\""
   },
   "https://www.mozilla.org/es-AR/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"e80a1bf0caa81b4bf93e8f7a15385c31\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a6b81213f4c8f4b5d066544f2c5a3284\""
   },
   "https://www.mozilla.org/es-AR/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -22325,8 +22377,8 @@
     "etag": "\"fc61b4895f128017ea05293bec62d632\""
   },
   "https://www.mozilla.org/es-CL/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"88a63ebb172e85fd84b8592aef725e41\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f85dca3218dd7a33fa63be6e2f5471d8\""
   },
   "https://www.mozilla.org/es-CL/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.779364+00:00",
@@ -22879,8 +22931,8 @@
     "etag": "\"b9140c51f5ecac589a79e645290622ad\""
   },
   "https://www.mozilla.org/es-ES/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1a5d5a8564ac344bb0628bcbfb073828\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0fb50cc28f2a9af3017b37936f86c257\""
   },
   "https://www.mozilla.org/es-ES/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.864517+00:00",
@@ -23457,8 +23509,8 @@
     "etag": "\"d48dd64b05d2b45907c795dc3f452f69\""
   },
   "https://www.mozilla.org/es-MX/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"8267e22c70bdaf34dd246470c08b742c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a0b814b920a113851c149bf3293631bd\""
   },
   "https://www.mozilla.org/es-MX/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.790530+00:00",
@@ -24559,8 +24611,8 @@
     "etag": "\"46444d3322e53deb94d4b13169dc3556\""
   },
   "https://www.mozilla.org/fi/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a506ecf5efde06478d8f664b6b31b8aa\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"91604361a18e4761afab87a6cc0d39fe\""
   },
   "https://www.mozilla.org/fi/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.390496+00:00",
@@ -25009,8 +25061,8 @@
     "etag": "\"d1e01decf2f71057a685aa2eed0f1f4c\""
   },
   "https://www.mozilla.org/fr/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"c403f4077ab0d1e9a0779a1e0369f54e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7234170c5601c10d7f01979d579d226d\""
   },
   "https://www.mozilla.org/fr/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -25025,8 +25077,8 @@
     "etag": "\"7becf5fb5de2d17b24e1fa9b73c66a88\""
   },
   "https://www.mozilla.org/fr/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"97813798cffef5fa086b9acc9da0d390\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7c57821c9d5a0dd64767c4f8316bf926\""
   },
   "https://www.mozilla.org/fr/firefox/flashback/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -25635,8 +25687,8 @@
     "etag": "\"5e7a395764024dacf042a03d472957a6\""
   },
   "https://www.mozilla.org/fy-NL/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a3f665cac21fc638f3555b3a53adf856\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"21240d819e46114d5dd61026550ef7d9\""
   },
   "https://www.mozilla.org/fy-NL/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.021385+00:00",
@@ -26227,8 +26279,8 @@
     "etag": "\"2d24b4d7a918f5e86429cd24f3fcf70c\""
   },
   "https://www.mozilla.org/gl/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"2d8f5d7902eccf616571a47b13087199\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0f877b4c169d787ba49052acf0c6f8c9\""
   },
   "https://www.mozilla.org/gl/firefox/installer-help/": {
     "date": "2018-08-15T03:31:15.921343+00:00",
@@ -26375,8 +26427,8 @@
     "etag": "\"273ab0c57497d3b6a9164193ddde8ce8\""
   },
   "https://www.mozilla.org/gn/about/history/": {
-    "date": "2023-09-06T00:10:53.597825+00:00",
-    "etag": "\"cbcb060b17acb62bfebd15679e4d3383\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4e82fbcf6c3170f82a24ebaaf426a183\""
   },
   "https://www.mozilla.org/gn/about/history/details/": {
     "date": "2018-08-15T03:31:01.162649+00:00",
@@ -26399,8 +26451,8 @@
     "etag": "\"44499b8a70d118309fd877ac3eeb7b7a\""
   },
   "https://www.mozilla.org/gn/about/manifesto/details/": {
-    "date": "2023-08-30T00:10:43.087973+00:00",
-    "etag": "\"5814ca67189f3e99a8787e116e1e7b49\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"24c359a86d3e8c5c6bac26d037f36315\""
   },
   "https://www.mozilla.org/gn/about/this-site/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -26427,8 +26479,8 @@
     "etag": "\"19d8def825810047fe707fb2fd89d40d\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/browser-history/": {
-    "date": "2023-09-07T18:04:44.743738+00:00",
-    "etag": "\"241d7fd513d8201d6ceaa39a9549ed76\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"6619676cf6aac70e4108e0570de42e1d\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/chromebook/": {
     "date": "2023-09-05T18:04:41.038493+00:00",
@@ -26443,12 +26495,12 @@
     "etag": "\"585793576ea1ae22d1450fbf5b388770\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/compare/chrome/": {
-    "date": "2023-09-07T18:04:44.743738+00:00",
-    "etag": "\"5214ca7cbe1fdbfee48b8d7adedbc4a2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4716bbe87b6f3e5618a6b0f4bc776067\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/compare/edge/": {
-    "date": "2023-09-07T18:04:44.743738+00:00",
-    "etag": "\"2f734abd4b027c771c49c7556d37fdfb\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b385df5b3b5b7b5d85f58849cd1833ec\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/compare/ie/": {
     "date": "2023-09-07T18:04:44.743738+00:00",
@@ -26575,8 +26627,8 @@
     "etag": "\"24c2b731329b370856027e7fa7786b6d\""
   },
   "https://www.mozilla.org/gn/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"2a732f8ddfbfeab60aa813211160c08d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"40e9d817deeb072c00bfc79a1d90d6d0\""
   },
   "https://www.mozilla.org/gn/firefox/installer-help/": {
     "date": "2018-08-15T03:31:15.870123+00:00",
@@ -26619,24 +26671,24 @@
     "etag": "\"780fe6a261361c6fd02a480d2333149a\""
   },
   "https://www.mozilla.org/gn/firefox/more/misinformation/": {
-    "date": "2023-09-04T16:28:44.422258+00:00",
-    "etag": "\"e48be70871790b806d290484bfe6aa0b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"465d84be17930bd664d1f56bdbfc7bed\""
   },
   "https://www.mozilla.org/gn/firefox/new/": {
     "date": "2023-09-04T16:28:44.422258+00:00",
     "etag": "\"9145181ae7f4b003f1b86dd2beb71cbf\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6598259fd7ea7a84c9cc2f333df6d26f\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3ef0c3b9668be17b52182b20cce33b0d\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/products/": {
-    "date": "2023-09-04T16:28:44.422258+00:00",
-    "etag": "\"194cde8f773e0c4b2206b49e9fe5e8eb\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"cf2277063fca72d37e04fbc9a66de715\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/safe-passwords/": {
-    "date": "2023-09-06T00:10:53.597825+00:00",
-    "etag": "\"031970a5690874b6a48c9867b2cc8d79\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"6bce3650ea8e14c3c86cd4211de6cbcd\""
   },
   "https://www.mozilla.org/gn/firefox/products/": {
     "date": "2023-09-06T18:05:18.484137+00:00",
@@ -26723,16 +26775,16 @@
     "etag": "\"c80b4cad2a739f3118ddd6218db95d32\""
   },
   "https://www.mozilla.org/gn/privacy/faq/": {
-    "date": "2023-09-06T00:10:53.597825+00:00",
-    "etag": "\"5a146b24efba91663ae94dad17c4e2fa\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"570bfdc7e877dd6c3c2ee07ddfa20914\""
   },
   "https://www.mozilla.org/gn/privacy/principles/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"410320b77409b8de711f4fa1956af240\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"af044a05ed8927201978ed6da846a205\""
   },
   "https://www.mozilla.org/gn/privacy/websites/data-preferences/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0e4ffe1d5fe75da790acf98908047e17\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"07218e0d4d307be1b8e3ec9eea6ef4ce\""
   },
   "https://www.mozilla.org/gn/products/vpn/": {
     "date": "2023-09-04T16:28:44.422258+00:00",
@@ -27059,8 +27111,8 @@
     "etag": "\"51e8fee1a33d95b664ac46a8358a8875\""
   },
   "https://www.mozilla.org/he/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"40688d39a8752333fa0186a59b9b4999\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"629fa6314d4750e841b3465f2a122acb\""
   },
   "https://www.mozilla.org/he/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.642977+00:00",
@@ -27349,8 +27401,8 @@
     "etag": "\"731540b345f42d8e6c1716516ac88fda\""
   },
   "https://www.mozilla.org/hi-IN/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0aa74e6abd80d404a2d9bf29107ff6ef\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"98b5b4288697e3abbcde20c14e47a49f\""
   },
   "https://www.mozilla.org/hi-IN/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -27365,8 +27417,8 @@
     "etag": "\"3f5ad93202b0c3e3fdc3b00511029c50\""
   },
   "https://www.mozilla.org/hi-IN/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0a60d749c03d21d489e0f5be13c6fe8b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"956adfcde20464034baff6449d68ef67\""
   },
   "https://www.mozilla.org/hi-IN/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.396658+00:00",
@@ -28039,8 +28091,8 @@
     "etag": "\"0a08e222f9b0163f1033bfab689e2eb7\""
   },
   "https://www.mozilla.org/hsb/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"14be18d35b86df9ef5038c440f8adc44\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"62475f21ce4c99e8391a7618e152fb1c\""
   },
   "https://www.mozilla.org/hsb/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.251329+00:00",
@@ -28387,24 +28439,36 @@
     "etag": "\"c954ee60b0d90843e27e8151740d83d2\""
   },
   "https://www.mozilla.org/hu/firefox/features/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"ab364d077815fc596b5df40b9efe9cb6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b052e08bfd10230916377c86c33afcee\""
   },
   "https://www.mozilla.org/hu/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"acb78df8633d4a4f81476497dad37ae2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"82ab493730dcfd86940b1a062636b3e7\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"d558776d65bfd36986124683b6eaeea5\""
   },
   "https://www.mozilla.org/hu/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"8e14494458e198fade65b891b8c8bab0\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2152aca21931bedbb0ca1615f400618a\""
   },
   "https://www.mozilla.org/hu/firefox/features/bookmarks/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"0607660b33bc6efd5c882c1a982f359c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"bccaaec8aacc7488211fa3f85b69c04b\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"06fbd7c78269c76c7574618f578ac9b7\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"3adcc56246935ee00ce7b7d9259df27c\""
   },
   "https://www.mozilla.org/hu/firefox/features/fast/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"1706500463d33913b16f821d21455078\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"57cbec9a17db4a5732258fc48547f3ad\""
   },
   "https://www.mozilla.org/hu/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -28415,28 +28479,40 @@
     "etag": "\"b77ec1f586e96163dbfd98e232988517\""
   },
   "https://www.mozilla.org/hu/firefox/features/password-manager/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"fa48c3c92b786bfdad5f6f731dff8a8a\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"43b0975d6cc6655a3db9b479ddc4727e\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a2d8b861fb3b2febec0ebe6535784daa\""
   },
   "https://www.mozilla.org/hu/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"fa0ab8140426c02835b0cef88f0db3ae\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2c7c34ba5e60e8f09a6d8b7fd493cdf1\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"bb76bc74217117fdd3192d5a267df2fc\""
   },
   "https://www.mozilla.org/hu/firefox/features/private-browsing/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"b9d33ff46c4e70705c325ab8db9e2aa2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"345e6ebd0aed5b204d30503cea345d02\""
+  },
+  "https://www.mozilla.org/hu/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c3ac6be3ca0b6f40967353e892da92c8\""
   },
   "https://www.mozilla.org/hu/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.545219+00:00",
     "etag": "\"8e4d3eb34d95e78017c159429a445a25\""
   },
   "https://www.mozilla.org/hu/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:03.550206+00:00",
-    "etag": "\"2b866d3759dd97fcf99ca647267d9bf4\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"080e4d12b9c0a97968f7b2daf3bf795b\""
   },
   "https://www.mozilla.org/hu/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d01898fabc07ac1a06b101610fb0497e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e9b095d242523984df8c09c8c8c6977e\""
   },
   "https://www.mozilla.org/hu/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.589758+00:00",
@@ -28475,8 +28551,8 @@
     "etag": "\"d392c8a3d46d02fa62d903fdf396f01e\""
   },
   "https://www.mozilla.org/hu/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"abd02adbe338332dd4b36d57d89fe80e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"88a61c04dabdf75fe9043c3f3d1ff8b3\""
   },
   "https://www.mozilla.org/hu/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -29109,8 +29185,8 @@
     "etag": "\"b36bd08e9bcd2cb8c652bb86afd06532\""
   },
   "https://www.mozilla.org/ia/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6709f19dbb3d8d5b38087c4d585ebd67\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"73c84f33aff403734aada9da571a976a\""
   },
   "https://www.mozilla.org/ia/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.763890+00:00",
@@ -29591,8 +29667,8 @@
     "etag": "\"93c96ec25c1171c9f26b6910169486e7\""
   },
   "https://www.mozilla.org/id/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1b574d3ec8d622bd866895b475a57dbc\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f82b6fa064dd1bba8d31f60f89b6bf54\""
   },
   "https://www.mozilla.org/id/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -29607,8 +29683,8 @@
     "etag": "\"29bcd680a241a3434f7c819de1c0ce9d\""
   },
   "https://www.mozilla.org/id/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"5011ba0463e84f0c9712d0cc6982ae24\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"68be6fd74343e7f4b93583267282111b\""
   },
   "https://www.mozilla.org/id/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.921512+00:00",
@@ -30349,8 +30425,8 @@
     "etag": "\"f01a39332c99a0cc91c13acdfff4f9bd\""
   },
   "https://www.mozilla.org/it/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"fdd63dbf4bea3201a1ef5ce1cf4d23a6\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e6418ef21a89c29ded4f6d298d6d04aa\""
   },
   "https://www.mozilla.org/it/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.450036+00:00",
@@ -30921,8 +30997,8 @@
     "etag": "\"ffbaf2318ceed1a7f6309878bc9f511c\""
   },
   "https://www.mozilla.org/ja/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"5757d0fe3f2adaa3c664227901379e79\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4441212f8423b501b3d1d4dd025e9632\""
   },
   "https://www.mozilla.org/ja/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -30937,8 +31013,8 @@
     "etag": "\"c30663f210f91b8d1344d8e9b969f032\""
   },
   "https://www.mozilla.org/ja/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6f0572aeff1da37255a33dbeeede0919\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4629fd8fd4cc01a85ac5e88755100528\""
   },
   "https://www.mozilla.org/ja/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.639553+00:00",
@@ -31465,24 +31541,36 @@
     "etag": "\"402308f9fa126dd8a0fd30fa14125f5a\""
   },
   "https://www.mozilla.org/ka/firefox/features/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"a5d948771f6d839e8fdb9b95b2e40271\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f9fff5517f42504d2e610b6201c957f4\""
   },
   "https://www.mozilla.org/ka/firefox/features/adblocker/": {
-    "date": "2023-09-01T12:05:48.805069+00:00",
-    "etag": "\"b832be64040db085ec9a2c5e4ba84c4b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2c87c27dacc73f40d75906d5f5895a35\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"7a9612a46ef55b2bc5f2b780151199af\""
   },
   "https://www.mozilla.org/ka/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"7cdc69845b21b56ae87173c883303b43\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"49fb0ab5a25787b5360e1456ee130264\""
   },
   "https://www.mozilla.org/ka/firefox/features/bookmarks/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"3e3517937c2cf4546b756d567007dbc7\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0499271aefe4d1bf07b0f80491391f12\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"862e97374f8332c22b02538532009df7\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a9b140e88b7d3a7dee22eadd6a2cc443\""
   },
   "https://www.mozilla.org/ka/firefox/features/fast/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"a96a906a090d24825ed34b67d384cb50\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b966b463e91b8ec51d1157472e6c3a2e\""
   },
   "https://www.mozilla.org/ka/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -31493,28 +31581,40 @@
     "etag": "\"f749cd7082cc7ed01d1d25b549f26335\""
   },
   "https://www.mozilla.org/ka/firefox/features/password-manager/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"1968008b9787f88dbfce20c3a98ce9a9\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b9e179bb8339c2466349bba96068e22b\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"82eee38d4d831e99ab2ec9b335e8fcb3\""
   },
   "https://www.mozilla.org/ka/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6f0e984e83d2a7551bc1be9d899de0ba\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"5440af97859c6f137782bc8483da168a\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b71f9653820c9b8d6e09028220d644d6\""
   },
   "https://www.mozilla.org/ka/firefox/features/private-browsing/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"8009c7b7cfb9fe0f9715f7ad8aaa5afb\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b5827b468e96a617a269e87b37bb06f5\""
+  },
+  "https://www.mozilla.org/ka/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"84a9646413c19184bae137f315499b55\""
   },
   "https://www.mozilla.org/ka/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:26.761370+00:00",
     "etag": "\"9209c5a96d25ac9f7807c0a319a5cc23\""
   },
   "https://www.mozilla.org/ka/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:03.763908+00:00",
-    "etag": "\"1db9aebadf817ec89ed51c2ae22a7557\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"819be1584aed9aa05cd8fbbdd66ca25f\""
   },
   "https://www.mozilla.org/ka/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1db589925b74d3fab48337432904d14a\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"594ae41f1eb21b3233cc81731ee20cfc\""
   },
   "https://www.mozilla.org/ka/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.438090+00:00",
@@ -31553,8 +31653,8 @@
     "etag": "\"e300b8971e58b0982e53e8d9cc1669d5\""
   },
   "https://www.mozilla.org/ka/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"493199d70f35075334a457c3eb708a4b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"395e5f1153af0e93fe5f7907029afb83\""
   },
   "https://www.mozilla.org/ka/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -31935,8 +32035,8 @@
     "etag": "\"a18232e8f9e064f1735f8ad5d8a6e114\""
   },
   "https://www.mozilla.org/kab/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"2ba65e9e50458c6e013a96b8af359d4c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"040768fa62eee917a166e1b2ba7d297a\""
   },
   "https://www.mozilla.org/kab/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.124397+00:00",
@@ -32529,8 +32629,8 @@
     "etag": "\"4bb81eec1fbbf8d99bf1365a84e0f09f\""
   },
   "https://www.mozilla.org/ko/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"9edd24de54d336c7466280270902ad6d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"31f6571ee6928fd013c0dcf4ab2e9701\""
   },
   "https://www.mozilla.org/ko/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.641855+00:00",
@@ -33841,8 +33941,8 @@
     "etag": "\"30000a6b7c076221f32bf9ebef15870e\""
   },
   "https://www.mozilla.org/ms/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"2c49694ef7a0c363fa5faa0e58b21828\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"583caa5b777e7b91582ea881cbabb516\""
   },
   "https://www.mozilla.org/ms/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -33857,8 +33957,8 @@
     "etag": "\"28cbdde14464c5982c5154fb95361fb1\""
   },
   "https://www.mozilla.org/ms/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"85f2177d00dad6ef772e5dc5bfd6bfbe\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0053e93d00c541d3062a830115ce6e3e\""
   },
   "https://www.mozilla.org/ms/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.122789+00:00",
@@ -34445,8 +34545,8 @@
     "etag": "\"3b3c2474e6f325589872fd7426e2c05b\""
   },
   "https://www.mozilla.org/nb-NO/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"e855286d5f0f54a1bcf3b76788d87ecf\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"0d6c8d6b51bb78aeb0f658819c4d5bf9\""
   },
   "https://www.mozilla.org/nb-NO/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.620531+00:00",
@@ -34867,8 +34967,8 @@
     "etag": "\"512706c2b1d5ff759deff2b28589a23e\""
   },
   "https://www.mozilla.org/nl/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0e664593ba3c485a2ce568fc87b0b41c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"39306f9245f627605285bc91baabc983\""
   },
   "https://www.mozilla.org/nl/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.022834+00:00",
@@ -35353,8 +35453,8 @@
     "etag": "\"20532d4b11b0b7166330a5bd39b4ab5b\""
   },
   "https://www.mozilla.org/nn-NO/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"4d1560ad4ebb1789db990473f5f1c2e3\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"45e4710f6cf25b8c58a60ceb44668503\""
   },
   "https://www.mozilla.org/nn-NO/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.912186+00:00",
@@ -35661,8 +35761,8 @@
     "etag": "\"4ce7fc19efe958be57fa41649786cbde\""
   },
   "https://www.mozilla.org/pa-IN/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"648a405c754ade78766932c804aa02d7\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ae3ff14b3ae2bc177a78ac0de041c01a\""
   },
   "https://www.mozilla.org/pa-IN/firefox/installer-help/": {
     "date": "2018-08-15T03:31:15.760763+00:00",
@@ -35975,8 +36075,8 @@
     "etag": "\"465e6c7e9bec6eef60ef7d32d4b39b6b\""
   },
   "https://www.mozilla.org/pl/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"da8ef17c314cd8931c2f680daab6eb8c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"76b00556e6ed24a9bc82636c20532143\""
   },
   "https://www.mozilla.org/pl/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.446597+00:00",
@@ -36449,8 +36549,8 @@
     "etag": "\"01b537536d1bf1e191752e6ea3783b3a\""
   },
   "https://www.mozilla.org/pt-BR/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a10644b1b467998003c81a1819543bf2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"d7afacf2b3ba14fb30c0f16fc8669f8d\""
   },
   "https://www.mozilla.org/pt-BR/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.571863+00:00",
@@ -37003,8 +37103,8 @@
     "etag": "\"c77abab99ca00c726bd80df26e5443df\""
   },
   "https://www.mozilla.org/pt-PT/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d1d3d4b6a98a89dae97c14e7bccded26\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"60f46768ef487c5a58a5ae34bb23b03e\""
   },
   "https://www.mozilla.org/pt-PT/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.691530+00:00",
@@ -37363,8 +37463,8 @@
     "etag": "\"b6442701c841fa6ad34845932d244fcf\""
   },
   "https://www.mozilla.org/rm/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"00a6efdb6452aee5cab7a55871da993e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"1258ff971165e8357502935d4918d315\""
   },
   "https://www.mozilla.org/rm/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.091585+00:00",
@@ -37749,8 +37849,8 @@
     "etag": "\"e04a39417da4ec92a8f9bc528d03f111\""
   },
   "https://www.mozilla.org/ro/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"1025cf0eac31b2d2941a83e66df96625\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a1508c5ae19a90643719ef8c3f27cc30\""
   },
   "https://www.mozilla.org/ro/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.147080+00:00",
@@ -38159,8 +38259,8 @@
     "etag": "\"d3ff9dbbca9afdf1739cde5fccd9df32\""
   },
   "https://www.mozilla.org/ru/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"268399367e68b7198653a97513489a82\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e27f75bb15db5b04427a2708c1cdc6ca\""
   },
   "https://www.mozilla.org/ru/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.038576+00:00",
@@ -38499,8 +38599,8 @@
     "etag": "\"429cb9baac6474f943b124004a74554a\""
   },
   "https://www.mozilla.org/sco/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"debfae3065c11cd9b30ff8f4a55c6052\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"bafe9934527fd8771f2c873a6dc0dc46\""
   },
   "https://www.mozilla.org/sco/firefox/linux": {
     "date": "2021-12-19T18:02:17.130737+00:00",
@@ -38870,8 +38970,8 @@
     "etag": "\"a2d5cde4bb68e7ba285f9c1d6e9f2663\""
   },
   "https://www.mozilla.org/sk/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"73f07c7c6a0aee8b70b77ebab706e556\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a4c3e2307edccd6c097184c23d262a60\""
   },
   "https://www.mozilla.org/sk/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.844700+00:00",
@@ -39302,8 +39402,8 @@
     "etag": "\"a270afb778e4c5f8e3249649c7b9dd69\""
   },
   "https://www.mozilla.org/skr/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a64c6ebb638a2e4a4c4d24b316d78341\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e9da02d4e438f273d0b93990fb965dbe\""
   },
   "https://www.mozilla.org/skr/firefox/linux/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -39628,8 +39728,8 @@
     "etag": "\"7992d55b023f3ba2c0363e93c1f737d9\""
   },
   "https://www.mozilla.org/sl/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"ea95ee93bde0a27174b0e12f80860531\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"669d96f9ef888ba1b9e89ce66e6fccd0\""
   },
   "https://www.mozilla.org/sl/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.947800+00:00",
@@ -40113,8 +40213,8 @@
     "etag": "\"cd08ca185a9707431703e4ca4239ecbb\""
   },
   "https://www.mozilla.org/sq/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a0d1fc2b5bba00b7658f856f1056acf4\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"27e9d0e66cce093fc2c91d8b80013c72\""
   },
   "https://www.mozilla.org/sq/firefox/installer-help/": {
     "date": "2018-08-15T03:31:20.593316+00:00",
@@ -40639,8 +40739,8 @@
     "etag": "\"86a3aa7a673a1b66e606de33b0abf032\""
   },
   "https://www.mozilla.org/sr/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"b58d0d596b2ee07fcacbbe1ec139d93e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4c3fb767f6167d840c35a255a8995ed2\""
   },
   "https://www.mozilla.org/sr/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.969289+00:00",
@@ -41089,8 +41189,8 @@
     "etag": "\"b1d04cfab23b4d2f4191465ed18f59da\""
   },
   "https://www.mozilla.org/sv-SE/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"0ca4d631a6b95856a4720a1e1ade4b42\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b485ce95da7905b81a3fb7791621795a\""
   },
   "https://www.mozilla.org/sv-SE/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.713332+00:00",
@@ -41863,8 +41963,8 @@
     "etag": "\"b2c7ec96278432c8f249d05f385d4878\""
   },
   "https://www.mozilla.org/th/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"b834f077e585702d6cda9f737957c91d\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"822596780f4939abb8d4c90a9c1c26b3\""
   },
   "https://www.mozilla.org/th/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.249582+00:00",
@@ -42237,8 +42337,8 @@
     "etag": "\"687487f250d46692d6e98abb9836e7f6\""
   },
   "https://www.mozilla.org/tr/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"f5c4db526d0c897f000fc276391f5b05\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"5e1d45a4730c2297b1cca307bed4a1c5\""
   },
   "https://www.mozilla.org/tr/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.093565+00:00",
@@ -42795,8 +42895,8 @@
     "etag": "\"9b4bb3222762ceed5b4a3276436f71f4\""
   },
   "https://www.mozilla.org/uk/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"a37afff5c8150ae815c5912946720b8e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"34692e787922c22cccbd6d9b26a33b5f\""
   },
   "https://www.mozilla.org/uk/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.410603+00:00",
@@ -43167,8 +43267,8 @@
     "etag": "\"01ce1104daea46348c385b79d3870e8a\""
   },
   "https://www.mozilla.org/ur/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6849c4ff35fcf34f997c1f47dd66e965\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e6348679bf7b1ba213aaddafd8ef45d5\""
   },
   "https://www.mozilla.org/ur/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.852681+00:00",
@@ -43531,8 +43631,8 @@
     "etag": "\"eb6648b708546a83a26086dd8cf2a77e\""
   },
   "https://www.mozilla.org/vi/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"216358f703df8debf7be01aeb29a782c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"bd88c9056dec3837213118f14c500c14\""
   },
   "https://www.mozilla.org/vi/firefox/installer-help/": {
     "date": "2018-08-15T03:31:19.326755+00:00",
@@ -44073,24 +44173,36 @@
     "etag": "\"8f64ccab7131dd19f7bcdce961bc5ab4\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"f405818478d39b9b5c3ff9c89395b9b5\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a721c9c95cd2326d96283b7ce04ab806\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"8db4a80099b401a2b88e60b0b5ede1b2\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"cc8dd711e832f182973da74a447649e9\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f96380940197bce4f8028cb376d3a98c\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"dd147b9fe7f3eb900fe40926c53fc726\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"71a06d9c54490790373caa79cbcb0c81\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/bookmarks/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"66e0108648470ef35c18307c8807c27b\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"1b47ddf73011272a53ce07f3e702c12c\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"b8c5f4b24ff15a3a71f280f4cef1582e\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"cacfd2b9812c828fff5aef9ce81a5a9e\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/fast/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"c67c3922f50836f4d56dc4e13fbb8f9f\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c8583d0ed38a9a16697446061978a48c\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -44101,28 +44213,40 @@
     "etag": "\"d1c5da71d754386126dd47ece2193aa9\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/password-manager/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"1e68ec6302bf43c8fc9a199eb2652c55\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"04dfaadc89be757ad5bad5b2027b6ae6\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"f3ef0323f83a20638babbb30e8354fd5\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"98bf88df602b80a212d98bd9f6846657\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8c62c6b441c2d20710817b67585aa398\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"05b1e76cbad3d74c5b7b08e7e5daaf23\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/private-browsing/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"440f9b88ad12a57a0711eba70fc42b6a\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"de09887bc105921aec9373eb1169f644\""
+  },
+  "https://www.mozilla.org/zh-CN/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"2e4c3495d62910cb1d6acb118ce09787\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.127428+00:00",
     "etag": "\"23148e1d3005306f6b241e5fd84cb164\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:02.209994+00:00",
-    "etag": "\"515ba08ab9ffe297498489fb45235379\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e67fef9014fe029acf3e7500ba4a83a2\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"f91cff6bb4ba51d9ae33ef4163ec51f0\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"408da9a33d30869517bfddac8f1e5982\""
   },
   "https://www.mozilla.org/zh-CN/firefox/installer-help/": {
     "date": "2018-08-15T03:31:18.955894+00:00",
@@ -44161,8 +44285,8 @@
     "etag": "\"5a54e82860b214ad0a5d70233d844e9b\""
   },
   "https://www.mozilla.org/zh-CN/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"5fceb600484c086f9d345c2f138f9930\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"36fb4b6ab630520017d89eae9ac36873\""
   },
   "https://www.mozilla.org/zh-CN/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -44639,24 +44763,36 @@
     "etag": "\"c2aa28be90b10c8ad916868b92678f19\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"c697e2cd60e73fa030d600bcb25f824c\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"448f5531bdf239b57c96eb99da31c243\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"be922f58ab7370fd8737d840dfe81dde\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"4f8c81bb9b33f90ea215dc9a3dace820\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/add-ons/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"a486db1fa12705ce5ee3b0eef93e7702\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"d568b2d29094a1f336022755118746d7\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c50318d3d8158528e503c2db49352dfb\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/bookmarks/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"fb2ffc2ad52b90b8855a76d24c61dab7\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"874f2618ea4531bb1d567ca2305a96c3\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/customize/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ea3128d9f377d095411c1130234f67b7\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/eyedropper/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"ab767afadaa1b3b9da4e85d5c7ebb641\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/fast/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"d08d0e8ec9f0c1c8f5401e7e92aa775e\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"d1b8366b686034f02dca3962f6185ad5\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -44667,28 +44803,40 @@
     "etag": "\"f0140f9aeaf50c58d5897a20f3452048\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/password-manager/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"bebe40da7b3bda4795c3d9ffd5903f29\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"9673aaa5599d013e22d91d0ff2b0307b\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/pdf-editor/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"98c1a01191c11fc75120508c48b2ff4b\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"4f2309c080084bf492484df831420c25\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c3ec04e4149f3f72fd0d4ad44157a061\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/pinned-tabs/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"51d7452ff12e0d3b2e8eebf48f67a9ed\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/private-browsing/": {
-    "date": "2023-08-17T12:05:16.151703+00:00",
-    "etag": "\"03b86ab4524dc063e8b644cd35052282\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"8c068bb240377b36c8b7d755ac0e5072\""
+  },
+  "https://www.mozilla.org/zh-TW/firefox/features/private/": {
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"c70cdc0ae41463e75327389f46e620b3\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/send-tabs/": {
     "date": "2018-08-15T03:30:25.380697+00:00",
     "etag": "\"08cef87e704a6a70b4cba739aa873253\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/sync/": {
-    "date": "2018-08-15T03:32:02.461161+00:00",
-    "etag": "\"826506d8e091a4153e99a3a52efa23cc\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"e4633c9ec2c86adc94ba42f547aaffb3\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/translate/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"67916fee66d2ed1644969c46a8092381\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"5266cdeb3331f7388d2b4d8d6f3d16b5\""
   },
   "https://www.mozilla.org/zh-TW/firefox/installer-help/": {
     "date": "2018-08-15T03:31:15.707000+00:00",
@@ -44727,8 +44875,8 @@
     "etag": "\"69ebfc4193ce0cd8ca7425e417bb33d3\""
   },
   "https://www.mozilla.org/zh-TW/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"319c85d105a6e9c24ce1e9a70d594c19\""
+    "date": "2023-09-08T00:10:43.110237+00:00",
+    "etag": "\"be338267383d60bc144ac5e6b4813b26\""
   },
   "https://www.mozilla.org/zh-TW/firefox/more/misinformation/": {
     "date": "2023-09-02T18:04:53.235025+00:00",

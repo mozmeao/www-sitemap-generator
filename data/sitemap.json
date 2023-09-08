@@ -801,6 +801,9 @@
   "/about/policy/transparency/jan-jun-2022/": [
     "en-US"
   ],
+  "/about/policy/transparency/jan-jun-2023/": [
+    "en-US"
+  ],
   "/about/policy/transparency/jul-dec-2016/": [
     "en-US"
   ],
@@ -7537,7 +7540,13 @@
     "zh-TW"
   ],
   "/firefox/features/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/adblocker/": [
     "ar",
@@ -7596,7 +7605,13 @@
     "zh-TW"
   ],
   "/firefox/features/add-ons/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/block-fingerprinting/": [
     "ar",
@@ -7644,22 +7659,58 @@
     "zh-TW"
   ],
   "/firefox/features/bookmarks/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/customize/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/eyedropper/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/fast/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/password-manager/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/pdf-editor/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/picture-in-picture/": [
     "ar",
@@ -7712,16 +7763,40 @@
     "zh-TW"
   ],
   "/firefox/features/pinned-tabs/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/private-browsing/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/private/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/sync/": [
-    "en-US"
+    "cy",
+    "en-US",
+    "es-AR",
+    "hu",
+    "ka",
+    "zh-CN",
+    "zh-TW"
   ],
   "/firefox/features/tips/": [
     "en-US"
