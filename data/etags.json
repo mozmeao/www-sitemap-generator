@@ -3672,8 +3672,8 @@
     "etag": "\"ad9a5d60ef177d88fcb388c7766192ac\""
   },
   "https://www.mozilla.org/cy/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"ae98f4f6ec752b7cadac6eace68431fa\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"5a4f2d0d998e80579b1b98cb49927185\""
   },
   "https://www.mozilla.org/cy/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T00:10:43.110237+00:00",
@@ -5470,12 +5470,16 @@
     "etag": "\"953633a1090ed04525ea56462d04d7be\""
   },
   "https://www.mozilla.org/el/firefox/features/adblocker/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"54d18eecdac4d0bcdf1ccb70ed36e1c4\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"920c5c4c245c3f692d719b5eaa8add76\""
+  },
+  "https://www.mozilla.org/el/firefox/features/add-ons/": {
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"fe86cf3458ac8be522afacefd44f2e2d\""
   },
   "https://www.mozilla.org/el/firefox/features/block-fingerprinting/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"6f585b8b0062afd82f25fe8e2a057a64\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"e107fefad8921baecea3a36ff653892b\""
   },
   "https://www.mozilla.org/el/firefox/features/bookmarks/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -5498,8 +5502,8 @@
     "etag": "\"25ab6863cc0a9e0e6ccfd4f58aaf5e24\""
   },
   "https://www.mozilla.org/el/firefox/features/picture-in-picture/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"b7777be2ab86802b2af830aace7af68a\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"e13c5d653c849bd8e044b020b8f8a3a3\""
   },
   "https://www.mozilla.org/el/firefox/features/private-browsing/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
@@ -5514,8 +5518,8 @@
     "etag": "\"945f4a463d79796100d9cd4102d1c12c\""
   },
   "https://www.mozilla.org/el/firefox/features/translate/": {
-    "date": "2023-09-08T00:10:43.110237+00:00",
-    "etag": "\"3c706e1ed6d32a338e0ec4a180660729\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"de6883a013e78dbf434ac7b184700aa3\""
   },
   "https://www.mozilla.org/el/firefox/installer-help/": {
     "date": "2018-08-15T03:31:16.834382+00:00",
@@ -5550,8 +5554,8 @@
     "etag": "\"1a60f141d5fdfa5ad80e8d66286f5e1d\""
   },
   "https://www.mozilla.org/el/firefox/more/": {
-    "date": "2023-08-29T18:04:53.030913+00:00",
-    "etag": "\"7514a4faa7976c0a205b6c0e60206c51\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"ac3c34b71b8cf41aaa557a6ce8401196\""
   },
   "https://www.mozilla.org/el/firefox/more/misinformation/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -5968,8 +5972,8 @@
     "etag": "\"f6544bf46e83b51a585cd510b6fecf5b\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"cdf0a78c11a76b1ff54fbfe2f6e7f8d8\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"154d5c72a6763ce87111aec04b338b40\""
   },
   "https://www.mozilla.org/en-CA/firefox/features/block-fingerprinting/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -6506,8 +6510,8 @@
     "etag": "\"073ff18bc251c29503bd94edbd4bcb92\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"bc4206c7532c16c1d93de68fcd643f7e\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"3686cb93392938edf67704315c8f9ca1\""
   },
   "https://www.mozilla.org/en-GB/firefox/features/block-fingerprinting/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -14571,8 +14575,8 @@
     "etag": "\"3fb3713070b1c25c0ea4375019ffb965\""
   },
   "https://www.mozilla.org/en-US/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"1621c19cea751028e8c1388fe3a60046\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"7c16c4a3daac43b2e9c93a5e085ee0fb\""
   },
   "https://www.mozilla.org/en-US/firefox/features/block-fingerprinting/": {
     "date": "2023-08-29T18:04:53.030913+00:00",
@@ -21919,8 +21923,8 @@
     "etag": "\"ce0d6f296979bf9a21a7fbfc63ff8bf9\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"46dd6b4923064d9228f02003f5e30c87\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"4c9e754bf8d9549bae346561caf41ee2\""
   },
   "https://www.mozilla.org/es-AR/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T00:10:43.110237+00:00",
@@ -28539,8 +28543,8 @@
     "etag": "\"8fe445697f9bc6d775413d982f7ebe4f\""
   },
   "https://www.mozilla.org/hu/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"420953394c3390d9df0c14a455da2936\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"ef08443b52cd2034d2c0ed218e56df5a\""
   },
   "https://www.mozilla.org/hu/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T00:10:43.110237+00:00",
@@ -31641,8 +31645,8 @@
     "etag": "\"2c87c27dacc73f40d75906d5f5895a35\""
   },
   "https://www.mozilla.org/ka/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"2cb728a4aa0fe7275e297963a43ce139\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"2c7d7afe8a01392915c9defe1eb3fbef\""
   },
   "https://www.mozilla.org/ka/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T00:10:43.110237+00:00",
@@ -39034,8 +39038,8 @@
     "etag": "\"6153bfb14e2b5ef11571ed1b42799b2f\""
   },
   "https://www.mozilla.org/sk/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"8056f7a8b3d2dede6908a2ff89356d67\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"408ebd3e355dc2d0169eb4a37b7ac76b\""
   },
   "https://www.mozilla.org/sk/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T18:05:16.923448+00:00",
@@ -44309,8 +44313,8 @@
     "etag": "\"a4fcae62c9ba591c1b3bcd85021b81b9\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/add-ons/": {
-    "date": "2023-09-09T06:04:30.850599+00:00",
-    "etag": "\"9eb0b6e823ae5017a5e7e13637f28924\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"3aa0f004202ed706aa8e32ccb5c69bc4\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/block-fingerprinting/": {
     "date": "2023-09-09T06:04:30.850599+00:00",
@@ -44899,8 +44903,8 @@
     "etag": "\"4f8c81bb9b33f90ea215dc9a3dace820\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/add-ons/": {
-    "date": "2023-09-08T18:05:16.923448+00:00",
-    "etag": "\"2c5f2c716fd808498b83014609c87b5f\""
+    "date": "2023-09-09T18:05:00.277568+00:00",
+    "etag": "\"61e94f5a43448f837880c7838b2aad33\""
   },
   "https://www.mozilla.org/zh-TW/firefox/features/block-fingerprinting/": {
     "date": "2023-09-08T00:10:43.110237+00:00",
