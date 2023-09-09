@@ -7723,6 +7723,7 @@
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
@@ -7734,6 +7735,7 @@
     "hu",
     "ka",
     "pt-BR",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
@@ -7805,6 +7807,7 @@
     "es-AR",
     "hu",
     "ka",
+    "sk",
     "zh-CN",
     "zh-TW"
   ],
@@ -9994,6 +9997,7 @@
     "cy",
     "de",
     "el",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10026,6 +10030,7 @@
     "cs",
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10059,6 +10064,7 @@
     "cy",
     "de",
     "el",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10089,6 +10095,7 @@
     "cs",
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10262,6 +10269,7 @@
     "cs",
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10293,6 +10301,7 @@
     "cs",
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10326,6 +10335,7 @@
     "cy",
     "de",
     "el",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10357,6 +10367,7 @@
     "cs",
     "cy",
     "de",
+    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
@@ -10429,17 +10440,7 @@
     "zh-TW"
   ],
   "/products/vpn/resource-center/": [
-    "de",
-    "en-US",
-    "es-ES",
-    "fr",
-    "it",
-    "ja",
-    "nl",
-    "pl",
-    "pt-BR",
-    "ru",
-    "zh-CN"
+    "en-US"
   ],
   "/products/vpn/resource-center/5-reasons-you-should-use-a-vpn/": [
     "en-US"
@@ -10457,6 +10458,21 @@
     "ru",
     "zh-CN"
   ],
+  "/products/vpn/resource-center/gaming-with-a-vpn-from-mozilla/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/get-a-private-vpn-with-mozilla-vpn/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/get-an-open-source-vpn-with-mozilla-vpn/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/hiding-your-ip-address-with-mozilla-vpn/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/how-to-browse-anonymously-with-a-vpn/": [
+    "en-US"
+  ],
   "/products/vpn/resource-center/how-your-location-is-tracked-and-how-you-can-limit-sharing-it/": [
     "de",
     "en-US",
@@ -10470,6 +10486,18 @@
     "ru",
     "zh-CN"
   ],
+  "/products/vpn/resource-center/no-Logging-vpn-from-mozilla/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/reasons-why-mozilla-vpn-is-a-secure-vpn/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/relax-at-home-with-a-vpn-from-mozilla/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/risks-of-using-a-free-vpn/": [
+    "en-US"
+  ],
   "/products/vpn/resource-center/the-difference-between-a-vpn-and-a-web-proxy/": [
     "de",
     "en-US",
@@ -10482,6 +10510,12 @@
     "pt-BR",
     "ru",
     "zh-CN"
+  ],
+  "/products/vpn/resource-center/vpn-servers-around-the-world/": [
+    "en-US"
+  ],
+  "/products/vpn/resource-center/what-does-a-vpn-do/": [
+    "en-US"
   ],
   "/products/vpn/resource-center/what-is-a-vpn/": [
     "de",
@@ -10508,6 +10542,9 @@
     "pt-BR",
     "ru",
     "zh-CN"
+  ],
+  "/products/vpn/resource-center/work-with-a-vpn-from-mozilla/": [
+    "en-US"
   ],
   "/rise25/": [
     "en-US"
