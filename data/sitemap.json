@@ -1208,6 +1208,12 @@
   "/firefox/102.15.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/102.15.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/102.15.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/102.2.0/releasenotes/": [
     "en-US"
   ],
@@ -1700,6 +1706,12 @@
   "/firefox/115.2.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.2.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.2.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/116.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1734,6 +1746,12 @@
     "en-US"
   ],
   "/firefox/116.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/117.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/117.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/117.0/releasenotes/": [
@@ -7622,6 +7640,7 @@
     "es-AR",
     "fy-NL",
     "hu",
+    "ia",
     "ka",
     "nl",
     "sk",
@@ -7685,6 +7704,7 @@
     "es-CL",
     "fy-NL",
     "hu",
+    "ia",
     "ka",
     "nl",
     "pt-BR",
