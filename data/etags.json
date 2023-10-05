@@ -461,8 +461,8 @@
     "etag": "\"3601ef041ea4d8a0bdedf1e49adaa963\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"b9eaceff1b5771b65c46eec3d8e32a78\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"a24ec75992f6ddab9cc880c5c5022a72\""
   },
   "https://www.mozilla.org/ar/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -733,8 +733,8 @@
     "etag": "\"bc4e422ab9fb722c77cf6defa3d39493\""
   },
   "https://www.mozilla.org/ar/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e30489c6a04ac068dbfc31231683087e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"99ffe5076bd48b90544055755ccc8325\""
   },
   "https://www.mozilla.org/ar/newsletter/mozilla/": {
     "date": "2023-10-01T12:05:06.485556+00:00",
@@ -1369,8 +1369,8 @@
     "etag": "\"662a14094f4d24f2b2103738e55d45e1\""
   },
   "https://www.mozilla.org/be/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"a45f8620db7f5d215ab2abaa501a904d\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"02b9bba23c7d96ff909651159b726659\""
   },
   "https://www.mozilla.org/be/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -2266,28 +2266,32 @@
     "etag": "\"4f85e118f66a69a351ad038feb6822d8\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/": {
-    "date": "2023-10-02T18:04:58.040949+00:00",
-    "etag": "\"61f63757e03e4f6f2950d75a70aef53d\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"1b39bacf2c279b45f52947b4f22e7db3\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/brave/": {
-    "date": "2023-10-02T12:05:49.568166+00:00",
-    "etag": "\"fbeb5110d5c033853878f128ffeef402\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"4dd5e2467b02eeef1874720a1b3921d7\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/chrome/": {
-    "date": "2023-10-02T12:05:49.568166+00:00",
-    "etag": "\"1443aeff72305219f3db167c4518448e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"4a268d76936a7e3f600a86be52188b2e\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/edge/": {
-    "date": "2023-10-02T12:05:49.568166+00:00",
-    "etag": "\"2e300eea93dd1ec463a19b162ddd292e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"863c361613672486831afa981138b76b\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/ie/": {
-    "date": "2023-10-02T12:05:49.568166+00:00",
-    "etag": "\"7997bdb53c2eb35cfe42b3bcd0753f71\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"6fd9211a84ae01edb674fb1d72c02259\""
   },
   "https://www.mozilla.org/bs/firefox/browsers/compare/opera/": {
-    "date": "2023-10-03T12:05:22.259515+00:00",
-    "etag": "\"4f087cd17828762ff3c0f61daba4dbea\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"d0feb48185da23ff388b76d00e1b4fc7\""
+  },
+  "https://www.mozilla.org/bs/firefox/browsers/compare/safari/": {
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"d20ec7cc52fdab8583de9faf371c9396\""
   },
   "https://www.mozilla.org/bs/firefox/channel/android/": {
     "date": "2023-10-02T12:05:49.568166+00:00",
@@ -2696,8 +2700,8 @@
     "etag": "\"07f4253b49756916d1e5a079a982a951\""
   },
   "https://www.mozilla.org/cak/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"26d6e906d67b8a519207cb6477a5cfea\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"01ba2fe2fd59e0ee83b763750031bbec\""
   },
   "https://www.mozilla.org/cak/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -3090,8 +3094,8 @@
     "etag": "\"66f219402b8d6c7153204f666f0f172b\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/compare/safari/": {
-    "date": "2023-09-30T00:10:30.014960+00:00",
-    "etag": "\"b2180a9c658746e9944f664674140557\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"6e8b0f6b7692390a5bc4930f427c5112\""
   },
   "https://www.mozilla.org/cs/firefox/browsers/mobile/": {
     "date": "2023-09-30T00:10:30.014960+00:00",
@@ -3406,8 +3410,8 @@
     "etag": "\"f094d74664a366d22d029944233815c3\""
   },
   "https://www.mozilla.org/cs/newsletter/monitor-waitlist/": {
-    "date": "2023-09-30T00:10:30.014960+00:00",
-    "etag": "\"de686e0c1b155960c0c198f9cd6f2467\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"554681b4d488979f47acd20a93af34ce\""
   },
   "https://www.mozilla.org/cs/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -3656,8 +3660,8 @@
     "etag": "\"e5c93807f58785e5898364fba5d3c58c\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"6654a183f992eb114c17486badc8e1a3\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"bd8f3b97de6827d0ab3bac88e3ec7422\""
   },
   "https://www.mozilla.org/cy/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -3964,8 +3968,8 @@
     "etag": "\"881d50024a8ed81dc7fa3ee9f321f36c\""
   },
   "https://www.mozilla.org/cy/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"2c2a33f8eef49db25e1fa86949ba5a99\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"cb0d6f874a51a9eb4e07a20b421f7633\""
   },
   "https://www.mozilla.org/cy/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -4486,8 +4490,8 @@
     "etag": "\"713f78f72ff5d6a862c45c57a1547860\""
   },
   "https://www.mozilla.org/de/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"03c3561efb97e6892a709acc5473ecff\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"9c527f143b6a08bc5ad44fdbf01b2df6\""
   },
   "https://www.mozilla.org/de/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -4826,8 +4830,8 @@
     "etag": "\"391306c86760484bdeceddd0f773bcb6\""
   },
   "https://www.mozilla.org/de/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"2212307803b28182b7607d711f0a54cb\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"41847785deb663e3c22d8ff4a2c9d67a\""
   },
   "https://www.mozilla.org/de/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -5490,8 +5494,8 @@
     "etag": "\"a0f1bde0fee436d3c0eadce3e120c5fc\""
   },
   "https://www.mozilla.org/el/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"9147d40e5378858a1084d045a89e1657\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"89bbff520632c196b59f1528277edd17\""
   },
   "https://www.mozilla.org/el/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -5746,8 +5750,8 @@
     "etag": "\"30cd8605e87bb151897b397bb886c501\""
   },
   "https://www.mozilla.org/el/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"126f78f1393bfe985a7ec21ed17f2c44\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"301d10eded7bea61b72b626dfa9b0f31\""
   },
   "https://www.mozilla.org/el/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -5984,8 +5988,8 @@
     "etag": "\"2abb91dc4faa6c7e9735359be7783166\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e1174a7320bcf986255d5e9dd7b3dff0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"937c2764aaa754fe7a000a6dcc16d483\""
   },
   "https://www.mozilla.org/en-CA/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -6292,8 +6296,8 @@
     "etag": "\"d0c973e7b0b6ca3962df5da5cc513337\""
   },
   "https://www.mozilla.org/en-CA/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"62b56ce8226f6aad0c7307ba95a096ec\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"f0ff619f138759d65df8a9b4d37a3f81\""
   },
   "https://www.mozilla.org/en-CA/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -6522,8 +6526,8 @@
     "etag": "\"a7b92151453c0a3a3e076333be363958\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"c6c90f4879168ed1852d1956e95f5d82\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"1db69862dec06de2228576267b429f47\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -6830,8 +6834,8 @@
     "etag": "\"886ddd4a28921ed83aba26b2c6f7135b\""
   },
   "https://www.mozilla.org/en-GB/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"9e35ff163ece52d8684d6f93486f7f94\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"ee7db59c48bed9e8d2c0cafff6419550\""
   },
   "https://www.mozilla.org/en-GB/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -7078,8 +7082,8 @@
     "etag": "\"c391a444acbde9dbc2f4f4e32bbbee84\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/policy/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e219fea1ed45ac43daac3f22068f7c9b\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"c9d07e8f94310521e9c802621fde90f4\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/security-group/membership/": {
     "date": "2023-10-03T00:10:53.031036+00:00",
@@ -8919,8 +8923,8 @@
     "etag": "\"8a32c307d57fc26eec33f792bb8bc372\""
   },
   "https://www.mozilla.org/en-US/firefox/119.0beta/releasenotes/": {
-    "date": "2023-09-30T00:10:30.014960+00:00",
-    "etag": "\"87bd34ec789c95f2fd4ef0f897822f93\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"f3e95b7557feaf381cfa26bbb9ee71e5\""
   },
   "https://www.mozilla.org/en-US/firefox/119.0beta/system-requirements/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -14659,8 +14663,8 @@
     "etag": "\"776d5b95d0c49233ddab82731649b1e8\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"31fd4cbdb0b4d3b349ca00eac647ae92\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"9e8dfb1276d91f498f9edaf06336479e\""
   },
   "https://www.mozilla.org/en-US/firefox/browsers/incognito-browser/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -15851,8 +15855,8 @@
     "etag": "\"a93555dd5a9fc31b2b57519c78fad413\""
   },
   "https://www.mozilla.org/en-US/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"8ce5d9394615e96f2b1218953316d6ef\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"a447ca75874a9e96e0d67415917c2dd5\""
   },
   "https://www.mozilla.org/en-US/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -16095,6 +16099,10 @@
   "https://www.mozilla.org/en-US/privacy/websites/data-preferences/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
     "etag": "\"588031266719419d983ccbe7e02225b4\""
+  },
+  "https://www.mozilla.org/en-US/products/mozsocial/invite/": {
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"70f5c334c27316bfff644b0b5c9bfe31\""
   },
   "https://www.mozilla.org/en-US/products/vpn/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -22059,8 +22067,8 @@
     "etag": "\"391b52a2623843568cc1db6ad8e9cfc6\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"86020dd3f381f6011879b879b4a03f08\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"8e1ad9e1f78b0d32e9bf29a05bf2dc50\""
   },
   "https://www.mozilla.org/es-AR/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -22343,8 +22351,8 @@
     "etag": "\"0d4c33735f611caf953f835b43e58958\""
   },
   "https://www.mozilla.org/es-AR/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"203688610d64a561acbd230edb2f528e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"74259e2023ab1803d8b7e87fc7bfcd34\""
   },
   "https://www.mozilla.org/es-AR/newsletter/mozilla/": {
     "date": "2023-10-01T12:05:06.485556+00:00",
@@ -22569,8 +22577,8 @@
     "etag": "\"ecfc53985b9f6c2d49e919a962de295f\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"3422d52b3eb2d631882c1147ad2eb1a0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"531e9d900c775afb27bd6dcecab085b0\""
   },
   "https://www.mozilla.org/es-CL/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -22877,8 +22885,8 @@
     "etag": "\"3d27dfe7788cc2b47e546b175f1257d0\""
   },
   "https://www.mozilla.org/es-CL/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"27234f082129d16bf86fbe979ab54540\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"2685a4966ceb4a72805129bdc3244655\""
   },
   "https://www.mozilla.org/es-CL/newsletter/mozilla/": {
     "date": "2023-10-01T12:05:06.485556+00:00",
@@ -23147,8 +23155,8 @@
     "etag": "\"ff7756961a378e220c7e6c07feff67fc\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"7ef4ff0a5535a5c61e41fd023131b150\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"3e238d90119679689a93e978d38758f5\""
   },
   "https://www.mozilla.org/es-ES/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -23435,8 +23443,8 @@
     "etag": "\"a6d16823327f88fd32d8e105d7223948\""
   },
   "https://www.mozilla.org/es-ES/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"73fef651db222b91bc12c4a7cb743ad0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"7bd19b71579a7ca9181d0107cce78436\""
   },
   "https://www.mozilla.org/es-ES/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -23725,8 +23733,8 @@
     "etag": "\"0856cbfb96d4822db1fba59d8b345235\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"62130325d3104a37b777f78b82b6453b\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"a661ddbc84d3e61f03a417372e1f4f7b\""
   },
   "https://www.mozilla.org/es-MX/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -24835,8 +24843,8 @@
     "etag": "\"26584a2e423ae1b039bb5cca64f76f0a\""
   },
   "https://www.mozilla.org/fi/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"132912157b52e133e0e45da0edfc041a\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"71f9223150dddf71493265f984c44bda\""
   },
   "https://www.mozilla.org/fi/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -25289,8 +25297,8 @@
     "etag": "\"33bcb68ebd2b4fe14c2a89454c1d5a40\""
   },
   "https://www.mozilla.org/fr/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"1e71a466148c349b48b1214201c7486c\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"0bb816d4126339b649b7597698463510\""
   },
   "https://www.mozilla.org/fr/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -25629,8 +25637,8 @@
     "etag": "\"02cfe3e7b47f8816e6c6332b147f0e37\""
   },
   "https://www.mozilla.org/fr/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"c35a6cdb7177a116b46a575111396747\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"f69be66a1c7c477706880590c2021930\""
   },
   "https://www.mozilla.org/fr/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -25931,8 +25939,8 @@
     "etag": "\"d8f1d20f2e447c7383e1e73d05342e49\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"9ccdacf31e0d9186d8363d0c563f7518\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"d896e8ae23051d08800fa2863fb6a026\""
   },
   "https://www.mozilla.org/fy-NL/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -26215,8 +26223,8 @@
     "etag": "\"899ba8b2a63d267fd3c2353d76d8f4b2\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"f9ed3dcbd0a5335c32500fbd5987daf1\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"e70ed9c803f599a6a01f635fd45ccf06\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/mozilla/": {
     "date": "2023-10-03T00:10:53.031036+00:00",
@@ -26579,8 +26587,8 @@
     "etag": "\"c1bf049a1d6ee1a2e85548d7a71729da\""
   },
   "https://www.mozilla.org/gl/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"13d3fe2ae782a231e79e221267fcb778\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"f1270934c886e85adacd55da3a23e572\""
   },
   "https://www.mozilla.org/gl/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -26783,8 +26791,8 @@
     "etag": "\"37d5c1ac649fe4e191c13066d6e89511\""
   },
   "https://www.mozilla.org/gl/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"5dde6e90e7273d77f0bb8e5f1b7dc14c\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"fbff777a3e19e724af49393eb723a6f5\""
   },
   "https://www.mozilla.org/gl/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -26895,8 +26903,8 @@
     "etag": "\"76c030d28cfad342317ac18f5fa1e89d\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"294b320111a3f38f414ab7f4faf4203b\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"1ec0531274a9af8fda7ec3a4821f0927\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -27139,8 +27147,8 @@
     "etag": "\"f3c233c0c6603f84c6aa58ff8c315849\""
   },
   "https://www.mozilla.org/gn/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"b7dd49ba081dbfad5dc8451b6f3b952c\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"a8379aafbafa57f9f9c1e1f9ca56dfe0\""
   },
   "https://www.mozilla.org/gn/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -27689,8 +27697,8 @@
     "etag": "\"5e20db6396605ea801e42872e0bf7273\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"3710e88fc6cb27340b1cbc28a517f74e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"6f83989fcf2cb3c4fec0a2653c7608cc\""
   },
   "https://www.mozilla.org/hi-IN/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -27965,8 +27973,8 @@
     "etag": "\"9853b045c6851b550187b9dc635a3040\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"7fe0ea46fbac5f4ce302e9e324be83ba\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"8e80992210be67bb79a6774376d15bfb\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -28779,8 +28787,8 @@
     "etag": "\"47f298ba8e153c92235dd41967aed8de\""
   },
   "https://www.mozilla.org/hu/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"2912b23cdbb91ea216a24e29a20e5629\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"f85eff5e80f77ad476c5b666ec1b1483\""
   },
   "https://www.mozilla.org/hu/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -29047,8 +29055,8 @@
     "etag": "\"59e9fe82922ce8e6ac709944b6f6a989\""
   },
   "https://www.mozilla.org/hu/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"67b4d0fec5d1beba63f1704bfa200d74\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"52c5038611c0e68df6d745a809d01a19\""
   },
   "https://www.mozilla.org/hu/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -29477,8 +29485,8 @@
     "etag": "\"ab013fba2963d1686121b6f508b6046f\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"a63b51e66c2f9ef1cf6004caf98dcbb3\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"2c75141eb373b1a75d5b0a7bf96766fc\""
   },
   "https://www.mozilla.org/ia/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -29999,8 +30007,8 @@
     "etag": "\"957accfd92f907cc768264d9eec23cd6\""
   },
   "https://www.mozilla.org/id/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"3173d5dabaf84d69581838799fb99d01\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"3a2e0979e5da17cb864a46177a704c1d\""
   },
   "https://www.mozilla.org/id/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -30295,8 +30303,8 @@
     "etag": "\"d2267c2c2fd869b69e8c926835b2c41b\""
   },
   "https://www.mozilla.org/id/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"5d1ce6c0ea9c1fbcb94c159689a35842\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"735c684792a65074401b98ec8473bb05\""
   },
   "https://www.mozilla.org/id/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -30765,8 +30773,8 @@
     "etag": "\"06071f319ff1b23a3b8e15748c1a9e17\""
   },
   "https://www.mozilla.org/it/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"dda1b1c1fdd0c148e040e6b6bffd4eea\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"b2588aa371caa49d5464a9d93db18d94\""
   },
   "https://www.mozilla.org/it/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -31073,8 +31081,8 @@
     "etag": "\"363e91243cc1159f854c8efe4bc5e39e\""
   },
   "https://www.mozilla.org/it/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"9bb4eb5f1b63acfbc440d616307f7e77\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"af5bd5e641b8e98e8fdb9fda1206c869\""
   },
   "https://www.mozilla.org/it/newsletter/mozilla/": {
     "date": "2023-10-03T00:10:53.031036+00:00",
@@ -31385,8 +31393,8 @@
     "etag": "\"ae5edb64ba6a4a9ca75bfaf044837da5\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e02b73c000835375fe66bf02579953d0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"0781fcdbda13e6dabdb72a83b6bff2ce\""
   },
   "https://www.mozilla.org/ja/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -31717,8 +31725,8 @@
     "etag": "\"a0f6a8c4505ea249bbc646ce13662c8d\""
   },
   "https://www.mozilla.org/ja/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"cefc2f09a87467027643dd62e5ed1aa5\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"73156bd70e832b5b67c3708ae5bf1ed5\""
   },
   "https://www.mozilla.org/ja/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -31981,8 +31989,8 @@
     "etag": "\"ed48d4410868092553a865a7d1c9dd02\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"c9e4f0a3e4861f343fe2aeba77eb2d92\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"773be3c1d1b8e916fbdf91ce630deea3\""
   },
   "https://www.mozilla.org/ka/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -32249,8 +32257,8 @@
     "etag": "\"b1893fa924d27925380ec104630911c5\""
   },
   "https://www.mozilla.org/ka/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"0cf3de4845a5bde665a0b78ed75ffcae\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"80fa99f88d1e8c0eae144ad0a4d1e35a\""
   },
   "https://www.mozilla.org/ka/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -33029,8 +33037,8 @@
     "etag": "\"cd0c79876c5379d74f0b9cb24419a7e7\""
   },
   "https://www.mozilla.org/ko/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"66d2833a76b9f375fdc2b00fe80b512e\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"909e939b29e2209ef5859b946e95b604\""
   },
   "https://www.mozilla.org/ko/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -34353,8 +34361,8 @@
     "etag": "\"c6f9a51c55fe8bc84eb567ec5aab69ef\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"fac752066b506f5e2c50a1c3b9afc3ec\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"657986acc97a554a0fa607ce4bad83dd\""
   },
   "https://www.mozilla.org/ms/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -34633,8 +34641,8 @@
     "etag": "\"63df1b6edef005958e77536d17f5c5bd\""
   },
   "https://www.mozilla.org/ms/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"65c1f185e4b029a852948cca3179a5aa\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"9e2700808b75040fae91f5c2e3d8d579\""
   },
   "https://www.mozilla.org/ms/newsletter/mozilla/": {
     "date": "2023-10-04T18:04:36.356215+00:00",
@@ -34993,8 +35001,8 @@
     "etag": "\"7bc3d035584658cc083969f44bd7cabc\""
   },
   "https://www.mozilla.org/nb-NO/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"fe4cce6f621ba14ada8accbb6e449ea2\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"c4605b5f5956b7e291df59c519b55fd5\""
   },
   "https://www.mozilla.org/nb-NO/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -35383,8 +35391,8 @@
     "etag": "\"38adeed988eeefcc58233d3915d783b9\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"502174c623cb9422a30909200bfa0d7a\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"44905d88078fbbb953b007b7761bd927\""
   },
   "https://www.mozilla.org/nl/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -35667,8 +35675,8 @@
     "etag": "\"5c191eb91228b30dce7a0b21ee30ba90\""
   },
   "https://www.mozilla.org/nl/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"cef550af86c73d8ca67c53993b80b6c1\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"fcf271579c0d4af7ecb2377fd1968cad\""
   },
   "https://www.mozilla.org/nl/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -35925,8 +35933,8 @@
     "etag": "\"26e18f676a0cbca4e0626bb91c988321\""
   },
   "https://www.mozilla.org/nn-NO/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"1169b71b213da992d170f74bc2b77738\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"36944e7594b466fd38985d737f51d1aa\""
   },
   "https://www.mozilla.org/nn-NO/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -36759,8 +36767,8 @@
     "etag": "\"e9fdc85ca4e27efdec1a6434ebbe34b2\""
   },
   "https://www.mozilla.org/pl/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"6f8725c7294ef11670d96449abd1a5a2\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"87b34ab6a98bef2b2b8003339ab1329f\""
   },
   "https://www.mozilla.org/pl/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -36989,8 +36997,8 @@
     "etag": "\"b90f5ffa82982f3a7369cb3322e7995e\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"412fc7faaabd66f2593971ea5ccdad1a\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"1b248c7ed45c4893cdd0a9556e1aec74\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -37313,8 +37321,8 @@
     "etag": "\"fcb8b90af7382d148dac47ebf53f4ad3\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"6fba46909f8f0b12d236b03eb3676834\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"8cc2fa11efb705c33fb54d6120a33ec3\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -37571,8 +37579,8 @@
     "etag": "\"a4d21b3aec501bb0d758fcfdc938a870\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"ce0718d8304551d856ecc6fe9c0d4c41\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"3436eea537bb182dc2129bef54d88a01\""
   },
   "https://www.mozilla.org/pt-PT/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -37931,8 +37939,8 @@
     "etag": "\"da94a836a8d79d91ebcd8d888e39dd96\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"a19fbb7b6238df914a991cc1684c87b4\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"d653df444e1a2c4662f160285389ac69\""
   },
   "https://www.mozilla.org/rm/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -38341,8 +38349,8 @@
     "etag": "\"ec1837a219739e14fdacae20e30fe74b\""
   },
   "https://www.mozilla.org/ro/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"5c1dfd447b32f6b88870357582208513\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"150f7eee8ffa9983ed210b8cf45fa88c\""
   },
   "https://www.mozilla.org/ro/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -38723,8 +38731,8 @@
     "etag": "\"23ab139c0e1c0503ebf70045b14ec8aa\""
   },
   "https://www.mozilla.org/ru/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"caafdb20334caf27def2e9a0908aa9f8\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"b66564144e80a956c8eb3a0c24e23f03\""
   },
   "https://www.mozilla.org/ru/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -38991,8 +38999,8 @@
     "etag": "\"9df10811622dd4bbe3f3758946a1a8b6\""
   },
   "https://www.mozilla.org/ru/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"700b91ac0f296a2650d421733d9cd440\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"bfd55dd89450a261278fa6915d6a255f\""
   },
   "https://www.mozilla.org/ru/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -39458,8 +39466,8 @@
     "etag": "\"1cd25005e87e52494b04d205535fff09\""
   },
   "https://www.mozilla.org/sk/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"5c6189e60a6ecdf359f22bc807f09f5d\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"787502e226d0140f144d65ddda81eec6\""
   },
   "https://www.mozilla.org/sk/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -39926,8 +39934,8 @@
     "etag": "\"6167f109b1e5d8373569a3043edc9b4f\""
   },
   "https://www.mozilla.org/skr/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"a447d4e8c5ad7a9a861dd6a352a486ff\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"8922aaf8df6b504d3cc4cc378c8f62f8\""
   },
   "https://www.mozilla.org/skr/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -40745,8 +40753,8 @@
     "etag": "\"3fa8a860365779e530f38a23ca2a977c\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"b4edf37ec4b0cef2849305f8969a6a65\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"ec92c762b62dcc1b1c0a363b3c5d26fd\""
   },
   "https://www.mozilla.org/sq/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -41045,8 +41053,8 @@
     "etag": "\"1b658955670ec77c13d5bf3da4dd1ba4\""
   },
   "https://www.mozilla.org/sq/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e892cbde4d42ea51f2a601d593edd53c\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"21e0e7a1bc7096abf59ef784d5a0b366\""
   },
   "https://www.mozilla.org/sq/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -41271,8 +41279,8 @@
     "etag": "\"6edb8a9e3f16c82573306f5b447a2e8b\""
   },
   "https://www.mozilla.org/sr/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"db34d9c3ae693d4344fd07e9977f3246\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"92dbcbc121f63ec66df9dd8deaf2a433\""
   },
   "https://www.mozilla.org/sr/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -41721,8 +41729,8 @@
     "etag": "\"c2d700d689bc6a5c1fc2acdd892bb8c9\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"97f673ebd05ee468bc510787f6913bf2\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"310d8aaf979d9062b7b3e8d0e76ee7fc\""
   },
   "https://www.mozilla.org/sv-SE/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -42029,8 +42037,8 @@
     "etag": "\"5b21b89d9c9c6a8d42162ed99c2abfac\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"8cf84af736309453354fc32a9b4f6d08\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"159b1d958eaa940dcb0968993170c173\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -43451,8 +43459,8 @@
     "etag": "\"2621aaba7d2deef86a12422b15909776\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"2ae44f3c447032162b08b7d31ffb20ed\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"21d6aa57ae6c56da76ba2116d6b4bfc2\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -43751,8 +43759,8 @@
     "etag": "\"0bf8c0ef8e057f9bc0dca653eb621588\""
   },
   "https://www.mozilla.org/uk/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"e60743bc72c125afe28d9c32d42e69b7\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"7e73261d390233b73b095d4572522857\""
   },
   "https://www.mozilla.org/uk/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -44211,8 +44219,8 @@
     "etag": "\"e473fd05f80fd3530294195961a1bc05\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"172613929d5455d5f167ad3478f2fd27\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"5e10ad11746f0b60c7d72b00d744bb1c\""
   },
   "https://www.mozilla.org/vi/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -44479,8 +44487,8 @@
     "etag": "\"7ea5ac048779f3663b10fe22a664c021\""
   },
   "https://www.mozilla.org/vi/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"6f9955dc72b3d0896ac38f1d479c835a\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"95a569307f65e3d1ccfc19909c0ff7ea\""
   },
   "https://www.mozilla.org/vi/newsletter/mozilla/": {
     "date": "2023-10-03T12:05:22.259515+00:00",
@@ -44825,8 +44833,8 @@
     "etag": "\"9269f42bd64b4be96c7efc38f4b59798\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"8625bc320db057e72412f6e2cc2e71f0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"0afc411c8f1ba3bc81578891391c36eb\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -45109,8 +45117,8 @@
     "etag": "\"429104a9d9117a1bbf152d9a3268f79c\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"7d23d0a36308679bb288bc2f7186eca0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"ff7998456423d6a1d53c9a5c1d47d838\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -45415,8 +45423,8 @@
     "etag": "\"76aa81e3164902596feb48bd82e38750\""
   },
   "https://www.mozilla.org/zh-TW/firefox/browsers/compare/safari/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"9a3e1d4ce13c00670756318ba9d37fa0\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"c79f827bde4d618968221090495d2d50\""
   },
   "https://www.mozilla.org/zh-TW/firefox/browsers/mobile/": {
     "date": "2023-09-28T18:04:52.368438+00:00",
@@ -45711,8 +45719,8 @@
     "etag": "\"ca42c73d5e5bed6756c536e745f901ee\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/monitor-waitlist/": {
-    "date": "2023-09-28T18:04:52.368438+00:00",
-    "etag": "\"b0eecad88dc70186d28571765f613fd3\""
+    "date": "2023-10-05T00:10:48.441920+00:00",
+    "etag": "\"3a6b315fd45852980f3407d4cd82b361\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/mozilla/": {
     "date": "2023-09-28T18:04:52.368438+00:00",

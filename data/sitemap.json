@@ -6656,6 +6656,7 @@
   "/firefox/browsers/compare/safari/": [
     "ar",
     "be",
+    "bs",
     "cak",
     "cs",
     "cy",
@@ -10242,6 +10243,9 @@
     "zh-CN",
     "zh-TW"
   ],
+  "/products/mozsocial/invite/": [
+    "en-US"
+  ],
   "/products/vpn/": [
     "ar",
     "be",
@@ -10842,9 +10846,6 @@
     "zh-CN"
   ],
   "/products/vpn/resource-center/work-with-a-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/rise25/": [
     "en-US"
   ],
   "/santalocator/": [
