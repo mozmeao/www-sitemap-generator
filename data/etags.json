@@ -7471,8 +7471,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2023-10-23T12:05:42.200631+00:00",
-    "etag": "\"5bee0edb8d23b66e35671e8b94afe82b\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"cb79e838fd692eb649ad29bc703232d4\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
@@ -9007,12 +9007,20 @@
     "etag": "\"432ed5ec16600c40a8a9129d5cef2919\""
   },
   "https://www.mozilla.org/en-US/firefox/120.0a1/releasenotes/": {
-    "date": "2023-10-21T12:05:16.612397+00:00",
-    "etag": "\"3e0d3e21cfb50bb957475bb91f92a99f\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"2e190c3f330f9998052436ea5a52681a\""
   },
   "https://www.mozilla.org/en-US/firefox/120.0a1/system-requirements/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
     "etag": "\"d02bf58b5f9dc22b0f523d99737d0906\""
+  },
+  "https://www.mozilla.org/en-US/firefox/121.0a1/releasenotes/": {
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"bfca73c302b3e66fb21c56b192649642\""
+  },
+  "https://www.mozilla.org/en-US/firefox/121.0a1/system-requirements/": {
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"ed108dce770d684b5b5603c1e83b78c8\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
@@ -27019,8 +27027,8 @@
     "etag": "\"017dd40e16e07cab91f8abac326f603f\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/best-browser/": {
-    "date": "2023-10-12T18:05:15.664317+00:00",
-    "etag": "\"2895d46815129f432d67db5511669e41\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"4ccae1eaffc4d6ae36a04aabdffd62cd\""
   },
   "https://www.mozilla.org/gn/firefox/browsers/browser-history/": {
     "date": "2023-10-12T18:05:15.664317+00:00",
@@ -27107,8 +27115,8 @@
     "etag": "\"6c817fd79e10985a41ad944497e9ae50\""
   },
   "https://www.mozilla.org/gn/firefox/developer/": {
-    "date": "2023-10-23T12:05:42.200631+00:00",
-    "etag": "\"523c7c1eafb0b6f8cca4731d5c2c7de3\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"2dee27a400cf11d2c64ac0fdac000eb2\""
   },
   "https://www.mozilla.org/gn/firefox/enterprise/": {
     "date": "2023-10-16T00:11:21.535044+00:00",
@@ -27287,8 +27295,8 @@
     "etag": "\"8158453ad4e868b59dd8e77a752e8090\""
   },
   "https://www.mozilla.org/gn/mission/": {
-    "date": "2023-10-21T00:10:50.176275+00:00",
-    "etag": "\"8ea4dd332345c7761316586b61184f25\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"5ce7203f6baf34be88de887c54120d3b\""
   },
   "https://www.mozilla.org/gn/newsletter/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
@@ -36437,8 +36445,8 @@
     "etag": "\"8b790b1dede2c131603a58e3a44945f3\""
   },
   "https://www.mozilla.org/pa-IN/firefox/": {
-    "date": "2023-10-10T18:04:43.478952+00:00",
-    "etag": "\"09c9ee7129572928e1b0a27f3502cd62\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"13626e52e01455c3fb2142bff986797a\""
   },
   "https://www.mozilla.org/pa-IN/firefox/accounts/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
@@ -36449,8 +36457,8 @@
     "etag": "\"8cc0c3cf17d7859b310ba70f6fb04aab\""
   },
   "https://www.mozilla.org/pa-IN/firefox/browsers/": {
-    "date": "2023-10-10T18:04:43.478952+00:00",
-    "etag": "\"6fc46711926e6be4797783b12ec33b65\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"c53ad1654d3c86eb6207871a9dcd1003\""
   },
   "https://www.mozilla.org/pa-IN/firefox/browsers/mobile/": {
     "date": "2023-07-27T18:04:58.941341+00:00",
@@ -36561,8 +36569,8 @@
     "etag": "\"66ccfae1c81a083b8a9a1555d5e559fb\""
   },
   "https://www.mozilla.org/pa-IN/firefox/new/": {
-    "date": "2023-10-13T00:11:03.037669+00:00",
-    "etag": "\"a1c51f8a46b5ea51c20c5bbb29fdd15a\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"b42fc4717cc7c2cb63c9faac58c1b60b\""
   },
   "https://www.mozilla.org/pa-IN/firefox/products/": {
     "date": "2023-10-10T18:04:43.478952+00:00",
@@ -43811,8 +43819,8 @@
     "etag": "\"c62d469923e128719fe8336b593c27ae\""
   },
   "https://www.mozilla.org/uk/firefox/features/password-manager/": {
-    "date": "2023-10-21T18:04:40.057296+00:00",
-    "etag": "\"238f6ea7a634787382a3cc84040f00fa\""
+    "date": "2023-10-23T18:04:37.647934+00:00",
+    "etag": "\"9c610e7a7ea74c9d6049ac0741ae3417\""
   },
   "https://www.mozilla.org/uk/firefox/features/pdf-editor/": {
     "date": "2023-10-21T18:04:40.057296+00:00",
