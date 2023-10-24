@@ -1724,6 +1724,12 @@
   "/firefox/115.3.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.4.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.4.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/116.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1814,6 +1820,12 @@
   "/firefox/118.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/119.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/119.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/119.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1830,6 +1842,12 @@
     "en-US"
   ],
   "/firefox/120.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/120.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/120.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/121.0a1/releasenotes/": [
@@ -4938,6 +4956,12 @@
   "/firefox/android/118.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/119.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/119.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -7581,6 +7605,7 @@
   "/firefox/faq/": [
     "ar",
     "be",
+    "bs",
     "cak",
     "cs",
     "cy",
@@ -7721,6 +7746,7 @@
   ],
   "/firefox/features/add-ons/": [
     "ar",
+    "bs",
     "cs",
     "cy",
     "de",
@@ -7800,6 +7826,7 @@
   ],
   "/firefox/features/bookmarks/": [
     "ar",
+    "bs",
     "cs",
     "cy",
     "de",
@@ -7833,6 +7860,7 @@
   ],
   "/firefox/features/customize/": [
     "ar",
+    "bs",
     "cs",
     "cy",
     "de",
@@ -7865,6 +7893,7 @@
   ],
   "/firefox/features/eyedropper/": [
     "ar",
+    "bs",
     "cs",
     "cy",
     "de",
@@ -8379,6 +8408,12 @@
     "en-US"
   ],
   "/firefox/ios/118.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/119.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/119.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/12.0/releasenotes/": [
@@ -14899,6 +14934,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-44/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-45/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-46/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
