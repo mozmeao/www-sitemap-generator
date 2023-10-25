@@ -7487,8 +7487,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"74bf7933d84239222b54907ebe6aad12\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"d239f858cec3d12c35d213c382ea2693\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -16437,8 +16437,8 @@
     "etag": "\"ffb52f94568187b8968a8e6e91153644\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b4b1e34e4c539026f8424f7a164a89d0\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"ebfaea0341c9752c31e4f710dcf9c014\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -21705,8 +21705,8 @@
     "etag": "\"fd186e4a2732fa5bae718be00a6f234a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2023-34/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"efb7dedbcf50fa19b7adb7c8fbf6d4c7\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"d8404bb47b46518d5e3d3adcf3f0e488\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2023-35/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -21749,12 +21749,20 @@
     "etag": "\"75de49f68d196a0af6b43a1742d5a62b\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2023-45/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"91355d34df85fca9fd81d290f275a236\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"f018ef9d0b90d6beed3b9ac105bcd076\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2023-46/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6bd279e4f2eb0d19a42c311458df88b5\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"e2874d13fd3c3d3aaf9399451b864b39\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2023-47/": {
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"3db2ae070d0b5dc3fa4a1d4ad29027fa\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2023-48/": {
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"5352c93d7088727581caee30f5329061\""
   },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -21817,8 +21825,8 @@
     "etag": "\"7a70a96a991142276271dffe590ad9ac\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-for-ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"452c153450df61fe72b90432d7be6f49\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"872a65cec2c3996983dc0e3a1d1e8ef6\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-os/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -21881,8 +21889,8 @@
     "etag": "\"8a41ac7dee79dd3eded5e77990ba68e5\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6dbee3b7cf2bbcf443010822cae77c1b\""
+    "date": "2023-10-25T00:11:01.510495+00:00",
+    "etag": "\"a53c15341638ef6d21eb1e2e28ddaa50\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
