@@ -20,16 +20,16 @@
     "etag": "\"b447df85df109106ca912657e4d33b1a\""
   },
   "https://www.mozilla.org/ach/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cb57586087e78ff2661580618114e632\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1bf6a6d9ac29a766e1cf7ab7f87a13bd\""
   },
   "https://www.mozilla.org/ach/firefox/channel/desktop/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
     "etag": "\"8af8a00246ae6fe1092366186293dd9b\""
   },
   "https://www.mozilla.org/ach/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"df69edf4c6c4d7da19cd9ac342bf7d61\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5ce38d7e945268d101dd36dbdaea4908\""
   },
   "https://www.mozilla.org/ach/firefox/installer-help/": {
     "date": "2018-08-15T03:31:17.808673+00:00",
@@ -158,8 +158,8 @@
     "etag": "\"27645efecbda87e6835e63a9b602c960\""
   },
   "https://www.mozilla.org/af/mission/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"9bf57fde83c6c73b3915a869bd0c7f2d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"75439f108e62b973a63bc1323ff8a3e6\""
   },
   "https://www.mozilla.org/af/privacy/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
@@ -190,8 +190,8 @@
     "etag": "\"e0e8b65fcefac0e87246c83747b2c41f\""
   },
   "https://www.mozilla.org/an/about/manifesto/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"50fb396a6edd47a7893427b85e68f93b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ea9018c1675f1777c82b5028d03971c9\""
   },
   "https://www.mozilla.org/an/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -210,8 +210,8 @@
     "etag": "\"2f8f83695978f08d32a3f397b8d8c2b1\""
   },
   "https://www.mozilla.org/an/firefox/channel/android/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"eb5d25b4a4d860a2141e1d0195d4a86b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a3e804380b0d598c61a17a02ab6849c4\""
   },
   "https://www.mozilla.org/an/firefox/channel/desktop/": {
     "date": "2023-10-27T00:11:26.155137+00:00",
@@ -346,12 +346,12 @@
     "etag": "\"7cf2bd745ecb94e892bdf910aa3a73ec\""
   },
   "https://www.mozilla.org/ar/about/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"e258a6bce1adcef441849cdc332f8ed4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e9a52b4e63be1ae0392b7dc9a039900e\""
   },
   "https://www.mozilla.org/ar/about/governance/policies/participation/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e6e8083c3797c7466b5670dcef36ebf3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"189b31c5bf702da1c74499dd4f22e249\""
   },
   "https://www.mozilla.org/ar/about/governance/policies/participation/reporting/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -390,8 +390,8 @@
     "etag": "\"825df2ce4c50069584c99988618d8889\""
   },
   "https://www.mozilla.org/ar/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e0ead9819162dba746e824007d11e1e4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2eb9e9270f8cb711ae268d4001fb105f\""
   },
   "https://www.mozilla.org/ar/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -645,28 +645,28 @@
     "etag": "\"a644e3d1a4130d89807165ab43936d43\""
   },
   "https://www.mozilla.org/ar/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"49b049f1c7f95afe6536708e2ab0e10c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"44083b2b04b4f57d512be56ba17306f0\""
   },
   "https://www.mozilla.org/ar/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"358db478436c069ab01bf7fb1ad2851e\""
   },
   "https://www.mozilla.org/ar/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"778458a5d6a27078db5d07fb3fe30046\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"960421b1cdefe9b97cbe74ab57dca3ed\""
   },
   "https://www.mozilla.org/ar/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"74f436dbbf7cee4c62bbbda43734ab4a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"11773653883e818bc0bdc1298376d0e8\""
   },
   "https://www.mozilla.org/ar/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3d9c330a485330e1a8e2702e0654e732\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c315708be8cfd50e08446f8b7cb62fb1\""
   },
   "https://www.mozilla.org/ar/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c1fa48d5646b2f99d78158946474c8ac\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2ba296110bcfdf89d58be6a25452e505\""
   },
   "https://www.mozilla.org/ar/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -717,8 +717,8 @@
     "etag": "\"e3c15a9c7f616900494dfe0d189fad5a\""
   },
   "https://www.mozilla.org/ar/newsletter/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"29efd010625f4db747a22928504a05fd\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a40318eb7f2849ee05731bd6a25698f4\""
   },
   "https://www.mozilla.org/ar/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -737,8 +737,8 @@
     "etag": "\"9e4bb99b4ec9931f78cbe2ed95d40ef7\""
   },
   "https://www.mozilla.org/ar/newsletter/mozilla/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"d1032c4d413f77fc55162af7b892289b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7d588b8271439e572525aa285e0f7289\""
   },
   "https://www.mozilla.org/ar/newsletter/newsletter-strings.json": {
     "date": "2023-09-25T18:04:38.468159+00:00",
@@ -929,8 +929,8 @@
     "etag": "\"5203b6c05e63f6d35a06da6f3c99c659\""
   },
   "https://www.mozilla.org/ast/firefox/channel/android/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"5807f5ee4127eccbcfb982b36ce3ca22\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1796665b60121563c1b06bf469f17b25\""
   },
   "https://www.mozilla.org/ast/firefox/channel/desktop/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1041,8 +1041,8 @@
     "etag": "\"65da5d38c116a09e36a663662d9ccac4\""
   },
   "https://www.mozilla.org/ast/mission/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"cf25be38defbf15248ccbea81c10dcf8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b1e3ebf48cc6ec0543f2093c983ea32e\""
   },
   "https://www.mozilla.org/ast/plugincheck/": {
     "date": "2018-08-15T03:28:57.116825+00:00",
@@ -1085,16 +1085,16 @@
     "etag": "\"2bd43681945a3cd03beae0754adfc865\""
   },
   "https://www.mozilla.org/az/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cd635f7aea8e856b41b50fcfd4b61036\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d8065900d6f2f5524d282268789e2556\""
   },
   "https://www.mozilla.org/az/firefox/channel/ios/": {
     "date": "2023-10-27T06:05:00.509665+00:00",
     "etag": "\"09d84538823d07a5f43092960f2d5812\""
   },
   "https://www.mozilla.org/az/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"49d82f73a5277bdfb9387e75f3ae2083\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"050e224dd25c4bf1fb31669cf73817ce\""
   },
   "https://www.mozilla.org/az/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1221,8 +1221,8 @@
     "etag": "\"712f6687a237ede5a35db3ee53d36f81\""
   },
   "https://www.mozilla.org/azz/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"ad74de1aedf20424ec22fd772d4ae296\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"42d924ccc8f3bff7971e7f70421afd8d\""
   },
   "https://www.mozilla.org/azz/firefox/channel/ios/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -1285,8 +1285,8 @@
     "etag": "\"0fe82637fb37d9736a796f7ba01e203e\""
   },
   "https://www.mozilla.org/be/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"4a2cd522ea7b8e5eafbe4c387828dbec\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3274482a88df33cbcf7b21278c5df33e\""
   },
   "https://www.mozilla.org/be/about/": {
     "date": "2023-10-29T06:04:14.656016+00:00",
@@ -1301,8 +1301,8 @@
     "etag": "\"c8aded71142767872afd22444b61e34f\""
   },
   "https://www.mozilla.org/be/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"fe5d10dfdc08baf73d503a9b3b2ba6d6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c87890efc95d3e14ad4282a1bdfad908\""
   },
   "https://www.mozilla.org/be/about/legal/terms/staycation/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1421,12 +1421,12 @@
     "etag": "\"5796842951d5bdf402c187f2b693bd93\""
   },
   "https://www.mozilla.org/be/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"b27c8c2694fa40087c473acd7bacb7fe\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0192c33da3d64537875516039c1878cf\""
   },
   "https://www.mozilla.org/be/firefox/developer/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"3ec27a76806c8e86748ad17d08ab2a7c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"df3410aa981762ab532e33520b713799\""
   },
   "https://www.mozilla.org/be/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1537,24 +1537,24 @@
     "etag": "\"7c7f04d4304e378fb4b1c8cfeb8d284f\""
   },
   "https://www.mozilla.org/be/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"849f4bf3395fb969ced58f35e9a1782f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"28b3e159180be0575ab5ca54c92c8fc1\""
   },
   "https://www.mozilla.org/be/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"437046a9969b735c28d35791a5421fc4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"30d2391cfd1ed46ef5c2f22065a08a78\""
   },
   "https://www.mozilla.org/be/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c9c680dd3d4fd648f28d2dcb36bd1f64\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e2ddfaaa586971b8ea305af7aa5de54f\""
   },
   "https://www.mozilla.org/be/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"630eb03ed998a6e3f647c839f5aada9f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e27adbcc36e9157e108beb645995c704\""
   },
   "https://www.mozilla.org/be/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"120e57833f79f25196ec4c3e3daf4d03\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"94f6a2e5ada3dc1731b9153b0ec8f289\""
   },
   "https://www.mozilla.org/be/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1685,8 +1685,8 @@
     "etag": "\"248ec212ce6b23a02a69e7ba4056e22c\""
   },
   "https://www.mozilla.org/bg/about/manifesto/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fa74228a7e61e1c16a945b936da61586\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3359016024b8cc17b81148f1302e08b3\""
   },
   "https://www.mozilla.org/bg/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -1795,8 +1795,8 @@
     "etag": "\"3c074f37e8d155a77afbc80ccc6aab35\""
   },
   "https://www.mozilla.org/bg/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"064e33125e9bcf07ee9a10f916aec8e7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ffc51e4893d7c4a07aeacb4533a5964e\""
   },
   "https://www.mozilla.org/bg/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -2044,8 +2044,8 @@
     "etag": "\"10cec9040c6752021aade97c30a24942\""
   },
   "https://www.mozilla.org/bn/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"698793768b918ed4ed5fe98e9999a392\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2c328a3a87fe6aa2d768ea8474c46214\""
   },
   "https://www.mozilla.org/bn/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -2080,8 +2080,8 @@
     "etag": "\"69ad78793f5b48a71cc58236cd87575d\""
   },
   "https://www.mozilla.org/bn/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"0f4bae14b3e06b13156c946f8acdfe55\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2df5a52ce187858d84f7d32aad6349fc\""
   },
   "https://www.mozilla.org/bn/firefox/channel/ios/": {
     "date": "2023-11-01T06:04:43.812854+00:00",
@@ -2140,8 +2140,8 @@
     "etag": "\"256beb0108bc91a77d966e265b9b9ce0\""
   },
   "https://www.mozilla.org/bn/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"1a423d5478e829c94dfa04a256807c3e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9942c5e0f02ba57d6ccb22ad057e1788\""
   },
   "https://www.mozilla.org/bn/privacy/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
@@ -2350,8 +2350,8 @@
     "etag": "\"7be75280914e356a84f9317db915f8de\""
   },
   "https://www.mozilla.org/bs/firefox/developer/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"2fc6bae135b16999c063291e18371849\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a874e3cc3516d1aa215ec44998e8f540\""
   },
   "https://www.mozilla.org/bs/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -2481,6 +2481,26 @@
     "date": "2023-10-25T18:05:29.775865+00:00",
     "etag": "\"b79a2454287e65fc63d07b68ea1d1347\""
   },
+  "https://www.mozilla.org/bs/firefox/privacy/": {
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b291247d5c521d572f8f634044631fa9\""
+  },
+  "https://www.mozilla.org/bs/firefox/privacy/products/": {
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"68b2c8c363f74d5f0a440fe1c88c6f4d\""
+  },
+  "https://www.mozilla.org/bs/firefox/privacy/safe-passwords/": {
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2124c4cd1c34b684e7728775fcb3c159\""
+  },
+  "https://www.mozilla.org/bs/firefox/products/": {
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"56b77fc66715cfca61a77543f7a2992e\""
+  },
+  "https://www.mozilla.org/bs/firefox/set-as-default/": {
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"894b9967bb963fa6661038dd2790cfe6\""
+  },
   "https://www.mozilla.org/bs/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"d789e06ed01beb3e409988e1999f4733\""
@@ -2550,8 +2570,8 @@
     "etag": "\"89eebbdceaae4f32d659b66d40774280\""
   },
   "https://www.mozilla.org/bs/mission/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"bd5fed137bfbf7bfc174b2a289c2b7d1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e4456c4d70a46e76462a111e202ab65a\""
   },
   "https://www.mozilla.org/bs/plugincheck/": {
     "date": "2018-08-15T03:28:57.419442+00:00",
@@ -2610,8 +2630,8 @@
     "etag": "\"2fc414dda1039119ac0e4515f767807c\""
   },
   "https://www.mozilla.org/ca/firefox/channel/android/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"89c085cbeaa418c2d0ab1c152e4185d0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"358dbed82472db94990485edb8926fc5\""
   },
   "https://www.mozilla.org/ca/firefox/channel/desktop/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -2674,8 +2694,8 @@
     "etag": "\"9de311619570fd65eb13ec35119ec2c4\""
   },
   "https://www.mozilla.org/ca/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3c4d7c6303cf6b42cee4de0986080e5a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8dc8c397eb000bde52b0cc28e8e39412\""
   },
   "https://www.mozilla.org/ca/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -2718,8 +2738,8 @@
     "etag": "\"07c7ef2760ad1f67731e663bf6f5e3bd\""
   },
   "https://www.mozilla.org/cak/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"5650a06eed458de6e247bae4e4c0923b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0d988c9f462e81159eb5727edd32f6fc\""
   },
   "https://www.mozilla.org/cak/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -2944,24 +2964,24 @@
     "etag": "\"f9e79991922c0d9cf43186cab396d95b\""
   },
   "https://www.mozilla.org/cak/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3f39c9fc23e6bf07585983aced543db7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"21ddbdeb0a5dd2e02dbb2d6afb4acb47\""
   },
   "https://www.mozilla.org/cak/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"428466fcfc578c7c22e01f120145ea93\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"67bd176f05c24e29274827776da72260\""
   },
   "https://www.mozilla.org/cak/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"40c812c4373ae592b5e3917b5d8db7c1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"46ee364a69f0e4f8ed0e4a29579466b8\""
   },
   "https://www.mozilla.org/cak/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"81108566dbdc25ce123bbc3b11284d10\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c2f4e06a9b1f2af9c75525e09b3ca8ec\""
   },
   "https://www.mozilla.org/cak/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"047f282870305aaab1ae120265f2fb25\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2715f89d7e30ba18f9ecf0bce8147fcc\""
   },
   "https://www.mozilla.org/cak/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -3116,8 +3136,8 @@
     "etag": "\"743fe0dce2f9adf334c3cc29fbb3d67d\""
   },
   "https://www.mozilla.org/cs/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"1a031685ce94635bdc6b20d3c929d1b7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b7be990ba1254aea203d05d82c5d4f83\""
   },
   "https://www.mozilla.org/cs/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -3242,8 +3262,8 @@
     "etag": "\"06312b9695ddd390c1b9b77ebbf07eea\""
   },
   "https://www.mozilla.org/cs/firefox/channel/ios/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"53756b9c7e0bd16f8af94f494699ac3d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0a4407c06dc3765a029e5eab54decffc\""
   },
   "https://www.mozilla.org/cs/firefox/developer/": {
     "date": "2023-10-29T06:04:14.656016+00:00",
@@ -3386,24 +3406,24 @@
     "etag": "\"2e47f0804414fda3678382142220e0a3\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0a878b9cb076f5425eb452a6004ae2d3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bc628275b313180109a7c0c04fa77659\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b881da4547448f626ca6a5ab311eb6ec\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4d87fba3de30a6e97d4074c78deb4665\""
   },
   "https://www.mozilla.org/cs/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d5ac204366b743fa460000094c4874eb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"79c4549f0f1cc829c3170c75e1c044f7\""
   },
   "https://www.mozilla.org/cs/firefox/products/": {
-    "date": "2023-10-28T00:11:03.732725+00:00",
-    "etag": "\"77ad609e85233f1d47009a416a68e930\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9746dfe49f38ac911fd9a7204f9fec3b\""
   },
   "https://www.mozilla.org/cs/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"183b8f4c0deb1e73c73d10c12b94e0c3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0f9b3ae42794b41b0b528bee988cd5fa\""
   },
   "https://www.mozilla.org/cs/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -3494,8 +3514,8 @@
     "etag": "\"1c198bbd1aacf3fe5d113b6059511160\""
   },
   "https://www.mozilla.org/cs/newsletter/": {
-    "date": "2023-10-26T18:04:58.336225+00:00",
-    "etag": "\"49c238b9e57643dca4abb05e34398651\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9b9f59c4dfc353b20f8ef896c54ba49b\""
   },
   "https://www.mozilla.org/cs/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -3816,8 +3836,8 @@
     "etag": "\"da4dfaebabc168faca7458ed92187bd3\""
   },
   "https://www.mozilla.org/cy/firefox/developer/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"0dab084be1adc28654fb80746c2e6c70\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a5c7c3c2a958b9d0b9b02d6808fd77a5\""
   },
   "https://www.mozilla.org/cy/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -3956,24 +3976,24 @@
     "etag": "\"be3a2780d8a3d99ddee1a7bee69e07bc\""
   },
   "https://www.mozilla.org/cy/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"220e119791a95553fa760c54b0d76dcb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3bafb19bae50a97064518d4d291214c4\""
   },
   "https://www.mozilla.org/cy/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9d353bb7926976be1ddf018b216b763c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e21cdb5af7ea4ac0792503a6b505accd\""
   },
   "https://www.mozilla.org/cy/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"49cd2298a79d1789b289dcc0e98befcb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"07ef5d4114c0dacce8aa3f90f0d53148\""
   },
   "https://www.mozilla.org/cy/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e9a0bd442780e57da07e2f15cc8a20fd\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0d8a091f7bff0f6dd8238be872d9c0d7\""
   },
   "https://www.mozilla.org/cy/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"18dcaf700d8a1779ac684bf5ee1e795d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"707556842850988136c5690a614872d7\""
   },
   "https://www.mozilla.org/cy/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -4196,12 +4216,12 @@
     "etag": "\"73d626ef015558aaf26f09f7ca017927\""
   },
   "https://www.mozilla.org/da/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"a3cc2373b9a6c4ff09556856da0cb819\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"25abada3e3840c6083c200e8a9d41df7\""
   },
   "https://www.mozilla.org/da/about/": {
-    "date": "2023-10-27T00:11:26.155137+00:00",
-    "etag": "\"f25d8e9103e2fc6cd6cb5c53858382ed\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c68088e1cbd432a35e8c56c6f8d502be\""
   },
   "https://www.mozilla.org/da/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -4260,16 +4280,16 @@
     "etag": "\"9927835f1c474510d6d1e21ee4452ebd\""
   },
   "https://www.mozilla.org/da/firefox/channel/android/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a80edaf89e5767f29793f50d57bf1d44\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5df96a448603327548833df375257e50\""
   },
   "https://www.mozilla.org/da/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"09590bc648ddf485dc6b57b9ca6e3e76\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"979ba00a3577b7b25cfdad7391055823\""
   },
   "https://www.mozilla.org/da/firefox/channel/ios/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"066949753203e7f18f8d02c31fb972c6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e64ba5efb90b3ceb5a61df028d2a235d\""
   },
   "https://www.mozilla.org/da/firefox/developer/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -4368,12 +4388,12 @@
     "etag": "\"dce7d206c531ec24143f2e92e2a3894f\""
   },
   "https://www.mozilla.org/da/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2cf1d5fd8dbbc076ec6f964b926741a5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cc0919ffbe33404003893bfda6601c2d\""
   },
   "https://www.mozilla.org/da/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6dbef10ad4db7de3a21ae2fdf8e5a9c9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0268ea5d12ca6c4cba842294df3fe38f\""
   },
   "https://www.mozilla.org/da/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -4408,8 +4428,8 @@
     "etag": "\"ffa676b5141873409f142e2b370af43a\""
   },
   "https://www.mozilla.org/da/mission/": {
-    "date": "2023-10-31T06:04:48.325732+00:00",
-    "etag": "\"f7c2ff65e31fb2328a8b289ff9bbd9c5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bba7fdc408b18778774cb271f9b39f07\""
   },
   "https://www.mozilla.org/da/plugincheck/": {
     "date": "2018-08-15T03:28:57.249860+00:00",
@@ -4440,12 +4460,12 @@
     "etag": "\"28773eb100fb0968410e9134a8764a50\""
   },
   "https://www.mozilla.org/de/about/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"0fb9019c93a0b06e5b41858c1dd76f85\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d5be6032b3128624b9fa68e450cc23b1\""
   },
   "https://www.mozilla.org/de/about/governance/policies/participation/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"67600e21e0aed7ff8f65675710cd5aa0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1e00e244f2fed195b1adeba90ecc892f\""
   },
   "https://www.mozilla.org/de/about/governance/policies/participation/reporting/": {
     "date": "2023-10-27T00:11:26.155137+00:00",
@@ -4464,8 +4484,8 @@
     "etag": "\"c65ca38c451fb398528353e9cacc8246\""
   },
   "https://www.mozilla.org/de/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"71e1ca841228213468271b31cee19118\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"577b03fd4185c165d8e7f1f60b2ce1ef\""
   },
   "https://www.mozilla.org/de/about/legal/acceptable-use/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -4798,28 +4818,28 @@
     "etag": "\"a09be5ecb0a6dc001c1da43fc181a77d\""
   },
   "https://www.mozilla.org/de/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e43a688cf6e890006900f3c2e7097636\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f9ced7e29e33bd1ec68ee471f3c52207\""
   },
   "https://www.mozilla.org/de/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"b049f9101146cc44aba5b2ff17226ee2\""
   },
   "https://www.mozilla.org/de/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3891b98e6f580c6e437877a84d2055a3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fb2c8b26e6f87d2a1973e2fa93aef859\""
   },
   "https://www.mozilla.org/de/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a717ad049ac3b2a59dfa6fbe1f6a8133\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"eb47eb02acd6e7c53beabdbb2b4e0566\""
   },
   "https://www.mozilla.org/de/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e5b7b3d1fdd2d47afd684178035b473d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d8f4b12eb8766dd1d0c7dcc5fce66674\""
   },
   "https://www.mozilla.org/de/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"63358d3163ea11f79e8b32c73d1b8e5c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"757a90f003658c79643712ace8c0c78b\""
   },
   "https://www.mozilla.org/de/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -4918,8 +4938,8 @@
     "etag": "\"6e502fbb805378f3e37d21155f8f32fe\""
   },
   "https://www.mozilla.org/de/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"8e299d5d96895c3592f4e48faf03b4ba\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3dd7171fd245086a995a685da127a852\""
   },
   "https://www.mozilla.org/de/newsletter/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -4942,8 +4962,8 @@
     "etag": "\"f17c7e988e830328fc63bddba8cb5f2e\""
   },
   "https://www.mozilla.org/de/newsletter/mozilla/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"2c52ccc61f086763cdc676a695797c05\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7c9f326c16e4203ff1315179e28dfed4\""
   },
   "https://www.mozilla.org/de/newsletter/newsletter-strings.json": {
     "date": "2023-09-25T18:04:38.468159+00:00",
@@ -5178,8 +5198,8 @@
     "etag": "\"b967d747dc9b52fac2c35f7b473686f6\""
   },
   "https://www.mozilla.org/dsb/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"44afb4c6682e5436582deac996926c55\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c66b62abf749e173ca4bc4724b749f54\""
   },
   "https://www.mozilla.org/dsb/about/manifesto/details/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -5256,8 +5276,8 @@
     "etag": "\"f9b9afe22d27102e8d39486b17d3d973\""
   },
   "https://www.mozilla.org/dsb/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"95687a74336763fd3ec3b645d2c3672a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5654eba17144c8af7b4fa9049785c432\""
   },
   "https://www.mozilla.org/dsb/firefox/enterprise/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -5368,24 +5388,24 @@
     "etag": "\"a346daeab609a2dc8833c38301408ec9\""
   },
   "https://www.mozilla.org/dsb/firefox/privacy/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"d14de2fcf68ea3d8d1d9029c0a52bfe1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a03584941cc1e8719cc12216b5685f44\""
   },
   "https://www.mozilla.org/dsb/firefox/privacy/products/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"2f3ff4e920aeb3d081a18a3a60c88986\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4c1675dde7d8a0be5dde08c1b7b3d243\""
   },
   "https://www.mozilla.org/dsb/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"6d16b15e6b121735f1cad6719ad7f43b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"659ad193e7c6a546e64832b6dea509ce\""
   },
   "https://www.mozilla.org/dsb/firefox/products/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"59728d8e012754904ceac33fff6be059\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4811386cbb61f4c6e5de733fd05fb85a\""
   },
   "https://www.mozilla.org/dsb/firefox/set-as-default/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"6648e00e405b414ae522ab79ddfcc9f5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"883f72847ed1f1fbc3289532582264e3\""
   },
   "https://www.mozilla.org/dsb/firefox/switch/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -5484,8 +5504,8 @@
     "etag": "\"6ad6662400ab8ba84384ff29b54d30eb\""
   },
   "https://www.mozilla.org/el/about/": {
-    "date": "2023-10-27T00:11:26.155137+00:00",
-    "etag": "\"f66b480cfa5b2aba1fdbe35a551b716b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9658ccf265f606102c1bc46ba8fc627b\""
   },
   "https://www.mozilla.org/el/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-29T06:04:14.656016+00:00",
@@ -5654,8 +5674,8 @@
     "etag": "\"615ce52ed9920f1a02c3fdd48f481a9a\""
   },
   "https://www.mozilla.org/el/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"ea4a6bcde69851d5575cb3b9e7ad5471\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8ec4f2d752f5ce11e200caba07b7a5ec\""
   },
   "https://www.mozilla.org/el/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -5770,24 +5790,24 @@
     "etag": "\"ee1f4473cc73fe8fda928b6f7b566be3\""
   },
   "https://www.mozilla.org/el/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3c0751574783a0cfaea1e3cb81867fdf\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"52614cd4e66037d56531114b4519e7f6\""
   },
   "https://www.mozilla.org/el/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"10d11e79e5a22458d0f3444a6f02c34a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f293a628f6c062659d6fbd56e9f13c44\""
   },
   "https://www.mozilla.org/el/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e29889384863ebef91c3cf54420af6ed\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a4f88e1fb40340e585da4313692bb51e\""
   },
   "https://www.mozilla.org/el/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1b8bae2cbd942b87c62543311e6cd0ea\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4ed0d7712eb94a84f169a58a8a35f3f4\""
   },
   "https://www.mozilla.org/el/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5a928fc7878b8ad9c2d1f5202babb9f6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0f5f5025d8760374c11d048f0fc0f85c\""
   },
   "https://www.mozilla.org/el/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -6026,8 +6046,8 @@
     "etag": "\"2bfd72233cfc4e4555d14747266cca20\""
   },
   "https://www.mozilla.org/en-CA/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e57defdf01f360b4422b482ac157bf6c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2a117a74a54f7c549af0c82ccf2ff876\""
   },
   "https://www.mozilla.org/en-CA/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -6296,24 +6316,24 @@
     "etag": "\"fef7b74798da25290132aeece90366ce\""
   },
   "https://www.mozilla.org/en-CA/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d09cd04d49330322630359116611fde3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"55c79c56a4f14e94ea65b4d27baeb6c8\""
   },
   "https://www.mozilla.org/en-CA/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a9f2e2300c8919e7fdc6f6bb5a021009\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"be51ed4ccdc9032714aac4c865f2d93f\""
   },
   "https://www.mozilla.org/en-CA/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"af9cffcdc9aaf8f9c930a13ca400e77a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c9b7577d07b5b4a36e10b9b0531b722e\""
   },
   "https://www.mozilla.org/en-CA/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ce9a7b1b0ebd1c99f676f8489c3873db\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"edc1c95b1a96a4df911c5bbe3d90bca2\""
   },
   "https://www.mozilla.org/en-CA/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ad32c7b1bbcdc948373c177e1d3229f9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2513a17875770ec5c0fd1062fd90e946\""
   },
   "https://www.mozilla.org/en-CA/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -6564,8 +6584,8 @@
     "etag": "\"cdc74d7fb219b1224b0a23305956b477\""
   },
   "https://www.mozilla.org/en-GB/about/manifesto/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"0c9dce69b05eeb0e3ad524e340de62ba\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0a088a5d90a5651621e6c7cc49172202\""
   },
   "https://www.mozilla.org/en-GB/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -6834,24 +6854,24 @@
     "etag": "\"6e0177c67f700dcf473024f3f65f3b37\""
   },
   "https://www.mozilla.org/en-GB/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"732e5f84cbad47d61cb6ae81725484d4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"34ef2728f403ef2ca4325b311d7cfa6b\""
   },
   "https://www.mozilla.org/en-GB/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0efefdea2fee317a64c2474e2571e183\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cd123f7ee2b781f5b1cec8f9a03dd436\""
   },
   "https://www.mozilla.org/en-GB/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b0d5d2a8877865041939774ab3cedbd4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"49bb34a500f8a38de444b61c3ca70843\""
   },
   "https://www.mozilla.org/en-GB/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"16ef6154a98f0212d4e4e75b6c46970f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a5320d6a059ff25a8698082d242d2d1e\""
   },
   "https://www.mozilla.org/en-GB/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f8325828cb0d89d41bb95271b5d23ab8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"aeb56f1995a491a8d67ca1f9230186db\""
   },
   "https://www.mozilla.org/en-GB/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -6942,8 +6962,8 @@
     "etag": "\"8b665e2cea93425901abc129203c1bb8\""
   },
   "https://www.mozilla.org/en-GB/newsletter/firefox/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"7414fe6423ebf2aa395fbeca4bec8ce2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f7cfcdb36b4bb412d92c8ae761be31ec\""
   },
   "https://www.mozilla.org/en-GB/newsletter/knowledge-is-power/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -7363,8 +7383,8 @@
     "etag": "\"2a3db860db54e77a582ab2169bcaf8c2\""
   },
   "https://www.mozilla.org/en-US/about/manifesto/": {
-    "date": "2023-10-31T06:04:48.325732+00:00",
-    "etag": "\"337ffc7c033b234d56a2b537364b9b3e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"70c28b038de397dcc9cf6b22d816e1e3\""
   },
   "https://www.mozilla.org/en-US/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -15407,32 +15427,32 @@
     "etag": "\"1c99d963064a08e928ca12d200697399\""
   },
   "https://www.mozilla.org/en-US/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e33084f938cd005c70e69a69c47d434e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"662f3eb7d7ce5a71834d6bea8dea1494\""
   },
   "https://www.mozilla.org/en-US/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"5eacdb763fda1583bb11217ca52e7bd9\""
   },
   "https://www.mozilla.org/en-US/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7a410c9db9553945947ab0d0a85480bc\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6a393870ed166c3c7df597c5644afb24\""
   },
   "https://www.mozilla.org/en-US/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"23ec5232cc54935d8ac50d18813ca3ac\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"48e2e807bca22d9bea5a3fbc4c392baa\""
   },
   "https://www.mozilla.org/en-US/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e9316a845925a1909dc8fb9dbd6e6691\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"faecdb18b298ce271e361d7032248456\""
   },
   "https://www.mozilla.org/en-US/firefox/releases/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"69a0a0f70cc40203a77f773f79247351\""
   },
   "https://www.mozilla.org/en-US/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"732e8a67631178c2f0247f64d2c74b0f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"800162de37132898d1cd2a748fbcd618\""
   },
   "https://www.mozilla.org/en-US/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -16023,8 +16043,8 @@
     "etag": "\"9bd386d2f9d34b99468ce7beda95b53e\""
   },
   "https://www.mozilla.org/en-US/newsletter/firefox/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"715a898f326af18b85d0fba0dd98047e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f4123c9f5ae34d6d901094478e7cb5be\""
   },
   "https://www.mozilla.org/en-US/newsletter/knowledge-is-power/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -16035,8 +16055,8 @@
     "etag": "\"7db4a63d77c655f3479678cb8a6fbb9d\""
   },
   "https://www.mozilla.org/en-US/newsletter/mozilla/": {
-    "date": "2023-10-28T06:04:41.016243+00:00",
-    "etag": "\"7b0b02dc6d7e06ce06516dd238753035\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"82973e0b2b7fc6aa269151ffdd48b803\""
   },
   "https://www.mozilla.org/en-US/newsletter/newsletter-strings.json": {
     "date": "2023-09-20T00:10:53.730414+00:00",
@@ -22041,12 +22061,12 @@
     "etag": "\"68121da6d4ac5eb2990bb64f749cff81\""
   },
   "https://www.mozilla.org/eo/firefox/channel/android/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"542b78d338b13ceeb30b39cf0932f986\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b91bb3e01c035beee028648f946d2e7c\""
   },
   "https://www.mozilla.org/eo/firefox/channel/desktop/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"d30d45f73107cf5d73092fdd1bbf8792\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"42911895d0a8f777478720145a094416\""
   },
   "https://www.mozilla.org/eo/firefox/channel/ios/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -22335,12 +22355,12 @@
     "etag": "\"073ce9061c5a1151834843b452886c7e\""
   },
   "https://www.mozilla.org/es-AR/firefox/channel/ios/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"4d5808214ffcdcc17d14a6b6f4c6cb8e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"762f10377671850e87293b6745da26e5\""
   },
   "https://www.mozilla.org/es-AR/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"f6ab9567e89c245e294e4e8915890902\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e4210b874d63cd2e1b82f9d96d869df9\""
   },
   "https://www.mozilla.org/es-AR/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -22479,24 +22499,24 @@
     "etag": "\"57e414638171e9f8306fe1bf7695979b\""
   },
   "https://www.mozilla.org/es-AR/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"02ab8f13d9578e6ddd861fca526df2d3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f43cfaee948e96a913f9883d2aec9cb3\""
   },
   "https://www.mozilla.org/es-AR/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"922c213e8debfa1cdf8563535ea9fce5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"71885d87dfe82c151d6a753aef86e93f\""
   },
   "https://www.mozilla.org/es-AR/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"eede42dc3897561bad552a6eec974ec1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c8de1d25fe81236a8642cfa26026f1dd\""
   },
   "https://www.mozilla.org/es-AR/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"43c66c6b37c469474181dd84190d83f9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"27bd0044d981382e785f024a69f4016f\""
   },
   "https://www.mozilla.org/es-AR/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"31adbf929d33f36cb4fa36cd2ce5db43\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2c59932911ff54fb3d62b23de2a784d6\""
   },
   "https://www.mozilla.org/es-AR/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -22711,8 +22731,8 @@
     "etag": "\"3cd72e4ae1db617b444f01626d09c422\""
   },
   "https://www.mozilla.org/es-CL/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"473275603632a859584b4faec7c493c8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"523a6c3916923fc8f0946a4b17632160\""
   },
   "https://www.mozilla.org/es-CL/about/legal/firefox/": {
     "date": "2022-03-25T18:02:15.526539+00:00",
@@ -22723,8 +22743,8 @@
     "etag": "\"8d643bf0361c86c2124c735503bfbe09\""
   },
   "https://www.mozilla.org/es-CL/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"1c2da0f3a42de1078b19360e1d15f40f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"79b7a298e47817ae16c4fbc43c0aa1bd\""
   },
   "https://www.mozilla.org/es-CL/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -22845,8 +22865,8 @@
     "etag": "\"d5f3f9e16c86cde9a109790b51653c6b\""
   },
   "https://www.mozilla.org/es-CL/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"760dfcf7ee7b64be356c8ce492ad7ee6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e252694b37dfc025a9ff01af7152dc7e\""
   },
   "https://www.mozilla.org/es-CL/firefox/channel/ios/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -22993,24 +23013,24 @@
     "etag": "\"0103f4bc4f8f3115739c3622a5b0f1bc\""
   },
   "https://www.mozilla.org/es-CL/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6083cd1d39144d2b1c713bd2def541b8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"203ebc5b0763e81ed9c9f85c4c8536cb\""
   },
   "https://www.mozilla.org/es-CL/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9b37c1379a4e6476d3eee57be6ea6903\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7543d83446711d0bb0b39c091a861db8\""
   },
   "https://www.mozilla.org/es-CL/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7e4a1579054378b0c45a95efa831bf1a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8ad3d772fbe6adf0f0212d123349a560\""
   },
   "https://www.mozilla.org/es-CL/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"19ac28cf9e7eb3133a99a4187dc0df74\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"09c98ee912afbe65429bf6f51b511dc4\""
   },
   "https://www.mozilla.org/es-CL/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d9115897ca671f89fd44953ddc75534c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3b3f85ae8393a721ff84cb5b3181e7b7\""
   },
   "https://www.mozilla.org/es-CL/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -23089,8 +23109,8 @@
     "etag": "\"0d8ee98177dad137738ca14afe4fbf17\""
   },
   "https://www.mozilla.org/es-CL/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"bc028bb0ee3021bbdc6f7a7f83bcf704\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3f8e6961dd55917aefa82f20cf070b89\""
   },
   "https://www.mozilla.org/es-CL/newsletter/": {
     "date": "2023-10-28T06:04:41.016243+00:00",
@@ -23229,8 +23249,8 @@
     "etag": "\"0ced1d75860a10d1c005108cf6199292\""
   },
   "https://www.mozilla.org/es-ES/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"d34c5c201a21262564d6dfb6daa6704b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cc8cfb988cf9bc95409583359c083381\""
   },
   "https://www.mozilla.org/es-ES/about/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -23241,12 +23261,12 @@
     "etag": "\"ef5561cee2fe8a18ee8c473f25cb6c38\""
   },
   "https://www.mozilla.org/es-ES/about/governance/policies/participation/reporting/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3e1b55093c56398fe91532e249068397\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4e539bb9087c8eb8b64b5f58a7e01d92\""
   },
   "https://www.mozilla.org/es-ES/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"f6d2dc1ac04919b0ba24c7d71ed4a301\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"91b44650c2e72a272c86094433ad724c\""
   },
   "https://www.mozilla.org/es-ES/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -23257,8 +23277,8 @@
     "etag": "\"8a60c30ba3e99a1c34b55b7dff40295e\""
   },
   "https://www.mozilla.org/es-ES/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"2362f36e17f73606ad1fbdae57f0f268\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0dea2ef46f3f91e4a1965da889521b3e\""
   },
   "https://www.mozilla.org/es-ES/about/legal/acceptable-use/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -23431,8 +23451,8 @@
     "etag": "\"c3acdd6f06d7eb8121f775f7378f2888\""
   },
   "https://www.mozilla.org/es-ES/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"794f578f7d5432b2fd43454499858a87\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"76dff3e4ca6d329374b2fae61a9119c6\""
   },
   "https://www.mozilla.org/es-ES/firefox/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -23563,24 +23583,24 @@
     "etag": "\"b82ad34174057df18040d5839154996a\""
   },
   "https://www.mozilla.org/es-ES/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9b5a1b969c3a87f2c871645013a1ddc2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"84728b23b8b3025046db0c50f892537c\""
   },
   "https://www.mozilla.org/es-ES/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8233a6dac04a933ddf18a005e0d43f9e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"853890c6dda501d3ee2b6da8985ea632\""
   },
   "https://www.mozilla.org/es-ES/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b694335a1a15ed03c9f9289da4d7f68e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"277577b76d7979174fc5f9a884266052\""
   },
   "https://www.mozilla.org/es-ES/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"243178e175c35881522c25fc67a13829\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"adb6fa8d43a5915a8218b58caf981904\""
   },
   "https://www.mozilla.org/es-ES/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2c436c48542e022c39a95507b608be47\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7bb01a1f2b896e9c49f0c693d5c7687f\""
   },
   "https://www.mozilla.org/es-ES/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -23663,8 +23683,8 @@
     "etag": "\"476adc7bb5d19a00fb9872a7470806a8\""
   },
   "https://www.mozilla.org/es-ES/mission/": {
-    "date": "2023-10-31T06:04:48.325732+00:00",
-    "etag": "\"cc54e7758e695c687179583a7bbe0460\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"227f531e646bd09c53a1475408a896fd\""
   },
   "https://www.mozilla.org/es-ES/newsletter/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -24141,24 +24161,24 @@
     "etag": "\"b372e1d23eb6a6a265f1ed2023a5ab55\""
   },
   "https://www.mozilla.org/es-MX/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3a38f27db2fcd23f1ce424f89382df6e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8053e69bf6f777c32c80e9aec1fbb6dc\""
   },
   "https://www.mozilla.org/es-MX/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7cfedd005adec777446a7d97638e4534\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"62471a6610e1190f178b746a7cbc584f\""
   },
   "https://www.mozilla.org/es-MX/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7e3ed8bf786505fe666dd144f168287f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ab904ade2d78895d8d5e42847c1fa15d\""
   },
   "https://www.mozilla.org/es-MX/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b1521272cf127fe9a77ccc8c655079d7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a5d60cb850779a95b2bd0aaafaf223ac\""
   },
   "https://www.mozilla.org/es-MX/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"47dda2ce27c6bfd224faf3b69aa757a5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"faad98a7a64db8b1d274a39854171a82\""
   },
   "https://www.mozilla.org/es-MX/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -24353,8 +24373,8 @@
     "etag": "\"9cc61265c0dfa64dc111d21d0416fc49\""
   },
   "https://www.mozilla.org/et/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"2ddc3e3e95b798b8d8eebcc4bdf51955\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8ebb6df8cc4f00a2c87e5782252c7dc5\""
   },
   "https://www.mozilla.org/et/about/": {
     "date": "2018-08-15T03:30:05.063592+00:00",
@@ -24389,12 +24409,12 @@
     "etag": "\"d43a6d27125817d4fb92b40dc08f2e09\""
   },
   "https://www.mozilla.org/et/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e69a624f9753bd342f7aebbe4c9214b6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2c54d582ca3af91b61f8607caa4eaa52\""
   },
   "https://www.mozilla.org/et/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cc0045415946f16d8459cd7e41cf5b12\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f3918637968bd60a54b19296026e59ab\""
   },
   "https://www.mozilla.org/et/firefox/channel/ios/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -24533,8 +24553,8 @@
     "etag": "\"efaa0bef3f400c9bd620b9fe26825ce3\""
   },
   "https://www.mozilla.org/eu/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d4705776d3d68740a8e9975e6609df88\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8ba462d8cfac371fce1df66cacdc977f\""
   },
   "https://www.mozilla.org/eu/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -24577,12 +24597,12 @@
     "etag": "\"f484bca8c679317f9abf2729062fa96f\""
   },
   "https://www.mozilla.org/eu/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"f26eff680ddb505c36b56a4d6f2bd610\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4077f2d3e58741b28bf1a0b01b35afa0\""
   },
   "https://www.mozilla.org/eu/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"1c1aafa7d64e00d7a2ec23907aa0dea5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a533591f21a22d3611575d35a4f9832f\""
   },
   "https://www.mozilla.org/eu/firefox/features/": {
     "date": "2020-07-08T00:09:16.677898+00:00",
@@ -24763,12 +24783,12 @@
     "etag": "\"cb4044930c64735c5db109c0836cab0a\""
   },
   "https://www.mozilla.org/fa/firefox/channel/desktop/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ec4b5440d4d4f8037fb98ad1ce61cc94\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"045f88ad7793fea785b3cccea6863502\""
   },
   "https://www.mozilla.org/fa/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5f913d2a97f7b214699d2d8c785ff935\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2503aa5caa03cafe30d0668d65b5a802\""
   },
   "https://www.mozilla.org/fa/firefox/developer/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -24871,8 +24891,8 @@
     "etag": "\"cc5980ba06f73ff841e6417ae74bf879\""
   },
   "https://www.mozilla.org/fa/mission/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"25cdbea814da9200d55288a9f130cea1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fbd849ae5c60d110b26876f7e3658bae\""
   },
   "https://www.mozilla.org/fa/plugincheck/": {
     "date": "2018-08-15T03:28:57.290416+00:00",
@@ -25119,8 +25139,8 @@
     "etag": "\"f4b9d898b0da6659d3939585a0e8b385\""
   },
   "https://www.mozilla.org/fi/firefox/channel/android/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"674c4870ba8187ec44c4afb05cc16cb6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"270d070391441449ee6326173b697368\""
   },
   "https://www.mozilla.org/fi/firefox/channel/desktop/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -25131,8 +25151,8 @@
     "etag": "\"dc42396f6b656eb2615f7664ae4404cc\""
   },
   "https://www.mozilla.org/fi/firefox/developer/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"42d2d02a3abbd2a5938680bbac26512f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d2c25524cb175c032f5b071320aa4d15\""
   },
   "https://www.mozilla.org/fi/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -25255,24 +25275,24 @@
     "etag": "\"6438f654e19858f997f3acbef4c52adb\""
   },
   "https://www.mozilla.org/fi/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a92c288ee889f2b2a493d3e7bf9ad2c2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"78009c456a400514d68bd5139af57ace\""
   },
   "https://www.mozilla.org/fi/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3d6ff69a3b046c2b8cae985f4194c92e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f01e234e48c4cd3480d90bcf995281f7\""
   },
   "https://www.mozilla.org/fi/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5c6a7a29d97e2a67e76fe97854b31076\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7f4d916e4c4d533663c66bd388b76286\""
   },
   "https://www.mozilla.org/fi/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7b307aae5ab2805e43537a1bb98b9af8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"798ba714a90e68ac85ebda68ba95e56a\""
   },
   "https://www.mozilla.org/fi/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"24f0f040df575078f150f5d888cd6d1e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3ea97b943ff698396bdf220ff3685f60\""
   },
   "https://www.mozilla.org/fi/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -25311,8 +25331,8 @@
     "etag": "\"38838d6181141f20260a18858b3b81e6\""
   },
   "https://www.mozilla.org/fi/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"18ed3327be72855a10109ee65b60b83f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6f7699af143afe2abe122764716d298f\""
   },
   "https://www.mozilla.org/fi/plugincheck/": {
     "date": "2018-08-15T03:28:57.463602+00:00",
@@ -25415,12 +25435,12 @@
     "etag": "\"bcdf98e30a8f304edb7f1d8ed387776d\""
   },
   "https://www.mozilla.org/fr/about/governance/policies/participation/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"05126fa242d0257b2f251f334a378ea0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4a0f257c4bf10e73b7dfe3f1288f59b6\""
   },
   "https://www.mozilla.org/fr/about/governance/policies/participation/reporting/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"55803a6ed32d27b00c48ca13344860b0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d5a82b0e24dab50c584ad629ed197fd1\""
   },
   "https://www.mozilla.org/fr/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -25483,8 +25503,8 @@
     "etag": "\"57a05baee0dbfaa505c1fa4f2a036fef\""
   },
   "https://www.mozilla.org/fr/about/manifesto/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"1b7784dfac46ed22d502022602ed9658\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"10c1f2194d3e972948ba6d605b124519\""
   },
   "https://www.mozilla.org/fr/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -25605,12 +25625,12 @@
     "etag": "\"0bd0714821d522a36e2036cf20348a60\""
   },
   "https://www.mozilla.org/fr/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"bf0a446dc0b19b6a9bffdaf759720f2a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fc0d831c9f11ad050ac56ccdeaf61990\""
   },
   "https://www.mozilla.org/fr/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"64ee9f2e5a8ef8795d186533cd5a78f7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1ba51563e1682c49c42fa1a7b9846086\""
   },
   "https://www.mozilla.org/fr/firefox/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -25761,28 +25781,28 @@
     "etag": "\"4e29e31136fba9df0b0fa0b0324b1264\""
   },
   "https://www.mozilla.org/fr/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"82b4f4043846cb37e4ebc065e3928c90\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c8fa5883080ada63d70ed4defa721646\""
   },
   "https://www.mozilla.org/fr/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"89befc05763ac88549790739daa0e618\""
   },
   "https://www.mozilla.org/fr/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"005c05f3b5927e01a11bb9e4158a0842\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4e62bdf7119459899f2a67040b00d94f\""
   },
   "https://www.mozilla.org/fr/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f4ae59556a807065cc95893b0cbd8918\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0b1643922b412a337469cf865e7a3d35\""
   },
   "https://www.mozilla.org/fr/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8df86b3af9cdfff3ac9e1aa4000c0918\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"52491821f4c7a5c01f2db8e1af45046b\""
   },
   "https://www.mozilla.org/fr/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0cfd01d1df2a5202c1671d9c4e8dc4c6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"60433516c69eb7839c20a188d6aff751\""
   },
   "https://www.mozilla.org/fr/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -25881,12 +25901,12 @@
     "etag": "\"1d881b648dbf6800a5ee1a223e2c6063\""
   },
   "https://www.mozilla.org/fr/mission/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"0a6a507760e74555f3d4196a7cb28744\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8dc8d767f6b2df7e3030ffb69746b841\""
   },
   "https://www.mozilla.org/fr/newsletter/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"79af273e30e3a436ed600884510372b4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9cf148b231b7de5073272c8df06f06ea\""
   },
   "https://www.mozilla.org/fr/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -26255,12 +26275,12 @@
     "etag": "\"8334bb3fb527607453610f5ac6228103\""
   },
   "https://www.mozilla.org/fy-NL/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3faaff6b19777127f5112f65a1aa15da\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1f0f10789a3e02043fff6553c3205617\""
   },
   "https://www.mozilla.org/fy-NL/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"34f6c1f5bbff08f00f0835cb2e3478d4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"85e71771704d75beef4b9ae9188b6da8\""
   },
   "https://www.mozilla.org/fy-NL/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -26399,24 +26419,24 @@
     "etag": "\"945c6b234b006b27712ee0fed34e1beb\""
   },
   "https://www.mozilla.org/fy-NL/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c2b8706a2a927043296920b9a32e6021\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8fbef8bb8e9f4b0e8942e97a5be5e0f4\""
   },
   "https://www.mozilla.org/fy-NL/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6264a576b03cab062f907374aa949ef6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"949fdc8d6c829c27b061ef007174a878\""
   },
   "https://www.mozilla.org/fy-NL/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b66d01451830fe2e98a681d323097df1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"232c2140e7bfbb25a88c598bd4314228\""
   },
   "https://www.mozilla.org/fy-NL/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"01dc592298ef0b052d2d3fc299a19961\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"19f659b40c6a5ad0554ce59e8391e0d7\""
   },
   "https://www.mozilla.org/fy-NL/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c9943e4e442da34471a2e08543a1c1f3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3cd88e278116075b1854fca1c2095d23\""
   },
   "https://www.mozilla.org/fy-NL/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -26471,8 +26491,8 @@
     "etag": "\"da91810d9d9a423f8af47811cf702bd4\""
   },
   "https://www.mozilla.org/fy-NL/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"556734cb0315b454152b89725b41b71d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3789a8a94647f24d8d88137241287a3e\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -26495,8 +26515,8 @@
     "etag": "\"d367b61bf414850091aad6f5abcfb544\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/mozilla/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"73f3b8f3bada25a162dff7ba824ecefe\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f535400933eecc8f7b0b1589012ff190\""
   },
   "https://www.mozilla.org/fy-NL/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -26643,12 +26663,12 @@
     "etag": "\"bdfdb859a491569f56835cf7d67a41bf\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"4d8ed7a9a678d76ac10355934f5a9413\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2fda0b05904a567646b6b2e236e6badc\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d0da29abf52f09a5213ee3dca1216fc8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a3731fd5fc428fb4c1bc488241ad4926\""
   },
   "https://www.mozilla.org/ga-IE/firefox/channel/ios/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -26779,8 +26799,8 @@
     "etag": "\"c70db5651a619eadf65c49e269c78728\""
   },
   "https://www.mozilla.org/gd/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d50884cd660d461a5dd68ccb9cfa2d45\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0656d72a29d2b455d57620448440f6cc\""
   },
   "https://www.mozilla.org/gd/privacy/principles/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -26987,24 +27007,24 @@
     "etag": "\"ed24104c39904b208c072b210697d4a9\""
   },
   "https://www.mozilla.org/gl/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7af45539d34ee3dcd5cb66c7e1c2f97a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f2375543f01667d30f0221d56854357d\""
   },
   "https://www.mozilla.org/gl/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c517228a227d5535410a743dba60a54a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"97a28b505e64532e0aa9053aa29a772b\""
   },
   "https://www.mozilla.org/gl/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"34f8ed45139451077892a3f22a34078b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c5087451bd464e8e841713815a0510ad\""
   },
   "https://www.mozilla.org/gl/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"72d70c9aa319ddcd2d9600c06ef31ca7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"02402d902ebfea6ad1db39c460687e42\""
   },
   "https://www.mozilla.org/gl/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8cb168fdd95cc6d20c816784094bea5b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c993abdc0ea3f9529928670bec7a4572\""
   },
   "https://www.mozilla.org/gl/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27043,8 +27063,8 @@
     "etag": "\"de082803371d011e2435a036ade77672\""
   },
   "https://www.mozilla.org/gl/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1cf78f494254dc2dda883fd558744fb2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"798441302d9755398d568f2c87ec1606\""
   },
   "https://www.mozilla.org/gl/newsletter/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27111,8 +27131,8 @@
     "etag": "\"67c1edb9aad616d9b4f3a59f659c2dfc\""
   },
   "https://www.mozilla.org/gn/about/manifesto/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c3d1037eb19eb3dc56d126a757cf5ec0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c6e90dcf689f8eb601e09a949e093981\""
   },
   "https://www.mozilla.org/gn/about/manifesto/details/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -27215,20 +27235,20 @@
     "etag": "\"2f381d6c7bca8acc2d42b06ff1b5ce3a\""
   },
   "https://www.mozilla.org/gn/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"39cc88552fa2c513e78b1163ea0f33a0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"deb8ad7cb63a2a04f03a25ccecdb0ea2\""
   },
   "https://www.mozilla.org/gn/firefox/channel/desktop/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"3b601380d54a8d0cd84ffed4e95a0767\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5f98b80006f2af067006a18799a4c176\""
   },
   "https://www.mozilla.org/gn/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"ffa0089019507595c53c6004fb7c11b7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a4642a2d19a59f14e39710432169e194\""
   },
   "https://www.mozilla.org/gn/firefox/developer/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4bb12177dbd8690f8b6e82e0f9f3c7a8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e724b8a675c2e2dec5660966401f053a\""
   },
   "https://www.mozilla.org/gn/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27351,24 +27371,24 @@
     "etag": "\"adb6f4b2232d4f8d7070a39334c79760\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0da3187aff758ff1dcc47664ba804e98\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a29c105025b8df20ee7e9ad4d833ba75\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"33b3742175ee5486fd86dee1b60027f5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4bc8489c9d14b9f2ca7f319b876e9261\""
   },
   "https://www.mozilla.org/gn/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1a0f0d3c0064d468e34fa991de8358e4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e7d45d891c9b31c488d68518a8af102d\""
   },
   "https://www.mozilla.org/gn/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"afc014f965acefe0811d6043afba7724\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"43b5dc714e581178105810e3a9f52db8\""
   },
   "https://www.mozilla.org/gn/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"49fc2a123bbf5e187300632dd9264c65\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2cc8d6d4d46c4f89f8c3ff70129a474a\""
   },
   "https://www.mozilla.org/gn/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27431,8 +27451,8 @@
     "etag": "\"285fa1cb97340a04fe4691356fb4ff9b\""
   },
   "https://www.mozilla.org/gn/newsletter/mozilla/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3e6873a4f5a3aba42743134433cfd780\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"71fa5ee559448a92ddd6dbc74eae27bd\""
   },
   "https://www.mozilla.org/gn/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -27583,16 +27603,16 @@
     "etag": "\"db8a2f1480bfc0464e08a4035703a5f3\""
   },
   "https://www.mozilla.org/gu-IN/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"bf575545658b16e0543f3fa18392087e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ff8bb1ec1b9d68a6a8bd6d2142e560c3\""
   },
   "https://www.mozilla.org/gu-IN/firefox/channel/ios/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"9da4fe33bf4319701071e29aeeb1d5f0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"66196c830256aaed2c7d7bfaa408b5a3\""
   },
   "https://www.mozilla.org/gu-IN/firefox/developer/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b332ece727383fbdac1ee1b90d537859\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c3d49e30be6f098a7ca07b22bb50a8f3\""
   },
   "https://www.mozilla.org/gu-IN/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27731,8 +27751,8 @@
     "etag": "\"02f13f865105364110c4fb29b5cb5650\""
   },
   "https://www.mozilla.org/he/firefox/channel/android/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"6d328f7e594b7827ec93d6ade7f49279\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1bccbed320d0479c39575b62599bf91a\""
   },
   "https://www.mozilla.org/he/firefox/channel/desktop/": {
     "date": "2023-10-27T00:11:26.155137+00:00",
@@ -27847,16 +27867,16 @@
     "etag": "\"03243ae62367e524dc1dc17915ecbe0f\""
   },
   "https://www.mozilla.org/hi-IN/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"4394955dd146d2d71b498cbb86e6cb3a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"029139db9c4df60e68ce91a0dd5334a3\""
   },
   "https://www.mozilla.org/hi-IN/about/governance/policies/participation/": {
     "date": "2023-10-27T06:05:00.509665+00:00",
     "etag": "\"85a84b6dad9aa14c28d03d4972b72947\""
   },
   "https://www.mozilla.org/hi-IN/about/governance/policies/participation/reporting/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"a2c817429f6921304da1606429c71098\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"91fd0232cae52dc9cc840fae0ccf6b3a\""
   },
   "https://www.mozilla.org/hi-IN/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -27903,8 +27923,8 @@
     "etag": "\"54f01b3e5700ee1d052179f700a78097\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"1d7c462d379f74add8fe995cf1692621\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"36c3c650ef3e289ed112bb6abedfca08\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -28165,28 +28185,28 @@
     "etag": "\"3fec2b0c7320b7e066603f0b4c6f4609\""
   },
   "https://www.mozilla.org/hi-IN/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f1735eb68a2f7642cc4479ce8803635d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d15cf2a3a89e29d68eebb736a4e083a4\""
   },
   "https://www.mozilla.org/hi-IN/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"2f1fd0002e37ce964f1387296f34b3c5\""
   },
   "https://www.mozilla.org/hi-IN/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"50a47568d421ef114c00d7ce9576d3ab\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1edb4009f62dd901d7a238b2caf44863\""
   },
   "https://www.mozilla.org/hi-IN/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4405fbaed5f6e75aae116b20decfd500\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0a0b760b29695bec5c47b9e120e8a752\""
   },
   "https://www.mozilla.org/hi-IN/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7dbb44dc067003ccceedd25062de3e81\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6e7e8d9c9f77d58ce1317a6f97b223f5\""
   },
   "https://www.mozilla.org/hi-IN/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"510a35ffc0e90cc4a55f985acf1429b3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"30c224e9a7588473b91d39fc1ae55248\""
   },
   "https://www.mozilla.org/hi-IN/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -28241,8 +28261,8 @@
     "etag": "\"ef3eaea509842b27b0b777c97806c9cf\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a2407aa9ad059d57aecf2e3b1d77ad8a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9759ac2fd6e9196ae189bad47c4a8a61\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -28409,8 +28429,8 @@
     "etag": "\"24c4f87175cd779500d6d2249428c727\""
   },
   "https://www.mozilla.org/hr/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"9a4188598a3bdd2b1260bcef77829d49\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8715980a363ce92423133c50e8c39787\""
   },
   "https://www.mozilla.org/hr/about/": {
     "date": "2018-08-15T03:30:06.186994+00:00",
@@ -28477,8 +28497,8 @@
     "etag": "\"72ddb3275043d0fc48c3236545dbee86\""
   },
   "https://www.mozilla.org/hr/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cab001302280272c84fffa9257365073\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"144e7024a74f77ed4e0d1f5003c02afc\""
   },
   "https://www.mozilla.org/hr/firefox/channel/desktop/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -28561,12 +28581,12 @@
     "etag": "\"d39fc27bb2eba689cb1f368f27986c22\""
   },
   "https://www.mozilla.org/hr/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d50dfb26893b5b4010c0ea2f95e74528\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8901b1b49fe162fddf6b2a2b88138cc2\""
   },
   "https://www.mozilla.org/hr/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c7fa47566c4c441ab1784ba2077068cd\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"edc7a6b5daf252def8a034c68d1efc6f\""
   },
   "https://www.mozilla.org/hr/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -28629,8 +28649,8 @@
     "etag": "\"b45407dafae0e06ef5aadb0bd72cc5c8\""
   },
   "https://www.mozilla.org/hsb/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e732e15d2d4fd8289cefe0fe460e9c17\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"04e6f6acebf8bbf14f2242aac3f2b4a4\""
   },
   "https://www.mozilla.org/hsb/about/history/": {
     "date": "2023-11-01T00:13:16.239011+00:00",
@@ -28653,8 +28673,8 @@
     "etag": "\"9b80eb89147b6b499eab7eec79da70e1\""
   },
   "https://www.mozilla.org/hsb/about/manifesto/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"d99f008b7b96df53d15f7db84cf78dd6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c15a3bdc364bd22a4a53e434142b3fac\""
   },
   "https://www.mozilla.org/hsb/about/manifesto/details/": {
     "date": "2023-11-01T00:13:16.239011+00:00",
@@ -28727,8 +28747,8 @@
     "etag": "\"f22149d0d58fe78a0ece8a3e23ad308e\""
   },
   "https://www.mozilla.org/hsb/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"ac0b86afc8a7b57d46f8c54ed34ae971\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0b0cfd37e22705b6ca8f01753e8903c0\""
   },
   "https://www.mozilla.org/hsb/firefox/developer/": {
     "date": "2023-11-01T00:13:16.239011+00:00",
@@ -28847,24 +28867,24 @@
     "etag": "\"77e310acae70738fe589f712fd15d9bb\""
   },
   "https://www.mozilla.org/hsb/firefox/privacy/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"456d54c8e25c10aa2e2db6337a1b9b3d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"65d83d991a6bf7f873326a242b593de8\""
   },
   "https://www.mozilla.org/hsb/firefox/privacy/products/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"4cfc5ec81312b7c1b48abaf71e093626\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7418ff4a6061a1c993706d5cc12ea75c\""
   },
   "https://www.mozilla.org/hsb/firefox/privacy/safe-passwords/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"eecb4342af48b9af92a78b5b31138e5c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5b1ad8ea086862cc016dc518f5943c1f\""
   },
   "https://www.mozilla.org/hsb/firefox/products/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"afb697c6541eb2d55a55f372e8f969c1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d40b5ddc846314d8b81845344b786790\""
   },
   "https://www.mozilla.org/hsb/firefox/set-as-default/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"39f05c734207c7f0c959a770b691bbeb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b25fe82fa0362ed84095918ce3af3afb\""
   },
   "https://www.mozilla.org/hsb/firefox/switch/": {
     "date": "2023-11-01T00:13:16.239011+00:00",
@@ -29015,8 +29035,8 @@
     "etag": "\"e73b5b08bc41967e56b4c0b67974bc38\""
   },
   "https://www.mozilla.org/hu/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"dc6cfb4deb764f4fa5260c50da4682b6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"163a7e941a4c885b22d0020eb50abd9b\""
   },
   "https://www.mozilla.org/hu/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29123,8 +29143,8 @@
     "etag": "\"120482058ea810feac370ffd4be7f4a6\""
   },
   "https://www.mozilla.org/hu/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"112bab69b0a4c9448cfd53348a255433\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d0a5a0718fb8705b2f05f45123d95b15\""
   },
   "https://www.mozilla.org/hu/firefox/channel/ios/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -29271,24 +29291,24 @@
     "etag": "\"d87307d2ec05f943a98ab9fb0c408c01\""
   },
   "https://www.mozilla.org/hu/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9b46fcc2bd15189c77ee0f284673510a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f9bab4e10a6bd8c65ecc0e88cc5c1db8\""
   },
   "https://www.mozilla.org/hu/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"137c98c6c4ce96854f88a137b8f2e4e2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"61333cd9b044fc0a5054040dac16d15a\""
   },
   "https://www.mozilla.org/hu/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ffc171c688c321b72851828786b08987\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"29cb529dc141ccad6164550dbb750e0f\""
   },
   "https://www.mozilla.org/hu/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"cf071034eb07e4e0e4745df8d9851494\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1210721ba755b6ce9a2fbcd85f7bf46f\""
   },
   "https://www.mozilla.org/hu/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3250fc500cfe797ff841f2fad10e6523\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2559dbdcfeb9809f7dfb9bcaad2399e8\""
   },
   "https://www.mozilla.org/hu/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29331,8 +29351,8 @@
     "etag": "\"5b1187a177eb7f35069bb2481b37b873\""
   },
   "https://www.mozilla.org/hu/newsletter/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"5d0f4264f39f8bd691aa717387a0543a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9f872bcf8cd98cf735055b0f3acc3f04\""
   },
   "https://www.mozilla.org/hu/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29351,8 +29371,8 @@
     "etag": "\"5972c2fb41f2b97d15d6f5e98c39c6d1\""
   },
   "https://www.mozilla.org/hu/newsletter/mozilla/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"c1ceb569f825d01b2fb037b4285c328b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"596e71b45469c1eee8d8b9d658cbf9ae\""
   },
   "https://www.mozilla.org/hu/newsletter/newsletter-strings.json": {
     "date": "2023-09-22T12:05:26.574208+00:00",
@@ -29495,8 +29515,8 @@
     "etag": "\"301bb860d2081df10d491ece448d5645\""
   },
   "https://www.mozilla.org/hy-AM/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"bf75cbf87c8a01e7782016a4a94bbdbb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"918accfb48c7af7f38d6d3c2861df21c\""
   },
   "https://www.mozilla.org/hy-AM/about/": {
     "date": "2018-08-15T03:30:07.700460+00:00",
@@ -29535,12 +29555,12 @@
     "etag": "\"1038ebf7c7b18d8297c940357710094a\""
   },
   "https://www.mozilla.org/hy-AM/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"b71141433c9688575871f1b9121bf473\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7ae929f1d890b10e2c154873beed2750\""
   },
   "https://www.mozilla.org/hy-AM/firefox/developer/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"cad56cfdf46babb61fa3d7783f84fc43\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bb6d47506650f78bc1eb4490d5efbc5e\""
   },
   "https://www.mozilla.org/hy-AM/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29619,12 +29639,12 @@
     "etag": "\"db0fbe4586ed043914279b16ef477816\""
   },
   "https://www.mozilla.org/hy-AM/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"34537b700fde905e0ddc7fd7df5f1296\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"63d1ff6647fd065bcd828a38587e5428\""
   },
   "https://www.mozilla.org/hy-AM/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3e2b14f9e93a705ca8ee4e71846b1b42\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2a5fef5ef4cbdb63b2e5cbdcfcc02300\""
   },
   "https://www.mozilla.org/hy-AM/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29825,12 +29845,12 @@
     "etag": "\"9d46b0f724f1656dd463ecc088af32d8\""
   },
   "https://www.mozilla.org/ia/firefox/channel/desktop/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"a69ec198c31882afd6f3dd33df77ffb2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a883c63766e7086eff303cb45047b859\""
   },
   "https://www.mozilla.org/ia/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d74856490a91fb51dd438551c270e20c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3fba57d1ae3ea43bd621c720c8bd94ab\""
   },
   "https://www.mozilla.org/ia/firefox/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -29973,24 +29993,24 @@
     "etag": "\"20df067c1b18559d0f9d648e507d65e3\""
   },
   "https://www.mozilla.org/ia/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ca4ad7b490d2ccd0a84675dc47d3d8e6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"75389ce9e5045f2c12c62847331feaf7\""
   },
   "https://www.mozilla.org/ia/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"df745fe41a6e14e44211151c8d649d39\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8c16f541fc92a7c025fe9c63f1b1efb2\""
   },
   "https://www.mozilla.org/ia/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c528ed8bfdd1440b609dc750a560d10f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"844c63d568f97c0e04829f52e398bdab\""
   },
   "https://www.mozilla.org/ia/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7bd0314c8dbfb87d274b82e3b70868d0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"81b29756af64d1c38b41a27571788a87\""
   },
   "https://www.mozilla.org/ia/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"54f69985aaec1a8fb176dc1a1799db39\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ebeb4669272b7aca4627158f230c40e5\""
   },
   "https://www.mozilla.org/ia/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -30057,8 +30077,8 @@
     "etag": "\"51b270087c35812cf2c1da98e9b40210\""
   },
   "https://www.mozilla.org/ia/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"539d134576aaf5737c81a92416d71206\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d6b6fb1f29d1f0bcf6927ed9808853d5\""
   },
   "https://www.mozilla.org/ia/plugincheck/": {
     "date": "2018-08-15T03:28:57.207307+00:00",
@@ -30173,8 +30193,8 @@
     "etag": "\"f34fa5495776568000294b661813283d\""
   },
   "https://www.mozilla.org/id/about/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e0b68f59aa875958509a0318e60973bf\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"977f7b9761642ff737affa4701ded7b7\""
   },
   "https://www.mozilla.org/id/about/governance/policies/participation/": {
     "date": "2023-10-29T06:04:14.656016+00:00",
@@ -30499,28 +30519,28 @@
     "etag": "\"316bd2e00ded6acd7d933e081e029a50\""
   },
   "https://www.mozilla.org/id/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"bdd41cffc32467a40dd5d17cbc9aa865\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8c5f029ee2f223d2ed0e248f9e6f2ac1\""
   },
   "https://www.mozilla.org/id/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"7a743d7a47db591250539285839418b0\""
   },
   "https://www.mozilla.org/id/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c738a66db6526b9967737428b825e94b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d9476592a3e98755f5a721226f64dbff\""
   },
   "https://www.mozilla.org/id/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ac50356fd445e1e4d7ac1faf162f7a8a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"300b7d1387476200918a05d92d29837a\""
   },
   "https://www.mozilla.org/id/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"65eda3300c545f1e4de27e2db72ce3e8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c2f1d3b54e842a917ca1ab0ea759e957\""
   },
   "https://www.mozilla.org/id/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"986c4f67450b05e724769fb9020de68c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f1e0b26ad9b693cd5bacde16324bd9b6\""
   },
   "https://www.mozilla.org/id/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -30811,8 +30831,8 @@
     "etag": "\"e7720c456d24a53324704890ece99fc7\""
   },
   "https://www.mozilla.org/is/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3e7626977613c2e665ba1cc5f99ea8ac\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5fdcb608e3e9648545b89dcd250ac7bb\""
   },
   "https://www.mozilla.org/is/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -30847,16 +30867,16 @@
     "etag": "\"008d27d22feb34460af58537d98f93b9\""
   },
   "https://www.mozilla.org/is/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"13ca63566a1167cbf9196fdf8736375a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d1ba1b9de8df872b1e1882d8f75b00a3\""
   },
   "https://www.mozilla.org/is/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ea563d797d1e565d8577f0f374734ce4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f63e88c71a08aa8a2b6c5aeeb04091b7\""
   },
   "https://www.mozilla.org/is/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0db6234c04421679e29abcacef510473\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e6d7fcdb3af191ba56130b87745d185a\""
   },
   "https://www.mozilla.org/is/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -30931,12 +30951,12 @@
     "etag": "\"0b6e95a3ad31d1ae17e09706a3df3987\""
   },
   "https://www.mozilla.org/it/about/governance/policies/participation/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"fea42f352a48ab5b750776969692c0d6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d111282a01f8f86e2e2a4aa224fa530e\""
   },
   "https://www.mozilla.org/it/about/governance/policies/participation/reporting/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3961601c725fb8b3aa6c8fba39bb8551\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ecadbbec249f74fb46daf4bf9c90f19c\""
   },
   "https://www.mozilla.org/it/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -31125,8 +31145,8 @@
     "etag": "\"2715007d916db70a323c4fe3d5112f2a\""
   },
   "https://www.mozilla.org/it/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ecc04a482882757f009a890e0cf71dc4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"828b44ffde44195337183e437597eb3f\""
   },
   "https://www.mozilla.org/it/firefox/developer/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -31269,24 +31289,24 @@
     "etag": "\"95347522a511265511de608b2acd539b\""
   },
   "https://www.mozilla.org/it/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a70d1607e48c305e0001b8d8261040b4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"422e668312f2259110e124ce83cf0d0d\""
   },
   "https://www.mozilla.org/it/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"baa53fa3e19db320f653b26ba54f17ca\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3395c0ba49736842883167068d6cf59a\""
   },
   "https://www.mozilla.org/it/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a8391444c76e8b83ada42306deda5ed8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b38bcd70b32b2b2a3b4d4d0a94c09398\""
   },
   "https://www.mozilla.org/it/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"98dc647e290b44d862e82d53f4d53359\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ac45a2be0bc3dae71dd088fa26de916e\""
   },
   "https://www.mozilla.org/it/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f30439393ab82708db7ed588d2df48ec\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9fe71660385b3c7a112d6986d2924050\""
   },
   "https://www.mozilla.org/it/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -31365,8 +31385,8 @@
     "etag": "\"af6a2e3ac2f5be75a983faae33a8e8d3\""
   },
   "https://www.mozilla.org/it/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"363f33f070f7a1f7a568cce6e7de5d18\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"dd1043e6dcbf8775c9a4e357fbd30946\""
   },
   "https://www.mozilla.org/it/newsletter/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -31377,8 +31397,8 @@
     "etag": "\"6b9709623939f93027441a91b985f691\""
   },
   "https://www.mozilla.org/it/newsletter/firefox/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e59e4acc55764a28439abd1d8dd6f3c2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"25d03ba855bf17c29d8d653c810edc9b\""
   },
   "https://www.mozilla.org/it/newsletter/knowledge-is-power/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -31589,8 +31609,8 @@
     "etag": "\"aa5105ca1e779997638aaf4222299d52\""
   },
   "https://www.mozilla.org/ja/about/governance/policies/participation/reporting/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"55348c3aefa8bf55929d9032941135e7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"256cad299e6c5d230e16d0991f5442eb\""
   },
   "https://www.mozilla.org/ja/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -31885,28 +31905,28 @@
     "etag": "\"7b2e5a6699ca7cd43cee951cd4c5d93d\""
   },
   "https://www.mozilla.org/ja/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"486e6846f2e2d1957202d9a6577bb399\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6191d6ee7df1f7c5ee097d265a4d6d90\""
   },
   "https://www.mozilla.org/ja/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"0a78e054d8002213df7d2f4ba12efa8e\""
   },
   "https://www.mozilla.org/ja/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2b1ea4fec904f0113c7b7cad398138c0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"700eb4c3a3788f58307a951f858f8e61\""
   },
   "https://www.mozilla.org/ja/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"267e5e69a8ef62948e355a23005479df\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d56d7b40457b2f6973cb09b7d9203f27\""
   },
   "https://www.mozilla.org/ja/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ec602c9912c87bf8332fbbe71e02ca11\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d78d7915c997e6b15922733270377730\""
   },
   "https://www.mozilla.org/ja/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"25a4694a02ed5738e47b90e980b51058\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"827269493bef58e5feb7c469e0ce030d\""
   },
   "https://www.mozilla.org/ja/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -32013,8 +32033,8 @@
     "etag": "\"1f5fd2b1d2abfc31006a55c403b83db9\""
   },
   "https://www.mozilla.org/ja/mission/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"8ce07ed76a8121faa4367953a6350e8a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5fcef9d5323aba02aca49df34d6cabb9\""
   },
   "https://www.mozilla.org/ja/newsletter/": {
     "date": "2023-10-31T06:04:48.325732+00:00",
@@ -32341,12 +32361,12 @@
     "etag": "\"4e7c21f08cc9b4ec8601b84137e54c6d\""
   },
   "https://www.mozilla.org/ka/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"2855aea3dd5776c933747ef01fb0eada\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"666fe63cb87167509381c2f29e0992a7\""
   },
   "https://www.mozilla.org/ka/firefox/channel/desktop/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"69fb4385fadf9fd783a4e4cacf2119d2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"79f9e7bade4aed0db5e744f15e8748ef\""
   },
   "https://www.mozilla.org/ka/firefox/channel/ios/": {
     "date": "2023-10-25T12:06:10.283186+00:00",
@@ -32493,24 +32513,24 @@
     "etag": "\"05b35bf85d01a1436682387f0647a0ed\""
   },
   "https://www.mozilla.org/ka/firefox/privacy/": {
-    "date": "2023-10-25T12:06:10.283186+00:00",
-    "etag": "\"ae0efe1810a5c4b097c516f49d63bb10\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7c5cbc960c61e86d19c716c0c7434a61\""
   },
   "https://www.mozilla.org/ka/firefox/privacy/products/": {
-    "date": "2023-10-25T12:06:10.283186+00:00",
-    "etag": "\"9c7d947c5fb23c58c2a112a22a9b4364\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"aab5f4ebcff6268872ed3696b5e59c2f\""
   },
   "https://www.mozilla.org/ka/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-25T12:06:10.283186+00:00",
-    "etag": "\"447888603dea42ed61d7b88e5312fb03\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c39e7abe9c3b17dd2633fb1ec39f8d68\""
   },
   "https://www.mozilla.org/ka/firefox/products/": {
-    "date": "2023-10-25T12:06:10.283186+00:00",
-    "etag": "\"2ca16252847dacc6a69afba4e60b273e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fbe7c0ba23f4fb6bee42fcede81255a0\""
   },
   "https://www.mozilla.org/ka/firefox/set-as-default/": {
-    "date": "2023-10-25T12:06:10.283186+00:00",
-    "etag": "\"49cdc1abb595d58a72f498a246f4ddd3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ca609ae24775fa643bec5f952fc6523c\""
   },
   "https://www.mozilla.org/ka/firefox/switch/": {
     "date": "2023-10-25T12:06:10.283186+00:00",
@@ -32573,8 +32593,8 @@
     "etag": "\"12bd37d4ee634bcf07476713661e98a7\""
   },
   "https://www.mozilla.org/ka/newsletter/mozilla/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"fdb123d90238435f67330ce2c7c68a5e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0c5ac6b0f7c338ae8583d191153778c6\""
   },
   "https://www.mozilla.org/ka/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -32709,8 +32729,8 @@
     "etag": "\"12858679ffe5eed71cf7bd03fe565a6d\""
   },
   "https://www.mozilla.org/kab/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"9b02ce51b04a7b0042557fc1891152b0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"779672178d261702d7e3b0706e034d0b\""
   },
   "https://www.mozilla.org/kab/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -32915,24 +32935,24 @@
     "etag": "\"1ea00aa5a6b19b81b365ff26501c4b37\""
   },
   "https://www.mozilla.org/kab/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fe69cfc1f768e87cf5d1f61f06ea63ef\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6f940ac92280f96bf71820501ecc533a\""
   },
   "https://www.mozilla.org/kab/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3837cd5f09babdd28ef9a67dac9a0913\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7112504e07a2a49179bf66dd038d6f92\""
   },
   "https://www.mozilla.org/kab/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"45a2fd1f5c0cabf0033361cda6c0e1ae\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2a69c3a910e1b457a928ce384c8397bb\""
   },
   "https://www.mozilla.org/kab/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f34c8869bfaa240ed33be934b1dd0b07\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0c0209902df81826a2baf45ea02f521b\""
   },
   "https://www.mozilla.org/kab/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6b93214d02902ebddf6bdcd4fc8ee2f3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"89c5395093d84a5a1f9da9259b92934d\""
   },
   "https://www.mozilla.org/kab/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33075,8 +33095,8 @@
     "etag": "\"bdb6a8a2da659a1528a0d35092235301\""
   },
   "https://www.mozilla.org/kk/firefox/channel/android/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"2767288f7dbdf2abff1f1991373cb747\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e56a3a1bff6d2a20addce23d108f0756\""
   },
   "https://www.mozilla.org/kk/firefox/channel/desktop/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33505,24 +33525,24 @@
     "etag": "\"ce846ecdd1aa021e2ef16232a9b57784\""
   },
   "https://www.mozilla.org/ko/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"aa92383651bc66d0ca981bb38fea4bce\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b071997f1599f29f8c77714a03d1981e\""
   },
   "https://www.mozilla.org/ko/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c6eab740b4689448601908cd13cdbf47\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b333d4803bfdd0d9f0e4d0007928e607\""
   },
   "https://www.mozilla.org/ko/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b92cd203a4999f4c341071a31e57affa\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d1d414c7e70bdf4776792412bb889ef1\""
   },
   "https://www.mozilla.org/ko/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8a6727c934a7aff1b61aae338423292b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a200382bc667396aa18f1e92a0bee4dc\""
   },
   "https://www.mozilla.org/ko/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a341f6102fc3877b9202e92ea8385358\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"905113dd6c08bf017563fc769d6fa407\""
   },
   "https://www.mozilla.org/ko/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33589,8 +33609,8 @@
     "etag": "\"8d0306382bd6d53fcbf43e0778ba21c4\""
   },
   "https://www.mozilla.org/ko/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"eb9396f47cc5184721c841ef0eab9cb7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"65b3ab97e17319b8146937901afda4cd\""
   },
   "https://www.mozilla.org/ko/plugincheck/": {
     "date": "2018-08-15T03:28:57.875273+00:00",
@@ -33669,8 +33689,8 @@
     "etag": "\"f8c6cf655f566ef0cedee20e3c98849e\""
   },
   "https://www.mozilla.org/lij/firefox/channel/ios/": {
-    "date": "2023-10-27T00:11:26.155137+00:00",
-    "etag": "\"de1e30280934c7107e9bce3d6c822072\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4372366762fd587964c915c007b52b02\""
   },
   "https://www.mozilla.org/lij/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33813,8 +33833,8 @@
     "etag": "\"5aba10e13ed9448a2c40e4ab6e944575\""
   },
   "https://www.mozilla.org/lt/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3d36a6b431497b69ad7803944414ef26\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"834c334e019366f1c768d5b9274fa876\""
   },
   "https://www.mozilla.org/lt/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33871,8 +33891,8 @@
     "etag": "\"0777e4ce6ef1b5edf091f9e7f3ca6440\""
   },
   "https://www.mozilla.org/lt/firefox/developer/": {
-    "date": "2023-10-27T00:11:26.155137+00:00",
-    "etag": "\"6d09ea09c3b4f0c9639f1b0bc8a0a857\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1e9d1104996915b61c8408109eb9c70e\""
   },
   "https://www.mozilla.org/lt/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -33951,8 +33971,8 @@
     "etag": "\"94dbe7d8305392432ed6700d14f9f872\""
   },
   "https://www.mozilla.org/lt/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ea731161fb58ee1048191023911fe59f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"26b1c24b8d393f50c28b7ad87b40b6fa\""
   },
   "https://www.mozilla.org/lt/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -34079,8 +34099,8 @@
     "etag": "\"a5643dd69ca85ec8f3fd2ed02f12843a\""
   },
   "https://www.mozilla.org/lv/mission/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"6f4c380de4fc08e58facd27df05fe4a2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bdc414401429ad4c86b39b556cd97f39\""
   },
   "https://www.mozilla.org/lv/privacy/principles/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -34231,8 +34251,8 @@
     "etag": "\"6995c99c095491fa44648b1db6da1519\""
   },
   "https://www.mozilla.org/ml/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"53c8c91b280f1f1b972792522b7a68d7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"40d87bf639e39c60d15b458d78541eff\""
   },
   "https://www.mozilla.org/ml/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -34371,8 +34391,8 @@
     "etag": "\"0a66b00e45836473e3105e76cdd97794\""
   },
   "https://www.mozilla.org/mr/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cb5ced68def6f9b51db18fb9573e8b89\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"85990d28df3eacdb88aaa8044eb6d281\""
   },
   "https://www.mozilla.org/mr/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -34403,8 +34423,8 @@
     "etag": "\"48ea7ef1fbef4a8f67c9254570d38ddb\""
   },
   "https://www.mozilla.org/mr/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"3e67b010cc0c1c1a2a40f71c3c15f6cb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"904518007671f214d89775ba1f9709da\""
   },
   "https://www.mozilla.org/mr/firefox/channel/desktop/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -34721,8 +34741,8 @@
     "etag": "\"a2e13b60dff30fb8a7d61a0ccdcc2827\""
   },
   "https://www.mozilla.org/ms/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"57094c1a3dce26cf13359f7dc5e4b80a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c0e6552d10b8e89f697eb326158773a0\""
   },
   "https://www.mozilla.org/ms/firefox/developer/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -34861,28 +34881,28 @@
     "etag": "\"152503750528b917d5b0d4b1a957ddba\""
   },
   "https://www.mozilla.org/ms/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"99b083f32b9f0e5b42d44901b95dfa22\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fdd297ffece90268e3387d7ef40cc6b3\""
   },
   "https://www.mozilla.org/ms/firefox/privacy/book/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"75752d7a4c2617a8c62eac66074e96b7\""
   },
   "https://www.mozilla.org/ms/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c0eb6ea9303eb80ff1790e6d9f21a04d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c2401615972da53fd083c73b4345f845\""
   },
   "https://www.mozilla.org/ms/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b1757d6b360ccdf1b030e58ea408470b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a465793b0487cec1794654846c3dc26b\""
   },
   "https://www.mozilla.org/ms/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"bc3a7462ec82540f8a6368169b5a4665\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ae18fdd4e3134dfb890bef286bad1a2a\""
   },
   "https://www.mozilla.org/ms/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e946706a6569ac5260ab0ee7d7e1a905\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5759895c9a87a4891d2b9356d3bb8089\""
   },
   "https://www.mozilla.org/ms/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -34941,8 +34961,8 @@
     "etag": "\"269494bc57d173a26d4ff51d35c0b501\""
   },
   "https://www.mozilla.org/ms/newsletter/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"09d7a808a2d1371b33e6b086633198ca\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"de2c84d79ec740b6b1a501cfde1fc923\""
   },
   "https://www.mozilla.org/ms/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35149,8 +35169,8 @@
     "etag": "\"7739d7fb26e57073539734bc7b8c391e\""
   },
   "https://www.mozilla.org/my/firefox/channel/ios/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"e30455eb21570477ed8f4ffd29e375ae\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"aeb37f5aa0fc59102f6582dfa0122ef0\""
   },
   "https://www.mozilla.org/my/firefox/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35337,8 +35357,8 @@
     "etag": "\"004d6493be51f26e65a8b93e829dcb48\""
   },
   "https://www.mozilla.org/nb-NO/firefox/channel/android/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"4ad69de06b581c9ce4b0ceb282c04673\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d0d1353596c47098307cfd4f11fd60dc\""
   },
   "https://www.mozilla.org/nb-NO/firefox/channel/desktop/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35449,24 +35469,24 @@
     "etag": "\"46d52b8f735bf15c02e087d80af46dee\""
   },
   "https://www.mozilla.org/nb-NO/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"02c2d86253ba1d3fc1eb09f5a22c9201\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b8cda29642db856f7a7307238600bb88\""
   },
   "https://www.mozilla.org/nb-NO/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"80f5a12ae077504794d398465cf18da2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9ca54fa80fbce70a2bd4a3995d675b67\""
   },
   "https://www.mozilla.org/nb-NO/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fc8d290e71610f7553318d09c16828c2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9259c4eca1b655d453c0ef90f774b125\""
   },
   "https://www.mozilla.org/nb-NO/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3e1c87411b9d1baf6953c7fb55c67383\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"877776086bc21ea7867c1fb7ea9248e6\""
   },
   "https://www.mozilla.org/nb-NO/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"87188a08bc85c73f8b94287d9414bc90\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"60d06d1b19f0c5e47fbfc946086d714d\""
   },
   "https://www.mozilla.org/nb-NO/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35501,8 +35521,8 @@
     "etag": "\"9beafd364f3c6a900df30e904be709f0\""
   },
   "https://www.mozilla.org/nb-NO/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"83344432e16a8ea0fa562d3a0364eeeb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1be980199754aee07d51cd88bc2be7ac\""
   },
   "https://www.mozilla.org/nb-NO/plugincheck/": {
     "date": "2018-08-15T03:28:55.745117+00:00",
@@ -35593,8 +35613,8 @@
     "etag": "\"13e622dcde7dd98a761bdf575ac7457d\""
   },
   "https://www.mozilla.org/nl/about/legal/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"cc881e4d0b87614445580233a3624b28\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e25d25ab91288fa303aa332d14afc69b\""
   },
   "https://www.mozilla.org/nl/about/legal/acceptable-use/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35755,8 +35775,8 @@
     "etag": "\"509eeaca3bd506be109912ae6fad441d\""
   },
   "https://www.mozilla.org/nl/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"cc016100f27d2f59433730bfb47d341e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d9cc095b241b05d2467a3f042e6e8758\""
   },
   "https://www.mozilla.org/nl/firefox/channel/ios/": {
     "date": "2023-10-27T00:11:26.155137+00:00",
@@ -35903,24 +35923,24 @@
     "etag": "\"479283a23ce9a861598d581ece85d4fb\""
   },
   "https://www.mozilla.org/nl/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4fa8b4a09222653e9f41453cc946ad82\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9fb01ec0ef5bff8b14c7dee33e546f12\""
   },
   "https://www.mozilla.org/nl/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8a938adb9ffe028bacbf4e87ebcbe8ed\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"12400f0e29b9420091a07dfc78f59dcf\""
   },
   "https://www.mozilla.org/nl/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d19124820af6d0049863c3cbaf030dce\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b00036277302d838f855845721d0e9cd\""
   },
   "https://www.mozilla.org/nl/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"68bcac7286af5bb6d6080440372343a4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c7d4b2f5f4fe5cee6d676a39c9120258\""
   },
   "https://www.mozilla.org/nl/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"63b8d4f775804aff49d23b1bb0f2946a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ccfa5a7e00d9d1ca6db2adedd000a2e7\""
   },
   "https://www.mozilla.org/nl/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -35979,16 +35999,16 @@
     "etag": "\"869408f6e88f73b527047316db9e9060\""
   },
   "https://www.mozilla.org/nl/newsletter/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"c2d65f4ae6b1d1a09d780a2bf678c6ca\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ec20668902e969ac8245cba468efb51c\""
   },
   "https://www.mozilla.org/nl/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"869cdb680b40de58c4b365837e9b2fde\""
   },
   "https://www.mozilla.org/nl/newsletter/firefox/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"db0ed545f640d21f3768734d0f30c208\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ec7e38c5f9082037a6da4438d1e62895\""
   },
   "https://www.mozilla.org/nl/newsletter/knowledge-is-power/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36277,8 +36297,8 @@
     "etag": "\"5403b5b58cd2e58655a2d0bfaeafba25\""
   },
   "https://www.mozilla.org/nn-NO/firefox/channel/desktop/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"7747d1d884f80411ba54795c058bbb2f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"167f34cf78e1f41170c75e8beeaa1d99\""
   },
   "https://www.mozilla.org/nn-NO/firefox/channel/ios/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -36385,24 +36405,24 @@
     "etag": "\"8e4f71f74898d316d0c71e99a5279ae1\""
   },
   "https://www.mozilla.org/nn-NO/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"150a6e3b1624032b33a9b2285716955d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"027e74c23e7c874a5099bc7178f7b5d9\""
   },
   "https://www.mozilla.org/nn-NO/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c76282c48c3f98f4f185ea07188c0a8e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"20670b1da7be88d2a7512403ac31d2ba\""
   },
   "https://www.mozilla.org/nn-NO/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2235a572b4c1c9510b0598d14eda20ad\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5d07a476c3948c9ad5ed9241d3ac8adb\""
   },
   "https://www.mozilla.org/nn-NO/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8d66f6960e9ecb10205b4a9513c8df29\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3313081dec996a80b023d8b784504a0d\""
   },
   "https://www.mozilla.org/nn-NO/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b84b1ced21042607312d933616f9fdb2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"787f0f16b09916dde72179be63ea5578\""
   },
   "https://www.mozilla.org/nn-NO/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36441,8 +36461,8 @@
     "etag": "\"3b160b637b1c7ba5fff25cd0d08ce91f\""
   },
   "https://www.mozilla.org/nn-NO/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"02416830b7bd3546ec27e933e0a39a75\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"262d1da6f1e7ea871c344df0b57c568b\""
   },
   "https://www.mozilla.org/nn-NO/plugincheck/": {
     "date": "2018-08-15T03:28:57.918308+00:00",
@@ -36525,8 +36545,8 @@
     "etag": "\"e9742b6b32027f2adcae39b310d62591\""
   },
   "https://www.mozilla.org/oc/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7a36b915cbf0c8577f2156d7b49af3ef\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bbbc642e8047cb4ecb67a2c2ca91f400\""
   },
   "https://www.mozilla.org/pa-IN/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -36553,8 +36573,8 @@
     "etag": "\"69a19fdbac1f1ddab5c622f10da8e51b\""
   },
   "https://www.mozilla.org/pa-IN/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"b48278a0dcbba78c6fce2dd4ca3eb0c0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"10b55e7e5418fd55d641613cdfa5a76b\""
   },
   "https://www.mozilla.org/pa-IN/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36593,8 +36613,8 @@
     "etag": "\"c38ae8c6efe80f564b659e12a3a2bfd3\""
   },
   "https://www.mozilla.org/pa-IN/firefox/channel/desktop/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"81f51d74cac5c25f0fc702a7e8a8f0f9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1597b21f3c0cb2865af5ef8d5a983672\""
   },
   "https://www.mozilla.org/pa-IN/firefox/channel/ios/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36689,12 +36709,12 @@
     "etag": "\"50f75f40e22cf88d4afb84cccee37ed3\""
   },
   "https://www.mozilla.org/pa-IN/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7d57068b962bedeeeb7b96c2f9743fb6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3d13b07244b1e4fc3cb4dffa47f8f5bb\""
   },
   "https://www.mozilla.org/pa-IN/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"acb613d25729916372ae88fc6d422831\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"38fb2be002f165e7380067133524d922\""
   },
   "https://www.mozilla.org/pa-IN/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36761,8 +36781,8 @@
     "etag": "\"865711a5700d2c244ebaa8c616badcd4\""
   },
   "https://www.mozilla.org/pl/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"70027bd0d7ddbfe9e9317d4032cd8ac7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bca930567fff497b6a201ac631596220\""
   },
   "https://www.mozilla.org/pl/about/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36773,8 +36793,8 @@
     "etag": "\"ed572bcb90c15c12864476c10f17f095\""
   },
   "https://www.mozilla.org/pl/about/governance/policies/participation/reporting/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"df5e834817847e7903fd5f215218ac1c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0a333c39d579964e50cf3e6c00162c2a\""
   },
   "https://www.mozilla.org/pl/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -36829,8 +36849,8 @@
     "etag": "\"8645404f2191ce31703392c7a9681060\""
   },
   "https://www.mozilla.org/pl/about/manifesto/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"1b8d4b40c051f46431ea4f0e9b460079\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"81c0f6d40c91d7b0e258e2ae8b3bc117\""
   },
   "https://www.mozilla.org/pl/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -36891,8 +36911,8 @@
     "etag": "\"a50805b1ed06a26e5ffa850e6767ca30\""
   },
   "https://www.mozilla.org/pl/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"a20bc2dc8fb5103b8598232b42c4e1a8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"217ce3fac6d0ecef4557646e60e3d83f\""
   },
   "https://www.mozilla.org/pl/firefox/channel/desktop/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -36903,8 +36923,8 @@
     "etag": "\"de4a0fe2528201b8bc92ce28fdfd23c3\""
   },
   "https://www.mozilla.org/pl/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"fdef50e30fcb57c9680c6b7578d6fd6d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"820a8e676dfc4772ab1279b05358f954\""
   },
   "https://www.mozilla.org/pl/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -37007,12 +37027,12 @@
     "etag": "\"607a43f32d4d9b3def4ebafcad27a66c\""
   },
   "https://www.mozilla.org/pl/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0a82fcc944733ef0bbfbc3507134473b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ce3ea1a5052f5960b79eca93a237b503\""
   },
   "https://www.mozilla.org/pl/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d22498c8206a53321b8c4f9bd33efff0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e9c66b4de9b80b3021ef0cebcdd594f7\""
   },
   "https://www.mozilla.org/pl/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -37365,8 +37385,8 @@
     "etag": "\"b96d08920b54e97ea1d269d17df1e073\""
   },
   "https://www.mozilla.org/pt-BR/firefox/channel/desktop/": {
-    "date": "2023-10-27T00:11:26.155137+00:00",
-    "etag": "\"3e286309d75b036fba722393d2d1e163\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1c0dea9d1bfd7919f8dfa0b138196bdc\""
   },
   "https://www.mozilla.org/pt-BR/firefox/channel/ios/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -37513,24 +37533,24 @@
     "etag": "\"cc4adb4484f12fb5b959b22234d69a1c\""
   },
   "https://www.mozilla.org/pt-BR/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4fc13051beba8056a3054af0cf34f442\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"10787f62d404325970f2abca86b360f8\""
   },
   "https://www.mozilla.org/pt-BR/firefox/privacy/products/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"9d975647e693e0eeedd6f849f8cea4b9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8d24ec8ed2060113bd375474a7f27cd0\""
   },
   "https://www.mozilla.org/pt-BR/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"55b0d34344576c7825f2cdc12dc13c9d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c31a3fe447f602505dcebd3017704617\""
   },
   "https://www.mozilla.org/pt-BR/firefox/products/": {
-    "date": "2023-11-01T00:13:16.239011+00:00",
-    "etag": "\"0de0b91b1e1214896e9e98ffb4aca9aa\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c71871580e483fdf9b698dfeda53dfee\""
   },
   "https://www.mozilla.org/pt-BR/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"879383c32d0db601b9e76e22b4db843d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"34438c36d148a4d3dfef411ef266b434\""
   },
   "https://www.mozilla.org/pt-BR/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -37629,8 +37649,8 @@
     "etag": "\"20b9128a764d22dd372b2ad8aea6ab13\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"4e0f8baf93dc08a7c3a8e3c385f267d3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a52619cf4051fd41bcce3e6bca1b4784\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -37649,8 +37669,8 @@
     "etag": "\"cd3283442ccd485ecd0eb4cf58b96c94\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/mozilla/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"b4396b5895e8af313155a45817d96b70\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"dd1e97156e949841eae3ece1da4b3145\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/newsletter-strings.json": {
     "date": "2023-09-29T06:04:32.827343+00:00",
@@ -38063,24 +38083,24 @@
     "etag": "\"2e33f12233071b0e40ae3b85bbcbbf07\""
   },
   "https://www.mozilla.org/pt-PT/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"cad917c67e398a9993c5626d722180d6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bd9077c800103add701fd804257f6915\""
   },
   "https://www.mozilla.org/pt-PT/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ee860a93c25253ec4536bb7fa2992f82\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"652d9bf3a00c2eb496f66b6cc394ff4c\""
   },
   "https://www.mozilla.org/pt-PT/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"76f07edd6f76e430637b40a100938c1c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ee3b1b19622011a341d491adc99c9c25\""
   },
   "https://www.mozilla.org/pt-PT/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f17ed13ba1cc330b6e1dc0ce984a7d34\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"62c47189d21294d5577631e9b95dc9c4\""
   },
   "https://www.mozilla.org/pt-PT/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fe0c83dd47edec46049acd18c3938dd9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"009c70bfaf817c3261b07471ad534cad\""
   },
   "https://www.mozilla.org/pt-PT/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38115,8 +38135,8 @@
     "etag": "\"388aaea3c1f82acdb94147a58447f731\""
   },
   "https://www.mozilla.org/pt-PT/mission/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"c9fad783fbadde98076ee1e60516a1a8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ba299bf59974d417cf3c20c465069d55\""
   },
   "https://www.mozilla.org/pt-PT/plugincheck/": {
     "date": "2018-08-15T03:28:57.750058+00:00",
@@ -38179,8 +38199,8 @@
     "etag": "\"5642b99d51aab2bb8e38be3546b9953f\""
   },
   "https://www.mozilla.org/rm/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"ceac6bdcb5d0505fc43e3b6c43a59053\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"71283df8041e9ceb6c19babc0cb02026\""
   },
   "https://www.mozilla.org/rm/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38203,8 +38223,8 @@
     "etag": "\"cd1eb47b18e6fb7596d65b88cb28c190\""
   },
   "https://www.mozilla.org/rm/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d65a28535cd0a041c463349ed816c0ed\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ce964037c3c2d23792a7d516db58a75a\""
   },
   "https://www.mozilla.org/rm/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38443,24 +38463,24 @@
     "etag": "\"fdc34fad1227e64f4546205595046a62\""
   },
   "https://www.mozilla.org/rm/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9ad263698f263eb9378a18e2099e93e6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a3277373867843290a220f97f8267708\""
   },
   "https://www.mozilla.org/rm/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"039115a43e4a99d09377155eb37cbf25\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b20c150897fb1a60af69abe18d144fa3\""
   },
   "https://www.mozilla.org/rm/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5dbfc84faacd31c34c5d087ce9f4d0e6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"103582b6a90d8ef69e94b9e163974092\""
   },
   "https://www.mozilla.org/rm/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"46b73a39606e28a0406139260ea3ae2b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5cd417553b90f65491329aa0f02bf2e7\""
   },
   "https://www.mozilla.org/rm/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f8fa4735c9d97739b093b98091735c16\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f739ef5b3b237e501c3c4d4d4897941d\""
   },
   "https://www.mozilla.org/rm/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38499,8 +38519,8 @@
     "etag": "\"dd1675ff7cddc06e0240e3b75fcdc418\""
   },
   "https://www.mozilla.org/rm/mission/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"710eb0c2e745c472a45a062c52a2c5a0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"53e5af98665db7d56d3a78cc9a1b1d96\""
   },
   "https://www.mozilla.org/rm/plugincheck/": {
     "date": "2018-08-15T03:28:56.617520+00:00",
@@ -38595,8 +38615,8 @@
     "etag": "\"54a063d6973d3a9fdb438626c76bbd9b\""
   },
   "https://www.mozilla.org/ro/about/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"c1e33ce58158963be8e82888e9857c78\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cc23b88046254e9e88189a743189097b\""
   },
   "https://www.mozilla.org/ro/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38631,8 +38651,8 @@
     "etag": "\"1cdbce7844e401bba817c2e187c908a2\""
   },
   "https://www.mozilla.org/ro/about/manifesto/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ab8d54831eec3790ee4f1041fe8bc1eb\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1ce588655e24109e709704d036da2b66\""
   },
   "https://www.mozilla.org/ro/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38713,8 +38733,8 @@
     "etag": "\"7169ef33889f4b3b4117d6cfab67039e\""
   },
   "https://www.mozilla.org/ro/firefox/channel/android/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"98c973109e099e07661f98fef11e640e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8abce66873399bb6d0583f9a8b7e3eea\""
   },
   "https://www.mozilla.org/ro/firefox/channel/desktop/": {
     "date": "2023-10-27T00:11:26.155137+00:00",
@@ -38725,8 +38745,8 @@
     "etag": "\"736cd0d3229ec22999cbf8e8d8d39df9\""
   },
   "https://www.mozilla.org/ro/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"017489d384f2944cf1f2f1d5d61a60b8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"80293e8b2851b50dbccbb9718e5d9fac\""
   },
   "https://www.mozilla.org/ro/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38829,24 +38849,24 @@
     "etag": "\"245f6e7925de06de9a42de5064c61609\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"c0d408c2ddee37dd7c8d6342ca034c6a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5bb6f4112413bf1798043d5c0c6817d0\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3bed750058b6257cde9f2deaacce833a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5a48e323a0ba3df29b9b878126a3a043\""
   },
   "https://www.mozilla.org/ro/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2f359392a74ce30570232dbba1a76c80\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d900529c4bbf1b3d41b5814e468bf99d\""
   },
   "https://www.mozilla.org/ro/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"07c12c9c3b543ff8e61d995dffa825d3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"99cdd964a42f55e8162a85217424bd83\""
   },
   "https://www.mozilla.org/ro/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8461339abce4ff88952111409c8cea9e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"73e6a4f2084458dacdad317b03e0a2d9\""
   },
   "https://www.mozilla.org/ro/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -38897,8 +38917,8 @@
     "etag": "\"2aa7644b29830c267b9d12b2659e0892\""
   },
   "https://www.mozilla.org/ro/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f92979dad2344b2b788bfce915bd0150\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e9db2c69741c6b11dcae01bb8cf8019a\""
   },
   "https://www.mozilla.org/ro/plugincheck/": {
     "date": "2018-08-15T03:28:56.704764+00:00",
@@ -39001,8 +39021,8 @@
     "etag": "\"34131fc68e309d2934454a822a88cce6\""
   },
   "https://www.mozilla.org/ru/about/manifesto/": {
-    "date": "2023-10-26T00:10:56.354294+00:00",
-    "etag": "\"da9744e2c04ddd5770ec334908c444aa\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cb77f2041a638b8bfde894f2c02d9e06\""
   },
   "https://www.mozilla.org/ru/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -39127,8 +39147,8 @@
     "etag": "\"f20bf14a4f1b9edd867446ecd7dc961b\""
   },
   "https://www.mozilla.org/ru/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ff26ae994b85978900b13373b87ddf8e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1de16fc96a5c40c58b9a1c437c4c1ebe\""
   },
   "https://www.mozilla.org/ru/firefox/developer/": {
     "date": "2023-10-29T06:04:14.656016+00:00",
@@ -39271,24 +39291,24 @@
     "etag": "\"0c4933bba99851ba40ff43c503415756\""
   },
   "https://www.mozilla.org/ru/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f879193d281bf2a582ed0b6312e2f56c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b8a4d04e5cd7069b027947b318eeb5a5\""
   },
   "https://www.mozilla.org/ru/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5f6b89523e20aebcdd9d457c99f1798f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"aa9e43263ee5da94e2fd58cc2b455838\""
   },
   "https://www.mozilla.org/ru/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3a61bc8b2836d8eaaab64d10176c77e8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"88392f2b3d0976800c744d25e246c432\""
   },
   "https://www.mozilla.org/ru/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"831022ee810197dc01255728ce84a4b6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"42e792be309d186c4b5c451f8d47446d\""
   },
   "https://www.mozilla.org/ru/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5d8f66f04b29315836e258d6fc74c6e0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"f00438dfe800b7797d7da1fc2d1e2e30\""
   },
   "https://www.mozilla.org/ru/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -39327,8 +39347,8 @@
     "etag": "\"74d4757056a957da60f5b257f18c2fde\""
   },
   "https://www.mozilla.org/ru/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"66b9af53ddef93b4a2008f7da1aab841\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ef8b365f23912c645eedf5f2cc9a341b\""
   },
   "https://www.mozilla.org/ru/newsletter/": {
     "date": "2023-10-29T18:06:05.925816+00:00",
@@ -39587,12 +39607,12 @@
     "etag": "\"f1731cb8b909fab79df6a7ddfb9acc24\""
   },
   "https://www.mozilla.org/sco/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3b860f549d1849febb9a305070e453b5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"374b3540d2ac3c2aec44a1d6a166f445\""
   },
   "https://www.mozilla.org/sco/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5367d850be48925c5bb5338a420df3aa\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"afb76bcc7d9cfc08169093a0e83ec9f1\""
   },
   "https://www.mozilla.org/sco/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -39691,8 +39711,8 @@
     "etag": "\"26fe51f2394d1586d52f39416fb7ff18\""
   },
   "https://www.mozilla.org/si/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e0541cafe46cf200b85cb8ca2ef8c6a0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ab4f1da9634a4b92ee7b20eb90f55a0f\""
   },
   "https://www.mozilla.org/si/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -39735,8 +39755,8 @@
     "etag": "\"f8284aed2d445c4d47ed8564fe7d56b1\""
   },
   "https://www.mozilla.org/sk/about/legal/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"e3f6c9c8caf0f0ff86eb8d41b9a367a0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"fa20ba551d0adeb486c1d5aa1c2aff7e\""
   },
   "https://www.mozilla.org/sk/about/legal/firefox/": {
     "date": "2022-03-25T00:01:44.083611+00:00",
@@ -39862,8 +39882,8 @@
     "etag": "\"1a2ca60800e6aff8ff00567b68fc1f92\""
   },
   "https://www.mozilla.org/sk/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"47418346d19a85586af91518918962d8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4e0e75689c3ab58d590e573c3038f15b\""
   },
   "https://www.mozilla.org/sk/firefox/channel/ios/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -40010,24 +40030,24 @@
     "etag": "\"624e87f01f5ac228f4c67ba218c58cfb\""
   },
   "https://www.mozilla.org/sk/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ccc8cf8ffe8ae945af783345e8d32dab\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9bd1e01eeff1a1d8cf293ec8b9cc68d7\""
   },
   "https://www.mozilla.org/sk/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1a3e447f50a367ace5a19ff48a45e5c6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"60147c6f8c161874f48d2ac0869fea32\""
   },
   "https://www.mozilla.org/sk/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7d39174f1fa1b297f5f2d7135c004de0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3c8458b396867ae50b121464a2a400de\""
   },
   "https://www.mozilla.org/sk/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4ca194aac497510ac22f427516d926b9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4027366f1d207de2c6755422831cc304\""
   },
   "https://www.mozilla.org/sk/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4f95cc76c433869ffb8a1a467bfdfd30\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"865d6ad7f5c72df34a6614f7ae23963a\""
   },
   "https://www.mozilla.org/sk/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40334,12 +40354,12 @@
     "etag": "\"b2ba02d10630ce5d4223405c567af36d\""
   },
   "https://www.mozilla.org/skr/firefox/channel/ios/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7ffa1d834817822bdc96a78df5231cca\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7f190ed9dea233a5e5bf40bde220f75d\""
   },
   "https://www.mozilla.org/skr/firefox/developer/": {
-    "date": "2023-10-28T18:04:45.284511+00:00",
-    "etag": "\"ece7584afad7986458d6a5c34e38e735\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"3814e1ac9efa2920ec1fd6a80d82f4a8\""
   },
   "https://www.mozilla.org/skr/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40422,24 +40442,24 @@
     "etag": "\"7f2f727695fc2f5428926509323e36ea\""
   },
   "https://www.mozilla.org/skr/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"0505e2d3c16029fc3a03293bee5b5275\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c07ddd93f5cb92d728ccb22d9b25ab90\""
   },
   "https://www.mozilla.org/skr/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"cfff65ea2f05c2d478bfd15525822a07\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b6a1f6d0803c72e8818e247907bb6e94\""
   },
   "https://www.mozilla.org/skr/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"980badd623948b6b4eb18d068035d54a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"88e64859bc88c3ed3a8dbfdec746f327\""
   },
   "https://www.mozilla.org/skr/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"76c6cb70e29af89f36493bb1af069d73\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a6265dc365e0f3f00ae956831841d38b\""
   },
   "https://www.mozilla.org/skr/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4c792aeb73953dea3c6d89fd8a1ea54e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"add51b88678921d54377ea7ed0ee29dc\""
   },
   "https://www.mozilla.org/skr/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40454,8 +40474,8 @@
     "etag": "\"f65ddfe6694cedaccbd0a63f34f6a4be\""
   },
   "https://www.mozilla.org/skr/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d8b2a2fdcf7c1d8894500f4c41974244\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"87ab8b04405c2ac5a983d0a3ba5360d8\""
   },
   "https://www.mozilla.org/skr/privacy/faq/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40550,8 +40570,8 @@
     "etag": "\"5addc952d9c82ffb7792569332192694\""
   },
   "https://www.mozilla.org/sl/about/legal/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"c77d94fa336907294c376eb647c88dea\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"79a410a7b1597f86de6602bca6eddd6d\""
   },
   "https://www.mozilla.org/sl/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
@@ -40562,8 +40582,8 @@
     "etag": "\"2b11d9bd568748837019e5ab85fd3c02\""
   },
   "https://www.mozilla.org/sl/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"5d24c1eabcd9f842b4c4c6569a394ce5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"2ea60c33569718ed7b7a648b9df0baea\""
   },
   "https://www.mozilla.org/sl/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40796,24 +40816,24 @@
     "etag": "\"bb29d301f14874fbc6ccadaa35673c16\""
   },
   "https://www.mozilla.org/sl/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"34ef4d3c01371a6d15f288e3d8bf1a92\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8f2c985e17837d18668ee586fca34193\""
   },
   "https://www.mozilla.org/sl/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2dfc9e7f0071aeaa861ca97dc77218b6\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6eab62223a7e18b8d7fabad809963546\""
   },
   "https://www.mozilla.org/sl/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2e841891b445de5763a4fcf900952a8b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4f1219e369d8b3d2dc67ae54edf67038\""
   },
   "https://www.mozilla.org/sl/firefox/products/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"b95972aabd5dd47b4bf2448b4be65d44\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e07162b444f9f8d0940e02c37b7b45b9\""
   },
   "https://www.mozilla.org/sl/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"143927cde7c4121282924d7bce3dff1d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9f36b2a95198a03dd94129ee96fab6e3\""
   },
   "https://www.mozilla.org/sl/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -40868,8 +40888,8 @@
     "etag": "\"298a15ed65bb88cb910cbcb9c304410e\""
   },
   "https://www.mozilla.org/sl/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"9fb51c47bfe4cdee5afa9f9bc3dca3a7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4c6d6ee2a000bf54af93a5a5bcd70a14\""
   },
   "https://www.mozilla.org/sl/plugincheck/": {
     "date": "2018-08-15T03:28:56.271489+00:00",
@@ -40999,8 +41019,8 @@
     "etag": "\"6f4d9f86981902767041316058e659c5\""
   },
   "https://www.mozilla.org/son/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"571110107eb265c28dd1e1129d04f99d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"df2325f3444e110468385ea5cc864149\""
   },
   "https://www.mozilla.org/son/privacy/principles/": {
     "date": "2021-02-05T18:06:06.705949+00:00",
@@ -41165,8 +41185,8 @@
     "etag": "\"0fb8f934aeac15372331ab316fc73bb6\""
   },
   "https://www.mozilla.org/sq/firefox/channel/ios/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"b93c2f4d8e44219533fd5242f786fb95\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c77e89071f43fca3db6480159e068b2d\""
   },
   "https://www.mozilla.org/sq/firefox/developer/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -41285,24 +41305,24 @@
     "etag": "\"0c766da3c918474d07c439163ce997bd\""
   },
   "https://www.mozilla.org/sq/firefox/privacy/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"3de8b8e08cf0344195254f29cf363c84\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ed30a05aa670017ecf3ac6807f399a70\""
   },
   "https://www.mozilla.org/sq/firefox/privacy/products/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"7eeb99b33b7445701e4897f95914df8b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"5afdc61fddda5a61e85b8951c75d9cb2\""
   },
   "https://www.mozilla.org/sq/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"3261196f2de46b699d402e4fe77c1ead\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9da40bc2fadf20df776fbd92e3542419\""
   },
   "https://www.mozilla.org/sq/firefox/products/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"a853d65feac0db1f6751fb95714226f3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4fc6b22d54b02bae4d43ebbd026f9b22\""
   },
   "https://www.mozilla.org/sq/firefox/set-as-default/": {
-    "date": "2023-10-30T12:05:48.726948+00:00",
-    "etag": "\"fafdb2349ed5fa251ec06000552eb92e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e140641886059d837ad8bcdcba855fdc\""
   },
   "https://www.mozilla.org/sq/firefox/switch/": {
     "date": "2023-10-30T12:05:48.726948+00:00",
@@ -41533,8 +41553,8 @@
     "etag": "\"2ea57ad11df6e1760a35902ea88fb162\""
   },
   "https://www.mozilla.org/sr/about/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d372883dcf6ac0d737919cfcd5fdc468\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"aec018846fb70141b3e30df5a2d47bee\""
   },
   "https://www.mozilla.org/sr/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -41687,8 +41707,8 @@
     "etag": "\"7db7411e5890b2b71df1cc299fee2d03\""
   },
   "https://www.mozilla.org/sr/firefox/channel/desktop/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"867422c978856b5f12b16425f948aea4\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"12cd82ae8c4bf0dc871cda74dde036de\""
   },
   "https://www.mozilla.org/sr/firefox/channel/ios/": {
     "date": "2023-10-31T18:05:57.424359+00:00",
@@ -41807,24 +41827,24 @@
     "etag": "\"594cff4ebe88eb34a84cdec279e21ba6\""
   },
   "https://www.mozilla.org/sr/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e6b92d9ce1c6cfb3ff8397924a32c757\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"19890d98d1c7133f1a77b6aef09a35cb\""
   },
   "https://www.mozilla.org/sr/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3622bc09102bbda8b4f5df0cd77ec39b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d93651fde10432a583a77d101b3e306f\""
   },
   "https://www.mozilla.org/sr/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"8176a09ad4c9993ff0d8605832aafbf9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8c7c92ff630b6ddc2da64c70995c63fe\""
   },
   "https://www.mozilla.org/sr/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2f1c72d9a724c9d15da0adc8ea8336b3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"29385b01e8fe9435c6830b58b372feba\""
   },
   "https://www.mozilla.org/sr/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b8ae6d7f7c8270fb64c274efb69dfbd5\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6b459ab4038c13d00a0d72018c63f18b\""
   },
   "https://www.mozilla.org/sr/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -42285,24 +42305,24 @@
     "etag": "\"752d246129543a84f4d1bd2e1791dd1e\""
   },
   "https://www.mozilla.org/sv-SE/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f8d4a835754e55388348027834c96515\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"161eeef41aa491b306bf0dc5a6b5d544\""
   },
   "https://www.mozilla.org/sv-SE/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"43f097fce8957ed781b840aa3c40e853\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8c0b5f3a9e0676b45a67357cfe4abb5d\""
   },
   "https://www.mozilla.org/sv-SE/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ee8115c59627c820f8b2437fc98e7fe0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6847e2c9d198938acbb718a317215f33\""
   },
   "https://www.mozilla.org/sv-SE/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f8b97decfd8ca8c4a916f954349b067e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a0ee6883c9001918f1791b46c0371669\""
   },
   "https://www.mozilla.org/sv-SE/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a4f0450779df2c821632e1500b6a0df9\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"4734de5810ba8290ddade462cb7ae467\""
   },
   "https://www.mozilla.org/sv-SE/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -42385,8 +42405,8 @@
     "etag": "\"c1869877ffe0549e225c5d0d378b05b5\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2a3f792509ab08c4b0c16c5c8d1d6006\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"df0b2e25efdec6965e06ddf108c31c99\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -42405,8 +42425,8 @@
     "etag": "\"ea22249311038c9551ec0d8dc5d0557a\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/mozilla/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"a7397f45789b8c0e11573dc59a6bfc91\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e78f9fbb9646211c4b34b61e5129b78e\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -42525,8 +42545,8 @@
     "etag": "\"9204ad45abe9438e367a390dea4b3aae\""
   },
   "https://www.mozilla.org/ta/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"4189d3e9a8a4fe877ea09011cb51f4da\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"eb7eb45de0cdb361969fa84402bbb2e1\""
   },
   "https://www.mozilla.org/ta/about/": {
     "date": "2018-08-15T03:30:04.511963+00:00",
@@ -42611,8 +42631,8 @@
     "etag": "\"7d84b36f345a6c3b948c272b790fb029\""
   },
   "https://www.mozilla.org/ta/firefox/developer/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ef5d23083cc4fcb70c42672738ffedbc\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"81772a434a4641b1825ce6fdd6182c0a\""
   },
   "https://www.mozilla.org/ta/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -42703,8 +42723,8 @@
     "etag": "\"3e07dfe220a3b008baea7d0ee3c15d63\""
   },
   "https://www.mozilla.org/ta/mission/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ea91806774ae928bc4324189e310bc47\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9426ed3b68a80224eb31690ba1f0a9c0\""
   },
   "https://www.mozilla.org/ta/plugincheck/": {
     "date": "2018-08-15T03:28:56.864676+00:00",
@@ -42819,8 +42839,8 @@
     "etag": "\"e97b44713e36adca2dddd69e0bc5ea8b\""
   },
   "https://www.mozilla.org/th/about/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"e1c5766f0cca0cf20a9f3c6c036c95c3\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"03c5e8672644c036abd143e9e7dc57f8\""
   },
   "https://www.mozilla.org/th/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -42939,16 +42959,16 @@
     "etag": "\"cddb5eacd2a3c807bb33e50d44bc479e\""
   },
   "https://www.mozilla.org/th/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"d484b6b41ba220faa196263dcca5f407\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"536b89d9b9bf5d8a109989856ea651e5\""
   },
   "https://www.mozilla.org/th/firefox/channel/ios/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
     "etag": "\"e2b1fb881cf575cb8ae3e1f5a912cb64\""
   },
   "https://www.mozilla.org/th/firefox/developer/": {
-    "date": "2023-10-29T06:04:14.656016+00:00",
-    "etag": "\"239eb04f5c553ea739e578bd4df20e8b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"39c74df6f3f588ea51c33de46642cd1d\""
   },
   "https://www.mozilla.org/th/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -43051,24 +43071,24 @@
     "etag": "\"264338e5ef2c417a89e8ec4845936334\""
   },
   "https://www.mozilla.org/th/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"26a9af6736fe156fc30e6b8124e2abc8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a64a5ba5b4cba5c472df63037f09dd69\""
   },
   "https://www.mozilla.org/th/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"93a87fc46466fc942cf129f51cdd8f50\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a0e7eb5ed09672444a872bc5ba6a9ea5\""
   },
   "https://www.mozilla.org/th/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fa1d8a60d3a8d01f9d82063cbcb69cac\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0cffee892de0c1d1894bc2b49e39b6bb\""
   },
   "https://www.mozilla.org/th/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"e41399a23ec4d32c27162798ce3f635a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"30ad3645233a968a34ce3d859f3c16b8\""
   },
   "https://www.mozilla.org/th/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"9bce3e859045e85dff16a6a8c3e0152d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"86fc43650a140ff256f6fc2fcb5734a3\""
   },
   "https://www.mozilla.org/th/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -43433,24 +43453,24 @@
     "etag": "\"2c1b9e3d19508d4224472fca863152b2\""
   },
   "https://www.mozilla.org/tr/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"6c37f7f830b0e8028bf656c82ad8bce8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"01066ad2e13069570041b6050db5fd35\""
   },
   "https://www.mozilla.org/tr/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"7f749f72f8dd8ab150c77706abca2630\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"66891462f4e510714f9edfba3f786f8a\""
   },
   "https://www.mozilla.org/tr/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5d8e1a40bfd253341151d3661e87ed06\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"65f9c8a77a77267b293c51cc4c2f1f0a\""
   },
   "https://www.mozilla.org/tr/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b40c5dff023ddeba48269f75d947bc7c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0d97fca0b863fea1e206ce6ec52e8835\""
   },
   "https://www.mozilla.org/tr/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"2523a0795096709c288d8971a0cd8e62\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"75ed537f4e224be5534f0b1eb12aef88\""
   },
   "https://www.mozilla.org/tr/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -43725,8 +43745,8 @@
     "etag": "\"5b1773e508353c25056ed74e7c1f6341\""
   },
   "https://www.mozilla.org/uk/about/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"46973ec3d9399ea84d4d9d6d18045b7d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"141ce2a17283130a7f3d203de4fc1392\""
   },
   "https://www.mozilla.org/uk/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2023-10-29T12:04:39.297581+00:00",
@@ -43741,8 +43761,8 @@
     "etag": "\"52de1706c51e153221203d99bf9db3bc\""
   },
   "https://www.mozilla.org/uk/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"43cd6b5fec3510f1563140bd7f5e8fdc\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ff8f02825dd2bd6f9213fd1fb8cd6ad1\""
   },
   "https://www.mozilla.org/uk/about/legal/firefox/": {
     "date": "2022-03-25T00:01:44.083611+00:00",
@@ -43753,8 +43773,8 @@
     "etag": "\"e666428230cb98915096e09a797adf36\""
   },
   "https://www.mozilla.org/uk/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"6f844e14b0b860fed6180e327171b96c\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"59372c6fa8f1e0a346a1c1160b253904\""
   },
   "https://www.mozilla.org/uk/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -43883,8 +43903,8 @@
     "etag": "\"2604726a3159079d7cd6fe6a9e7ce1ef\""
   },
   "https://www.mozilla.org/uk/firefox/developer/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"f8d1942d99913cfe1d0ed1d819bde3e2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ebbf2efe05516b9225b49ea625342f93\""
   },
   "https://www.mozilla.org/uk/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44023,24 +44043,24 @@
     "etag": "\"bc98b091d4e7415885046d1cafb1cadf\""
   },
   "https://www.mozilla.org/uk/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"bd59c5fc5daed1acb6fe8b51b49cc09f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c088b6f63d6870571f06d860f8682b57\""
   },
   "https://www.mozilla.org/uk/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ab58f897676665fe1d16d7259b319cf1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"af3adb860539cb36882a6260a44c0b36\""
   },
   "https://www.mozilla.org/uk/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"91c3ec36faf214b460ef49d65059809b\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"97006bb945e537bcbe2b4589a2de7047\""
   },
   "https://www.mozilla.org/uk/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"852f5173b21a463753a16adb1eacdd94\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"bb1ac127b364b297ce88fa701cde5148\""
   },
   "https://www.mozilla.org/uk/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"cbe709a2b196665fa3cd911a706a47fa\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"82f0a72eb1dfa3e90018700afed055e3\""
   },
   "https://www.mozilla.org/uk/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44123,8 +44143,8 @@
     "etag": "\"ccefa72558b693e447a97541d8b4a838\""
   },
   "https://www.mozilla.org/uk/newsletter/firefox/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"083c2a61e3445a2034180a7754c461ef\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c89670b8e1cbfad37f39cc6e35b95928\""
   },
   "https://www.mozilla.org/uk/newsletter/knowledge-is-power/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44267,8 +44287,8 @@
     "etag": "\"4e233f7b842936ea87fed11281196442\""
   },
   "https://www.mozilla.org/ur/about/manifesto/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"6a4b4e36e796a6427570ce07209addb7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a50f49da4ac71168cbc0fe8e50e156a9\""
   },
   "https://www.mozilla.org/ur/about/manifesto/details/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44299,12 +44319,12 @@
     "etag": "\"a5d216a6de14e18c421ddfd98fe17e07\""
   },
   "https://www.mozilla.org/ur/firefox/channel/desktop/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"104eeb19f18dfdbd11f222b889847eec\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1f41311723676670549dd8a60427ae41\""
   },
   "https://www.mozilla.org/ur/firefox/channel/ios/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"19fc1a84a58fb88e8e931ce595de0636\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"91b547f969d876fed1154e8d194188db\""
   },
   "https://www.mozilla.org/ur/firefox/facebookcontainer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44387,12 +44407,12 @@
     "etag": "\"6ade71835868b1e9b9be93ac01d7a8cf\""
   },
   "https://www.mozilla.org/ur/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1cf1935f507d2b2241818b83bf58576f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"51f65921f77ca50c0f241cbd52a83091\""
   },
   "https://www.mozilla.org/ur/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b87d1e865360c3fe03d397ef81009bff\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"1d45e04bdc9e3cbe1c704297707c6966\""
   },
   "https://www.mozilla.org/ur/firefox/whatsnew/africa/": {
     "date": "2021-07-06T18:03:03.363853+00:00",
@@ -44423,8 +44443,8 @@
     "etag": "\"2fec21ac24a68104f663c44ba2aba754\""
   },
   "https://www.mozilla.org/ur/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"92ff8c4dc017a8edd61be59519e34914\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ee9e030a08ae8e7fa3884d76b0e049a0\""
   },
   "https://www.mozilla.org/ur/privacy/principles/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44499,8 +44519,8 @@
     "etag": "\"5ccc21d0eab89298eed751680349273f\""
   },
   "https://www.mozilla.org/vi/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"604326a167700bd38b0946d6d5a340f1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c9bb1fe8f1571f35e8ed52f9455a88f8\""
   },
   "https://www.mozilla.org/vi/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44647,8 +44667,8 @@
     "etag": "\"cab02fe3d2875c190af30ae1a67f66cd\""
   },
   "https://www.mozilla.org/vi/firefox/developer/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"9b3f6927d0210359953d473f2faf1566\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cefca4a51cc725d848e5b74e65ea0cfd\""
   },
   "https://www.mozilla.org/vi/firefox/enterprise/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44787,24 +44807,24 @@
     "etag": "\"b0de0686b20e7f58ad1c079f1b3b16a9\""
   },
   "https://www.mozilla.org/vi/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"fd85b7b20bfd90d262d0dd31f6cdbc2f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"31f75c992c8d279fc7a8fba90640aa68\""
   },
   "https://www.mozilla.org/vi/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f94bdc729e6c99078ce75b8b170fb25f\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"e26df1805452ada5a775f664faf6a95b\""
   },
   "https://www.mozilla.org/vi/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"5713846cdee99c3fdaf0fb241f406f59\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"b2c3e3949a2df7b92f12ea736378a85f\""
   },
   "https://www.mozilla.org/vi/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"a648d422cdfe6291b5f1179ae32cf4d0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"cb25618cb285103cd4246987c8a32885\""
   },
   "https://www.mozilla.org/vi/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"03dd585e46fe95dc46f59bd8a748711e\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"9603a83596a5a4ed1b1f670f2dab72b9\""
   },
   "https://www.mozilla.org/vi/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -44843,8 +44863,8 @@
     "etag": "\"309fba7738bf466e42c7dd7e657824c0\""
   },
   "https://www.mozilla.org/vi/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"e419f5ac798c6a62c6ab34175ee68bf7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"80c744382a695196701fee8dced2beac\""
   },
   "https://www.mozilla.org/vi/newsletter/": {
     "date": "2023-10-28T18:04:45.284511+00:00",
@@ -45071,8 +45091,8 @@
     "etag": "\"7e5da29b434cdd55af7b7c3c33f0d30a\""
   },
   "https://www.mozilla.org/xh/mission/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"24b5300df795d3f3fb3a936dc5921401\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"7982c8a03892a4d08b4724a130a792a2\""
   },
   "https://www.mozilla.org/xh/privacy/": {
     "date": "2022-05-11T18:02:10.044261+00:00",
@@ -45107,8 +45127,8 @@
     "etag": "\"54ff9ec6e540b05a32a0646993f12786\""
   },
   "https://www.mozilla.org/zh-CN/about/legal/": {
-    "date": "2023-10-31T18:05:57.424359+00:00",
-    "etag": "\"9ff6a64921dbb4a1ee076da83751a0c2\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c0f45246a75256a0c242523d60e8526f\""
   },
   "https://www.mozilla.org/zh-CN/about/legal/acceptable-use/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -45253,12 +45273,12 @@
     "etag": "\"9a1c66eb1f1905926210b6a5d1c08ce7\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/android/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"a5e775476119ed3bd9b95a210529dcc7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"8548b9c06528b72df5305d242911aa0b\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/desktop/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"98bd6aa9e4db2f2259acda50ea9b56be\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"d01b97e1a1e1bdd0d4e592ef002fc7fa\""
   },
   "https://www.mozilla.org/zh-CN/firefox/channel/ios/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -45405,24 +45425,24 @@
     "etag": "\"8e511046fc294fdebb380225de8d7ea6\""
   },
   "https://www.mozilla.org/zh-CN/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"394a824fccddbbba20a02c20d51ec7ec\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"ad1f1a652ca70a56ad93e667dab06182\""
   },
   "https://www.mozilla.org/zh-CN/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"d4d2aeff56f94f41f59d0d1b44dff33a\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"df62b40ec455f3eedf65ec6c0151e43c\""
   },
   "https://www.mozilla.org/zh-CN/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"b3e5d5ca39f055ad12098610c1e5cfe8\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c2fa2a1f5207d0553f1c4d3a8d8efab9\""
   },
   "https://www.mozilla.org/zh-CN/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"1593439fcda650c7aa5f90dc6a8be892\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"40d2cf55b42ac35c56ed2955c2099267\""
   },
   "https://www.mozilla.org/zh-CN/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"3427bd768ab3bd4c2918214d2c639a21\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"52824d73600a5ae7db99e6b0607492af\""
   },
   "https://www.mozilla.org/zh-CN/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -45481,8 +45501,8 @@
     "etag": "\"9babdf5db6a983d6fbdc57458fa79c0c\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"83a1a9fc771097d290b533ad232a7b5d\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"36a893b1849b20a36850648b418f6c87\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/developer/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -45501,8 +45521,8 @@
     "etag": "\"4043aeb7dd901e9f1790a10082223f56\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/mozilla/": {
-    "date": "2023-10-29T12:04:39.297581+00:00",
-    "etag": "\"693728502d3211919cdd99c56ea6b562\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"736f60cad820584cc23d0f6ebe72f9e8\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -45693,8 +45713,8 @@
     "etag": "\"b802f0a882cd409d8018c8b25d137fd7\""
   },
   "https://www.mozilla.org/zh-TW/about/governance/policies/participation/reporting/community-hotline/": {
-    "date": "2023-10-27T06:05:00.509665+00:00",
-    "etag": "\"d277c195fd1e4967909fd00c668bedc7\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"018b46bc8f19a4b2a06cc868c6f8cb72\""
   },
   "https://www.mozilla.org/zh-TW/about/history/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -45705,8 +45725,8 @@
     "etag": "\"bb68ba18b3e4e94e36bc17af3f84540e\""
   },
   "https://www.mozilla.org/zh-TW/about/legal/": {
-    "date": "2023-11-01T06:04:43.812854+00:00",
-    "etag": "\"8e11a46a30ece60cc0837a945621a160\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"57f81350b811a587087703438d7990b8\""
   },
   "https://www.mozilla.org/zh-TW/about/legal/firefox/": {
     "date": "2022-03-24T18:02:16.915694+00:00",
@@ -45999,24 +46019,24 @@
     "etag": "\"91070291ac86e1bd6161c5ade77a7024\""
   },
   "https://www.mozilla.org/zh-TW/firefox/privacy/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"4ab884f4e797d0cfac67d31d0d088d40\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"04b5fcb8ab298e6c23804dceba07e57b\""
   },
   "https://www.mozilla.org/zh-TW/firefox/privacy/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"cbd091ea45171a31de7a7d93f22bcaf0\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"c2f0d3a311a863b4d71ebcb1434bb9c7\""
   },
   "https://www.mozilla.org/zh-TW/firefox/privacy/safe-passwords/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"f0fa23c7bc2104337cee326693fcea50\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"6ff17bb35a372194554b16c17ec301fc\""
   },
   "https://www.mozilla.org/zh-TW/firefox/products/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"ce8d459d8752a4ac881fbbc40c56b3c1\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"171bc4743bed496ba4a2d6d614286c62\""
   },
   "https://www.mozilla.org/zh-TW/firefox/set-as-default/": {
-    "date": "2023-10-24T18:05:07.075441+00:00",
-    "etag": "\"40992ebf3ad73d07fb4a1e2cb73e8a83\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"a10d57d7a74c8871f396181052f7aa2d\""
   },
   "https://www.mozilla.org/zh-TW/firefox/switch/": {
     "date": "2023-10-24T18:05:07.075441+00:00",
@@ -46107,8 +46127,8 @@
     "etag": "\"3610b1e5fa298aa762f604ef466ce1da\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/mozilla/": {
-    "date": "2023-10-29T18:06:05.925816+00:00",
-    "etag": "\"62fc4fc62a311b64fb6b4f73acba2593\""
+    "date": "2023-11-01T12:05:22.703578+00:00",
+    "etag": "\"0410debb90910e086096de51f485a564\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/newsletter-strings.json": {
     "date": "2023-09-22T18:04:28.084263+00:00",
