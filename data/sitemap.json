@@ -1749,6 +1749,12 @@
   "/firefox/115.4.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.5.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.5.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/116.0.1/releasenotes/": [
     "en-US"
   ],
@@ -1863,6 +1869,12 @@
   "/firefox/119.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/120.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/120.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/120.0a1/releasenotes/": [
     "en-US"
   ],
@@ -1879,6 +1891,12 @@
     "en-US"
   ],
   "/firefox/121.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/121.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/121.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/122.0a1/releasenotes/": [
@@ -4991,6 +5009,12 @@
     "en-US"
   ],
   "/firefox/android/119.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/120.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/120.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -8577,6 +8601,12 @@
   "/firefox/ios/12.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/ios/120.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/120.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/ios/14.0/releasenotes/": [
     "en-US"
   ],
@@ -10711,12 +10741,15 @@
     "es-CL",
     "hu",
     "id",
+    "ja",
     "ms",
+    "nl",
     "pt-BR",
     "pt-PT",
     "ru",
     "sq",
-    "sv-SE"
+    "sv-SE",
+    "zh-CN"
   ],
   "/products/vpn/invite/": [
     "ar",
@@ -15083,6 +15116,18 @@
     "en-US"
   ],
   "/security/advisories/mfsa2023-48/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-49/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-50/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-51/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2023-52/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
