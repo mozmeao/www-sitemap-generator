@@ -10734,6 +10734,7 @@
   ],
   "/products/vpn/features/": [
     "bs",
+    "cs",
     "cy",
     "en-GB",
     "en-US",
@@ -10742,6 +10743,7 @@
     "hu",
     "id",
     "ja",
+    "ka",
     "ms",
     "nl",
     "pt-BR",
@@ -10749,7 +10751,8 @@
     "ru",
     "sq",
     "sv-SE",
-    "zh-CN"
+    "zh-CN",
+    "zh-TW"
   ],
   "/products/vpn/invite/": [
     "ar",
