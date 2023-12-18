@@ -1915,6 +1915,12 @@
   "/firefox/122.0a1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/123.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/123.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -8266,6 +8272,7 @@
     "fi",
     "fr",
     "fy-NL",
+    "gn",
     "hi-IN",
     "hu",
     "ia",
