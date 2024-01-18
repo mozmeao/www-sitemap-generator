@@ -1313,8 +1313,8 @@
     "etag": "\"de05af194bf096ffde7b83977c241ebb\""
   },
   "https://www.mozilla.org/be/about/manifesto/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"96d2380d3a6c655db930a87a0e59c254\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"0f6e6d7fa15097dfd993ea30cba7c0c0\""
   },
   "https://www.mozilla.org/be/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -5314,8 +5314,8 @@
     "etag": "\"98a2ccebcc4280677fbf04e2b4548c59\""
   },
   "https://www.mozilla.org/dsb/about/manifesto/": {
-    "date": "2024-01-09T18:04:12.985373+00:00",
-    "etag": "\"a65e50a6a28ee9a9e17461ec4b3262e8\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"890cd30504f6fe3cf7de0246a128d796\""
   },
   "https://www.mozilla.org/dsb/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -7142,8 +7142,8 @@
     "etag": "\"ed1f269ee15cb3fce4da5f952ce337f5\""
   },
   "https://www.mozilla.org/en-GB/newsletter/mozilla/": {
-    "date": "2024-01-13T12:05:13.137246+00:00",
-    "etag": "\"adc809b3c5dbbdccfc23a8ef5e5050cb\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"4f2e8564363615cd61d57822d26a412b\""
   },
   "https://www.mozilla.org/en-GB/newsletter/newsletter-strings.json": {
     "date": "2023-09-20T00:10:53.730414+00:00",
@@ -7274,8 +7274,8 @@
     "etag": "\"4a5cb4648eed9e85ee23b3a5d173bbe1\""
   },
   "https://www.mozilla.org/en-US/MPL/1.1/FAQ/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"66785b0a509177e0e7e1394a1fb26f03\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"386d2f5a364041684d3c74e8618a0954\""
   },
   "https://www.mozilla.org/en-US/MPL/1.1/annotated/": {
     "date": "2023-02-07T00:02:46.460971+00:00",
@@ -7290,8 +7290,8 @@
     "etag": "\"54757fe8586d97e1a3a7751c1031525f\""
   },
   "https://www.mozilla.org/en-US/MPL/2.0/Revision-FAQ/": {
-    "date": "2024-01-14T00:12:40.048799+00:00",
-    "etag": "\"44d996240b2b004704e395e6fcc15279\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"380a1eca617c03b543a9e0513846194a\""
   },
   "https://www.mozilla.org/en-US/MPL/2.0/combining-mpl-and-gpl/": {
     "date": "2024-01-13T18:04:17.077267+00:00",
@@ -7306,8 +7306,8 @@
     "etag": "\"6ed2889e86ca0760ee4af0650e7cf80b\""
   },
   "https://www.mozilla.org/en-US/MPL/headers/": {
-    "date": "2024-01-12T18:04:17.386687+00:00",
-    "etag": "\"629f1313cd33da028c525dbb48a32689\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"a14317d7e4d06bd8952116eefe4a36d6\""
   },
   "https://www.mozilla.org/en-US/MPL/historical/": {
     "date": "2024-01-15T00:11:59.664014+00:00",
@@ -7318,8 +7318,8 @@
     "etag": "\"ca6520152d5370e494ebbc79f572fff8\""
   },
   "https://www.mozilla.org/en-US/about/": {
-    "date": "2024-01-13T12:05:13.137246+00:00",
-    "etag": "\"d585159404d6d68325926cb175501cb5\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"e3b1e131d92fd99c8d64d2918aa4db9d\""
   },
   "https://www.mozilla.org/en-US/about/forums/": {
     "date": "2024-01-17T12:05:19.396556+00:00",
@@ -7346,8 +7346,8 @@
     "etag": "\"0e4e597e3338a16098ecfa836270d24a\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/commit/": {
-    "date": "2024-01-13T12:05:13.137246+00:00",
-    "etag": "\"c5d06a67d5c1a7c0c8015c3a3f54b7e6\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"7e7365b38079faf48ec909c9c111b837\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/commit/access-policy/": {
     "date": "2024-01-15T00:11:59.664014+00:00",
@@ -7358,16 +7358,16 @@
     "etag": "\"e38b44ef4c836a1e27a386b2acac77ea\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/module-ownership/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"e06283cfc2ac8dc4478dd467d3b266c0\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"3b5b73775cd94e2c50d4a66828137bb0\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/participation/": {
     "date": "2024-01-14T00:12:40.048799+00:00",
     "etag": "\"7c5a61a9678b299794a3a6c2aa0de766\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"80dd877977a506548a7b7b9f91e5a167\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"c2827bdfb0f6938252841fef9c55f963\""
   },
   "https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/community-hotline/": {
     "date": "2024-01-16T06:04:37.836428+00:00",
@@ -7583,8 +7583,8 @@
     "etag": "\"0ae601ff074ea1232e79d1eca7d17418\""
   },
   "https://www.mozilla.org/en-US/about/policy/patents/": {
-    "date": "2024-01-13T12:05:13.137246+00:00",
-    "etag": "\"244bbf0cde0a38af45fce2a664046335\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"76662790264ba88d2057a5f943dc2a2c\""
   },
   "https://www.mozilla.org/en-US/about/policy/patents/guide/": {
     "date": "2024-01-15T00:11:59.664014+00:00",
@@ -15823,8 +15823,8 @@
     "etag": "\"deb75a945471053bce0c20f7cb31f195\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2009/sustainability/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"58259ede90e1e65f86843b7f975bc842\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"ebb6fad943bc49cd2135aa081f61d5c7\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -15843,8 +15843,8 @@
     "etag": "\"08fef025b28831a88017f0b440a80eb4\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2010/people/": {
-    "date": "2024-01-13T18:04:17.077267+00:00",
-    "etag": "\"405befa2c7fb0bbe928d1ecacbd176c0\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"9cdefbf151ba0d3000f241e223717213\""
   },
   "https://www.mozilla.org/en-US/foundation/annualreport/2011/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -15947,8 +15947,8 @@
     "etag": "\"189f449dbbc466cb21c76fbfe825da57\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/articles-of-incorporation/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"9b803a09feba56a7729da93873343451\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"d48e33511318b00fdb2babb65595bbc0\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/articles-of-incorporation/amendment/": {
     "date": "2024-01-12T18:04:17.386687+00:00",
@@ -15975,8 +15975,8 @@
     "etag": "\"633d119fed2f5dfea3e43dcc81b92df6\""
   },
   "https://www.mozilla.org/en-US/foundation/documents/mozilla-2008-financial-faq/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"e3a3bf6999f93af23e749305ceca3a70\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"2424c808a3d9a811e933f8f57c790911\""
   },
   "https://www.mozilla.org/en-US/foundation/feed-icon-guidelines/": {
     "date": "2024-01-16T06:04:37.836428+00:00",
@@ -15999,8 +15999,8 @@
     "etag": "\"558e71d8163dab062dda20f8e285b295\""
   },
   "https://www.mozilla.org/en-US/foundation/licensing/binary-components/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"1f08f37e7deaf66d5108ba606fdfca2f\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"dfd1346d1784782c2b9b6b4bb01bffae\""
   },
   "https://www.mozilla.org/en-US/foundation/licensing/binary-components/rationale/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -22565,8 +22565,8 @@
     "etag": "\"743c7a18d6bfc29d38c8ce835eb7d9ff\""
   },
   "https://www.mozilla.org/es-AR/about/manifesto/": {
-    "date": "2024-01-13T18:04:17.077267+00:00",
-    "etag": "\"47df39d0df8021fc8ea1ade47e382067\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"da34eb58a7756b2296d3feaeb568b7df\""
   },
   "https://www.mozilla.org/es-AR/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -24071,8 +24071,8 @@
     "etag": "\"6aa60b43dd32998010fe36844a326f42\""
   },
   "https://www.mozilla.org/es-ES/newsletter/mozilla/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"d9ab5c8ae0bdba66828c118f0a48e883\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"aba48a0e0b3473a28d54a0d3cfc55e51\""
   },
   "https://www.mozilla.org/es-ES/newsletter/newsletter-strings.json": {
     "date": "2023-10-02T00:11:47.001184+00:00",
@@ -24259,8 +24259,8 @@
     "etag": "\"6d2882c9677c126a4537da03052fab8e\""
   },
   "https://www.mozilla.org/es-MX/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"db94938ea62c14f0bf61a7f54468b965\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"17d4423b4e405203f0a090ba8a2d2988\""
   },
   "https://www.mozilla.org/es-MX/about/": {
     "date": "2024-01-13T12:05:13.137246+00:00",
@@ -26293,8 +26293,8 @@
     "etag": "\"1d881b648dbf6800a5ee1a223e2c6063\""
   },
   "https://www.mozilla.org/fr/mission/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"e8be671dfbec82d8ea482bbd761f7cb7\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"61ff4f7d5ceece68e2c19f84c7d90792\""
   },
   "https://www.mozilla.org/fr/newsletter/": {
     "date": "2024-01-16T06:04:37.836428+00:00",
@@ -27535,8 +27535,8 @@
     "etag": "\"12e9f6b3fe0df83aba4cb9da3be58fd3\""
   },
   "https://www.mozilla.org/gn/about/manifesto/": {
-    "date": "2024-01-14T00:12:40.048799+00:00",
-    "etag": "\"b4bdd552370f822d6374ba27f1822308\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"02c0ea815f35eeb25cd5496dea66e5d1\""
   },
   "https://www.mozilla.org/gn/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -28339,8 +28339,8 @@
     "etag": "\"b090a111f19719948193ad6b584ab735\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"5571fc87b17067eaa9e91a32aca625ee\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"9a52d288f45a652c64c2b6f9dacb2e4a\""
   },
   "https://www.mozilla.org/hi-IN/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -28689,8 +28689,8 @@
     "etag": "\"2f192e9ffad0a0dcefc1b84b9638875e\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/firefox/": {
-    "date": "2024-01-13T18:04:17.077267+00:00",
-    "etag": "\"eca43da8d02de40e2385f68305e7b9ba\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"aaa803fb76637965ef0bce2ac65e4699\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -28701,8 +28701,8 @@
     "etag": "\"11f456aaa7852a79107961b8234f23ce\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/mozilla/": {
-    "date": "2024-01-12T18:04:17.386687+00:00",
-    "etag": "\"15da72e31638c4db6ff94be3af11a13f\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"aeea29cfe55752575ea3be7a52b9b67a\""
   },
   "https://www.mozilla.org/hi-IN/newsletter/newsletter-strings.json": {
     "date": "2023-09-25T12:05:58.712513+00:00",
@@ -30697,8 +30697,8 @@
     "etag": "\"688369f8085b4209d481aa6440b2c0c3\""
   },
   "https://www.mozilla.org/id/about/manifesto/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"43d913eda57ce5b9bf6be6df662bb197\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"30cb0898463e247a5da319eac3b692fb\""
   },
   "https://www.mozilla.org/id/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -31059,16 +31059,16 @@
     "etag": "\"c410f669caa92ff046feb8db130ba327\""
   },
   "https://www.mozilla.org/id/newsletter/": {
-    "date": "2024-01-14T00:12:40.048799+00:00",
-    "etag": "\"7c1581ad8bd034ee7af920ba5746fa57\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"5f195f8ea5eb225c4db0a005290e0f0a\""
   },
   "https://www.mozilla.org/id/newsletter/developer/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
     "etag": "\"e09c309f8b1456f0b7813c347f6c9d11\""
   },
   "https://www.mozilla.org/id/newsletter/firefox/": {
-    "date": "2024-01-13T18:04:17.077267+00:00",
-    "etag": "\"a89ffd90cd073bb6daa87c485b139281\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"93f85c534a888922e0429f4bc57b4979\""
   },
   "https://www.mozilla.org/id/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -31079,8 +31079,8 @@
     "etag": "\"3a91ca866126bc020ba0614da4de5b09\""
   },
   "https://www.mozilla.org/id/newsletter/mozilla/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"5b8631a77abaf7c6f45d8ff8f45655d0\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"415419c51dff7ac5bc657753a509de7e\""
   },
   "https://www.mozilla.org/id/newsletter/newsletter-strings.json": {
     "date": "2023-09-24T18:04:48.184369+00:00",
@@ -31861,8 +31861,8 @@
     "etag": "\"7337d8210981ff6503c163b010aee987\""
   },
   "https://www.mozilla.org/it/newsletter/firefox/": {
-    "date": "2024-01-13T12:05:13.137246+00:00",
-    "etag": "\"c6af87d3345375d9569f200dd79b7310\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"4c03e56750d6fdcca64c2c26c087a200\""
   },
   "https://www.mozilla.org/it/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -33077,8 +33077,8 @@
     "etag": "\"15d23931db7c80c75e3bc8baa858d550\""
   },
   "https://www.mozilla.org/ka/newsletter/mozilla/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"ec14d3ddab9544620a3157fbff2b4110\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"2d820aa3f52ccffc254dd5dd0d2fb9a3\""
   },
   "https://www.mozilla.org/ka/newsletter/newsletter-strings.json": {
     "date": "2023-07-05T18:05:06.125767+00:00",
@@ -33197,8 +33197,8 @@
     "etag": "\"0dc24ad33adf6a33a1592c8f2630a0be\""
   },
   "https://www.mozilla.org/kab/": {
-    "date": "2024-01-12T18:04:17.386687+00:00",
-    "etag": "\"a90ee396dffbaeae70c899066d6e9d85\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"65ee952dd3066a8d51efebb7370e2f62\""
   },
   "https://www.mozilla.org/kab/about/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -33213,8 +33213,8 @@
     "etag": "\"12858679ffe5eed71cf7bd03fe565a6d\""
   },
   "https://www.mozilla.org/kab/about/manifesto/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"c676b246547d45b48892711561f97f0b\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"b430b1a35a5bd4d430662a5899b1dc73\""
   },
   "https://www.mozilla.org/kab/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -35465,8 +35465,8 @@
     "etag": "\"069a9ef1d4b11f89c33a41f72c3a8f5a\""
   },
   "https://www.mozilla.org/ms/newsletter/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"6e2afc78d3e6e1ba9093f44c23d8780a\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"ac3605b9609c33ec09a3741d91faa4bf\""
   },
   "https://www.mozilla.org/ms/newsletter/developer/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -36523,8 +36523,8 @@
     "etag": "\"bac347c823548913c8542852e88e4296\""
   },
   "https://www.mozilla.org/nl/newsletter/firefox/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"ec3497cb1e2aa9da22210e7ac90b521d\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"0b51fbfcbf04271a6f9efa994f5e40a5\""
   },
   "https://www.mozilla.org/nl/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -38193,8 +38193,8 @@
     "etag": "\"d87aa788c8e597bf089a51a20bc936c2\""
   },
   "https://www.mozilla.org/pt-BR/mission/": {
-    "date": "2024-01-15T00:11:59.664014+00:00",
-    "etag": "\"9953c0b075ea8a235b078fd3ea083b63\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"501d2ace427de401aaf4824a2e03f28a\""
   },
   "https://www.mozilla.org/pt-BR/newsletter/": {
     "date": "2024-01-16T06:04:37.836428+00:00",
@@ -39159,8 +39159,8 @@
     "etag": "\"731d982979ff5e98ed9fdfee55500276\""
   },
   "https://www.mozilla.org/rm/mission/": {
-    "date": "2024-01-09T18:04:12.985373+00:00",
-    "etag": "\"828506866b3396a16611c1c92500fbd9\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"865dff55934cc2bf88225258acaa16c3\""
   },
   "https://www.mozilla.org/rm/plugincheck/": {
     "date": "2018-08-15T03:28:56.617520+00:00",
@@ -40003,16 +40003,16 @@
     "etag": "\"04b9c4f8ee9b4c4b5af308ca37d87671\""
   },
   "https://www.mozilla.org/ru/newsletter/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"ec881175a967bd1968b524599256f4f8\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"bd318846b8f2e00b8d3a2a3fd65e1391\""
   },
   "https://www.mozilla.org/ru/newsletter/developer/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
     "etag": "\"ff5590f80570e96d0ca4ff016d6239fb\""
   },
   "https://www.mozilla.org/ru/newsletter/firefox/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"4847acc8e5a1f6e2a1295adbf6d55def\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"e41c8ce445ec90e6108fcc2c8263ea66\""
   },
   "https://www.mozilla.org/ru/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -40774,8 +40774,8 @@
     "etag": "\"cbbf56cd10e1455591f1311c33711b30\""
   },
   "https://www.mozilla.org/sk/mission/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"e91a027261fd004a7b7d3582dc6ca747\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"666a54e0ccd9a01afdb521d8fb9b2f8c\""
   },
   "https://www.mozilla.org/sk/plugincheck/": {
     "date": "2018-08-15T03:28:58.082433+00:00",
@@ -41246,8 +41246,8 @@
     "etag": "\"3c864b3b9f8702fde42a8083de102d9f\""
   },
   "https://www.mozilla.org/sl/about/manifesto/": {
-    "date": "2024-01-09T18:04:12.985373+00:00",
-    "etag": "\"8864a3c8a72847fdd3b520d874b40373\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"ed53e2babd590665f69c800cad479e48\""
   },
   "https://www.mozilla.org/sl/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -42743,8 +42743,8 @@
     "etag": "\"bfe11dfda97e9964adc252b6279125bf\""
   },
   "https://www.mozilla.org/sv-SE/about/manifesto/": {
-    "date": "2024-01-14T00:12:40.048799+00:00",
-    "etag": "\"73043d3d4c99b738bc50f0288b2c3c2d\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"afa4d17e39cb1f26b8beba49c203b803\""
   },
   "https://www.mozilla.org/sv-SE/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -43113,8 +43113,8 @@
     "etag": "\"eeb72ab9563ef02f1f61047d6587a002\""
   },
   "https://www.mozilla.org/sv-SE/mission/": {
-    "date": "2024-01-12T18:04:17.386687+00:00",
-    "etag": "\"4af88f74df266799d13e2ed0da879a61\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"ed932b4f7274f2c0d2e24f9e492c1f4e\""
   },
   "https://www.mozilla.org/sv-SE/newsletter/": {
     "date": "2024-01-15T00:11:59.664014+00:00",
@@ -45599,8 +45599,8 @@
     "etag": "\"2a5410b1fa23c1c25d7186138f8759d5\""
   },
   "https://www.mozilla.org/vi/mission/": {
-    "date": "2024-01-17T12:05:19.396556+00:00",
-    "etag": "\"f4c5281ff98d9812738ab8cb4797be4b\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"e4e6f5cece0d2bcbb81ef3ad104d4a35\""
   },
   "https://www.mozilla.org/vi/newsletter/": {
     "date": "2024-01-14T00:12:40.048799+00:00",
@@ -45895,8 +45895,8 @@
     "etag": "\"b815e3c5bebc4470400e5fae91341e75\""
   },
   "https://www.mozilla.org/zh-CN/about/manifesto/": {
-    "date": "2024-01-09T18:04:12.985373+00:00",
-    "etag": "\"47ec359e0c746244c2e04705fa2a3094\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"2e2e622c0520103b117a74fd975886ac\""
   },
   "https://www.mozilla.org/zh-CN/about/manifesto/details/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -46253,8 +46253,8 @@
     "etag": "\"2667931c2ec489d4a1841d84114179a3\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/firefox/": {
-    "date": "2024-01-16T06:04:37.836428+00:00",
-    "etag": "\"68f088ad6f87ca2be1a3cd33a9d9733b\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"e70a9093d178c52807a396efff3558b4\""
   },
   "https://www.mozilla.org/zh-CN/newsletter/knowledge-is-power/": {
     "date": "2024-01-09T18:04:12.985373+00:00",
@@ -46855,8 +46855,8 @@
     "etag": "\"c8bf1e18d7787ea82589cc67dc1f6c6a\""
   },
   "https://www.mozilla.org/zh-TW/mission/": {
-    "date": "2024-01-13T18:04:17.077267+00:00",
-    "etag": "\"6944c7b7871b27256168d3fc71482a45\""
+    "date": "2024-01-18T00:11:21.074892+00:00",
+    "etag": "\"60c63a3e02b8a71dc1cf3afd0c140e1d\""
   },
   "https://www.mozilla.org/zh-TW/newsletter/": {
     "date": "2024-01-13T18:04:17.077267+00:00",
