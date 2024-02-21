@@ -7723,8 +7723,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"d0addcd1a05e2975f014ed6b68ee1476\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"1b57368b2a85731faa242c796f5f4f28\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -16917,8 +16917,8 @@
     "etag": "\"07a2d4c8c3a70fcd0995f906c90506c8\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"f539bea2027c3154466c8501ab10b549\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"5ff35c07a84560fbb16e8c34abf26cf7\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -22300,6 +22300,10 @@
     "date": "2024-02-20T18:05:03.640803+00:00",
     "etag": "\"b844452260f4ce9b1a8fa0298857bee0\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-07/": {
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"9234a580b1a984e98d0d15f3b1a234bc\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
     "etag": "\"aa3b3d344a8dbcae4d93cf47caa4315d\""
@@ -22313,8 +22317,8 @@
     "etag": "\"a32cfd6167e2f3f5922caa90f49d1e40\""
   },
   "https://www.mozilla.org/en-US/security/bug-bounty/hall-of-fame/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"020b8ef44b80d6ffe9472fae9225a251\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"607d543da1c6f702023d594b5a1abd44\""
   },
   "https://www.mozilla.org/en-US/security/bug-bounty/web-eligible-sites/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -22425,8 +22429,8 @@
     "etag": "\"4f958a020201fbd67e3975c53faf2826\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"8747d90f14f859d74b3f70787b06235f\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"3ed4fbefcc65e39ef865e408bafc83b9\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -44695,8 +44699,8 @@
     "etag": "\"1c6a8777b688ed407f5cbe616bc7eafd\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/compare/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"181e45ac0d16620b03e62bfef60cdba8\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"a2deea1e0f67fa2d3491e21b727e7f98\""
   },
   "https://www.mozilla.org/uk/firefox/browsers/compare/brave/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -44763,12 +44767,12 @@
     "etag": "\"3d0427f7047f73da79b3a9dac93b26ae\""
   },
   "https://www.mozilla.org/uk/firefox/channel/android/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"bff52f5fe5368c496bc615c1aef066e3\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"cfb2a945b6bb75ec4f504adf455df2f2\""
   },
   "https://www.mozilla.org/uk/firefox/channel/desktop/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"54535ab0ca77a5038cf6f1f2def00b28\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"ebcf9fe27a212106bbf39fe2564cc4d9\""
   },
   "https://www.mozilla.org/uk/firefox/channel/ios/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -44903,8 +44907,8 @@
     "etag": "\"bc3f01efdd59404c4540cf48a62a6e38\""
   },
   "https://www.mozilla.org/uk/firefox/more/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"5b10da38793b50316ea2ab2fa6ddd070\""
+    "date": "2024-02-21T00:10:53.856467+00:00",
+    "etag": "\"9244cd0c0c9512d40d36acc76283812b\""
   },
   "https://www.mozilla.org/uk/firefox/more/misinformation/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
