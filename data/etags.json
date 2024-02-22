@@ -7723,8 +7723,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2024-02-21T00:10:53.856467+00:00",
-    "etag": "\"1b57368b2a85731faa242c796f5f4f28\""
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"26e003e905274acac7b77f040616362a\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -16917,8 +16917,8 @@
     "etag": "\"07a2d4c8c3a70fcd0995f906c90506c8\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2024-02-21T00:10:53.856467+00:00",
-    "etag": "\"5ff35c07a84560fbb16e8c34abf26cf7\""
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"e3c2a1064475bff1731d06858b5d099b\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -21189,8 +21189,8 @@
     "etag": "\"7a878c52fb1ca1cca740debc7b6b9258\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"e6b696c498b8ba0702e870c2de09c2aa\""
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"e36094d342dfc44ac6e91430b1e23b06\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
@@ -22304,6 +22304,18 @@
     "date": "2024-02-21T00:10:53.856467+00:00",
     "etag": "\"9234a580b1a984e98d0d15f3b1a234bc\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-08/": {
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"f7ef71d7fd33d12f2ef9fe0fe3a2d9ea\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-09/": {
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"e88c722de6be8a3de223fb31b99c1d7b\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-10/": {
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"45851d8681b6c9a24fb2bd5adf5ccd99\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
     "etag": "\"aa3b3d344a8dbcae4d93cf47caa4315d\""
@@ -22365,8 +22377,8 @@
     "etag": "\"b4214c44ea820c34f12131157946d0ae\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-for-ios/": {
-    "date": "2024-02-20T18:05:03.640803+00:00",
-    "etag": "\"8f12ade1317d021b6b18510f6557295c\""
+    "date": "2024-02-22T18:04:29.649598+00:00",
+    "etag": "\"3a250a5df382a614c18162b629d29437\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-os/": {
     "date": "2024-02-20T18:05:03.640803+00:00",
