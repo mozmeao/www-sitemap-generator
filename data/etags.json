@@ -9571,12 +9571,20 @@
     "etag": "\"5a4ba1eb4e8dbccec57a49fd7e1b4134\""
   },
   "https://www.mozilla.org/en-US/firefox/125.0a1/releasenotes/": {
-    "date": "2024-03-17T00:12:12.749034+00:00",
-    "etag": "\"9a71ae45faaa08c6f204169820c4e0ff\""
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"b4f47028a1698e1d7280bb73d4a03109\""
   },
   "https://www.mozilla.org/en-US/firefox/125.0a1/system-requirements/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
     "etag": "\"ce5bd7e27366d15b98905511863724e4\""
+  },
+  "https://www.mozilla.org/en-US/firefox/126.0a1/releasenotes/": {
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"65786deee804051f93f40857bcdca0a7\""
+  },
+  "https://www.mozilla.org/en-US/firefox/126.0a1/system-requirements/": {
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"98be5634e3f12e990aadfb7a5204dc78\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
@@ -38393,8 +38401,8 @@
     "etag": "\"90623f089b855adb836e53bbda1f6558\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/": {
-    "date": "2024-03-18T12:05:11.343867+00:00",
-    "etag": "\"4fe853ad364126a6636419cca304c749\""
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"3453fd14f21c0dff3eb3aa774612933a\""
   },
   "https://www.mozilla.org/pt-BR/firefox/browsers/compare/brave/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
@@ -46629,8 +46637,8 @@
     "etag": "\"4df2ea1a25a2c0533164f396b4686622\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/compare/": {
-    "date": "2024-03-18T12:05:11.343867+00:00",
-    "etag": "\"49dcee7abe6213309bd06eda061f6c8b\""
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"42c6e2844e4f881cd6c11fa2503a2605\""
   },
   "https://www.mozilla.org/zh-CN/firefox/browsers/compare/brave/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
@@ -46725,8 +46733,8 @@
     "etag": "\"127f3cf8894786e6cdc6949e86ab61bd\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/": {
-    "date": "2024-03-15T18:05:12.698989+00:00",
-    "etag": "\"85cfe43cfccbb5be87ae56f5fd2e74b7\""
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"075c43d2794da8991c48293549792938\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/adblocker/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
@@ -46753,8 +46761,8 @@
     "etag": "\"d9f929ca37872376664da1c19f61ba06\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/fast/": {
-    "date": "2024-03-18T12:05:11.343867+00:00",
-    "etag": "\"b478f772070fd523d63b4a02bc7262de\""
+    "date": "2024-03-18T18:04:12.838910+00:00",
+    "etag": "\"1f8cbaa8145d6a21cf2ad1c45378374b\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
