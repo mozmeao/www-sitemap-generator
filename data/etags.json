@@ -13694,6 +13694,14 @@
     "date": "2024-03-15T18:05:12.698989+00:00",
     "etag": "\"f0b7673249618259f41a90fc7e8e424c\""
   },
+  "https://www.mozilla.org/en-US/firefox/android/124.0/releasenotes/": {
+    "date": "2024-03-19T12:05:29.854889+00:00",
+    "etag": "\"721a8b9f271ddef8640c89e6dea4f937\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/124.0/system-requirements/": {
+    "date": "2024-03-19T12:05:29.854889+00:00",
+    "etag": "\"c8a90cd3e4e85b7e892852ebebd942c1\""
+  },
   "https://www.mozilla.org/en-US/firefox/android/29.0.1/releasenotes/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
     "etag": "\"71aa06b73c3a5d4552a81ca052774314\""
@@ -15765,6 +15773,14 @@
   "https://www.mozilla.org/en-US/firefox/ios/123.0/system-requirements/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
     "etag": "\"feb34d5546b99e15d979c9dcab163f1f\""
+  },
+  "https://www.mozilla.org/en-US/firefox/ios/124.0/releasenotes/": {
+    "date": "2024-03-19T12:05:29.854889+00:00",
+    "etag": "\"2e83468efd497873b66dc00cafa36cbd\""
+  },
+  "https://www.mozilla.org/en-US/firefox/ios/124.0/system-requirements/": {
+    "date": "2024-03-19T12:05:29.854889+00:00",
+    "etag": "\"f93fdb264f716df494fb66a0a755a8af\""
   },
   "https://www.mozilla.org/en-US/firefox/ios/14.0/releasenotes/": {
     "date": "2024-03-15T18:05:12.698989+00:00",
@@ -46761,8 +46777,8 @@
     "etag": "\"d9f929ca37872376664da1c19f61ba06\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/fast/": {
-    "date": "2024-03-19T00:11:14.799468+00:00",
-    "etag": "\"97bd199d52632727d000d052ba299a95\""
+    "date": "2024-03-19T12:05:29.854889+00:00",
+    "etag": "\"90dd70b0dbaed8d283c73d242de3c49c\""
   },
   "https://www.mozilla.org/zh-CN/firefox/features/independent/": {
     "date": "2023-08-17T12:05:16.151703+00:00",
