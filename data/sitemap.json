@@ -1854,6 +1854,12 @@
   "/firefox/115.9.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.9.1esr/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.9.1esr/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/116.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2062,6 +2068,12 @@
     "en-US"
   ],
   "/firefox/123.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/124.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/124.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/124.0/releasenotes/": [
@@ -8147,6 +8159,7 @@
     "ja",
     "ka",
     "ms",
+    "nl",
     "pt-BR",
     "pt-PT",
     "ru",
@@ -15238,6 +15251,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-14/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-15/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-16/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
