@@ -2122,6 +2122,12 @@
   "/firefox/126.0a1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/127.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/127.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -10183,6 +10189,7 @@
     "pt-PT",
     "ru",
     "sk",
+    "skr",
     "sl",
     "sq",
     "sv-SE",
