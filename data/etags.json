@@ -9719,12 +9719,20 @@
     "etag": "\"6f78614018066ff289e0d35953fcf678\""
   },
   "https://www.mozilla.org/en-US/firefox/127.0a1/releasenotes/": {
-    "date": "2024-05-14T00:11:43.815083+00:00",
-    "etag": "\"05c51dd3225134bb0bc97e317d159b45\""
+    "date": "2024-05-14T06:05:33.021805+00:00",
+    "etag": "\"ee9c366595d7f93873d7996844089606\""
   },
   "https://www.mozilla.org/en-US/firefox/127.0a1/system-requirements/": {
     "date": "2024-04-30T12:04:53.255282+00:00",
     "etag": "\"0aa1f484706980dfc8a55ed1aec6a7d2\""
+  },
+  "https://www.mozilla.org/en-US/firefox/128.0a1/releasenotes/": {
+    "date": "2024-05-14T06:05:33.021805+00:00",
+    "etag": "\"9b821d4ca1b9cfc5d74550cc48ffe7a2\""
+  },
+  "https://www.mozilla.org/en-US/firefox/128.0a1/system-requirements/": {
+    "date": "2024-05-14T06:05:33.021805+00:00",
+    "etag": "\"ce001a0e3680cc17f8b5340efb362e8b\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
     "date": "2024-04-30T12:04:53.255282+00:00",
@@ -31229,8 +31237,8 @@
     "etag": "\"e5b0418934618d10b6484f61be73e6b7\""
   },
   "https://www.mozilla.org/ia/products/": {
-    "date": "2024-05-14T00:11:43.815083+00:00",
-    "etag": "\"9bfe43af97b40587b7703facaee5f6e2\""
+    "date": "2024-05-14T06:05:33.021805+00:00",
+    "etag": "\"faee7df58f76b0c5596de18e1dfc848a\""
   },
   "https://www.mozilla.org/ia/products/mozsocial/invite/": {
     "date": "2024-05-04T00:11:17.579801+00:00",
