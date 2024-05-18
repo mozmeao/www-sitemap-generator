@@ -7871,8 +7871,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2024-05-16T00:11:04.669042+00:00",
-    "etag": "\"302c59c2124ea0828d8e74e54b75a186\""
+    "date": "2024-05-18T00:11:13.507727+00:00",
+    "etag": "\"e3baeb1b9bde7e8cdd504bc61babd74e\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2024-05-15T18:04:13.329117+00:00",
@@ -17273,8 +17273,8 @@
     "etag": "\"e768dcd1b8fdf64a2df9b6ce0adafc49\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2024-05-15T18:04:13.329117+00:00",
-    "etag": "\"5171c4d88a410116f55ebbbc733fefbd\""
+    "date": "2024-05-18T00:11:13.507727+00:00",
+    "etag": "\"51b7abe52ed7f963a810c78f29d968e7\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2024-05-15T18:04:13.329117+00:00",
@@ -21545,8 +21545,8 @@
     "etag": "\"b0c782941240683ac100a19cdd92307a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2024-05-15T18:04:13.329117+00:00",
-    "etag": "\"f91728751790accc9e8e123899214fda\""
+    "date": "2024-05-18T00:11:13.507727+00:00",
+    "etag": "\"e6a9f125597f645db253fa7f4d5b4fc0\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2024-05-15T18:04:13.329117+00:00",
@@ -22723,6 +22723,10 @@
   "https://www.mozilla.org/en-US/security/advisories/mfsa2024-23/": {
     "date": "2024-05-15T18:04:13.329117+00:00",
     "etag": "\"10e6e4c8836e38648cdfab800b801f28\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-24/": {
+    "date": "2024-05-18T00:11:13.507727+00:00",
+    "etag": "\"9d212d9251ae804d97a885604984e25f\""
   },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2024-05-15T18:04:13.329117+00:00",
