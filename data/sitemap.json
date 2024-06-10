@@ -518,18 +518,6 @@
     "zh-CN",
     "zh-TW"
   ],
-  "/about/legal/terms/hubs/": [
-    "de",
-    "el",
-    "en-US",
-    "es-ES",
-    "fr",
-    "hu",
-    "it",
-    "ms",
-    "pl",
-    "ro"
-  ],
   "/about/legal/terms/mdn-plus/": [
     "cs",
     "de",
@@ -10188,6 +10176,12 @@
   "/privacy/archive/hello/2016-03/": [
     "en-US"
   ],
+  "/privacy/archive/mozilla-hubs/notice-2024-06/": [
+    "en-US"
+  ],
+  "/privacy/archive/mozilla-hubs/tos-2024-06/": [
+    "en-US"
+  ],
   "/privacy/archive/mozilla-vpn/2022-10/": [
     "en-US"
   ],
@@ -10300,18 +10294,6 @@
     "pt-BR",
     "ru",
     "zh-CN"
-  ],
-  "/privacy/hubs/": [
-    "de",
-    "el",
-    "en-US",
-    "es-ES",
-    "fr",
-    "hu",
-    "it",
-    "ms",
-    "pl",
-    "ro"
   ],
   "/privacy/mdn-plus/": [
     "cs",
