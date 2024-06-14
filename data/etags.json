@@ -7907,8 +7907,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2024-06-13T18:04:36.623034+00:00",
-    "etag": "\"4a293fd78916b6a05bce357aefb5040c\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"e5fb8b2670bcaa12d40b0e7a392b799c\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
@@ -9819,16 +9819,16 @@
     "etag": "\"856e85f624eef07615e7b28a5a0d2b61\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0beta/releasenotes/": {
-    "date": "2024-06-11T18:04:50.089820+00:00",
-    "etag": "\"5ebe0adffef04d604deea9cdd33b3c6a\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"398273cb22c8f60672d845b151071c80\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0beta/system-requirements/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
     "etag": "\"397c456f69d7ca46c410b1c8b8b6e8f6\""
   },
   "https://www.mozilla.org/en-US/firefox/129.0a1/releasenotes/": {
-    "date": "2024-06-13T18:04:36.623034+00:00",
-    "etag": "\"65f078ff16be29ec55b7120b79f40fee\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"7e8d0c06dab33078bb17bff36438baca\""
   },
   "https://www.mozilla.org/en-US/firefox/129.0a1/system-requirements/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
@@ -17377,8 +17377,8 @@
     "etag": "\"043a449a027713b0737f5ad0d6b0f25f\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2024-06-11T18:04:50.089820+00:00",
-    "etag": "\"ff254f697a5cd92b5e8c780ea2e4d6c9\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"476885f39b867e752f1d032db56002c5\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
@@ -21649,8 +21649,8 @@
     "etag": "\"f0a2e94c70af1f48f9e74bb26dd1aabd\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2024-06-11T18:04:50.089820+00:00",
-    "etag": "\"f00f804a68d7d9853d9c1d886e51e051\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"c03513a70dc33fb7ed150cc9489c3c58\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
@@ -22840,6 +22840,14 @@
     "date": "2024-06-11T18:04:50.089820+00:00",
     "etag": "\"6041ea326f7ef3f0ca70e9e207d2a737\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-27/": {
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"d754cb365d3e3453e5ac0ed60afa7298\""
+  },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-28/": {
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"3808825ffc09eb1663fd3686cdaa065c\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
     "etag": "\"aaa449794e3648c5ffdbf08add9fe39f\""
@@ -22901,8 +22909,8 @@
     "etag": "\"0a1f638bcedf0620375768e85dc33af6\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-for-ios/": {
-    "date": "2024-06-11T18:04:50.089820+00:00",
-    "etag": "\"bf01743fdc8ca0da1c6b7d8688a76ae0\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"17b6e2971361694eb51ce194cb0d8559\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox-os/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
@@ -22965,8 +22973,8 @@
     "etag": "\"a40157a6bfcd7f2bba687ef51883aa84\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2024-06-11T18:04:50.089820+00:00",
-    "etag": "\"81d1297b5ddcd295e69078559cd53595\""
+    "date": "2024-06-14T00:12:00.484458+00:00",
+    "etag": "\"c4ef7effc4cc43db93a7e1a31fe92843\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2024-06-11T18:04:50.089820+00:00",
