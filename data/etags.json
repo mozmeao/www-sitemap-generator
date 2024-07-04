@@ -9827,16 +9827,16 @@
     "etag": "\"b314d5644bffcb6ec1d6cb33c9482eb7\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0a1/releasenotes/": {
-    "date": "2024-07-02T18:04:28.581332+00:00",
-    "etag": "\"dab69ef0b254d6ee0c1de739685c4d36\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"f58359f26fe6ad2e8d50de439e1397b9\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0a1/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
     "etag": "\"62ae09d8dfdc9d9f119e5370d7d4d0eb\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0beta/releasenotes/": {
-    "date": "2024-07-02T18:04:28.581332+00:00",
-    "etag": "\"297a24b48ec6a233543f254aa3f6b530\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"6e48b29f406a070ff67c5dbe89a9ab3f\""
   },
   "https://www.mozilla.org/en-US/firefox/128.0beta/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -9851,8 +9851,8 @@
     "etag": "\"9e95fe050fbaa7d5bc0070862075a1bd\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/releasenotes/": {
-    "date": "2024-07-03T18:04:23.601709+00:00",
-    "etag": "\"b30a46d4e74f7ae51b9f4bd0c2d2a75f\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"10a7e7833a460133589b6609b0d88020\""
   },
   "https://www.mozilla.org/en-US/firefox/29.0.1/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -10987,8 +10987,8 @@
     "etag": "\"317bf28839168b49fb27d4de1aeebbb6\""
   },
   "https://www.mozilla.org/en-US/firefox/49.0beta/releasenotes/": {
-    "date": "2024-07-04T00:11:54.429936+00:00",
-    "etag": "\"4a740c85ccea0f58ad0452cd456899c3\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"adf3958199433137861f87a9aeb5f63e\""
   },
   "https://www.mozilla.org/en-US/firefox/49.0beta/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -13203,8 +13203,8 @@
     "etag": "\"1eced761f0f54f1adfa3106dbb493893\""
   },
   "https://www.mozilla.org/en-US/firefox/89.0beta/releasenotes/": {
-    "date": "2024-07-04T00:11:54.429936+00:00",
-    "etag": "\"945e586f275315aad2f379b715962889\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"32e5d2353cc5ded3dc899ffdf6c336b3\""
   },
   "https://www.mozilla.org/en-US/firefox/89.0beta/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -13523,8 +13523,8 @@
     "etag": "\"6f070f14cb0d9b31f2de881fcb62f933\""
   },
   "https://www.mozilla.org/en-US/firefox/94.0/releasenotes/": {
-    "date": "2024-07-04T00:11:54.429936+00:00",
-    "etag": "\"e2fa6aa76163da14f87a6695a15f870a\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"b2d165adb886b6c0c6bce313ca92b662\""
   },
   "https://www.mozilla.org/en-US/firefox/94.0/system-requirements/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -34783,8 +34783,8 @@
     "etag": "\"0fee00ba3c2d968338fd1ef1b698c992\""
   },
   "https://www.mozilla.org/ko/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"22d230078f0b4bad6f884e525e9cb6ff\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"4cda4de43b976017221946e89477a504\""
   },
   "https://www.mozilla.org/ko/about/": {
     "date": "2018-08-15T03:30:07.783812+00:00",
@@ -34803,8 +34803,8 @@
     "etag": "\"6166cd0974c37125994b3401c67b1720\""
   },
   "https://www.mozilla.org/ko/about/manifesto/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"97acf463f6b3a1275a429936260e707c\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"54c19285e81c9a8966101ca15736d699\""
   },
   "https://www.mozilla.org/ko/about/manifesto/details/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -34921,20 +34921,20 @@
     "etag": "\"cf136af7b2bcb3655b3fdd75419d5ec3\""
   },
   "https://www.mozilla.org/ko/firefox/channel/android/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"937cd41c19bd8f34499f49b0c0b7da3b\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"8f5138ca8bf0843971ede2ebba770b64\""
   },
   "https://www.mozilla.org/ko/firefox/channel/desktop/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"8678961dd9ac81ebc095a39595c9fa24\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"95618b94dbcf2b71f87b5b32bbde4b4b\""
   },
   "https://www.mozilla.org/ko/firefox/channel/ios/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"90a2caab4b9f8a3361c74d334ec13d67\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"bf27b8448e9e9b782c75d7a991e64111\""
   },
   "https://www.mozilla.org/ko/firefox/developer/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"50906e51f8388ee77388eaf9a2a2161f\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"5aea95bcfebf2ff0dc6b4b268dcd5d82\""
   },
   "https://www.mozilla.org/ko/firefox/enterprise/": {
     "date": "2024-06-25T18:05:24.168823+00:00",
@@ -35125,8 +35125,8 @@
     "etag": "\"8d0306382bd6d53fcbf43e0778ba21c4\""
   },
   "https://www.mozilla.org/ko/mission/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"aa7f1540ec9c853d175bd4ced71b70e2\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"c98ee4f59414a86c540b89dd7a302354\""
   },
   "https://www.mozilla.org/ko/plugincheck/": {
     "date": "2018-08-15T03:28:57.875273+00:00",
@@ -35161,12 +35161,12 @@
     "etag": "\"5ee1f277b1ec67c8165c18b9de496e0f\""
   },
   "https://www.mozilla.org/ko/products/": {
-    "date": "2024-06-25T18:05:24.168823+00:00",
-    "etag": "\"9c19f0217339c868876f5f7b6c42a94f\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"36e26742f271e47a1964eaf61b30ca76\""
   },
   "https://www.mozilla.org/ko/products/vpn/download/": {
-    "date": "2024-07-01T18:04:55.959541+00:00",
-    "etag": "\"98a83b87d06829871557f5fc31a298fb\""
+    "date": "2024-07-04T06:04:52.449777+00:00",
+    "etag": "\"4cc35e6002b273960c37eac87e64e418\""
   },
   "https://www.mozilla.org/ko/technology/": {
     "date": "2018-08-15T18:00:22.323781+00:00",
