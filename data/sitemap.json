@@ -2206,6 +2206,12 @@
   "/firefox/127.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/128.0/releasenotes/": [
     "en-US"
   ],
@@ -5330,6 +5336,12 @@
     "en-US"
   ],
   "/firefox/android/127.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/128.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/128.0.2/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/128.0/releasenotes/": [
@@ -10686,6 +10698,7 @@
     "fr",
     "fy-NL",
     "hi-IN",
+    "hr",
     "hu",
     "ia",
     "id",
