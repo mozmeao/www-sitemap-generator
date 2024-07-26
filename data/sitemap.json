@@ -875,6 +875,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hu",
     "ia",
     "id",
@@ -1037,6 +1038,7 @@
     "gl",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -2210,6 +2212,12 @@
     "en-US"
   ],
   "/firefox/128.0.2/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/128.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.0.3/system-requirements/": [
     "en-US"
   ],
   "/firefox/128.0/releasenotes/": [
@@ -5350,6 +5358,12 @@
   "/firefox/android/128.0.2/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/128.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/128.0.3/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/128.0/releasenotes/": [
     "en-US"
   ],
@@ -7144,6 +7158,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hu",
     "ia",
     "id",
