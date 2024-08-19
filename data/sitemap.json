@@ -384,6 +384,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -591,6 +592,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -1806,6 +1808,12 @@
   "/firefox/115.13.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.14.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.14.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.1esr/releasenotes/": [
     "en-US"
   ],
@@ -2244,6 +2252,24 @@
   "/firefox/128.0esr/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.1.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.1.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/129.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/129.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/129.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/129.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2260,6 +2286,24 @@
     "en-US"
   ],
   "/firefox/130.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/130.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/130.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/131.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/131.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/131.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/131.0a1/system-requirements/": [
     "en-US"
   ],
   "/firefox/29.0.1/releasenotes/": [
@@ -5370,6 +5414,12 @@
   "/firefox/android/128.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/129.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/129.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -6737,6 +6787,7 @@
   "/firefox/browsers/compare/": [
     "ar",
     "be",
+    "br",
     "bs",
     "cak",
     "cs",
@@ -6759,6 +6810,7 @@
     "gn",
     "he",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -7320,6 +7372,7 @@
     "gl",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -7809,6 +7862,7 @@
     "gl",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "hy-AM",
@@ -7957,6 +8011,7 @@
     "ko",
     "ms",
     "nl",
+    "nn-NO",
     "pt-BR",
     "pt-PT",
     "rm",
@@ -7992,6 +8047,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -8879,6 +8935,12 @@
   "/firefox/ios/128.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/ios/129.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/129.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/ios/14.0/releasenotes/": [
     "en-US"
   ],
@@ -9162,6 +9224,7 @@
     "ms",
     "nl",
     "nn-NO",
+    "pa-IN",
     "pt-BR",
     "pt-PT",
     "rm",
@@ -9743,6 +9806,9 @@
     "en-US"
   ],
   "/foundation/trademarks/policy/": [
+    "en-US"
+  ],
+  "/impact/": [
     "en-US"
   ],
   "/keymaster/gatekeeper/there.is.only.xul": [],
@@ -10737,6 +10803,7 @@
     "nl",
     "pt-BR",
     "pt-PT",
+    "rm",
     "ru",
     "sk",
     "skr",
@@ -10880,6 +10947,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -10926,6 +10994,7 @@
     "fy-NL",
     "gn",
     "hi-IN",
+    "hr",
     "hu",
     "ia",
     "id",
@@ -11022,6 +11091,7 @@
     "nl",
     "pt-BR",
     "pt-PT",
+    "rm",
     "ru",
     "sk",
     "skr",
@@ -11099,6 +11169,7 @@
     "nl",
     "pt-BR",
     "pt-PT",
+    "rm",
     "ru",
     "sk",
     "skr",
@@ -11135,6 +11206,7 @@
     "nl",
     "pt-BR",
     "pt-PT",
+    "rm",
     "ru",
     "sk",
     "skr",
@@ -15437,6 +15509,24 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-32/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-33/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-34/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-35/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-36/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-37/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-38/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
