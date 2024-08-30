@@ -79,6 +79,7 @@
     "uk",
     "ur",
     "vi",
+    "zh-CN",
     "zh-TW"
   ],
   "/.well-known/gpc.json": [],
@@ -9970,6 +9971,9 @@
     "zh-CN",
     "zh-TW"
   ],
+  "/newsletter/country/": [
+    "en-US"
+  ],
   "/newsletter/developer/": [
     "ar",
     "cs",
@@ -10074,6 +10078,9 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/newsletter/knowledge-is-power/confirm/": [
+    "en-US"
   ],
   "/newsletter/monitor-waitlist/": [
     "ar",
@@ -15654,12 +15661,6 @@
   ],
   "/sustainability/emissions-data/": [
     "en-US"
-  ],
-  "/try-picture-in-picture/": [
-    "de",
-    "en-US",
-    "fr",
-    "it"
   ],
   "/xbl": []
 }
