@@ -1829,6 +1829,12 @@
   "/firefox/115.15.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.16.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.16.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.1esr/releasenotes/": [
     "en-US"
   ],
@@ -2279,6 +2285,12 @@
   "/firefox/128.2.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.3.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.3.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2333,6 +2345,12 @@
   "/firefox/130.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/131.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/131.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/131.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2349,6 +2367,12 @@
     "en-US"
   ],
   "/firefox/132.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/132.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/132.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/133.0a1/releasenotes/": [
@@ -5487,6 +5511,12 @@
     "en-US"
   ],
   "/firefox/android/130.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -9029,6 +9059,12 @@
     "en-US"
   ],
   "/firefox/ios/130.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/131.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/131.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/14.0/releasenotes/": [
@@ -15552,6 +15588,21 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-45/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-46/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-47/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-48/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-49/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-50/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
