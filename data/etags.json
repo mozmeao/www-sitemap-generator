@@ -10015,8 +10015,8 @@
     "etag": "\"e3a59d6909ea4e750d96d8cd70085f01\""
   },
   "https://www.mozilla.org/en-US/firefox/131.0/releasenotes/": {
-    "date": "2024-10-08T18:04:51.994924+00:00",
-    "etag": "\"fa3d49189539db6d1236c3208d79eb5d\""
+    "date": "2024-10-09T06:05:21.041789+00:00",
+    "etag": "\"504094b787f2fbd4402916bea7010a98\""
   },
   "https://www.mozilla.org/en-US/firefox/131.0/system-requirements/": {
     "date": "2024-10-08T18:04:51.994924+00:00",
@@ -10055,8 +10055,8 @@
     "etag": "\"9866e804e9c2d88cd2d8b4c31526d517\""
   },
   "https://www.mozilla.org/en-US/firefox/133.0a1/releasenotes/": {
-    "date": "2024-10-08T18:04:51.994924+00:00",
-    "etag": "\"6e216e7816a434d51ff8b644bae02004\""
+    "date": "2024-10-09T06:05:21.041789+00:00",
+    "etag": "\"e4f7654a1a92d41f770ca2c8c818f83e\""
   },
   "https://www.mozilla.org/en-US/firefox/133.0a1/system-requirements/": {
     "date": "2024-10-08T18:04:51.994924+00:00",
@@ -14265,6 +14265,14 @@
   "https://www.mozilla.org/en-US/firefox/android/130.0/system-requirements/": {
     "date": "2024-10-08T18:04:51.994924+00:00",
     "etag": "\"77f966bc882831252a7b77119cd7227e\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/131.0.1/releasenotes/": {
+    "date": "2024-10-09T06:05:21.041789+00:00",
+    "etag": "\"accfb6afdc04bcdcaa944e0dec2b3d78\""
+  },
+  "https://www.mozilla.org/en-US/firefox/android/131.0.1/system-requirements/": {
+    "date": "2024-10-09T06:05:21.041789+00:00",
+    "etag": "\"4f266bbf355737a2ae139600b065a3e1\""
   },
   "https://www.mozilla.org/en-US/firefox/android/131.0/releasenotes/": {
     "date": "2024-10-08T18:04:51.994924+00:00",
