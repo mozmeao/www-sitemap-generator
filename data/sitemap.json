@@ -1841,6 +1841,12 @@
   "/firefox/115.16.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.16.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.16.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.1esr/releasenotes/": [
     "en-US"
   ],
@@ -2297,6 +2303,12 @@
   "/firefox/128.3.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.3.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.3.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2349,6 +2361,12 @@
     "en-US"
   ],
   "/firefox/130.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/131.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/131.0.2/system-requirements/": [
     "en-US"
   ],
   "/firefox/131.0/releasenotes/": [
@@ -5523,6 +5541,12 @@
     "en-US"
   ],
   "/firefox/android/131.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0.2/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/131.0/releasenotes/": [
@@ -15578,6 +15602,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-50/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-51/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
