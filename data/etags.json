@@ -6998,8 +6998,8 @@
     "etag": "\"ac4f339f596044f5298edd330993fa01\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/compare/safari/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"f4c63c97ec61818b2d68ff8528852ccc\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"687e413e0f7fec55d5d4fed152fe9179\""
   },
   "https://www.mozilla.org/en-GB/firefox/browsers/mobile/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -7923,8 +7923,8 @@
     "etag": "\"d023a33743bda208cab3ccddc6377b05\""
   },
   "https://www.mozilla.org/en-US/careers/listings/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"632e593be66a2c10df5702d2c56c9477\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"8601ef27c86242fd3cdd03fcc4a6dd62\""
   },
   "https://www.mozilla.org/en-US/careers/locations/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -9859,8 +9859,8 @@
     "etag": "\"90394687eb19b82db896473514ba4866\""
   },
   "https://www.mozilla.org/en-US/firefox/127.0/releasenotes/": {
-    "date": "2024-10-12T00:13:21.367954+00:00",
-    "etag": "\"0691e8d64672218742fa103d1e0f67be\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"d4d14dbfd7b90b79b455d178773d409c\""
   },
   "https://www.mozilla.org/en-US/firefox/127.0/system-requirements/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -10043,8 +10043,8 @@
     "etag": "\"e62d67e56765aa57e2547999ac3bb637\""
   },
   "https://www.mozilla.org/en-US/firefox/131.0/releasenotes/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"3b14d3f405306d7c6031ade730b4f33c\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"591109d152ccc88d9a3813b750c90adb\""
   },
   "https://www.mozilla.org/en-US/firefox/131.0/system-requirements/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -10075,8 +10075,8 @@
     "etag": "\"e438a88b818260cff37b5e7c3b8b0202\""
   },
   "https://www.mozilla.org/en-US/firefox/132.0beta/releasenotes/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"d1f3d5cab8096ba44b350d5d1f72911d\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"4cdb17dd26949a7e9384f94487525d6d\""
   },
   "https://www.mozilla.org/en-US/firefox/132.0beta/system-requirements/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -17773,8 +17773,8 @@
     "etag": "\"b3a6f55e25fbe44f0ae932bc6d870855\""
   },
   "https://www.mozilla.org/en-US/security/advisories/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"84d310e35591b26a6fd168fec4074dac\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"ebd85b17ed3861459b4dee11260629c7\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2005-01/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -22045,8 +22045,8 @@
     "etag": "\"62a8a26a1961c1ededc5082b4729f36a\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-19/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"148d5ed9b9451834d613abc9515ab838\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"82857316b96d750597d2ad48595a1e29\""
   },
   "https://www.mozilla.org/en-US/security/advisories/mfsa2018-20/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
@@ -23336,6 +23336,10 @@
     "date": "2024-10-11T18:04:51.327515+00:00",
     "etag": "\"610a3648ae20f18e81511ca37b6aa6e4\""
   },
+  "https://www.mozilla.org/en-US/security/advisories/mfsa2024-52/": {
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"6cafdcddd571a42ceee248014612626f\""
+  },
   "https://www.mozilla.org/en-US/security/bug-bounty/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
     "etag": "\"e670b0c12c9a47dd0d4bbbc32f9c3015\""
@@ -23461,8 +23465,8 @@
     "etag": "\"c3781cc7aed49f56fd74dfe8652e435c\""
   },
   "https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/": {
-    "date": "2024-10-11T18:04:51.327515+00:00",
-    "etag": "\"34bb115d374426fdcad9b5f18ebc595d\""
+    "date": "2024-10-12T06:04:52.321141+00:00",
+    "etag": "\"5b125e76a9cd097ebde266eefd6475e2\""
   },
   "https://www.mozilla.org/en-US/security/third-party-software-injection/": {
     "date": "2024-10-11T18:04:51.327515+00:00",
