@@ -2370,6 +2370,12 @@
   "/firefox/131.0.2/system-requirements/": [
     "en-US"
   ],
+  "/firefox/131.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/131.0.3/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/131.0/releasenotes/": [
     "en-US"
   ],
@@ -5548,6 +5554,12 @@
     "en-US"
   ],
   "/firefox/android/131.0.2/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/131.0.3/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/131.0/releasenotes/": [
@@ -15609,6 +15621,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-52/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-53/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
