@@ -1848,6 +1848,12 @@
   "/firefox/115.16.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.17.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.17.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.1esr/releasenotes/": [
     "en-US"
   ],
@@ -2310,6 +2316,12 @@
   "/firefox/128.3.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.4.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.4.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2394,6 +2406,12 @@
   "/firefox/131.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/132.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/132.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/132.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2410,6 +2428,12 @@
     "en-US"
   ],
   "/firefox/133.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/133.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/133.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/134.0a1/releasenotes/": [
@@ -5572,6 +5596,12 @@
     "en-US"
   ],
   "/firefox/android/131.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/132.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/132.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -9129,6 +9159,12 @@
   "/firefox/ios/131.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/ios/132.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/132.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/ios/14.0/releasenotes/": [
     "en-US"
   ],
@@ -11208,6 +11244,7 @@
     "skr",
     "sq",
     "sv-SE",
+    "tr",
     "uk",
     "vi",
     "zh-CN",
