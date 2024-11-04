@@ -629,15 +629,22 @@
   "/about/legal/terms/subscription-services/": [
     "cs",
     "de",
+    "el",
     "en-US",
     "es-ES",
     "fr",
     "hu",
     "it",
+    "ko",
     "ms",
     "nl",
     "pl",
-    "ro"
+    "pt-BR",
+    "ro",
+    "tr",
+    "uk",
+    "vi",
+    "zh-TW"
   ],
   "/about/legal/terms/thunderbird/": [
     "en-US"
@@ -10658,15 +10665,22 @@
   "/privacy/subscription-services/": [
     "cs",
     "de",
+    "el",
     "en-US",
     "es-ES",
     "fr",
     "hu",
     "it",
+    "ko",
     "ms",
     "nl",
     "pl",
-    "ro"
+    "pt-BR",
+    "ro",
+    "tr",
+    "uk",
+    "vi",
+    "zh-TW"
   ],
   "/privacy/thunderbird/": [
     "en-US"
