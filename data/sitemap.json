@@ -1861,6 +1861,12 @@
   "/firefox/115.17.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.18.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.18.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.1esr/releasenotes/": [
     "en-US"
   ],
@@ -2329,6 +2335,12 @@
   "/firefox/128.4.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.5.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.5.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2443,6 +2455,12 @@
   "/firefox/132.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/133.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/133.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/133.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2459,6 +2477,12 @@
     "en-US"
   ],
   "/firefox/134.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/134.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/134.0beta/system-requirements/": [
     "en-US"
   ],
   "/firefox/135.0a1/releasenotes/": [
@@ -5639,6 +5663,12 @@
     "en-US"
   ],
   "/firefox/android/132.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/133.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/133.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -9211,6 +9241,12 @@
     "en-US"
   ],
   "/firefox/ios/132.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/133.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/133.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/ios/14.0/releasenotes/": [
@@ -15729,6 +15765,24 @@
     "en-US"
   ],
   "/security/advisories/mfsa2024-62/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-63/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-64/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-65/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-66/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-67/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2024-68/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
