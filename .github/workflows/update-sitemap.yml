@@ -1,7 +1,7 @@
 name: "Run Sitemap updater"
 on:
   schedule:
-    - cron: "0 */6 * * *" # Every 6th hour
+    - cron: "0 0 * * *" # Every day at midnight UTC
   workflow_dispatch:
 
 concurrency:
