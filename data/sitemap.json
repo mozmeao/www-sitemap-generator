@@ -2461,6 +2461,12 @@
   "/firefox/132.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/133.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/133.0.3/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/133.0/releasenotes/": [
     "en-US"
   ],
@@ -5681,6 +5687,12 @@
     "en-US"
   ],
   "/firefox/android/133.0.2/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/133.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/133.0.3/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/133.0/releasenotes/": [
@@ -11524,7 +11536,8 @@
     "en-US"
   ],
   "/products/vpn/resource-center/hiding-your-ip-address-with-mozilla-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/how-to-browse-anonymously-with-a-vpn/": [
     "en-US"
@@ -11554,7 +11567,8 @@
     "en-US"
   ],
   "/products/vpn/resource-center/the-difference-between-a-vpn-and-a-web-proxy/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/vpn-servers-around-the-world/": [
     "en-US"
