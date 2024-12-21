@@ -11669,13 +11669,16 @@
     "zh-TW"
   ],
   "/products/vpn/resource-center/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/5-reasons-you-should-use-a-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/cons-of-using-public-wifi/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/do-you-need-a-vpn-at-home-here-are-5-reasons-you-might/": [
     "en-US"
@@ -11683,70 +11686,102 @@
   "/products/vpn/resource-center/fast-vpn-from-mozilla/": [
     "en-US"
   ],
+  "/products/vpn/resource-center/fast-vpn-om-mozilla/": [
+    "fr"
+  ],
   "/products/vpn/resource-center/gaming-with-a-vpn-from-mozilla/": [
     "en-US"
   ],
+  "/products/vpn/resource-center/gaming-with-a-vpn-om-mozilla/": [
+    "fr"
+  ],
   "/products/vpn/resource-center/get-a-private-vpn-with-mozilla-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/get-an-open-source-vpn-with-mozilla-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/hiding-your-ip-address-with-mozilla-vpn/": [
     "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/how-to-browse-anonymously-with-a-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/how-your-location-is-tracked-and-how-you-can-limit-sharing-it/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/is-a-vpn-safe/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/net-neutrality-explained/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/no-logging-vpn-from-mozilla/": [
     "en-US"
   ],
+  "/products/vpn/resource-center/no-logging-vpn-om-mozilla/": [
+    "fr"
+  ],
   "/products/vpn/resource-center/reasons-why-mozilla-vpn-is-a-secure-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/relax-at-home-with-a-vpn-from-mozilla/": [
     "en-US"
+  ],
+  "/products/vpn/resource-center/relax-at-home-with-a-vpn-om-mozilla/": [
+    "fr"
+  ],
+  "/products/vpn/resource-center/risks-of-using-a-ee-vpn/": [
+    "fr"
   ],
   "/products/vpn/resource-center/risks-of-using-a-free-vpn/": [
     "en-US"
   ],
   "/products/vpn/resource-center/split-tunneling-with-mozilla-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/the-difference-between-a-vpn-and-a-web-proxy/": [
     "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/vpn-servers-around-the-world/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/ways-to-use-airport-wifi-safely/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/what-does-a-vpn-do/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/what-is-a-dns-leak/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/what-is-a-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/what-is-an-ip-address/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/work-with-a-vpn-from-mozilla/": [
     "en-US"
+  ],
+  "/products/vpn/resource-center/work-with-a-vpn-om-mozilla/": [
+    "fr"
   ],
   "/rise25/nominate/": [
     "en-US"
