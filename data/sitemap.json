@@ -2520,6 +2520,12 @@
   "/firefox/135.0a1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/136.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0a1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/29.0.1/releasenotes/": [
     "en-US"
   ],
@@ -7058,6 +7064,7 @@
     "gl",
     "gn",
     "hi-IN",
+    "hr",
     "hu",
     "ia",
     "id",
