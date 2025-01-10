@@ -157,6 +157,7 @@
     "hu",
     "ia",
     "id",
+    "is",
     "it",
     "ja",
     "ka",
@@ -11381,6 +11382,7 @@
     "hu",
     "ia",
     "id",
+    "is",
     "it",
     "ja",
     "ka",
@@ -16067,6 +16069,12 @@
     "en-US"
   ],
   "/security/advisories/mfsa2025-03/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-04/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-05/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
