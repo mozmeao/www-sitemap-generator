@@ -11689,6 +11689,7 @@
     "gn",
     "he",
     "hi-IN",
+    "hr",
     "hsb",
     "hu",
     "ia",
@@ -11731,15 +11732,11 @@
     "en-US"
   ],
   "/products/vpn/resource-center/fast-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/products/vpn/resource-center/fast-vpn-om-mozilla/": [
+    "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/gaming-with-a-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/products/vpn/resource-center/gaming-with-a-vpn-om-mozilla/": [
+    "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/get-a-private-vpn-with-mozilla-vpn/": [
@@ -11771,9 +11768,7 @@
     "fr"
   ],
   "/products/vpn/resource-center/no-logging-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/products/vpn/resource-center/no-logging-vpn-om-mozilla/": [
+    "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/reasons-why-mozilla-vpn-is-a-secure-vpn/": [
@@ -11781,16 +11776,12 @@
     "fr"
   ],
   "/products/vpn/resource-center/relax-at-home-with-a-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/products/vpn/resource-center/relax-at-home-with-a-vpn-om-mozilla/": [
-    "fr"
-  ],
-  "/products/vpn/resource-center/risks-of-using-a-ee-vpn/": [
+    "en-US",
     "fr"
   ],
   "/products/vpn/resource-center/risks-of-using-a-free-vpn/": [
-    "en-US"
+    "en-US",
+    "fr"
   ],
   "/products/vpn/resource-center/split-tunneling-with-mozilla-vpn/": [
     "en-US",
@@ -11825,9 +11816,7 @@
     "fr"
   ],
   "/products/vpn/resource-center/work-with-a-vpn-from-mozilla/": [
-    "en-US"
-  ],
-  "/products/vpn/resource-center/work-with-a-vpn-om-mozilla/": [
+    "en-US",
     "fr"
   ],
   "/rise25/nominate/": [
