@@ -297,9 +297,6 @@
   "/about/governance/policies/security-group/membership/": [
     "en-US"
   ],
-  "/about/governance/policies/social-content-policies/": [
-    "en-US"
-  ],
   "/about/governance/roles/": [
     "en-US"
   ],
@@ -514,19 +511,20 @@
     "en-US"
   ],
   "/about/legal/terms/firefox/": [
+    "cs",
     "de",
     "en-US",
     "es-ES",
     "fr",
+    "hu",
+    "id",
     "it",
     "ja",
     "nl",
     "pl",
     "pt-BR",
-    "ro",
     "ru",
-    "zh-CN",
-    "zh-TW"
+    "zh-CN"
   ],
   "/about/legal/terms/mdn-plus/": [
     "cs",
@@ -824,6 +822,9 @@
     "en-US"
   ],
   "/about/policy/transparency/": [
+    "en-US"
+  ],
+  "/about/policy/transparency/2024/": [
     "en-US"
   ],
   "/about/policy/transparency/jan-dec-2015/": [
@@ -1904,6 +1905,18 @@
   "/firefox/115.2.1/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.20.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.20.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/115.21.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.21.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.3.0/releasenotes/": [
     "en-US"
   ],
@@ -2378,6 +2391,18 @@
   "/firefox/128.6.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.7.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.7.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/128.8.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.8.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2516,6 +2541,18 @@
   "/firefox/133.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/134.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/134.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/134.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/134.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/134.0/releasenotes/": [
     "en-US"
   ],
@@ -2534,6 +2571,18 @@
   "/firefox/134.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/135.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/135.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/135.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/135.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/135.0a1/releasenotes/": [
     "en-US"
   ],
@@ -2546,10 +2595,40 @@
   "/firefox/135.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/136.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/136.0a1/releasenotes/": [
     "en-US"
   ],
   "/firefox/136.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/136.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/137.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/137.0a1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/137.0beta/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/137.0beta/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/138.0a1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/138.0a1/system-requirements/": [
     "en-US"
   ],
   "/firefox/29.0.1/releasenotes/": [
@@ -5750,10 +5829,40 @@
   "/firefox/android/133.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/android/134.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/134.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/134.0.2/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/134.0.2/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/android/134.0/releasenotes/": [
     "en-US"
   ],
   "/firefox/android/134.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/135.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/135.0.1/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/135.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/135.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/136.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/136.0/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/29.0.1/releasenotes/": [
@@ -8470,61 +8579,34 @@
   ],
   "/firefox/features/adblocker/": [
     "ar",
-    "be",
     "bs",
-    "cak",
     "cs",
     "cy",
-    "da",
     "de",
-    "dsb",
     "el",
     "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "es-CL",
-    "es-ES",
-    "es-MX",
-    "fi",
     "fr",
     "fy-NL",
-    "gl",
-    "gn",
     "hi-IN",
-    "hsb",
     "hu",
     "ia",
     "id",
     "it",
     "ja",
     "ka",
-    "kab",
-    "ko",
-    "lo",
-    "lt",
-    "mr",
     "ms",
-    "my",
     "nl",
-    "nn-NO",
-    "pl",
-    "pt-BR",
-    "pt-PT",
-    "rm",
-    "ro",
     "ru",
     "sk",
-    "skr",
-    "sl",
     "sq",
-    "sr",
     "sv-SE",
     "th",
-    "uk",
     "vi",
-    "zh-CN",
-    "zh-TW"
+    "zh-CN"
   ],
   "/firefox/features/add-ons/": [
     "ar",
@@ -9415,6 +9497,18 @@
   "/firefox/ios/134.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/ios/135.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/135.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/ios/136.0/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/ios/136.0/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/ios/14.0/releasenotes/": [
     "en-US"
   ],
@@ -9912,6 +10006,12 @@
     "vi",
     "zh-CN",
     "zh-TW"
+  ],
+  "/firefox/share/": [
+    "de",
+    "en-CA",
+    "en-US",
+    "fr"
   ],
   "/firefox/switch/": [
     "ach",
@@ -10774,29 +10874,17 @@
   ],
   "/privacy/faq/": [
     "ar",
-    "az",
-    "be",
     "bs",
-    "cak",
     "cs",
     "cy",
-    "da",
     "de",
     "dsb",
-    "el",
-    "en-CA",
     "en-GB",
     "en-US",
     "es-AR",
     "es-CL",
-    "es-ES",
-    "es-MX",
-    "et",
-    "fi",
     "fr",
     "fy-NL",
-    "gn",
-    "gu-IN",
     "hi-IN",
     "hsb",
     "hu",
@@ -10805,27 +10893,13 @@
     "it",
     "ja",
     "ka",
-    "kab",
-    "ko",
-    "lo",
-    "lt",
     "ms",
     "nl",
-    "pl",
-    "pt-BR",
     "pt-PT",
-    "rm",
-    "ro",
     "ru",
-    "sk",
-    "skr",
-    "sl",
     "sq",
-    "sr",
     "sv-SE",
-    "th",
     "tr",
-    "uk",
     "vi",
     "zh-CN",
     "zh-TW"
@@ -16105,6 +16179,45 @@
     "en-US"
   ],
   "/security/advisories/mfsa2025-05/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-06/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-07/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-08/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-09/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-10/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-11/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-12/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-13/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-14/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-15/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-16/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-17/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-18/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
