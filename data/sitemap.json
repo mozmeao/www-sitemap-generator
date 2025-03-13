@@ -2595,6 +2595,12 @@
   "/firefox/135.0beta/system-requirements/": [
     "en-US"
   ],
+  "/firefox/136.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/136.0/releasenotes/": [
     "en-US"
   ],
@@ -5857,6 +5863,12 @@
     "en-US"
   ],
   "/firefox/android/135.0/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/android/136.0.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/android/136.0.1/system-requirements/": [
     "en-US"
   ],
   "/firefox/android/136.0/releasenotes/": [
@@ -10886,6 +10898,7 @@
     "cy",
     "de",
     "dsb",
+    "el",
     "en-GB",
     "en-US",
     "es-AR",
