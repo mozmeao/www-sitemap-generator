@@ -2607,6 +2607,12 @@
   "/firefox/136.0.2/system-requirements/": [
     "en-US"
   ],
+  "/firefox/136.0.3/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0.3/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/136.0/releasenotes/": [
     "en-US"
   ],
@@ -8816,6 +8822,7 @@
     "ms",
     "nl",
     "nn-NO",
+    "pl",
     "pt-BR",
     "pt-PT",
     "rm",
@@ -11736,6 +11743,7 @@
     "ko",
     "ms",
     "nl",
+    "pl",
     "pt-BR",
     "pt-PT",
     "rm",
