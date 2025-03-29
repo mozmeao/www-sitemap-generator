@@ -1917,6 +1917,12 @@
   "/firefox/115.21.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/115.21.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/115.21.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/115.3.0/releasenotes/": [
     "en-US"
   ],
@@ -2403,6 +2409,12 @@
   "/firefox/128.8.0/system-requirements/": [
     "en-US"
   ],
+  "/firefox/128.8.1/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/128.8.1/system-requirements/": [
+    "en-US"
+  ],
   "/firefox/129.0.1/releasenotes/": [
     "en-US"
   ],
@@ -2611,6 +2623,12 @@
     "en-US"
   ],
   "/firefox/136.0.3/system-requirements/": [
+    "en-US"
+  ],
+  "/firefox/136.0.4/releasenotes/": [
+    "en-US"
+  ],
+  "/firefox/136.0.4/system-requirements/": [
     "en-US"
   ],
   "/firefox/136.0/releasenotes/": [
@@ -9100,6 +9118,7 @@
     "ms",
     "nl",
     "nn-NO",
+    "pl",
     "pt-BR",
     "pt-PT",
     "rm",
@@ -16278,6 +16297,9 @@
     "en-US"
   ],
   "/security/advisories/mfsa2025-18/": [
+    "en-US"
+  ],
+  "/security/advisories/mfsa2025-19/": [
     "en-US"
   ],
   "/security/bug-bounty/": [
